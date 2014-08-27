@@ -1,0 +1,73 @@
+Global Game Jam 2013
+####################
+:date: 2013-01-10 09:17
+:author: hdz
+:category: Termine
+:slug: global-game-jam-2013
+
+|ggj\_logos\_ggj|
+
+Vom **25. bis 27. Januar 2013** präsentieren euch `Chasing
+Carrots <http://www.chasing-carrots.com/>`__ und shackspace die
+Stuttgart-Ausgabe des `**Global Game Jam
+2013** <http://chasing-carrots.com/ggj.php>`__!
+
+Das Ziel des *Global Game Jam* ist es, in 48 Stunden in kleinen Teams
+kreative und innovative Spielideen ohne kommerziellen Druck zu
+entwerfen. Dabei steht der Jam-Gedanke für ein zwangloses – auch
+improvisiertes – Zusammenspiel sowohl innerhalb der interdisziplinären
+Entwicklerteams, als auch innerhalb der weltweiten Community.
+ Kerngedanke ist es in einer vernetzten Welt Kreativität,
+Erfahrungsaustausch und Selbstausdruck durch Computerspiele zu stärken.
+ Das fertige Spiel wird als Open Source veröffentlicht und steht so
+allen Teilnehmern und Interessierten als Anschauungsmaterial und
+Diskussionsgrundlage zur freien Verfügung.
+
+Der *Global Game Jam* ist für jedermann offen, wendet sich aber
+hauptsächlich an Kreative, Programmierer, Game-Designer, Artists,
+Sound-designer, Musiker und Studenten.
+
+2012 fand der *Global Game Jam* in über 40 Ländern statt.  Es entstanden
+2100 Spiele an einem einzigen Wochenende.  Schon jetzt hat der Global
+Game Jam 2013 mit über 220 Jam Sites in 49 Ländern weltweit eine neue
+Rekordbeteiligung.
+
+-  `Global Game Jam Stuttgart <http://chasing-carrots.com/ggj.php>`__
+-  `Fahrplan <http://chasing-carrots.com/ggj_schedule.php>`__
+-  `Über den Global Game Jam <http://globalgamejam.org/about>`__
+-  `Anmeldung zum Global Game Jam
+   Stuttgart <http://globalgamejam.org/sites/2013/global-game-jam-stuttgart>`__
+
+| *Zum Event:*
+|  Begrenzte Teilnehmerzahl. `Anmeldung
+notwendig! <http://globalgamejam.org/sites/2013/global-game-jam-stuttgart>`__
+|  Datum: \ **25. bis 27. Januar 2013**
+|  Anfahrt: U4/U9 Haltestelle “Im Degen”, Ulmer Straße 255, Stuttgart
+Wangen (gegenüber Kulturhaus Arena)
+
+*Dieser Event wird ermöglicht durch die freundliche Unterstützung
+der \ `MFG Medien- und Filmgesellschaft
+Baden-Württemberg <http://www.mfg.de/>`__, der `Wirtschaftsförderung
+Region Stuttgart <http://wrs.region-stuttgart.de/>`__ und dem
+`Softwarezentrum Böblingen/Sindelfingen
+e.V. <http://www.softwarezentrum.de/>`__.*
+
+| |ggj\_logos\_igda|\ |ggj\_logos\_carrots|\ |ggj\_logos\_shackspace|\ |ggj\_logos\_mfg|\ |ggj\_logos\_wrs|\ |ggj\_logos\_softwarezentrum|
+|   
+|   
+|   
+|   
+
+.. |ggj\_logos\_ggj| image:: http://shackspace.de/wp-content/uploads/2013/01/ggj_logos_ggj.png
+.. |ggj\_logos\_igda| image:: http://shackspace.de/wp-content/uploads/2013/01/ggj_logos_igda-e1357804379504.png
+   :target: http://www.igda.org/
+.. |ggj\_logos\_carrots| image:: http://shackspace.de/wp-content/uploads/2013/01/ggj_logos_carrots-e1357804409401.png
+   :target: http://www.chasing-carrots.de/
+.. |ggj\_logos\_shackspace| image:: http://shackspace.de/wp-content/uploads/2013/01/ggj_logos_shackspace-e1357804435612.png
+   :target: http://shackspace.de/
+.. |ggj\_logos\_mfg| image:: http://shackspace.de/wp-content/uploads/2013/01/ggj_logos_mfg-e1357804446507.png
+   :target: http://www.mfg.de/
+.. |ggj\_logos\_wrs| image:: http://shackspace.de/wp-content/uploads/2013/01/ggj_logos_wrs-e1357804458166.png
+   :target: http://wrs.region-stuttgart.de/
+.. |ggj\_logos\_softwarezentrum| image:: http://shackspace.de/wp-content/uploads/2013/01/ggj_logos_softwarezentrum-e1357804475204.png
+   :target: http://www.softwarezentrum.de/
