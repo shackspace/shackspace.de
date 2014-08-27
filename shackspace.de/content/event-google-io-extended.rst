@@ -17,14 +17,6 @@ late, with the keynote starting around 18:00.
 | Register at \ http://ioextended12.eventbrite.com/. Hurry up! ;) Space is limited.
 |  Looking forward to see many of you there!
 
-**Meta:
-*\ **Free Event!** (*Donations towards shack e.V. are
-welcome*) \ **`Registration
-required <http://ioextended12.eventbrite.com/>`__!**
-When: \ **Wednesday 27th & Thursday 28th June 2012**, starting **4pm
-**\ Where: U4/U9 Station “Im Degen”, \ `Ulmer Straße
-255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (across
-from Kulturhaus Arena)*
 
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2012/06/IOExtended_v02_whitelogos-e1340093040675-150x150.jpg
    :target: http://shackspace.de/wp-content/uploads/2012/06/IOExtended_v02_whitelogos.jpg
