@@ -15,7 +15,7 @@ Herbst" <http://shackspace.de/?p=3151>`__.
 #. Da für Bekennerschreiben gerne die preislich und inhaltlich billigste
    Tageszeitung herangezogen wird, mussten wir uns bei der
    Springerpresse bedienen.
-    Caveat: Das Produkt wurde ausschließlich unter Schutzatmosphäre und
+   Caveat: Das Produkt wurde ausschließlich unter Schutzatmosphäre und
    mit entsprechender Schutzkleidung gehandhabt und Reste wurden nach
    Abschluss der Aktion unter Einhaltung aller Sicherheitsvorschriften
    fachgerecht entsorgt.
