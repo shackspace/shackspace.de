@@ -5,10 +5,10 @@ NOVEMBERTREFFEN
 :category: Archiv
 :slug: novembertreffen
 
-**Ja, es waren mehr und es war lustig!!!
- Wann?**\ 8.11.2009, 15:00
+Ja, es waren mehr und es war lustig!!!
 
-**Wo?** ESK-HKG (Informationen zur Anfahrt unter
-`Locations <http://hs07.eu/?page_id=98>`__)
+**Wann?**\ 8.11.2009, 15:00
+
+**Wo?** ESK-HKG (Informationen zur Anfahrt unter `Locations <http://hs07.eu/?page_id=98>`__)
 
 
