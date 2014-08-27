@@ -25,7 +25,7 @@ Here's what they came up with so far.
 NFC / RFID Login Terminal
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-|TP-Link NFC Terminal|
+|TP-Link NFC Terminal2|
 
 The NFC-Gate is part of the \ `User
 Suppository <https://github.com/shackspace/user_suppository>`__ (sic)
@@ -114,7 +114,7 @@ known networks.
    wiki <http://shackspace.de/wiki/doku.php?id=project:minikrebs>`__
 
 .. |TP-Link NFC Terminal| image:: http://shackspace.de/wp-content/uploads/2013/01/IMG_20130114_003939-e1358189039734-150x144.jpg
-.. |TP-Link NFC Terminal| image:: http://shackspace.de/wp-content/uploads/2013/01/IMG_20130114_003939-e1358188922575.jpg
+.. |TP-Link NFC Terminal2| image:: http://shackspace.de/wp-content/uploads/2013/01/IMG_20130114_003939-e1358188922575.jpg
 .. |TP-Link Instacam| image:: http://shackspace.de/wp-content/uploads/2013/01/IMG_20130113_225119-e1358189326256-300x106.jpg
 .. |TP-Link Automatic Rick-Roll| image:: http://shackspace.de/wp-content/uploads/2013/01/IMG_20130113_231711-e1358189552103-300x127.jpg
 .. |TP-Link usbip| image:: http://shackspace.de/wp-content/uploads/2013/01/IMG_20130114_000208-e1358189233155-300x93.jpg
