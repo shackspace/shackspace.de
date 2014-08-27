@@ -14,22 +14,26 @@ Jeder Beitrag ist willkommen. Spendenquittungen können auf Wunsch
 ausgestellt werden.
 
 +----------------+-------------------------+
-| Empfänger      | shack e.V.              | +----------------+-------------------------+
-| Kontonummmer   | 7016809500              | +----------------+-------------------------+
-| Bankleitzahl   | 43060967                | +----------------+-------------------------+
-| Institut       | GLS Gemeinschaftsbank   | +----------------+-------------------------+
+| Empfänger      | shack e.V.              |
++----------------+-------------------------+
+| Kontonummmer   | 7016809500              |
++----------------+-------------------------+
+| Bankleitzahl   | 43060967                |
++----------------+-------------------------+
+| Institut       | GLS Gemeinschaftsbank   |
++----------------+-------------------------+
 
 **Paypal:**
 
-+--------------------------------------+--------------------------------------+
-| .. raw:: html                        | .. raw:: html                        |
-|                                      |                                      |
-|    <form action="https://www.paypal. |    <form action="https://www.paypal. |
-| com/cgi-bin/webscr" method="post">   | com/cgi-bin/webscr" method="post">   |
-|                                      |                                      |
-| .. raw:: html                        | .. raw:: html                        |
-|                                      |                                      |
-|    </form>                           |    </form>                           |                                                                               +--------------------------------------+--------------------------------------+
++------------------------------------------------------------------------+------------------------------------------------------------------------+
+| .. raw:: html                                                          | .. raw:: html                                                          |
+|                                                                        |                                                                        |
+|    <form action="https://www.paypal.com/cgi-bin/webscr" method="post"> |    <form action="https://www.paypal.com/cgi-bin/webscr" method="post"> |
+|                                                                        |                                                                        |
+| .. raw:: html                                                          | .. raw:: html                                                          |
+|                                                                        |                                                                        |
+|    </form>                                                             |    </form>                                                             |
++------------------------------------------------------------------------+------------------------------------------------------------------------+
 
 Flattr us:
 
@@ -39,9 +43,7 @@ Flattr us:
 
    <noscript>
 
-`
- |Flattr
-this| <http://flattr.com/thing/316039/shackspace-SpendenDonation>`__
+`|Flattr this| <http://flattr.com/thing/316039/shackspace-SpendenDonation>`__
 
 .. raw:: html
 
