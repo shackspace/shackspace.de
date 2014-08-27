@@ -9,8 +9,7 @@ SHS - Saturday Hack Sessions
 ungezwungenem Frei-Hacken.
 
 | *Was passiert und gemacht wird bestimmst du!*
-|  Bring deine Ideen, Dinge, Spielsachen, Freunde, Kinder, Eltern,
-Partner oder Haustiere und hab' Spaß!
+|  Bring deine Ideen, Dinge, Spielsachen, Freunde, Kinder, Eltern, Partner oder Haustiere und hab' Spaß!
 
 shackspace öffnet ab 15 Uhr seine Tore (wenn nicht sowieso schon von der
 vorherigen Nacht offen ist).  Komm einfach vorbei und fang' damit an
@@ -35,3 +34,5 @@ Wahrscheinlichkeit wirst du jemanden antreffen der dir helfen kann.
 Bei Fragen melde dich einfach auf unserer `öffentlichen
 Mailingliste <https://lists.shackspace.de/mailman/listinfo/public>`__ an
 und frag, oder hinterlass' einen Kommentar unter diesem Beitrag.
+
+

@@ -8,22 +8,7 @@ Project minikrebs: Tiny TP-Link WiFi AP Goes Big with Webcam, NFC, USB/IP, Autom
 The Hardware
 ~~~~~~~~~~~~
 
-|TP-Link NFC Terminal|\ The TP-Link WR703N is a quite amazing and
-affordable piece of hardware and has received a lot of love from the
-hacking community.  Once you take a look at the price tag and feature
-set you quickly notice why it's so well received: it crosses the counter
-for just `25 EUR on
-Amazon <https://www.amazon.de/dp/B008UNA6FS/?tag=krebsco-21>`__ or as
-low as `16
-EUR <http://www.amazon.com/dp/B007PTCFFW/?tag=krebsco-20>`__ if you look
-abroad!  It's been used as a `pentesting
-aid <http://hackaday.com/2012/01/12/cheap-wifi-bridge-for-pen-testing-or-otherwise/>`__,
-`made even more hacker
-friendly <http://hackaday.com/2012/06/24/io-extender-board-and-case-for-a-cheap-wifi-router/>`__,
-got turned into a `webradio
-player <http://hackaday.com/2013/01/08/turning-a-tiny-router-into-a-webradio/>`__,
-and made more awesome by `adding a
-display <http://hackaday.com/2013/01/07/adding-an-lcd-screen-terminal-for-tp-link-routers/>`__.
+|TP-Link NFC Terminal|\ The TP-Link WR703N is a quite amazing and affordable piece of hardware and has received a lot of love from the hacking community.  Once you take a look at the price tag and feature set you quickly notice why it's so well received: it crosses the counter for just `25 EUR on Amazon <https://www.amazon.de/dp/B008UNA6FS/?tag=krebsco-21>`__ or as low as `16 EUR <http://www.amazon.com/dp/B007PTCFFW/?tag=krebsco-20>`__ if you look abroad!  It's been used as a `pentesting aid <http://hackaday.com/2012/01/12/cheap-wifi-bridge-for-pen-testing-or-otherwise/>`__, `made even more hacker friendly <http://hackaday.com/2012/06/24/io-extender-board-and-case-for-a-cheap-wifi-router/>`__, got turned into a `webradio player <http://hackaday.com/2013/01/08/turning-a-tiny-router-into-a-webradio/>`__, and made more awesome by `adding a display <http://hackaday.com/2013/01/07/adding-an-lcd-screen-terminal-for-tp-link-routers/>`__.
 
 So you think all that can be done has already been done.  But no:
 `shackspace <http://shackspace.de>`__ hackers
@@ -63,14 +48,8 @@ Instacam: Automatic Webcam Streaming
 
 |TP-Link Instacam|
 
-| The aim of this little project is to reliably push a video stream
-directly out to the internets for everyone to see at a very low price.
-|  It combines a webcam (could be a cheap China model or one of
-Logitech's HD cams, as long as its supported
-by \ `uvc <http://www.ideasonboard.org/uvc/>`__ or `Gspca <http://linuxtv.org/wiki/index.php/Gspca_devices>`__)
-with a TP-Link 703N.  It automatically boots up and starts streaming.
- Use a battery pack and USB 3G stick for field connectivity.  Drop to
-deploy!
+| The aim of this little project is to reliably push a video stream directly out to the internets for everyone to see at a very low price.
+|  It combines a webcam (could be a cheap China model or one of Logitech's HD cams, as long as its supported by \ `uvc <http://www.ideasonboard.org/uvc/>`__ or `Gspca <http://linuxtv.org/wiki/index.php/Gspca_devices>`__) with a TP-Link 703N.  It automatically boots up and starts streaming.  Use a battery pack and USB 3G stick for field connectivity.  Drop to deploy!
 
 This project is already in use in two places at shackspace.  One is
 built into
@@ -91,12 +70,8 @@ carry it with you when riding the train (remembert to get a battery
 pack!) you will have great fun giggling each time the LED blinks
 indicating another victim was served a piece of the 80's.
 
-| Having videos autostart on a victim's mobile brower is quite difficult
-and unreliable, so instead of an actual video, a short animated GIF with
-Rick dancing plus the first minute of its famous song will be served by
-the httpd.
-|  Laptops and other clients with phat-browsers will probably honor both
-autostart loop tags in the new HTML5 standard.
+| Having videos autostart on a victim's mobile brower is quite difficult and unreliable, so instead of an actual video, a short animated GIF with Rick dancing plus the first minute of its famous song will be served by the httpd.
+|  Laptops and other clients with phat-browsers will probably honor both autostart loop tags in the new HTML5 standard.
 
 Forwarding USB Interfaces over WiFi using USB/IP
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -110,8 +85,7 @@ grab an IP-address via DHCP from the LAN interface.
 Krebs Integration and Heckenkrebs
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-|krebs-v2|
-~~~~~~~~~~
+|krebs-v2| ~~~~~~~~~~
 
 Of course minikrebs integrates seamlessly into the pile of code called
 `krebscode/painload <https://github.com/krebscode/painload>`__.
@@ -145,3 +119,5 @@ known networks.
 .. |TP-Link Automatic Rick-Roll| image:: http://shackspace.de/wp-content/uploads/2013/01/IMG_20130113_231711-e1358189552103-300x127.jpg
 .. |TP-Link usbip| image:: http://shackspace.de/wp-content/uploads/2013/01/IMG_20130114_000208-e1358189233155-300x93.jpg
 .. |krebs-v2| image:: http://shackspace.de/wp-content/uploads/2013/01/krebs-v2-300x300.png
+
+

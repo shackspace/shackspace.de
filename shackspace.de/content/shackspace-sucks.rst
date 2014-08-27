@@ -23,16 +23,10 @@ motor but a small dust bin.
 
 The plan: mate the dust bin of the first with the motor of the second!
 
-| Removing the broken motor while retaining the mounting ring to fit the
-new motor into was accomplished by using an old soldering iron to slice
-through the plastic.  The smaller vacuum was freed of its wheels and a
-hole was cut into its bottom side.  This is where the air will be
-flowing through.
-|  Then the second vacuum cleaner was mated to the first with the help
-of some screws and car body sealing agent.
+| Removing the broken motor while retaining the mounting ring to fit the new motor into was accomplished by using an old soldering iron to slice through the plastic.  The smaller vacuum was freed of its wheels and a hole was cut into its bottom side.  This is where the air will be flowing through.
+|  Then the second vacuum cleaner was mated to the first with the help of some screws and car body sealing agent.
 
-| Add the vacuum hose of a third and the tube of a fourth vacuum cleaner
-and you have a working device.
+| Add the vacuum hose of a third and the tube of a fourth vacuum cleaner and you have a working device.
 |  But wait, that's just a working device, which is boring.
 
 Colorful LEDs make every project 20% cooler so a few RGB-fading LEDs
@@ -49,3 +43,5 @@ high power LED behind it.
 I for one welcome our new vacuum cleaner overlords!
 
 [gallery link="file" columns="4"]
+
+

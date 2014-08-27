@@ -5,9 +5,7 @@ Treffen: Linux User Group Stuttgart (LUGS)
 :category: Termine
 :slug: treffen-linux-user-group-stuttgart-lugs
 
-|image0|\ Immer am letzten Donnerstag des Monats trifft sich die `Linux
-User Group Stuttgart <http://lug-s.org/>`__ (LUGS) zur gemütlichen Runde
-im shackspace.  Gäste und Interessierte sind jederzeit willkommen.
+|image0|\ Immer am letzten Donnerstag des Monats trifft sich die `Linux User Group Stuttgart <http://lug-s.org/>`__ (LUGS) zur gemütlichen Runde im shackspace.  Gäste und Interessierte sind jederzeit willkommen.
 
 *Spektrum der LUGS:*
 
@@ -25,11 +23,10 @@ im shackspace.  Gäste und Interessierte sind jederzeit willkommen.
 -  Spaß haben
 
 | *Zum Event:*
-|  **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder
-ist willkommen!
-|  Datum: jeder **letzte Donnerstag** des Monat\ **s
-**\ Anfahrt:U4/U9 Haltestelle “Im Degen”, `Ulmer Straße
-255 <../?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
+|  **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder ist willkommen!
+|  Datum: jeder **letzte Donnerstag** des Monat\ **s **\ Anfahrt:U4/U9 Haltestelle “Im Degen”, `Ulmer Straße 255 <../?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
 
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2011/12/pllogo.gif
    :target: http://shackspace.de/wp-content/uploads/2011/12/pllogo.gif
+
+

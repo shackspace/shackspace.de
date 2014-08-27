@@ -47,19 +47,9 @@ fellow hackers chipped in and we've sourced the electronic components,
 soldered everything together, wrote a nice letter to go with it,
 packaged it up and sent it off on the long way down under to Australia.
 
-| We already got a bit jittery when the package was spotted in one of
-Dave's previous videos, sitting on his self.
-|  Various amounts of panic were then caused when `Dave
-announced <https://twitter.com/eevblog/status/373647994291105793>`__
-that he blew up "a super cool mailbag item". We calmed down a bit,
-telling ourselves that his mailbag pile is a
-`FIFO <http://en.wikipedia.org/wiki/FIFO>`__ and he gets a lot of items,
-so we're probably safe.
-|  Then this week's mailbag video (below) arrived and our worst fears
-became reality: Dave switched to a
-`LIFO <http://en.wikipedia.org/wiki/LIFO_(computing)>`__ mode opening
-the more recent packages first and, during plugging everything together,
-really did blow up the BTTF clock we've sent him :(
+| We already got a bit jittery when the package was spotted in one of Dave's previous videos, sitting on his self.
+|  Various amounts of panic were then caused when `Dave announced <https://twitter.com/eevblog/status/373647994291105793>`__ that he blew up "a super cool mailbag item". We calmed down a bit, telling ourselves that his mailbag pile is a `FIFO <http://en.wikipedia.org/wiki/FIFO>`__ and he gets a lot of items, so we're probably safe.
+|  Then this week's mailbag video (below) arrived and our worst fears became reality: Dave switched to a `LIFO <http://en.wikipedia.org/wiki/LIFO_(computing)>`__ mode opening the more recent packages first and, during plugging everything together, really did blow up the BTTF clock we've sent him :(
 
 Lesson learned: always, *ALWAYS* mark pin 1 on your connectors.
 
@@ -79,5 +69,7 @@ him a lot of fun with his new clock.
 
 Now, without further ado, here's Dave's mailbag video (the fun starts at
 5:00):
+
+
 
 

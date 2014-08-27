@@ -5,13 +5,8 @@ Workshop: Erste Programmierschritte in Haskell
 :category: Termine
 :slug: workshop-erste-programmierschritte-in-haskell
 
-| |image0|\ Diesen **Samstag**, den\ **10. Dezember 2011** lädt
-shackspace alle Interessierten ein erste Schritte in der `Funktionalen
-Programmierung <http://de.wikipedia.org/wiki/Funktionale_Programmierung>`__
-zu wagen.
-|  Konkret wird shackspace's `Haskell <http://haskell.org/>`__-Hacker
-Ertes zu eben selbiger Sprache referieren:
-`Haskell <http://haskell.org/>`__.
+| |image0|\ Diesen **Samstag**, den\ **10. Dezember 2011** lädt shackspace alle Interessierten ein erste Schritte in der `Funktionalen Programmierung <http://de.wikipedia.org/wiki/Funktionale_Programmierung>`__ zu wagen.
+|  Konkret wird shackspace's `Haskell <http://haskell.org/>`__-Hacker Ertes zu eben selbiger Sprache referieren: `Haskell <http://haskell.org/>`__.
 
 *Hinweise:*
 
@@ -35,12 +30,10 @@ Ertes zu eben selbiger Sprache referieren:
    aber das wird am Anfang keine Voraussetzung sein.
 
 | *Zum Event:*
-|  **Eintritt frei!** Jeder ist willkommen!  Um `formlose
-Anmeldung <http://www.doodle.com/75686vxfim7geqsu>`__ (Doodle) wird
-gebeten.
-|  Datum: **Samstag, 10. Dezember 2011** um **16:00 Uhr
-**\ Anfahrt:U4/U9 Haltestelle “Im Degen”, `Ulmer Straße
-255 <../?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
+|  **Eintritt frei!** Jeder ist willkommen!  Um `formlose Anmeldung <http://www.doodle.com/75686vxfim7geqsu>`__ (Doodle) wird gebeten.
+|  Datum: **Samstag, 10. Dezember 2011** um **16:00 Uhr **\ Anfahrt:U4/U9 Haltestelle “Im Degen”, `Ulmer Straße 255 <../?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
 
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2011/12/HaskellLogoStyPreview-1.png
    :target: http://shackspace.de/wp-content/uploads/2011/12/HaskellLogoStyPreview-1.png
+
+

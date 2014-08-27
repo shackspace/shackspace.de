@@ -14,6 +14,6 @@ abendliche Interview eine Stunde, geworden sind es drei.
 
 | Stadt Stuttgart
 |  Im Netz: `stuttgart.de <http://stuttgart.de/>`__
-|  Im Aether:
-@\ `stuttgart_stadt <https://twitter.com/stuttgart_stadt>`__
+|  Im Aether: @\ `stuttgart_stadt <https://twitter.com/stuttgart_stadt>`__
 |  Im Universum: Sol / Terra / Europa / Deutschland / Stuttgart
+

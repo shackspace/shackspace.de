@@ -25,24 +25,12 @@ How to Hack a Phone Booth
 
    </p>
 
-| Above video shows the Half-Life inspired dramatization of how to
-disassemble the classic German yellow phone booth (replicas only of
-course, and only for educational purposes).
-|  It's a piece of cake to take off the top, the door, even the floor. 
-There's a very limited number of bolts that need to be removed by
-counter-boring to get the floor and top removed, everything else is held
-together by screws. But once you're left with the three remaining sides,
-things get tricky.
+| Above video shows the Half-Life inspired dramatization of how to disassemble the classic German yellow phone booth (replicas only of course, and only for educational purposes).
+|  It's a piece of cake to take off the top, the door, even the floor.  There's a very limited number of bolts that need to be removed by counter-boring to get the floor and top removed, everything else is held together by screws. But once you're left with the three remaining sides, things get tricky.
 |  Here's how you do it.
 
-| All round corners are clipped in place but the clip needs some force
-to get unclipped (the metal thing pried loose in the video is one half
-of the clip).
-|  We'll start off with the easiest of the four corner pieces, the door
-hinge.  You do not actually have to remove this part, but it's first of
-all quite easy to do and it gives you nice insight into what the clip
-mechanism looks like, which is crucial to understand to allow you to
-remove the rear corner pieces.
+| All round corners are clipped in place but the clip needs some force to get unclipped (the metal thing pried loose in the video is one half of the clip).
+|  We'll start off with the easiest of the four corner pieces, the door hinge.  You do not actually have to remove this part, but it's first of all quite easy to do and it gives you nice insight into what the clip mechanism looks like, which is crucial to understand to allow you to remove the rear corner pieces.
 
 #. Remove the three screws holding the round corner piece of the door
    hinge in place.
@@ -67,3 +55,5 @@ Now, for the two rear pieces.
 
 Disclaimer: two phone booth replicas have been slightly hurt in the
 making of this video.
+
+

@@ -5,9 +5,7 @@ Vortrag: Grundlagen der Netzwerktechnik
 :category: Termine
 :slug: vortrag-grundlagen-der-netzwerktechnik
 
-|94552487_3254218671|\ Am **Samstag** den **16. Februar 2013** lädt
-shackspace um **18 Uhr** zu einem Votrag über die Grundlagen der
-Netzwerktechnik.
+|94552487_3254218671|\ Am **Samstag** den **16. Februar 2013** lädt shackspace um **18 Uhr** zu einem Votrag über die Grundlagen der Netzwerktechnik.
 
 Dieser Vortrag ist für alle die schon immer etwas mehr über die
 Vernetzung von Computern wissen wollten, selbst aber noch nicht über die
@@ -48,13 +46,9 @@ folgendes für euch geplant:
    -  Sicherheitsmechanismen (L2 u. L3)
    -  Gateway Redundancy (L3)
 
-| *Zum Event:
-*\ Um Spenden and shack e.V. (z.B. 3 EUR) wird gegeben.
+| *Zum Event: *\ Um Spenden and shack e.V. (z.B. 3 EUR) wird gegeben.
 |  Anmeldung: \ `Doodle <http://doodle.com/wmy54z6fhxgc5hdn>`__
-|  Datum: \ **Samstag, 16. Februar 2013**, \ **18:00 Uhr
-**\ Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße
-255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber
-Kulturhaus Arena)
+|  Datum: \ **Samstag, 16. Februar 2013**, \ **18:00 Uhr **\ Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
 
 *Bild: `|Attribution|\ |Noncommercial|\ |Share
 Alike| <http://creativecommons.org/licenses/by-nc-sa/2.0/>`__ `Some
@@ -67,3 +61,5 @@ Treviño =- <http://www.flickr.com/photos/trevi55/>`__*
 .. |Attribution| image:: http://l.yimg.com/g/images/cc_icon_attribution_small.gif
 .. |Noncommercial| image:: http://l.yimg.com/g/images/cc_icon_noncomm_small.gif
 .. |Share Alike| image:: http://l.yimg.com/g/images/cc_icon_sharealike_small.gif
+
+

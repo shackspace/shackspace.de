@@ -17,12 +17,9 @@ und die vollendete und von allen Gründungsmitgliedern abgesegnete
 Satzung gibt es
 `hier <http://shackspace.de/wp-content/uploads/2010/02/Satzung.pdf>`__.
 
-| Ein besonderer Dank gilt hier natürlich allen Mitgliedern, die heute
-ausdauernd und voller Elan die doch manchmal recht anstrengende Sitzung
-durchgestanden haben, ihr seid klasse!
+| Ein besonderer Dank gilt hier natürlich allen Mitgliedern, die heute ausdauernd und voller Elan die doch manchmal recht anstrengende Sitzung durchgestanden haben, ihr seid klasse!
 |  +
 |  Als Archivanhang:
-|  Hier ist das
-`Beitrittsformular <http://shackspace.de/wp-content/uploads/2010/03/shack_Beitrittsformular.pdf>`__,
-|  und hier die `PDF -Einladung zur
-Vereinsgründung <http://shackspace.de/wp-content/uploads/2010/02/SHACKgruendung20feb2010.pdf>`__.
+|  Hier ist das `Beitrittsformular <http://shackspace.de/wp-content/uploads/2010/03/shack_Beitrittsformular.pdf>`__,
+|  und hier die `PDF -Einladung zur Vereinsgründung <http://shackspace.de/wp-content/uploads/2010/02/SHACKgruendung20feb2010.pdf>`__.
+

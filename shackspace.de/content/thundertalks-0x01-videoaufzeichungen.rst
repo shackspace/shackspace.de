@@ -5,10 +5,8 @@ Thundertalks 0x01: Videoaufzeichungen
 :category: Allgemein
 :slug: thundertalks-0x01-videoaufzeichungen
 
-| Nach einer erfolgreichen ersten Runde der shackspace Thundertalks gibt
-es nun die Aufzeichnungen online.
-|  Was Thundertalks sind erklärt samuirai sehr meta natürlich mit dem
-ersten Thundertalk:
+| Nach einer erfolgreichen ersten Runde der shackspace Thundertalks gibt es nun die Aufzeichnungen online.
+|  Was Thundertalks sind erklärt samuirai sehr meta natürlich mit dem ersten Thundertalk:
 
 `thundertalks 0x01 - Einführung <http://vimeo.com/34638137>`__ from
 `shack e.V. Hackerspace Stuttgart <http://vimeo.com/shackspace>`__ on
@@ -25,4 +23,6 @@ Hier die Liste aller Talks der Thundertalks 0x01 Runde:
 -  `HighVoltage <http://vimeo.com/34724168>`__ (Samuel)
 -  `Linux Kernel Crash: Cell Blades
    Debugging <http://vimeo.com/34701075>`__ (Dominik)
+
+
 

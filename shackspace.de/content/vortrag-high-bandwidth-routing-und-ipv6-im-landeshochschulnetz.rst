@@ -5,9 +5,7 @@ Vortrag: High-Bandwidth Routing und IPv6 im Landeshochschulnetz
 :category: Allgemein, Termine
 :slug: vortrag-high-bandwidth-routing-und-ipv6-im-landeshochschulnetz
 
-|logo|\ |photo.jpg|\ Mit "*High-Bandwidth IPv6 Routing in der Praxis*\ "
-freut sich shackspace einen Einblick in den Betrieb eines 100 Gbps
-Backbone Netzes aus sicht eines Internet Service Provides zu geben.
+|logo|\ |photo.jpg|\ Mit "*High-Bandwidth IPv6 Routing in der Praxis*\ " freut sich shackspace einen Einblick in den Betrieb eines 100 Gbps Backbone Netzes aus sicht eines Internet Service Provides zu geben.
 
 Zu beginn wird Sebastian Neuner einen Einblick in den Betrieb von
 `Selfnet <https://www.selfnet.de/>`__ geben. Selfnet bindet die
@@ -26,26 +24,18 @@ Einführung von IPv6 sowie dem Peering mit Internet Exchanges wie dem
 natürlich auch das Organisatorische.
 
 | *Zu den Vortragenden:*
-|  **Tim Kleefass** arbeitet bei `Landeshochschulnetz
-BelWü <http://www.belwue.de/>`__ im Network Operations Center (NOC).
-Dort ist er unter anderem verantwortlich für Ausbau und Betrieb des
-Netzes, der Einführung von IPv6 sowie Monitoring und allerhand coolen
-Dinge.
-|  **Sebastian Neuner** ist seit 2009 bei `Selfnet
-e.V. <https://www.selfnet.de/>`__ aktiv. Nach seiner Bacholorarbeit zu
-TCP/IP Congestion Feedback (ECN) arbeitet er aktuell auf seinen Master
-in E-Technik und Informationstechnik hin.
+|  **Tim Kleefass** arbeitet bei `Landeshochschulnetz BelWü <http://www.belwue.de/>`__ im Network Operations Center (NOC). Dort ist er unter anderem verantwortlich für Ausbau und Betrieb des Netzes, der Einführung von IPv6 sowie Monitoring und allerhand coolen Dinge.
+|  **Sebastian Neuner** ist seit 2009 bei `Selfnet e.V. <https://www.selfnet.de/>`__ aktiv. Nach seiner Bacholorarbeit zu TCP/IP Congestion Feedback (ECN) arbeitet er aktuell auf seinen Master in E-Technik und Informationstechnik hin.
 
 | *Zum Event:*
 | **Eintritt frei!**\  (\ *Spenden an shack e.V. sind gerne gesehen*\ )
-| Anmeldung: Zur einfacheren Organisation, bitte
-kurz \ `anmelden <http://doodle.com/w5z8girwzxpn5zfy>`__\  (doodle.com).
+| Anmeldung: Zur einfacheren Organisation, bitte kurz \ `anmelden <http://doodle.com/w5z8girwzxpn5zfy>`__\  (doodle.com).
 | Datum: **Samstag**\ **, 19. Juli 2014, 18:00 Uhr**
-| Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße
-255 <http://shackspace.de/?page_id=713>`__\ , Stuttgart Wangen
-(gegenüber Kulturhaus Arena)
+| Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__\ , Stuttgart Wangen (gegenüber Kulturhaus Arena)
 
 .. |logo| image:: http://shackspace.de/wp-content/uploads/2014/07/logo.gif
    :target: http://shackspace.de/wp-content/uploads/2014/07/logo.gif
 .. |photo.jpg| image:: http://shackspace.de/wp-content/uploads/2014/07/photo.jpg-150x150.png
    :target: http://shackspace.de/wp-content/uploads/2014/07/photo.jpg.png
+
+

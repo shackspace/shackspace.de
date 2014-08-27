@@ -5,16 +5,7 @@ shackspace's dojoe makes 3rd Place in Evoke Demoparty Wild Competition
 :category: Allgemein
 :slug: shackspaces-dojoe-makes-3rd-place-in-evoke-demoparty-wild-competition
 
-|image0|\ shackspace's own @\ `dop3j0e <https://twitter.com/dop3j0e>`__,
-known `for the many
-hacks <http://prezi.com/dfmyygtuiqmn/von-holzchen-auf-stockchen/>`__ he
-did at the space, just raised the bar.  A while ago he implemented
-an\ `algorithmic piece of mus^W noise <http://shackspace.de/?p=2509>`__
-as a C-one-liner inside an ATtiny9 all fitted inside an RCA plug.  That
-little thing was dubbed the
-"`Noiseplug <http://shackspace.de/?p=2509>`__\ " and was a great^W
-annoying addition to liven up the shackspace lounge during those long
-nightly hack sessions.
+|image0|\ shackspace's own @\ `dop3j0e <https://twitter.com/dop3j0e>`__, known `for the many hacks <http://prezi.com/dfmyygtuiqmn/von-holzchen-auf-stockchen/>`__ he did at the space, just raised the bar.  A while ago he implemented an\ `algorithmic piece of mus^W noise <http://shackspace.de/?p=2509>`__ as a C-one-liner inside an ATtiny9 all fitted inside an RCA plug.  That little thing was dubbed the "`Noiseplug <http://shackspace.de/?p=2509>`__\ " and was a great^W annoying addition to liven up the shackspace lounge during those long nightly hack sessions.
 
 For this year's `Evoke demoscene party <http://www.evoke.eu/2012/>`__ in
 Cologne which just concluded on Sunday, August 12th, he presented a
@@ -66,3 +57,5 @@ a 16 byte register file is all I have.
 
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2012/08/evoke.png
    :target: http://shackspace.de/wp-content/uploads/2012/08/evoke.png
+
+

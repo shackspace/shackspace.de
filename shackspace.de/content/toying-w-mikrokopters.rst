@@ -5,12 +5,7 @@ Toying w/ Mikrokopters
 :category: Allgemein
 :slug: toying-w-mikrokopters
 
-|image0|\ Building a quad-copter was one of the early ideas/projects
-around right at founding time of shackspace last year.
-@\ `ansi <https://twitter.com/ansi>`__ and
-@\ `hdznrrd <https://twitter.com/hdznrrd>`__ went ahead and both bought
-a kit from `Mikrokopter <http://mikrokopter.de/>`__. After near-complete
-assembly hdznrrd got sidetracked and ansi went on to other things.
+|image0|\ Building a quad-copter was one of the early ideas/projects around right at founding time of shackspace last year. @\ `ansi <https://twitter.com/ansi>`__ and @\ `hdznrrd <https://twitter.com/hdznrrd>`__ went ahead and both bought a kit from `Mikrokopter <http://mikrokopter.de/>`__. After near-complete assembly hdznrrd got sidetracked and ansi went on to other things.
 
 Late 2010 hdznrrd revived his side of the project, bought missing parts
 (receiver, remote control, chargers and extra LiPo packs) and got the
@@ -31,3 +26,5 @@ BY-NC-SA <http://creativecommons.org/licenses/by-nc-sa/2.0/>`__)*
 
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2011/02/IMG_20110202_212819-150x150.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/02/IMG_20110202_212819.jpg
+
+

@@ -5,18 +5,9 @@ Amateurfunk Lerngruppe
 :category: Allgemein, Termine
 :slug: amateurfunk-lerngruppe-im-shackspace
 
-| |image0|\ Bereits im Jahr 1909 gab es die ersten Amateurfunkstationen.
-In den vergangenen 100 Jahren hat sich viel getan.
-|  So ist es heute nicht mehr notwendig, Funkgeräte selbst herzustellen.
-Der Fachhandel bietet eine breite Auswahl an Funkgeräten, Antennen und
-allem nur erdenklichen Zubehör. Auch digitale Betriebsarten,
-einschließlich selbstverwalteter Handynetze, Pagersysteme und
-Positionssystemen (ähnlich dem GPS, jedoch mit Bodenstationen) gehören
-heute zu den vielen Möglichkeiten des Amateurfunks.
-|  Verdient gemacht hat sich er Amateurfunk nicht nur zum Zweck der
-Völkerverständigung (und hier ist das auch wörtlich zu sehen), sondern
-auch bei Naturkatastrophen sind Funkamateure oft die Ersten, die wieder
-eine funktionierende Kommunikation ermöglichen.
+| |image0|\ Bereits im Jahr 1909 gab es die ersten Amateurfunkstationen. In den vergangenen 100 Jahren hat sich viel getan.
+|  So ist es heute nicht mehr notwendig, Funkgeräte selbst herzustellen. Der Fachhandel bietet eine breite Auswahl an Funkgeräten, Antennen und allem nur erdenklichen Zubehör. Auch digitale Betriebsarten, einschließlich selbstverwalteter Handynetze, Pagersysteme und Positionssystemen (ähnlich dem GPS, jedoch mit Bodenstationen) gehören heute zu den vielen Möglichkeiten des Amateurfunks.
+|  Verdient gemacht hat sich er Amateurfunk nicht nur zum Zweck der Völkerverständigung (und hier ist das auch wörtlich zu sehen), sondern auch bei Naturkatastrophen sind Funkamateure oft die Ersten, die wieder eine funktionierende Kommunikation ermöglichen.
 
 Voraussetzungen
 ~~~~~~~~~~~~~~~
@@ -52,3 +43,5 @@ Kapitelweise, sodass man jederzeit einsteigen kann.
 
 .. |image0| image:: http://shackspace.de/gallery/var/thumbs/shack.media/3rd-party/haarp.jpg?m=1285159421
    :target: http://shackspace.de/gallery/index.php/shack-media/3rd-party/haarp
+
+

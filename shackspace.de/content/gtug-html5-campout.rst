@@ -6,3 +6,5 @@ GTUG HTML5 Campout
 :slug: gtug-html5-campout
 
 Event!
+
+

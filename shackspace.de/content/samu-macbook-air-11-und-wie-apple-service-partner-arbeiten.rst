@@ -20,19 +20,7 @@ herausgestellt, dass nur ein Teil ausgetauscht hätte werden müssen.
 **Die lange Version mit Bildern**
 ---------------------------------
 
-| Ich hatte noch nie einen Mac und wollte es mal auspobieren. Also habe
-ich mir das damals neue MacBook Air 2010 11" mit 4GB RAM und einer 128
-SSD Platte gekauft. Vor ca. 3 Monaten hat ein Mitstudent versehentlich
-Orangesaft drüber geschüttet - schnell Batterie rausnehmen ist beim
-MacBook Air nicht wirklich möglich. Nachdem ich es über Nacht habe
-trocknen lassen, habe ich es wieder eingeschaltet. Es hat ein paar
-Minuten underbar funktioniert, aber dann aufenmal hat das Touchpad und
-die Tastatur gesponnen. Danach ist es unkontrolliert hoch- und
-runtergefahren, bis dann garnichts mehr gieng. Also bin ich zu einem
-Apple Service Partner in Stuttgart-Vaihingen und habe einen
-Kostenvoranschlag für die Versicherung machen lassen. Dabei kam man auf
-über 1200€ für eine Reparatur (Neupreis war ca. 1400€ - Studentenpreis
-ca. 1200€).
+| Ich hatte noch nie einen Mac und wollte es mal auspobieren. Also habe ich mir das damals neue MacBook Air 2010 11" mit 4GB RAM und einer 128 SSD Platte gekauft. Vor ca. 3 Monaten hat ein Mitstudent versehentlich Orangesaft drüber geschüttet - schnell Batterie rausnehmen ist beim MacBook Air nicht wirklich möglich. Nachdem ich es über Nacht habe trocknen lassen, habe ich es wieder eingeschaltet. Es hat ein paar Minuten underbar funktioniert, aber dann aufenmal hat das Touchpad und die Tastatur gesponnen. Danach ist es unkontrolliert hoch- und runtergefahren, bis dann garnichts mehr gieng. Also bin ich zu einem Apple Service Partner in Stuttgart-Vaihingen und habe einen Kostenvoranschlag für die Versicherung machen lassen. Dabei kam man auf über 1200€ für eine Reparatur (Neupreis war ca. 1400€ - Studentenpreis ca. 1200€).
 |  Ausgetauscht werden sollen hätte:
 
 -  Top Case mit Touchpad und Keyboard
@@ -49,39 +37,19 @@ bestellt, es wurde geliefert, am nächsten Tag wurde die neue 2011
 Version vorgestellt *fuuuuuuuuuuuuuuuuu*. Also zurück geschickt, nun
 warte ich auf das Geld und dann kaufe ich die neue Version.
 
-| Aber jetzt wieder zum alten MacBook Air. Meine Hoffnung war ja, dass
-es nach putzen einfach so wieder funktioniert - hat es leider nicht. Ich
-habe mir dann in China das benötigte Werkzeug bestellt und nach over
-NYAN thousand Wochen, das Teil endlich im shack auseinander genommen.
+| Aber jetzt wieder zum alten MacBook Air. Meine Hoffnung war ja, dass es nach putzen einfach so wieder funktioniert - hat es leider nicht. Ich habe mir dann in China das benötigte Werkzeug bestellt und nach over NYAN thousand Wochen, das Teil endlich im shack auseinander genommen.
 |  |image0|
 
-| Sofort ist mir weißes Zeug auf der Platine, die für das Touchpad und
-Keyboard zuständig ist, aufgefallen. Jocki hat vermutet, dass sich da
-ein Bauteil schön heiß verabschiedet hat. Außerdem war fast überall
-Grünspan.
+| Sofort ist mir weißes Zeug auf der Platine, die für das Touchpad und Keyboard zuständig ist, aufgefallen. Jocki hat vermutet, dass sich da ein Bauteil schön heiß verabschiedet hat. Außerdem war fast überall Grünspan.
 |  |image1|
 
-| Obwohl die Hoffnung langsam schwand, habe ich angefangen die Einzelnen
-Teile mit Isopropanol zu säubern.
+| Obwohl die Hoffnung langsam schwand, habe ich angefangen die Einzelnen Teile mit Isopropanol zu säubern.
 |  |image2|
 
-| Dann habe ich alles wieder zusammengebaut und gehofft, dass es nun
-geht. Aber das Ding reagiert einfach auf nichts. Dann sind mir
-Federstifte aufgefallen, und ich dachte, dass die vllt checken ob der
-Boden festgeschraubt ist. Also habe ich mit ein paar Klemmen, alle
-Stifte am Gehäuse befestigt. Aber es ging trotzdem nicht.
+| Dann habe ich alles wieder zusammengebaut und gehofft, dass es nun geht. Aber das Ding reagiert einfach auf nichts. Dann sind mir Federstifte aufgefallen, und ich dachte, dass die vllt checken ob der Boden festgeschraubt ist. Also habe ich mit ein paar Klemmen, alle Stifte am Gehäuse befestigt. Aber es ging trotzdem nicht.
 |  |image3|
 
-| Meine Vermutung war immer noch, dass alles Andere noch funktioniert.
-Also muss ich das Teil irgendwie ohne die Tastatur anschalten. Etwas
-Googeln hat erbracht, dass alte MacBooks auf ihrem Logic Board zwei Pads
-haben, die man dazu überbrücken muss. nach etwas rumsuchen auf dem
-LogicBoard ist mir auch die schwarze Schrift PWRBTN (Power Button) auf
-der schwarzen Platine aufgefallen. Bei dieser Schrift befindet sich ein
-Widerstand. Jocki hat vermutet, dass das der Schlüssel sein könnte. Ich
-habe also dann mal mit einem Multimeter gemessen, und das ergab +5V.
-Also habe ich versucht das auf Masse zu ziehen. Aber das hat nichts
-bewirkt.
+| Meine Vermutung war immer noch, dass alles Andere noch funktioniert. Also muss ich das Teil irgendwie ohne die Tastatur anschalten. Etwas Googeln hat erbracht, dass alte MacBooks auf ihrem Logic Board zwei Pads haben, die man dazu überbrücken muss. nach etwas rumsuchen auf dem LogicBoard ist mir auch die schwarze Schrift PWRBTN (Power Button) auf der schwarzen Platine aufgefallen. Bei dieser Schrift befindet sich ein Widerstand. Jocki hat vermutet, dass das der Schlüssel sein könnte. Ich habe also dann mal mit einem Multimeter gemessen, und das ergab +5V. Also habe ich versucht das auf Masse zu ziehen. Aber das hat nichts bewirkt.
 |  |image4|
 
 Dann habe ich mir überlegt, dass sich auf der Unterseite noch was
@@ -92,22 +60,13 @@ der Oberseite sind dass dann die Pads im gelben Kreis.\ `
 
 |image5| <http://shackspace.de/wp-content/uploads/2011/08/DSC00265.jpg>`__
 
-| Ans Netz angeschlossen. Überbrückt und SO MUCH WIN! Es bootet einfach
-:D
+| Ans Netz angeschlossen. Überbrückt und SO MUCH WIN! Es bootet einfach :D
 |  |image6|
 
-| Also habe ich Alles mal wieder angeschlossen (Lautsprecher, Keyboard,
-...) und nochmal überbrückt. Diesmal habe ich ihn komplett starten
-lassen. Es funktioniert wirklich noch :D
+| Also habe ich Alles mal wieder angeschlossen (Lautsprecher, Keyboard, ...) und nochmal überbrückt. Diesmal habe ich ihn komplett starten lassen. Es funktioniert wirklich noch :D
 |  |image7|
 
-| Dann habe ich mal das Touchpad und die Tastatur ausprobiert. Touchpad
-funktioniert perfekt - mit Multitouch und allem. Nur das Keyboard zickt
-etwas. Die Leertaste produziert ein Apostroph, die rechte CMD Taste und
-die Power Off Taste tuen gar nicht usw. Da ist unglaublich interessant,
-dass die Platine so zerstört aussah, aber doch noch so gut funktioniert.
-ich vermute daher, dass die Folie unter den Tasten was abbekommen hat
-und jetzt die Tasten sich teilweise falsch verhalten.
+| Dann habe ich mal das Touchpad und die Tastatur ausprobiert. Touchpad funktioniert perfekt - mit Multitouch und allem. Nur das Keyboard zickt etwas. Die Leertaste produziert ein Apostroph, die rechte CMD Taste und die Power Off Taste tuen gar nicht usw. Da ist unglaublich interessant, dass die Platine so zerstört aussah, aber doch noch so gut funktioniert. ich vermute daher, dass die Folie unter den Tasten was abbekommen hat und jetzt die Tasten sich teilweise falsch verhalten.
 |  |image8|
 
 Hier noch ein Bild vom Chaos.\ `
@@ -145,3 +104,5 @@ damit zu beschäftigen und man schnell die Teile durchtestet.
 .. |image8| image:: http://shackspace.de/wp-content/uploads/2011/08/DSC00272-300x168.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/08/DSC00272.jpg
 .. |image9| image:: http://shackspace.de/wp-content/uploads/2011/08/DSC00274-300x168.jpg
+
+

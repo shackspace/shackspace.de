@@ -5,8 +5,7 @@ Easterhegg 2014: Video Recordings
 :category: Allgemein
 :slug: easterhegg-2014-video-recordings
 
-| |ehlogo|\ Der Easterhegg ist vorbei, das Equipment verräumt. Schlaf
-ist nachgeholt.
+| |ehlogo|\ Der Easterhegg ist vorbei, das Equipment verräumt. Schlaf ist nachgeholt.
 |  Vielen Dank an alle Helfer und Besucher, der Event war großartig.
 
 Für alle die einen Vortrag verpasst haben oder garnicht erst kommen
@@ -21,3 +20,5 @@ Viel Spaß beim schauen!
 
 .. |ehlogo| image:: http://shackspace.de/wp-content/uploads/2014/04/ehlogo-282x300.png
    :target: http://shackspace.de/wp-content/uploads/2014/04/ehlogo.png
+
+

@@ -36,3 +36,5 @@ Auch lag dem Schreiben folgendes Lebenszeichen der Flagge bei:
    :target: http://shackspace.de/wp-content/uploads/2012/06/DSC_5585.jpg
 .. |image1| image:: http://shackspace.de/wp-content/uploads/2012/06/DSC_5572-290x300.jpg
    :target: http://shackspace.de/wp-content/uploads/2012/06/DSC_5572.jpg
+
+

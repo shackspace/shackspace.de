@@ -35,18 +35,12 @@ Ziel des Workshops ist das Bauen einer einfachen Web Application.
 -  `node.js <http://nodejs.org/>`__ (>= 0.8.x)
 -  `mongodb <http://www.mongodb.org/>`__ (>= 2.2.x)
 
-| **Zum Event:
-**\ **Eintritt frei!** (Spenden an shack e.V. sind gerne gesehen) Jeder
-ist willkommen!  Freiwillige, `formlose
-Anmeldung <http://doodle.com/b8uxq8ps2ih8vuau>`__ (Doodle) wäre  cool,
-braucht’s aber nicht.
-|  Datum: \ **Samstag, 6. Oktober 2012**, ab \ **15:00 Uhr** (etwa 3
-Stunden)\ **
-**\ Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße
-255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber
-Kulturhaus Arena)
+| **Zum Event: **\ **Eintritt frei!** (Spenden an shack e.V. sind gerne gesehen) Jeder ist willkommen!  Freiwillige, `formlose Anmeldung <http://doodle.com/b8uxq8ps2ih8vuau>`__ (Doodle) wäre  cool, braucht’s aber nicht.
+|  Datum: \ **Samstag, 6. Oktober 2012**, ab \ **15:00 Uhr** (etwa 3 Stunden)\ ** **\ Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
 
 *Bild: nodejs.org \ http://nodejs.org/logos/*
 
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2012/09/nodejs-dark.png
    :target: http://shackspace.de/wp-content/uploads/2012/09/nodejs-dark.png
+
+

@@ -6,13 +6,10 @@ shack e.V. turns 1 - top secret party at undisclosed location
 :slug: shack-e-v-turns-1-top-secret-party-at-undisclosed-location
 
 | |image0|
-|  20.02.2010 16:15Uhr waren die Zeitkoordinaten des Gründungstreffens
-des shack e.V.
+|  20.02.2010 16:15Uhr waren die Zeitkoordinaten des Gründungstreffens des shack e.V.
 
 | Daraus folgt: Der shack e.V. feiert heute seinen ersten Geburtstag!
-|  Eine streng geheime Party wird an einem uns nicht bekannte Ort
-stattfinden. Eine andere, wahrscheinlich öffentliche Party wird zu einem
-anderen Zeitpunkt an einem anderen Ort stattfinden. Details folgen.
+|  Eine streng geheime Party wird an einem uns nicht bekannte Ort stattfinden. Eine andere, wahrscheinlich öffentliche Party wird zu einem anderen Zeitpunkt an einem anderen Ort stattfinden. Details folgen.
 
 ---------------english version---------------
 
@@ -28,3 +25,5 @@ time line but details are still to be determined.
 
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2011/02/birthday.png
    :target: http://shackspace.de/wp-content/uploads/2011/02/birthday.png
+
+

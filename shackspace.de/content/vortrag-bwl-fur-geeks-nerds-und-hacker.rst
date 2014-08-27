@@ -5,8 +5,7 @@ Vortrag: BWL für Geeks, Nerds und Hacker
 :category: Termine
 :slug: vortrag-bwl-fur-geeks-nerds-und-hacker
 
-|image0|\ Am **Mittwoch**\ den **14. März 2012** lädt shackspace zum
-Vortrag "*BWL für Geeks, Nerds und Hacker*\ ".
+|image0|\ Am **Mittwoch**\ den **14. März 2012** lädt shackspace zum Vortrag "*BWL für Geeks, Nerds und Hacker*\ ".
 
 Wer keine Lust auf BWL hat weil ihm Bilanzen, Kostenrechnungen und
 Gesetze nerven kann beruhigt durchatmen: diese Themen werden \ *nicht*
@@ -29,15 +28,10 @@ folgende Themen näher beleuchten:
 -  Marketing und so
 -  und wenn es ganz arg sein muss auch noch WI / Wirtschaftsinformatik
 
-| *Zum Event:
-*\ **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder
-ist willkommen!  Um `formlose
-Anmeldung <http://www.doodle.com/mc8i9yw63wca73ub>`__ (Doodle) wird
-gebeten.
-|  Datum: \ **Mittwoch, 14. März 2012**, ab **19:00Uhr
-**\ Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße
-255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber
-Kulturhaus Arena)
+| *Zum Event: *\ **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder ist willkommen!  Um `formlose Anmeldung <http://www.doodle.com/mc8i9yw63wca73ub>`__ (Doodle) wird gebeten.
+|  Datum: \ **Mittwoch, 14. März 2012**, ab **19:00Uhr **\ Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
 
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2012/03/df1a8ad09e561db99eaa37596d3167a7.media_.500x375-150x150.jpg
    :target: http://shackspace.de/wp-content/uploads/2012/03/df1a8ad09e561db99eaa37596d3167a7.media_.500x375.jpg
+
+

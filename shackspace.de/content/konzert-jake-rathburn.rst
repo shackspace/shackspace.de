@@ -23,16 +23,11 @@ seinen zeitweise durchaus drolligen Shows durch lyrische Texte welche er
 gekonnt auf der Akustikgitarre begleitet.]
 
 | [STRIKEOUT:*Zum Event:*]
-|  [STRIKEOUT:Eintritt: \ **5 EUR Abendkasse** (3 EUR Mitglieder shack
-e.V.)]
-|  [STRIKEOUT:Anmeldung: \ `Event auf
-Facebook <https://www.facebook.com/events/549835371771089/>`__, bitte
-Anmelden damit wir grob planen können, Plätze nur beschränkt verfügbar.
-Wer kein Facebook benutzen will, bitte \ `im
-Doodle <http://www.doodle.com/57km28gw7wq5qtb4>`__ anmelden.]
+|  [STRIKEOUT:Eintritt: \ **5 EUR Abendkasse** (3 EUR Mitglieder shack e.V.)]
+|  [STRIKEOUT:Anmeldung: \ `Event auf Facebook <https://www.facebook.com/events/549835371771089/>`__, bitte Anmelden damit wir grob planen können, Plätze nur beschränkt verfügbar. Wer kein Facebook benutzen will, bitte \ `im Doodle <http://www.doodle.com/57km28gw7wq5qtb4>`__ anmelden.]
 |  [STRIKEOUT:Datum: \ **Samstag, 11. Januar 2014**, \ **20:00 Uhr**]
-|  [STRIKEOUT:Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße
-255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber
-Kulturhaus Arena)]
+|  [STRIKEOUT:Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)]
 
 [STRIKEOUT: ]
+
+

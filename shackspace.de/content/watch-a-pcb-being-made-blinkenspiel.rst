@@ -7,24 +7,11 @@ Watch a PCB Being Made: Blinkenspiel
 
 ` <http://shackspace.de/wiki/doku.php?id=leute:manu>`__\ |image0|
 
-| `Manu <http://shackspace.de/wiki/doku.php?id=leute:manu>`__ was hard
-at work again, building
-`Blinkenspiel <http://shackspace.de/wiki/doku.php?id=project:blinkenspiel>`__,
-the version two of `last year's
-blinken35 <http://shackspace.de/wiki/doku.php?id=project:blinken35>`__
-for this year's soldering workshop at the `Hobby & Elektronik
-fair <http://www.messe-stuttgart.de/cms/hobby11_besucher_messe.0.html>`__
-this week in Stuttgart.
-|  What's different this time from last year is quite visible: no more
-perf-board, it's a professionally manufactured PCB!
+| `Manu <http://shackspace.de/wiki/doku.php?id=leute:manu>`__ was hard at work again, building `Blinkenspiel <http://shackspace.de/wiki/doku.php?id=project:blinkenspiel>`__, the version two of `last year's blinken35 <http://shackspace.de/wiki/doku.php?id=project:blinken35>`__ for this year's soldering workshop at the `Hobby & Elektronik fair <http://www.messe-stuttgart.de/cms/hobby11_besucher_messe.0.html>`__ this week in Stuttgart.
+|  What's different this time from last year is quite visible: no more perf-board, it's a professionally manufactured PCB!
 
-| If there's the urgent need for a prototype PCB that we cannot `build
-ourselves <http://shackspace.de/wiki/doku.php?id=project:beta-layout:pcbprinter>`__
-(eg. tricky multi-layer boards or wanting more than a very few pieces)
-we call upon our trusted friends over at `Beta
-Layout <http://www.pcb-pool.com>`__.
-|  One of the very nice features they have is the automatic progress
-update, complete with photos!
+| If there's the urgent need for a prototype PCB that we cannot `build ourselves <http://shackspace.de/wiki/doku.php?id=project:beta-layout:pcbprinter>`__ (eg. tricky multi-layer boards or wanting more than a very few pieces) we call upon our trusted friends over at `Beta Layout <http://www.pcb-pool.com>`__.
+|  One of the very nice features they have is the automatic progress update, complete with photos!
 
 Now come along this little ride and watch a PCB being made:
 
@@ -57,3 +44,5 @@ fair at the Stuttgart Fair right at the airport.
 
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2011/11/bat2.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/11/bat2.jpg
+
+

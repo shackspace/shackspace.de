@@ -5,9 +5,7 @@ Après-Congress Jahresausklang mit Hack & Lounge im shackspace
 :category: Termine
 :slug: apres-congress-jahresausklang-mit-hack-lounge-im-shackspace
 
-|image0|\ Für die Freunde des ruhigen Jahresausklangs findet \ **am
-Abend des 31. Dezembers** eine gemütliche Hack & Lounge-Runde im
-shackspace statt. Willkommen ist - wie immer - jeder.
+|image0|\ Für die Freunde des ruhigen Jahresausklangs findet \ **am Abend des 31. Dezembers** eine gemütliche Hack & Lounge-Runde im shackspace statt. Willkommen ist - wie immer - jeder.
 
 .. raw:: html
 
@@ -26,3 +24,5 @@ Wangen (gegenüber Kulturhaus Arena)
 
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2012/06/shack-150x150.png
    :target: http://shackspace.de/wp-content/uploads/2012/06/shack.png
+
+

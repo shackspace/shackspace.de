@@ -5,10 +5,8 @@ Plenum
 :category: Allgemein, Termine
 :slug: triff-den-shack-jeden-mittwoch-1945
 
-| Alle Rezeptbücher haben es gesagt, und so ist es beim shack
-eingetreten: **Das wöchentliche Treffen ist da!**
-|  Um jedem die Chance auf Stimme und Zugang zum Plenum zu geben,
-treffen wir uns an unterschiedlichen Tagen:
+| Alle Rezeptbücher haben es gesagt, und so ist es beim shack eingetreten: **Das wöchentliche Treffen ist da!**
+|  Um jedem die Chance auf Stimme und Zugang zum Plenum zu geben, treffen wir uns an unterschiedlichen Tagen:
 
 -  Immer im Wechsel: eine Woche Donnerstag, die folgende Mittwoch
 -  Ist im Event-Kalender zu abonnieren. \ http://shackspace.de/?ec3_ical
@@ -24,5 +22,5 @@ Links <http://shackspace.de/wiki>`__
 | *Zum Event:*
 |  **Eintritt frei!** Jeder ist willkommen!
 |  **Datum:** Wöchentlich, abwechselnd Donnerstags und Mittwochs
-|  **Anfahrt:** U4/U9 Haltestelle “Im Degen”, `Ulmer Straße
-255 <../?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
+|  **Anfahrt:** U4/U9 Haltestelle “Im Degen”, `Ulmer Straße 255 <../?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
+

@@ -10,3 +10,5 @@ Callin Treffen am Freitag
 Wir treffen uns in Skype oder wie auch immer...
 
 .. |small.calendar| image:: http://hs07.eu/wp-content/uploads/2009/11/document-open.png
+
+

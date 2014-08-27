@@ -11,6 +11,5 @@ alle anderen) die gerne  mehr über shackspace erfahren wollen.
 
 | *Zum Event:*
 |  **Eintritt frei!** Jeder ist willkommen!
-|  Datum: **Samstag, 26. November 2011** ab **14:00 Uhr
-**\ Anfahrt:U4/U9 Haltestelle “Im Degen”, `Ulmer Straße
-255 <../?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
+|  Datum: **Samstag, 26. November 2011** ab **14:00 Uhr **\ Anfahrt:U4/U9 Haltestelle “Im Degen”, `Ulmer Straße 255 <../?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
+

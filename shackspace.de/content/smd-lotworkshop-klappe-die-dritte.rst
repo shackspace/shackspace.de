@@ -5,11 +5,7 @@ SMD-Lötworkshop, Klappe die dritte
 :category: Termine
 :slug: smd-lotworkshop-klappe-die-dritte
 
-|Symbolfoto| Es wird mal wieder Zeit: Unser Mitglied
-`Jocki <http://twitter.com/dop3j0e>`__ wird am zweiten
-Dezemberwochenende zum dritten Mal seinen SMD-Lötworkshop abhalten und
-wieder einmal zeigen, dass SMD-Löten per Hand kein Hexenwerk ist,
-solange man einen Lötkolben richtig herum halten kann.
+|Symbolfoto| Es wird mal wieder Zeit: Unser Mitglied `Jocki <http://twitter.com/dop3j0e>`__ wird am zweiten Dezemberwochenende zum dritten Mal seinen SMD-Lötworkshop abhalten und wieder einmal zeigen, dass SMD-Löten per Hand kein Hexenwerk ist, solange man einen Lötkolben richtig herum halten kann.
 
 Im Laufe von vier Stunden werden die Teilnehmer Jockis
 `TinyMega <http://shackspace.de/wiki/doku.php?id=project:tinymega>`__
@@ -76,3 +72,5 @@ wieder einen Workshop gibt.
    Stuttgart Wangen (gegenüber Kulturhaus Arena)
 
 .. |Symbolfoto| image:: http://shackspace.de/wp-content/uploads/2012/11/IMG_0102-300x200.jpg
+
+

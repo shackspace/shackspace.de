@@ -30,9 +30,9 @@ The operational concept arranges for isolating each application into a
 separate VServer reducing dependencies, easing updates and enhancing
 security.
 
-| After two months of preparation the services and contents were
-migrated to the new server yesterday. As it turned out one more time
-those computer things are sometimes not as easy as it seems.
+| After two months of preparation the services and contents were migrated to the new server yesterday. As it turned out one more time those computer things are sometimes not as easy as it seems.
 |  Sorry for the inconvenience.
 
 .. |testbild| image:: http://shackspace.de/wp-content/uploads/2013/03/testbild.gif
+
+

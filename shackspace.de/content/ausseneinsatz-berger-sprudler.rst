@@ -5,9 +5,7 @@ Ausseneinsatz: Berger Sprudler
 :category: Allgemein
 :slug: ausseneinsatz-berger-sprudler
 
-|image0|\ Am gestrigen Montag besuchte eine Delegation des shackspace
-die Anlagen der `Berger
-Sprudler <http://www.stuttgart.de/item/show/31481/1>`__.
+|image0|\ Am gestrigen Montag besuchte eine Delegation des shackspace die Anlagen der `Berger Sprudler <http://www.stuttgart.de/item/show/31481/1>`__.
 
 Eigentlich sollte es aus diesen, wie der Name impliziert, sprudeln.
 Beleuchtung die "noch nie" getan hat, gibt es ebenfalls. Eine erste
@@ -25,3 +23,5 @@ Gallery <http://shackspace.de/gallery/index.php/Projekte/Berger-Sprudler>`__.
 
 .. |image0| image:: http://shackspace.de/gallery/var/thumbs/Projekte/Berger-Sprudler/IMG_0557.JPG?m=1285065281
    :target: http://shackspace.de/gallery/index.php/Projekte/Berger-Sprudler/IMG_0557
+
+

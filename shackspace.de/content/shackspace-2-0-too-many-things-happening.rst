@@ -10,11 +10,7 @@ much happening right now.
 
 | Good news: We accidentally the whole internet connection!
 |  "The what?", you say? Yes, the whole internet connection.
-|  shackspace now has a 50/10Mbit line connected.  At first try on the
-advertised day on top of that.  Took some punching of the tech guys and
-various levels of social engineering using phone numbers you're not
-usually supposed to call, but a team of fellow hackers managed to get
-everything in order.
+|  shackspace now has a 50/10Mbit line connected.  At first try on the advertised day on top of that.  Took some punching of the tech guys and various levels of social engineering using phone numbers you're not usually supposed to call, but a team of fellow hackers managed to get everything in order.
 
 Omnomnomnom is the word of the next item on the list.  A very short term
 (<2h) decision one Monday night resulted in shackspace now having not
@@ -28,3 +24,5 @@ Finally enough storage space for all our stuff (for now).
 The portal system is working again as well, at least for one of the two
 doors we need to control.  Properly implementing the system for the
 outside door will set us back at least 600 EUR.  Yikes.
+
+

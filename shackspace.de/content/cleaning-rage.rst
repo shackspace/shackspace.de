@@ -5,10 +5,8 @@ Cleaning-Rage!
 :category: Termine
 :slug: cleaning-rage
 
-| |image0|\ We'll be meeting on a regular basis at the space to clean
-up!
-|  Nobody likes to work or hang out in a messy environment and lots of
-people produce lots of ... well, leftovers :)
+| |image0|\ We'll be meeting on a regular basis at the space to clean up!
+|  Nobody likes to work or hang out in a messy environment and lots of people produce lots of ... well, leftovers :)
 
 Here's what we do:
 
@@ -30,3 +28,5 @@ Be awesome!
 
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2011/09/cleaningrage.png
    :target: http://shackspace.de/wp-content/uploads/2011/09/cleaningrage.png
+
+

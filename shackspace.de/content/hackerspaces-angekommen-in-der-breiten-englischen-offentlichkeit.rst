@@ -5,10 +5,7 @@ Hackerspaces: angekommen in der breiten (englischen) Öffentlichkeit
 :category: Allgemein
 :slug: hackerspaces-angekommen-in-der-breiten-englischen-offentlichkeit
 
-| Hackerspaces wie shackspace, die Stuttgarter Inkarnation des
-`weltweiten
-Phänomes <http://hackerspaces.org/wiki/List_of_Hacker_Spaces>`__, haben
-nun endgültig Einzug in den Alltag und die Alltagssprache gehalten.
+| Hackerspaces wie shackspace, die Stuttgarter Inkarnation des `weltweiten Phänomes <http://hackerspaces.org/wiki/List_of_Hacker_Spaces>`__, haben nun endgültig Einzug in den Alltag und die Alltagssprache gehalten.
 |  Zumindest in die englische Sprache.
 
 Das Oxford English Dictionary, der englischsprachige Pendat zum
@@ -34,3 +31,5 @@ Im Deutschen sind wir noch nicht ganz so weit, denn für uns schlägt der
 Duden (noch) das Gibson'sche
 "`cyberspace <http://www.duden.de/suchen/dudenonline/hackerspace>`__\ "
 als Suchalternative vor.
+
+

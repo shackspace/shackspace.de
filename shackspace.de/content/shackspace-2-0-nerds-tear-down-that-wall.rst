@@ -6,3 +6,5 @@ shackspace 2.0: nerds, tear down that wall!
 :slug: shackspace-2-0-nerds-tear-down-that-wall
 
 Doing our part for the reunification of countr^W rooms :)
+
+

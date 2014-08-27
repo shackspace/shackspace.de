@@ -5,13 +5,7 @@
 :category: Allgemein
 :slug: 16x16-led-plasma-display-w-100-hand-made-smd-driver-pcb
 
-|image0|\ Everyone has dreams. At hackerspaces dreams usually involve
-some kind of technology and only the tiniest amount of sanity required
-to get it done.  shackspace member
-@\ `dop3j0e <https://twitter.com/dop3j0e>`__ spent may hours and
-valuable amounts of his sanity on this little gem.  It's a fully
-hand-made (design, layout, etching, soldering) 16x16px LED display.  The
-dream in this case is to make this thing bigger. Way bigger and RGB.
+|image0|\ Everyone has dreams. At hackerspaces dreams usually involve some kind of technology and only the tiniest amount of sanity required to get it done.  shackspace member @\ `dop3j0e <https://twitter.com/dop3j0e>`__ spent may hours and valuable amounts of his sanity on this little gem.  It's a fully hand-made (design, layout, etching, soldering) 16x16px LED display.  The dream in this case is to make this thing bigger. Way bigger and RGB.
 
 Rapid Prototyping
 ~~~~~~~~~~~~~~~~~
@@ -36,8 +30,7 @@ wires, breadboard, a
 and the displays somehow working most of the time.  This had to become
 more stable and way more compact.
 
-|image1|\ Shrinking it Down
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|image1|\ Shrinking it Down ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In a continued effort to ramp up our skill set and manufacturing
 capabilities we've gone from breadboarding to perfboard to etched
@@ -105,3 +98,5 @@ Meanwhile, here's a video of the breadboard prototype.
    :target: http://shackspace.de/gallery/index.php/Projekte/LED-Plasma/action
 .. |image1| image:: http://shackspace.de/gallery/var/thumbs/Projekte/LED-Plasma/board.jpg?m=1297895033
    :target: http://shackspace.de/gallery/index.php/Projekte/LED-Plasma/board
+
+

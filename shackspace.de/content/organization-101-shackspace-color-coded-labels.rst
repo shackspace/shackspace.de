@@ -5,10 +5,7 @@ Organization 101: shackspace Color-Coded Labels
 :category: Allgemein
 :slug: organization-101-shackspace-color-coded-labels
 
-|image0|\ At shackspace we're employing several labeling systems to
-identify ownership and/or access policies. One system we've rolled out
-not too long ago and that's been working very well so far is a
-five-stage access policy marker with color-coded stickers.
+|image0|\ At shackspace we're employing several labeling systems to identify ownership and/or access policies. One system we've rolled out not too long ago and that's been working very well so far is a five-stage access policy marker with color-coded stickers.
 
 Each sticker comes with a short explanation of the policy, a unique
 color scheme, and enough space to write your name.
@@ -48,3 +45,5 @@ are free for the taking ;)
 
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2012/11/nrzfy-300x225.jpg
    :target: http://shackspace.de/wp-content/uploads/2012/11/nrzfy.jpg
+
+

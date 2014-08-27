@@ -8,12 +8,7 @@ Workshop: AVR + SMD + USB = Awesome!
 **UPDATE #2:** Alle Plätze im Workshop sind inzwischen belegt =( Falls Ihr gerne noch teilgenommen hättet, `schreibt uns <mailto:atmega32u4-workshop@dojoe.net?subject=[workshop]>`__ und je nach Andrang werden wir den Workshop an einem anderen Wochenende wieder auflegen.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-|image0| Seit `Arduino <http://arduino.cc/>`__ und
-`Maple <http://leaflabs.com/devices/maple/>`__ sind Microcontroller aus
-dem Hackeralltag kaum noch wegzudenken. Ebenso bekommt der Hacker
-feuchte Hände, wenn es um Themen wie
-`SMD-Löten <http://de.wikipedia.org/wiki/Surface-mounted_device>`__ oder
-`USB <http://de.wikipedia.org/wiki/Universal_Serial_Bus>`__ geht.
+|image0| Seit `Arduino <http://arduino.cc/>`__ und `Maple <http://leaflabs.com/devices/maple/>`__ sind Microcontroller aus dem Hackeralltag kaum noch wegzudenken. Ebenso bekommt der Hacker feuchte Hände, wenn es um Themen wie `SMD-Löten <http://de.wikipedia.org/wiki/Surface-mounted_device>`__ oder `USB <http://de.wikipedia.org/wiki/Universal_Serial_Bus>`__ geht.
 
 Unser Mitglied Jocki (@`dop3j0e <http://twitter.com/dop3j0e>`__)
 kombiniert am kommenden Wochenende an drei Terminen alle drei dieser
@@ -59,3 +54,5 @@ wird gebeten.
 
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2011/10/jt9ja-225x300.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/10/jt9ja.jpg
+
+

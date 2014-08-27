@@ -5,26 +5,13 @@ shackspace Hacker finds Flaw in Ubiquiti Networks' UniFi Products
 :category: Allgemein
 :slug: shackspace-hacker-finds-flaw-in-ubiquiti-networks-unifi-products
 
-|ubnt_logo_basic_flat_color|\ Over a year ago shackspace migrated
-its Wifi infrastructure to an all-Ubiquiti setup because our previous
-setup made up of consumer grade TP-Link access points was neither stable
-nor could it cope with enough clients to cover 30+ visitors to the
-space. We've decided to pick up a few UniFi access points and were
-really happy with the ease of installation as well as management
-capabilities.
+|ubnt_logo_basic_flat_color|\ Over a year ago shackspace migrated its Wifi infrastructure to an all-Ubiquiti setup because our previous setup made up of consumer grade TP-Link access points was neither stable nor could it cope with enough clients to cover 30+ visitors to the space. We've decided to pick up a few UniFi access points and were really happy with the ease of installation as well as management capabilities.
 
-| However, this wouldn't be a hackerspace if there wasn't someone
-applying a bit more scrutiny than usual to the new toys.
-|  In this case it was shackspace hacker
-`momo <https://twitter.com/momorientes>`__ who soon discovered a serious
-flaw in the UniFi controller management web interface.
+| However, this wouldn't be a hackerspace if there wasn't someone applying a bit more scrutiny than usual to the new toys.
+|  In this case it was shackspace hacker `momo <https://twitter.com/momorientes>`__ who soon discovered a serious flaw in the UniFi controller management web interface.
 
-| After following the best practice of `responsible
-disclosure <http://en.wikipedia.org/wiki/Responsible_disclosure>`__,
-now, a year later, momo can talk about the details behind the issue.
-|  A fix for the bug discovered has already made its way into updates
-quite a while ago so if you kept your infrastructure up to date, you're
-already safe from that particular bug.
+| After following the best practice of `responsible disclosure <http://en.wikipedia.org/wiki/Responsible_disclosure>`__, now, a year later, momo can talk about the details behind the issue.
+|  A fix for the bug discovered has already made its way into updates quite a while ago so if you kept your infrastructure up to date, you're already safe from that particular bug.
 
 The bug in question allowed an attacker to forge a special DHCP hostname
 (e.g. containing HTML and Javascript code) and inject this information
@@ -41,3 +28,5 @@ now's a good time to update ;)
 
 .. |ubnt_logo_basic_flat_color| image:: http://shackspace.de/wp-content/uploads/2013/10/ubnt_logo_basic_flat_color.png
    :target: http://shackspace.de/wp-content/uploads/2013/10/ubnt_logo_basic_flat_color.png
+
+

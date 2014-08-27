@@ -17,12 +17,6 @@ Gespür für OO (objektorientierte Programmierung) zu entwickeln um dann
 beim nächsten Java-Seminar richtig in die Java-Syntax bezüglich OO
 einzutauchen.
 
-| *Zum Event:
-*\ **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder
-ist willkommen!  Um `formlose
-Anmeldung <http://www.doodle.com/w563rcx6ykv2wa5x>`__ (Doodle) wird
-gebeten.
-|  Datum: \ **Dienstag, 29. Mai 2012**, ab \ **20:00 Uhr
-**\ Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße
-255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber
-Kulturhaus Arena)
+| *Zum Event: *\ **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder ist willkommen!  Um `formlose Anmeldung <http://www.doodle.com/w563rcx6ykv2wa5x>`__ (Doodle) wird gebeten.
+|  Datum: \ **Dienstag, 29. Mai 2012**, ab \ **20:00 Uhr **\ Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
+

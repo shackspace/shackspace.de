@@ -7,11 +7,8 @@ Global Game Jam 2013 - Review
 
 |http://www.flickr.com/photos/regionstuttgart/8428867933/in/set-72157632636985537|
 
-| We've had a great time `hosting this year's Global Game
-Jam <http://shackspace.de/?p=3707>`__ at shackspace.
-|  Turns out that with 33 game developers, students, designers and
-musicians working on building games the Stuttgart Jam was one of the
-largest in Germany!
+| We've had a great time `hosting this year's Global Game Jam <http://shackspace.de/?p=3707>`__ at shackspace.
+|  Turns out that with 33 game developers, students, designers and musicians working on building games the Stuttgart Jam was one of the largest in Germany!
 
 This years topic was "Heartbeat" and the Stuttgart event resulted in
 seven games being developed in two days. Make sure to check them out,
@@ -44,3 +41,5 @@ Stuttgart <http://www.flickr.com/photos/regionstuttgart/8428867933/in/set-721576
 
 .. |http://www.flickr.com/photos/regionstuttgart/8428867933/in/set-72157632636985537| image:: http://shackspace.de/wp-content/uploads/2013/01/8428867933_3721a8509b.jpg
    :target: http://www.flickr.com/photos/regionstuttgart/8428867933/in/set-72157632636985537
+
+

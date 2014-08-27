@@ -30,16 +30,14 @@ Features to be introduces with one of the next versions will be:
 
 | *The App:*
 |  Platform: Android 2.1 or higher
-|  Download: `Android
-Market <https://market.android.com/details?id=com.shack.app>`__
-|  `Project
-page <http://shackspace.de/wiki/doku.php?id=project:shackapp>`__
-| 
-`Bugtracker <http://code.tutschonwieder.net/redmine/projects/shackapp>`__
+|  Download: `Android Market <https://market.android.com/details?id=com.shack.app>`__
+|  `Project page <http://shackspace.de/wiki/doku.php?id=project:shackapp>`__
+|  `Bugtracker <http://code.tutschonwieder.net/redmine/projects/shackapp>`__
 
 | *The Coder:*
-|  @\ `tensau <https://twitter.com/tensau>`__,
-`tutschonwieder.net <http://tutschonwieder.net>`__
+|  @\ `tensau <https://twitter.com/tensau>`__, `tutschonwieder.net <http://tutschonwieder.net>`__
 
 ` <http://tutschonwieder.net>`__\ [gallery link="file" order="DESC"
 columns="4"]
+
+

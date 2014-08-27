@@ -37,15 +37,12 @@ Folgende Spiele wurden für die **Über-18** LAN vorgeschlagen:
 -  Company of Heroes
 -  Team Fortress 2
 
-| Was tatsächlich gespielt wird, entscheiden wir kurzfristig auf der
-LAN-Party nach aktueller Stimmungslage.
-|  Für Spiele, welche eine Lizenz benötigen hat jeder Teilnehmer selbst
-dafür zu sorgen, dass diese vorhanden ist.
+| Was tatsächlich gespielt wird, entscheiden wir kurzfristig auf der LAN-Party nach aktueller Stimmungslage.
+|  Für Spiele, welche eine Lizenz benötigen hat jeder Teilnehmer selbst dafür zu sorgen, dass diese vorhanden ist.
 
 | *Zur LAN Party:*
-|  **Eintritt frei**! Jeder is willkommen!  `Formlose Anmeldung
-erwünscht <http://www.doodle.com/4nmfug4g9vsue4zd>`__ (Doodle)
+|  **Eintritt frei**! Jeder is willkommen!  `Formlose Anmeldung erwünscht <http://www.doodle.com/4nmfug4g9vsue4zd>`__ (Doodle)
 |  Datum: **Freitag 30.09.2011** bis **Montag 03.10.2011**
-|  Uhrzeit: **ab Freitag Abend** zwischen 18:00 Uhr und 19:00 Uhr wird
-angefangen aufzubauen
+|  Uhrzeit: **ab Freitag Abend** zwischen 18:00 Uhr und 19:00 Uhr wird angefangen aufzubauen
 |  `Anfahrtsbeschreibung <http://shackspace.de/?page_id=713>`__
+

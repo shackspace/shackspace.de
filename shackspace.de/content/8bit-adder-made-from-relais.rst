@@ -40,3 +40,5 @@ controlled via circuit breaker switches. Since this is industrial grade
 hardware it's of course powered by 230V mains fed into the setup from a
 wall socket via two banana jacks (note: we do have a mains circuit with
 special safety features for fun like that at shackspace).
+
+

@@ -52,3 +52,5 @@ Also, there's lots of what every hacker is afraid of: Documentation!
    including a Hello World program on the shackspace Wiki (German).
 
 [gallery link="file" columns="4"]
+
+

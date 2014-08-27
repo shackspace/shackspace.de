@@ -36,12 +36,6 @@ statt.
 Wer aktiv mitrechnen und mitbrechen will, darf gerne seinen Laptop
 mitbringen.
 
-| **Zum Event:
-**\ **Eintritt frei!** (Spenden an shack e.V. sind gerne gesehen) Jeder
-ist willkommen!  Freiwillige, `formlose
-Anmeldung <http://doodle.com/ntian64u5dee77sp>`__ (Doodle) wäre  cool,
-braucht’s aber nicht.
-|  Datum: \ **Freitag, 28. September 2012**, ab \ **20:00 Uhr
-**\ Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße
-255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber
-Kulturhaus Arena)
+| **Zum Event: **\ **Eintritt frei!** (Spenden an shack e.V. sind gerne gesehen) Jeder ist willkommen!  Freiwillige, `formlose Anmeldung <http://doodle.com/ntian64u5dee77sp>`__ (Doodle) wäre  cool, braucht’s aber nicht.
+|  Datum: \ **Freitag, 28. September 2012**, ab \ **20:00 Uhr **\ Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
+

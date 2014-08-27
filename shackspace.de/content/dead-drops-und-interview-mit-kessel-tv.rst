@@ -16,3 +16,5 @@ ausgefragt und was dabei rauskam, findet sich im `Interview auf dem
 kessel.tv Blog <http://kessel.tv/unsere-leser-und-wir-philgrooves/>`__.
 Gesprochen wurde über Stuttgart, den shackspace und Phil's Vorliebe für
 die gleichzeitige Verwendung mehrerer rotierender Tonträger.
+
+

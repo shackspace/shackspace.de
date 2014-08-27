@@ -5,45 +5,20 @@ Open Sesame: Harddrive Password Hacking with a OpenBench Logic Sniffer
 :category: Allgemein, Projekte
 :slug: open-sesame-harddrive-password-hacking-with-a-openbench-logic-sniffer
 
-|image0|\ shackspace's @\ `dop3j0e <https://twitter.com/dop3j0e>`__ had
-a big problem.  A password problem.  Quite a while ago he set up a
-password for his Thinkpad's harddrive and chose to unlock his drive
-using the built-in fingerprint scanner.  Years passed, thumbs were drawn
-over the scanner countless times, passwords were changed frequently. 
-But not all passwords were changed.  That one password for his harddrive
-never did change and over time he simply forgot what the actual password
-was.
+|image0|\ shackspace's @\ `dop3j0e <https://twitter.com/dop3j0e>`__ had a big problem.  A password problem.  Quite a while ago he set up a password for his Thinkpad's harddrive and chose to unlock his drive using the built-in fingerprint scanner.  Years passed, thumbs were drawn over the scanner countless times, passwords were changed frequently.  But not all passwords were changed.  That one password for his harddrive never did change and over time he simply forgot what the actual password was.
 
-| The thumb print scanner kept working.  However, to change or disable
-the password you have to enter it by keyboard in the BIOS since in this
-case it does not accept the thumb print scanner as input.
-|  This poses a real problem.  How do you access the disk if your
-fingerprint scanner dies?  Or what if the laptop dies and you have to
-unlock the drive from a different machine that doesn't have the password
-stored in the fingerprint scanner?
+| The thumb print scanner kept working.  However, to change or disable the password you have to enter it by keyboard in the BIOS since in this case it does not accept the thumb print scanner as input.
+|  This poses a real problem.  How do you access the disk if your fingerprint scanner dies?  Or what if the laptop dies and you have to unlock the drive from a different machine that doesn't have the password stored in the fingerprint scanner?
 
 | There's various approaches to go about this issue.
-|  One idea was  to reverse engineer the BIOS to find out where the
-actual password is stored.  This turned out to be especially nasty
-business and while a lot of insight was gained into how (ugly) a BIOS
-looks from the inside, no password was recovered.
-|  Another idea which does not work was exchanging the control board of
-the harddrive with that of a similar model. Turns out the harddrive
-password is stored on the platter, not the controller.
-|  You could of course use a logic sniffer (costs multiple kilo-Euros)
-and sniff the IDE bus for the password being transmitted.  Not really an
-option either... or is it?
+|  One idea was  to reverse engineer the BIOS to find out where the actual password is stored.  This turned out to be especially nasty business and while a lot of insight was gained into how (ugly) a BIOS looks from the inside, no password was recovered.
+|  Another idea which does not work was exchanging the control board of the harddrive with that of a similar model. Turns out the harddrive password is stored on the platter, not the controller.
+|  You could of course use a logic sniffer (costs multiple kilo-Euros) and sniff the IDE bus for the password being transmitted.  Not really an option either... or is it?
 
 Open Source Hardware to the Rescue
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-|image1|\ Thanks to the open source hardware movement, you can have a
-logic sniffer for just $50!  The `OpenBench Logic
-Sniffer <http://www.seeedstudio.com/depot/open-workbench-logic-sniffer-p-612.html?cPath=174>`__
-is exactly what you want and
-@\ `hdznrrd <https://twitter.com/hdznrrd>`__ at shackspace just happened
-to receive his first batch pre-order at the exact time @dop3j0e was
-about to fall into despair.
+|image1|\ Thanks to the open source hardware movement, you can have a logic sniffer for just $50!  The `OpenBench Logic Sniffer <http://www.seeedstudio.com/depot/open-workbench-logic-sniffer-p-612.html?cPath=174>`__ is exactly what you want and @\ `hdznrrd <https://twitter.com/hdznrrd>`__ at shackspace just happened to receive his first batch pre-order at the exact time @dop3j0e was about to fall into despair.
 
 The OBLS comes with 16 buffered (3.3 or 5V) pins and another 16
 unbuffered (3.3V only) pins.  The `IDE
@@ -57,12 +32,8 @@ else (details below).  And yes, the IDE bus has exactly 16 data pins :)
 Sniffing the IDE bus for the Password Transfer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| |image2|\ Next it was time to hook up the harddrive to the sniffer. 
-What makes this slightly complicated is that you have to sniff the bus
-while the harddrive is mounted inside the laptop.
-|  To do this individual wires were connected to each of the 16 data
-pins.  Since the drive bay wasn't large enough to accommodate the
-wiring, the laptop had to be partially disassembled.
+| |image2|\ Next it was time to hook up the harddrive to the sniffer.  What makes this slightly complicated is that you have to sniff the bus while the harddrive is mounted inside the laptop.
+|  To do this individual wires were connected to each of the 16 data pins.  Since the drive bay wasn't large enough to accommodate the wiring, the laptop had to be partially disassembled.
 
 The OBLS is compatible with the `SUMP Logic Analyzer
 GUI <http://www.sump.org/projects/analyzer/client/>`__ which was used to
@@ -132,3 +103,5 @@ http://www.shackspace.de/gallery/index.php/Projekte/Festplattenpasswort-sniffen
    :target: http://shackspace.de/wp-content/uploads/2011/04/DSC_2883.jpg
 .. |image3| image:: http://shackspace.de/wp-content/uploads/2011/04/sump_trigger-300x115.png
    :target: http://shackspace.de/wp-content/uploads/2011/04/sump_trigger.png
+
+

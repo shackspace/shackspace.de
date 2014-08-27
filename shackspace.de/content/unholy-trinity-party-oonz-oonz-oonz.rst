@@ -10,9 +10,7 @@ Unholy Trinity Party: Oonz Oonz Oonz
 zet, ronny und hadez laden zum Geburtstagsreinfeiern,
 Geburtstagsnachfeiern, und Dableiben ein.
 
-| Am Start sind DJs @\ `dop3j0e <httpa://twitter.com/dop3j0e>`__ und
-`Saiba <http://www.myspace.com/djsaiba>`__ (UK) mit feinster Mischung
-aus Drum and Bass, Liquid, Arschwackeln und Dubstep.
+| Am Start sind DJs @\ `dop3j0e <httpa://twitter.com/dop3j0e>`__ und `Saiba <http://www.myspace.com/djsaiba>`__ (UK) mit feinster Mischung aus Drum and Bass, Liquid, Arschwackeln und Dubstep.
 |  Protip: Wer früher kommt, kommt getränketechnisch billiger weg ;)
 
 | Der Tag: **Samstag, 3. Dezember 2011**
@@ -24,3 +22,5 @@ aus Drum and Bass, Liquid, Arschwackeln und Dubstep.
 
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2011/11/flyer-300x212.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/11/flyer.jpg
+
+

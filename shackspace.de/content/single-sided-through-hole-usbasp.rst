@@ -5,9 +5,7 @@ Single-sided through-hole USBasp
 :category: Allgemein
 :slug: single-sided-through-hole-usbasp
 
-|image0|\ shack member Michael built his `own
-version <http://www.mupfelofen.de/?post/2011/02/14/USBasp>`__ of the
-famous `USBasp <http://www.fischl.de/usbasp/>`__ by Thomas Fischl.
+|image0|\ shack member Michael built his `own version <http://www.mupfelofen.de/?post/2011/02/14/USBasp>`__ of the famous `USBasp <http://www.fischl.de/usbasp/>`__ by Thomas Fischl.
 
 But it's not just yet another USBasp implementation. This little gem is
 a true single-sided PCB without any bridges, all through-hole components
@@ -23,3 +21,5 @@ start making your own!
 
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2011/02/usbasp-300x225.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/02/usbasp.jpg
+
+

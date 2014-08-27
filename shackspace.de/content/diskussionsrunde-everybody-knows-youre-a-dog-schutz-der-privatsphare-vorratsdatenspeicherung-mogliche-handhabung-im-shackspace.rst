@@ -5,23 +5,12 @@ Diskussionsrunde: Everybody knows you're a dog - Schutz der Privatsphäre, Vorra
 :category: Termine
 :slug: diskussionsrunde-everybody-knows-youre-a-dog-schutz-der-privatsphare-vorratsdatenspeicherung-mogliche-handhabung-im-shackspace
 
-| |Hello_2ab23c_2705941|\ Diesen **Samstag** um **19 Uhr** lädt
-shackspace zur Diskussion mit angegliedertem Vortrag zum Thema:
-*Everybody knows you're a dog - Diskussion über den Schutz der
-Privatsphäre, Vorratsdatenspeicherung und wie wir das im
-shackspace handhaben wollen*.
+| |Hello_2ab23c_2705941|\ Diesen **Samstag** um **19 Uhr** lädt shackspace zur Diskussion mit angegliedertem Vortrag zum Thema: *Everybody knows you're a dog - Diskussion über den Schutz der Privatsphäre, Vorratsdatenspeicherung und wie wir das im shackspace handhaben wollen*.
 |  Für weitere Spannung sorgt ein Exkurs zum Thema Kreditkartenbetrug.
 
-| shackspace Hacker pi, selbst mit langjähriger Erfahrung in den
-Aufgaben und Anforderungen die bei Internetdienstanbietern anfallen,
-beginnt den Abend mit einer kurzen Definition der Privatsphäre.
-|  Weiter wird technisch dargestellt welche Arten von Datenspuren bei
-der Nutzung des Internets anfallen.
-|  Durch einen Exkurs in einen tatsächlich
-geschehenen Kreditkartenbetrugsfall gehen wir anschließend über in die
-offene Diskussion darüber, was hinsichtlich Schutz der Privatssphäre und
-Vorratsdatenspeicherung technisch möglich ist und auch wie wir damit im
-shackspace umgehen wollen.
+| shackspace Hacker pi, selbst mit langjähriger Erfahrung in den Aufgaben und Anforderungen die bei Internetdienstanbietern anfallen, beginnt den Abend mit einer kurzen Definition der Privatsphäre.
+|  Weiter wird technisch dargestellt welche Arten von Datenspuren bei der Nutzung des Internets anfallen.
+|  Durch einen Exkurs in einen tatsächlich geschehenen Kreditkartenbetrugsfall gehen wir anschließend über in die offene Diskussion darüber, was hinsichtlich Schutz der Privatssphäre und Vorratsdatenspeicherung technisch möglich ist und auch wie wir damit im shackspace umgehen wollen.
 
 Agenda
 ~~~~~~
@@ -36,8 +25,8 @@ Agenda
 |  Teilnahmegebühr: **Frei!** (um Spenden an shack e.V. wird gebeten)
 |  Anmeldung: \ `Doodle <http://doodle.com/m3km2h6rxwfzpvwg>`__
 |  Datum: \ **Samstag, 16. März 2013**, \ **19:00 Uhr**
-|  Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße
-255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber
-Kulturhaus Arena)
+|  Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
 
 .. |Hello_2ab23c_2705941| image:: http://shackspace.de/wp-content/uploads/2013/03/Hello_2ab23c_2705941-150x150.jpg
+
+

@@ -38,15 +38,11 @@ Mehr Informationen:
 
 | *Zum Event:*
 |  Eintritt: \ **5 EUR Abendkasse** (3 EUR Mitglieder shack e.V.)
-|  Anmeldung: \ `Event auf
-Facebook <https://www.facebook.com/events/1407386852806937/>`__, bitte
-Anmelden damit wir grob planen können, Plätze nur beschränkt verfügbar.
-Wer kein Facebook benutzen will, bitte \ `im
-Doodle <http://doodle.com/cewzxmsd38aak9xb>`__ anmelden.
+|  Anmeldung: \ `Event auf Facebook <https://www.facebook.com/events/1407386852806937/>`__, bitte Anmelden damit wir grob planen können, Plätze nur beschränkt verfügbar. Wer kein Facebook benutzen will, bitte \ `im Doodle <http://doodle.com/cewzxmsd38aak9xb>`__ anmelden.
 |  Datum: \ **Freitag, 6. September 2013**, **20:00 Uhr**
-|  Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße
-255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber
-Kulturhaus Arena)
+|  Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
 
 .. |1146321_572056362840425_1247693089_o| image:: http://shackspace.de/wp-content/uploads/2013/08/1146321_572056362840425_1247693089_o.jpg
    :target: http://shackspace.de/wp-content/uploads/2013/08/1146321_572056362840425_1247693089_o.jpg
+
+

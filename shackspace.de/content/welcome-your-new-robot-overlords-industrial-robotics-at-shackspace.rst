@@ -5,30 +5,15 @@ Welcome your new Robot Overlords! Industrial Robotics at shackspace
 :category: Allgemein
 :slug: welcome-your-new-robot-overlords-industrial-robotics-at-shackspace
 
-|vIrOU4Vh|\ A year ago hackers at shackspace successfully `reverse
-engineered an old educational robot <http://shackspace.de/?p=3284>`__
-and it was used for, besides other things, light painting.
+|vIrOU4Vh|\ A year ago hackers at shackspace successfully `reverse engineered an old educational robot <http://shackspace.de/?p=3284>`__ and it was used for, besides other things, light painting.
 
-| The previous article already hinted at bigger things that might happen
-in the future. And we like to announce that this future is now!
-|  The industrial robot that `arrived a bit over a year
-ago <https://twitter.com/4RM4/status/215928983873794048/photo/1>`__ at
-shackspace can finally be put to (evil) use!
+| The previous article already hinted at bigger things that might happen in the future. And we like to announce that this future is now!
+|  The industrial robot that `arrived a bit over a year ago <https://twitter.com/4RM4/status/215928983873794048/photo/1>`__ at shackspace can finally be put to (evil) use!
 
 | The arm is a true monster compared to the old table-top arm.
-|  It's a Manutec R3 6-DOF robot arm, weighing in at around 300 kg and
-able to carry up to 15 kg worth of tools to be placed with an accuracy
-of up to 1/10th of a millimeter. On top of that the control computer,
-I/O and driver cards fill up a full-sized control cabinet.
-|  One of the reasons we didn't feel comfortable to power it up until
-now was in huge parts the need for a separate room (safety
-considerations) that also included a 16 Ampere power outlet (`serious
-business <https://www.google.de/search?q=starkstromstecker&tbm=isch>`__).
-With the recent extension and partial remodeling of shackspace this
-requirement was finally met.
-|  To keep things somewhat flexible the robot was mounted on a thick
-steel plate and equipped with heavy duty lockable wheels. To keep the
-whole thing from topping over four struts where added for support.
+|  It's a Manutec R3 6-DOF robot arm, weighing in at around 300 kg and able to carry up to 15 kg worth of tools to be placed with an accuracy of up to 1/10th of a millimeter. On top of that the control computer, I/O and driver cards fill up a full-sized control cabinet.
+|  One of the reasons we didn't feel comfortable to power it up until now was in huge parts the need for a separate room (safety considerations) that also included a 16 Ampere power outlet (`serious business <https://www.google.de/search?q=starkstromstecker&tbm=isch>`__). With the recent extension and partial remodeling of shackspace this requirement was finally met.
+|  To keep things somewhat flexible the robot was mounted on a thick steel plate and equipped with heavy duty lockable wheels. To keep the whole thing from topping over four struts where added for support.
 
 But the robot refused to work for anything longer than a few minutes.
 Long hours of testing cables for defects and more abstruse possibilities
@@ -54,3 +39,5 @@ The results speak for themselves:
 
 .. |vIrOU4Vh| image:: http://shackspace.de/wp-content/uploads/2013/08/vIrOU4Vh-e1375810702416-191x300.jpg
    :target: http://shackspace.de/wp-content/uploads/2013/08/vIrOU4Vh.jpg
+
+

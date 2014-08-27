@@ -26,3 +26,5 @@ Just drop by and talk to one of the hackers involved in the project.
 
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2011/09/bladeshot.png
    :target: http://shackspace.de/wp-content/uploads/2011/09/bladeshot.png
+
+

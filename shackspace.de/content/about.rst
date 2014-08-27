@@ -11,18 +11,8 @@ Wir bieten und betreiben in Stuttgart eine offene Werkstatt für
 menschenfreundliche Computerkultur mit Programmierung und
 Ergebnistoleranz. Also einen Hackspace.
 
-| Weltweit gibt es hunderte dieser digitalen Bastlerzentren, jetzt ist
-Stuttgart dran.  23 (!) Menschen haben am 20.02.2010 den Verein
-gegründet, der gewählte  Namen ist die ultimativ kurze Verbindung aus
-'Stuttgart' und 'Hacken', also: **shack**.
-|  Ausreichende Betriebsräume hat der shack.ev. seit April 2011 in der
-Ulmer Strasse 255 in Stuttgart-Wangen: über 350qm, mitsamt Küche,
-Seminarraum, Medienlabor, Lounge, Elektrowerkstatt , Werkstatt fürs
-Grobe und Rechenzentrum - ein Platz, um Projekte wahr zu machen und
-furchtlose Digitalkultur zu leben. Das `Arbeitswiki zeigt die
-derzeitigen
-Projekte <http://shackspace.de/wiki/doku.php?id=terminkalender>`__ und
-Notizzettel der momentan circa 180 Mitglieder.
+| Weltweit gibt es hunderte dieser digitalen Bastlerzentren, jetzt ist Stuttgart dran.  23 (!) Menschen haben am 20.02.2010 den Verein gegründet, der gewählte  Namen ist die ultimativ kurze Verbindung aus 'Stuttgart' und 'Hacken', also: **shack**.
+|  Ausreichende Betriebsräume hat der shack.ev. seit April 2011 in der Ulmer Strasse 255 in Stuttgart-Wangen: über 350qm, mitsamt Küche, Seminarraum, Medienlabor, Lounge, Elektrowerkstatt , Werkstatt fürs Grobe und Rechenzentrum - ein Platz, um Projekte wahr zu machen und furchtlose Digitalkultur zu leben. Das `Arbeitswiki zeigt die derzeitigen Projekte <http://shackspace.de/wiki/doku.php?id=terminkalender>`__ und Notizzettel der momentan circa 180 Mitglieder.
 
 Wozu der shack?\ **
 **
@@ -50,12 +40,8 @@ Surfgewohnheiten. Diese Tatsache ist natürlich und wertfrei, weil
 Unternehmen Leute beschäftigen und Leute Geld brauchen. Aber ist es
 nachhaltig?
 
-| Wir erleben heute, dass immer größere Teile unseres Lebens von
-digitaler Technik erfasst, eingeordnet und verarbeitet werden. Staaten
-reagieren mit Gesetzen und Eingriffen auf die entstehenden sozialen
-Phänomene.
-|  Was können wir als Bürger und autonom denkende Wesen tun, damit uns
-Staat und Unternehmen nicht das Heft aus der Hand nehmen?
+| Wir erleben heute, dass immer größere Teile unseres Lebens von digitaler Technik erfasst, eingeordnet und verarbeitet werden. Staaten reagieren mit Gesetzen und Eingriffen auf die entstehenden sozialen Phänomene.
+|  Was können wir als Bürger und autonom denkende Wesen tun, damit uns Staat und Unternehmen nicht das Heft aus der Hand nehmen?
 
 Technik zähmen, indem man sie in die Hand nimmt
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -73,3 +59,5 @@ wir?
 
 **- bis demnächst also, im shack, dem Hackerspace in Stuttgart
 **
+
+

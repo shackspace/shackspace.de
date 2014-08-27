@@ -34,3 +34,5 @@ Jahr <http://shackspace.de/wiki/doku.php?id=project:nerdig_talking#ende_sommer_2
 
 `Weitere Informationen auf der
 Projektseite <http://shackspace.de/wiki/doku.php?id=project:nerdig_talking>`__.
+
+

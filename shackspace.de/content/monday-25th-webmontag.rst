@@ -5,9 +5,7 @@ Webmontag
 :category: Termine
 :slug: monday-25th-webmontag
 
-| shackspace will be hosting
-`Webmontag <http://webmontag.de/location/stuttgart/index>`__ on Monday
-July 25th.
+| shackspace will be hosting `Webmontag <http://webmontag.de/location/stuttgart/index>`__ on Monday July 25th.
 |  The event will start at 19:00 with an informal get-together.
 |  Starting 19:30 there will be talks and presentations.
 
@@ -31,4 +29,6 @@ http://webmontag.de  Topics covered/location/stuttgart/index
 .. raw:: html
 
    </div>
+
+
 

@@ -8,8 +8,7 @@ shackspace at 30c3
 |logo-02|
 
 | December 27th to 30th, 2013
-|  `CCH Congress Center Hamburg, Germany, Earth, Milky
-Way <https://events.ccc.de/congress/2013/wiki/Static:CCH>`__
+|  `CCH Congress Center Hamburg, Germany, Earth, Milky Way <https://events.ccc.de/congress/2013/wiki/Static:CCH>`__
 
 The 30th Chaos Communication Congress (30C3) is an annual four-day
 conference on technology, society and utopia. The Congress offers
@@ -30,3 +29,5 @@ lectures <https://events.ccc.de/congress/2013/wiki/Static:Documentation>`__.
 
 .. |logo-02| image:: http://shackspace.de/wp-content/uploads/2013/12/logo-02.png
    :target: http://shackspace.de/wp-content/uploads/2013/12/logo-02.png
+
+

@@ -39,11 +39,9 @@ Rekordbeteiligung.
    Stuttgart <http://globalgamejam.org/sites/2013/global-game-jam-stuttgart>`__
 
 | *Zum Event:*
-|  Begrenzte Teilnehmerzahl. `Anmeldung
-notwendig! <http://globalgamejam.org/sites/2013/global-game-jam-stuttgart>`__
+|  Begrenzte Teilnehmerzahl. `Anmeldung notwendig! <http://globalgamejam.org/sites/2013/global-game-jam-stuttgart>`__
 |  Datum: \ **25. bis 27. Januar 2013**
-|  Anfahrt: U4/U9 Haltestelle “Im Degen”, Ulmer Straße 255, Stuttgart
-Wangen (gegenüber Kulturhaus Arena)
+|  Anfahrt: U4/U9 Haltestelle “Im Degen”, Ulmer Straße 255, Stuttgart Wangen (gegenüber Kulturhaus Arena)
 
 *Dieser Event wird ermöglicht durch die freundliche Unterstützung
 der \ `MFG Medien- und Filmgesellschaft
@@ -71,3 +69,5 @@ e.V. <http://www.softwarezentrum.de/>`__.*
    :target: http://wrs.region-stuttgart.de/
 .. |ggj_logos_softwarezentrum| image:: http://shackspace.de/wp-content/uploads/2013/01/ggj_logos_softwarezentrum-e1357804475204.png
    :target: http://www.softwarezentrum.de/
+
+

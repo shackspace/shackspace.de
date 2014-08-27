@@ -52,3 +52,5 @@ zugänglich und für Kriminelle keinerlei Hürde.
 Kunden der DHL Packstation sei nahegelegt auf keinen Fall online ihre
 PIN anzugeben.  Falls dies bereits geschehen ist, kann die PIN jederzeit
 über das Onlineportal der Packstation (packstation.de) geändert werden.
+
+

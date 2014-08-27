@@ -5,10 +5,7 @@ Project: one button
 :category: Allgemein
 :slug: project-one-button
 
-|onebutton|\ The one button project was born in yet another attempt to
-fix social problems through technology. Though this doesn’t work most of
-the time – in this case it might actually work – be it only as yet
-another social experiment.
+|onebutton|\ The one button project was born in yet another attempt to fix social problems through technology. Though this doesn’t work most of the time – in this case it might actually work – be it only as yet another social experiment.
 
 `Makefu <https://euer.krebsco.de/About.html>`__ was annoyed by bad music
 playing in the shack’s lounge one too many times and decided he had to
@@ -80,3 +77,5 @@ GitHub <https://github.com/shackspace/one_button>`__!
 
 .. |onebutton| image:: http://shackspace.de/wp-content/uploads/2014/02/onebutton.jpg
    :target: http://shackspace.de/wp-content/uploads/2014/02/onebutton.jpg
+
+

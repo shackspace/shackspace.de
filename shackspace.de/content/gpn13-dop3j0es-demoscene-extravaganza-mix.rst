@@ -16,13 +16,8 @@ demoscene music. The mix was complemented most beautifully by live-coded
 shader visuals done by cupe, urs and abductee
 of \ `mercury <http://www.mercury-domination.net/>`__.
 
-| But the mix wasn't just `streamed over radio and
-net <http://querfunk.de/>`__ during Saturday night's party session; it
-was also recorded!
-|  So if you couldn't make it to GPN this year, grab the recording
-(`MP3 <http://dojoe.net/mixes/DoJoe%20-%20GPN13%20Demoscene%20Set.mp3>`__,
-`CUE <http://dojoe.net/mixes/DoJoe%20-%20GPN13%20Demoscene%20Set.cue>`__, \ `pouet.net <http://pouet.net/topic.php?which=7885#c446809>`__) and
-rock out with your shaders out ;)
+| But the mix wasn't just `streamed over radio and net <http://querfunk.de/>`__ during Saturday night's party session; it was also recorded!
+|  So if you couldn't make it to GPN this year, grab the recording (`MP3 <http://dojoe.net/mixes/DoJoe%20-%20GPN13%20Demoscene%20Set.mp3>`__, `CUE <http://dojoe.net/mixes/DoJoe%20-%20GPN13%20Demoscene%20Set.cue>`__, \ `pouet.net <http://pouet.net/topic.php?which=7885#c446809>`__) and rock out with your shaders out ;)
 
 Tracklisting:
 
@@ -108,3 +103,5 @@ Tracklisting:
 
 .. |800px-Gpn13_high_res| image:: http://shackspace.de/wp-content/uploads/2013/06/800px-Gpn13_high_res-300x64.png
    :target: http://shackspace.de/wp-content/uploads/2013/06/800px-Gpn13_high_res.png
+
+

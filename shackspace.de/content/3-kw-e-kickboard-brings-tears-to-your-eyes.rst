@@ -5,9 +5,7 @@
 :category: Allgemein
 :slug: 3-kw-e-kickboard-brings-tears-to-your-eyes
 
-|IMG_20140104_165009|\ Since exco is not big on baking cookies for
-Christmas, he invested his time in a project he was thinking about doing
-for some time: Building an electrified kickboard.
+|IMG_20140104_165009|\ Since exco is not big on baking cookies for Christmas, he invested his time in a project he was thinking about doing for some time: Building an electrified kickboard.
 
 The ingredients are:
 
@@ -63,11 +61,8 @@ If you're planning to built your own e-something, Maedler has a nice
 `online calculator for dimensioning the drive
 train <http://smarthost.maedler.de/maedlertools/maedler.html>`__.
 
-| For this build the no-load RPM was measured at 1285 rpm which would
-yield a theoretical maximum speed of 26.85 km/h. Actual measured speed
-was 22 km/h using 6S Li-Po cells or around 25 km/h using 7S cells.
-|  Mind you, on a kickboard this is scary fast and quite literally
-brings tears to your eyes from the cold winter wind draft.
+| For this build the no-load RPM was measured at 1285 rpm which would yield a theoretical maximum speed of 26.85 km/h. Actual measured speed was 22 km/h using 6S Li-Po cells or around 25 km/h using 7S cells.
+|  Mind you, on a kickboard this is scary fast and quite literally brings tears to your eyes from the cold winter wind draft.
 
 There's also a `more detailed build
 log <http://endless-sphere.com/forums/viewtopic.php?f=35&t=56030>`__
@@ -76,3 +71,5 @@ photos <https://picasaweb.google.com/115792422633543473919/KickboardK2?authkey=G
 
 .. |IMG_20140104_165009| image:: http://shackspace.de/wp-content/uploads/2014/01/IMG_20140104_165009-300x225.jpg
    :target: http://shackspace.de/wp-content/uploads/2014/01/IMG_20140104_165009.jpg
+
+

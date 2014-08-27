@@ -15,3 +15,5 @@ Anmeldung <https://terminplaner.dfn.de/foodle.php?id=nbueynrcjme4mavt>`__.
 Bitte tragt euch auch in den Planer ein, falls ihr gerne teilnehmen
 möchtet, der Termin aber unpassend ist.  Dadurch können wir später
 entscheiden, ob der Event möglicherweise wiederholt werden soll.
+
+

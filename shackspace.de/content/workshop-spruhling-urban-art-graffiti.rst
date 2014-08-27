@@ -5,8 +5,7 @@ Workshop: Sprühling Urban Art Graffiti
 :category: Allgemein, Termine
 :slug: workshop-spruhling-urban-art-graffiti
 
-|image0|\ layer1gfx ist zurück und pünklich zum Frühlingsanfang wird der
-Sprühling ausgerufen.
+|image0|\ layer1gfx ist zurück und pünklich zum Frühlingsanfang wird der Sprühling ausgerufen.
 
 Über das **Wochenende des 23. März bis 25. März** wird wieder gesprüht.
  Und *du* sollst mitmachen!
@@ -30,12 +29,8 @@ Hier die Eckdaten zum kommenden Workshop:
    Internet, etc
 -  professionelle Anleitung durch layer1gfx
 
-| Kein Interesse selbst zu sprayen aber Lust das **Projekt** zu
-**unterstützen**?  Kein Problem!
-|  shackspace nimmt gerne und `jederzeit
-**Spenden** <http://shackspace.de/?page_id=1577>`__ entgegen um die
-Kosten, welche nicht durch Workshopbeiträge gedeckt werden können, sowie
-andere Ausgaben zu bestreiten.
+| Kein Interesse selbst zu sprayen aber Lust das **Projekt** zu **unterstützen**?  Kein Problem!
+|  shackspace nimmt gerne und `jederzeit **Spenden** <http://shackspace.de/?page_id=1577>`__ entgegen um die Kosten, welche nicht durch Workshopbeiträge gedeckt werden können, sowie andere Ausgaben zu bestreiten.
 
 *Zum Groben Ablauf des Workshop:*
 
@@ -52,14 +47,11 @@ andere Ausgaben zu bestreiten.
 Arbeitsmaterialien wie Papier, Bleistifte, Sprühdosen, Caps, Handschuhe,
 Atemschutzmaske und Streichfarbe sind im Workshopbeitrag enthalten.
 
-| *Zum Event:
-*\ Jeder ist willkommen! Bitte unbedingt per Email an
-layer1gfx@graffiti.net anmelden!
+| *Zum Event: *\ Jeder ist willkommen! Bitte unbedingt per Email an layer1gfx@graffiti.net anmelden!
 |  Beitrag: **90 EUR** (enthält Farben und Schutzkleidung)
-|  Datum: **Freitag 23. März bis Sonntag 25. März 2012
-**\ Anfahrt:U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße
-255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber
-Kulturhaus Arena)
+|  Datum: **Freitag 23. März bis Sonntag 25. März 2012 **\ Anfahrt:U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
 
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2012/03/haxx0rzinspace_s-300x174.png
    :target: http://shackspace.de/wp-content/uploads/2012/03/haxx0rzinspace_s.png
+
+

@@ -26,13 +26,9 @@ board <http://www.ic-board.de/product_info.php?info=p159_ICnova-i-MX353-OEM.html
 and his test plane all combined, it was time for a maiden flight.  We
 dare say: a very successful one!
 
-| Next steps in the project will be
-`SLAM <http://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping>`__
-applications, optical path-finding as well as obstacle detection and
-avoidance.
-|  The system is based around an ARM11 core running an embedded Linux
-from internal Flash-ROM. A user-space program is talking to the
-flight-controller via
-`UAVTalk <http://wiki.openpilot.org/display/Doc/UAVTalk>`__ over USB.
+| Next steps in the project will be `SLAM <http://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping>`__ applications, optical path-finding as well as obstacle detection and avoidance.
+|  The system is based around an ARM11 core running an embedded Linux from internal Flash-ROM. A user-space program is talking to the flight-controller via `UAVTalk <http://wiki.openpilot.org/display/Doc/UAVTalk>`__ over USB.
 
 [gallery link="file" order="DESC" columns="4"]
+
+

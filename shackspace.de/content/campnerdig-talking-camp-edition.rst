@@ -18,3 +18,5 @@ Wiki <http://events.ccc.de/camp/2011/wiki/Nerdig_Talking>`__
 
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2011/08/Banner_Rakete.png
    :target: http://shackspace.de/wp-content/uploads/2011/08/Banner_Rakete.png
+
+

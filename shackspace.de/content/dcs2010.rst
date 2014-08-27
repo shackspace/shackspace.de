@@ -24,3 +24,5 @@ Teilnehmer des Droidcamps veranstalten wir die DCS2010 After-Show Party!
 
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2010/06/logodroidcampfinal500px.png
    :target: http://shackspace.de/wp-content/uploads/2010/06/logodroidcampfinal500px.png
+
+

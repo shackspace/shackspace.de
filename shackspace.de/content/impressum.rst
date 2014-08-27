@@ -4,15 +4,9 @@ Impressum
 :author: _ redaktion
 :slug: impressum
 
-| |kristalldetektor| Dieses Webangebot zeigt die Aktionen, Projekte,
-Kollaborationen , Sorgen und Träume des *shackspace*- des Hackerspaces
-in Stuttgart. shackspace wird vom gemeinnützigen Verein  *shack e.V.*,
-vertreten durch den Vorstand, getragen.
+| |kristalldetektor| Dieses Webangebot zeigt die Aktionen, Projekte, Kollaborationen , Sorgen und Träume des *shackspace*- des Hackerspaces in Stuttgart. shackspace wird vom gemeinnützigen Verein  *shack e.V.*, vertreten durch den Vorstand, getragen.
 |  +
-|  Sämtliche Beiträge geben ausschließlich die Auffassung des jeweiligen
-Verfassers wieder. Dies gilt insbesondere für die mittels der
-Kommentar-Funktion erstellten Diskussions-Beiträge. Wir behalten uns die
-Löschung einzelner Beiträge und die Sperrung der Kommentar-Funktion vor.
+|  Sämtliche Beiträge geben ausschließlich die Auffassung des jeweiligen Verfassers wieder. Dies gilt insbesondere für die mittels der Kommentar-Funktion erstellten Diskussions-Beiträge. Wir behalten uns die Löschung einzelner Beiträge und die Sperrung der Kommentar-Funktion vor.
 
 Anbieter:
 ~~~~~~~~~
@@ -137,3 +131,5 @@ ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von
 Werbeinformationen, etwa durch Spam-Mails, vor.
 
 .. |kristalldetektor| image:: http://shackspace.de/wp-content/uploads/2009/12/kristalldetektor.jpg
+
+

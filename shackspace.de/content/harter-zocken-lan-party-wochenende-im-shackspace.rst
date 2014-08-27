@@ -21,14 +21,11 @@ Bezockung nicht entziehen werden kann.
 
 | **Update:**
 |  Wir nehmen *Härter Zocken* ernst.
-|  So ernst, dass wir an einem Wochenende nicht ausreichend hart Zocken
-können.
-|  Darum wird *Härter Zocken* auf das folgende Wochenende
-ausgedehnt! \ *Doppelt Härter Zocken*!
+|  So ernst, dass wir an einem Wochenende nicht ausreichend hart Zocken können.
+|  Darum wird *Härter Zocken* auf das folgende Wochenende ausgedehnt! \ *Doppelt Härter Zocken*!
 
 | *Zum Event:*
-|  **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder
-ist willkommen!
+|  **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder ist willkommen!
 |  Datum:
 
 -  Freitag 2. März 2012 19 Uhr bis Sonntag 4. März 2012 18 Uhr /
@@ -40,3 +37,5 @@ ist willkommen!
 
 Anfahrt:U4/U9 Haltestelle “Im Degen”, `Ulmer Straße
 255 <../?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
+
+

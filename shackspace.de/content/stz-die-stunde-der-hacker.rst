@@ -5,12 +5,7 @@ StZ: Die Stunde der Hacker
 :category: Allgemein
 :slug: stz-die-stunde-der-hacker
 
-|BVzX5cPIYAA7RBw.jpg-large|\ Vor Kurzem war die Stuttgarter Zeitung zu
-Gast um über den `CCCS <https://www.cccs.de/>`__ (`der sich auch in
-unseren Räumen trifft <http://shackspace.de/?p=2533>`__) und die
-Stuttgarter Hackerszene im Allgemeinen zu berichten. Der in der
-Printausgabe erschienene Artikel ist nun auch `Online
-verfügbar <http://www.stuttgarter-zeitung.de/inhalt.hacker-in-stuttgart-die-stunde-der-hacker-page2.96326ceb-5afa-4570-ad58-dbf92088617e.html>`__.
+|BVzX5cPIYAA7RBw.jpg-large|\ Vor Kurzem war die Stuttgarter Zeitung zu Gast um über den `CCCS <https://www.cccs.de/>`__ (`der sich auch in unseren Räumen trifft <http://shackspace.de/?p=2533>`__) und die Stuttgarter Hackerszene im Allgemeinen zu berichten. Der in der Printausgabe erschienene Artikel ist nun auch `Online verfügbar <http://www.stuttgarter-zeitung.de/inhalt.hacker-in-stuttgart-die-stunde-der-hacker-page2.96326ceb-5afa-4570-ad58-dbf92088617e.html>`__.
 
 Der Bericht ist angelehnt an aktuelle Ereignisse. So wird direkt Leibis
 Vortrag "*Prism, Tempora und Co. - Wie wir überwacht werden und wie wir
@@ -32,3 +27,5 @@ Photo:
 
 .. |BVzX5cPIYAA7RBw.jpg-large| image:: http://shackspace.de/wp-content/uploads/2013/10/BVzX5cPIYAA7RBw.jpg-large-300x225.jpg
    :target: http://shackspace.de/wp-content/uploads/2013/10/BVzX5cPIYAA7RBw.jpg-large.jpg
+
+

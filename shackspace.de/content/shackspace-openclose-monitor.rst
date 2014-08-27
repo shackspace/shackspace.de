@@ -72,3 +72,5 @@ looking at the `project documentation
 |image0|
 
 .. |image0| image:: ../wp-includes/js/tinymce/plugins/wpgallery/img/t.gif
+
+

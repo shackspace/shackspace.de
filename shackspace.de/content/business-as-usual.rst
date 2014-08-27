@@ -33,10 +33,7 @@ case brewskis.
 
    <p>
 
-| @\ `samuirai <https://twitter.com/samuirai>`__ built this awesome
-pixel nyan-cat. The project quickly evolved into a 8x8px prototype of a
-nyan-snake game over the weekend. You can even control it using a NES
-game-pad!
+| @\ `samuirai <https://twitter.com/samuirai>`__ built this awesome pixel nyan-cat. The project quickly evolved into a 8x8px prototype of a nyan-snake game over the weekend. You can even control it using a NES game-pad!
 
 .. raw:: html
 
@@ -58,9 +55,7 @@ game-pad!
 
    <p>
 
-| An then there's Andy and his Mockman 2.0-based guitar amp. He layouted
-the PCB in Eagle and printed it using our
-`PCB-Printer <http://shackspace.de/wiki/doku.php?id=project:beta-layout:pcbprinter>`__.
+| An then there's Andy and his Mockman 2.0-based guitar amp. He layouted the PCB in Eagle and printed it using our `PCB-Printer <http://shackspace.de/wiki/doku.php?id=project:beta-layout:pcbprinter>`__.
 
 .. raw:: html
 
@@ -98,11 +93,11 @@ the PCB in Eagle and printed it using our
 
    </p>
 
-| And here's the next video from our TDOT2 event:
-@\ `pfleidi <https://twitter.com/pfleidi>`__ talking about Realtime Web
-Applications.
+| And here's the next video from our TDOT2 event: @\ `pfleidi <https://twitter.com/pfleidi>`__ talking about Realtime Web Applications.
 | 
 
 `TdoT2: Realtime Web Applications <http://vimeo.com/26498297>`__ from
 `shack e.V. Hackerspace Stuttgart <http://vimeo.com/shackspace>`__ on
 `Vimeo <http://vimeo.com>`__.
+
+

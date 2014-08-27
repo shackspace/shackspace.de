@@ -5,8 +5,6 @@ Diese Hacker im Kellerkanal
 :category: Allgemein
 :slug: diese-hacker-im-kellerkanal
 
-| Und jetzt eine kleine runde Boulevard bitte. Thomas und
-@\ `hdznrrd <https://twitter.com/hdznrrd>`__ waren für shackspace beim
-`Kellerkanal <http://www.youtube.com/user/KELLERKANALde>`__ und
-erzählten Dinge über Hacker, Sicherheit im Netz und den shackspace.
+| Und jetzt eine kleine runde Boulevard bitte. Thomas und @\ `hdznrrd <https://twitter.com/hdznrrd>`__ waren für shackspace beim `Kellerkanal <http://www.youtube.com/user/KELLERKANALde>`__ und erzählten Dinge über Hacker, Sicherheit im Netz und den shackspace.
 | 
+

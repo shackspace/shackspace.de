@@ -5,12 +5,8 @@ Hackerspace Global Grid: Stuttgart Hackathon Weekends
 :category: Termine
 :slug: hackerspace-global-grid-stuttgart-hackathon
 
-| The Stuttgart-based `Hackerspace Global Grid
-Team <http://shackspace.de/wiki/doku.php?id=project:hgg>`__ meets on
-**Saturday** and **Sunday afternoon** for in-depth hack-sessions to work
-on the project.
-|  Everyone interested is free to join in to help or simply copy by and
-talk to us.
+| The Stuttgart-based `Hackerspace Global Grid Team <http://shackspace.de/wiki/doku.php?id=project:hgg>`__ meets on **Saturday** and **Sunday afternoon** for in-depth hack-sessions to work on the project.
+|  Everyone interested is free to join in to help or simply copy by and talk to us.
 
 -  `Project Wiki <http://shackspace.de/wiki/doku.php?id=project:hgg>`__
 -  `Open
@@ -23,7 +19,5 @@ talk to us.
 
 | *Event details:*
 |  **Everyone’s welcome**! (*Donations towards shack e.V. are welcome*)
-|  Date: **Saturday and Sunday afternoon and late into the night
-**\ Driving directions:U4/U9 station “Im Degen”, `Ulmer Straße
-255 <../?page_id=713>`__, Stuttgart Wangen (across from Kulturhaus
-Arena)
+|  Date: **Saturday and Sunday afternoon and late into the night **\ Driving directions:U4/U9 station “Im Degen”, `Ulmer Straße 255 <../?page_id=713>`__, Stuttgart Wangen (across from Kulturhaus Arena)
+

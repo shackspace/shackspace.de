@@ -5,10 +5,7 @@ shackspace auf der Hobby & Elektronik Messe Stuttgart
 :category: Allgemein
 :slug: shackspace-auf-der-hobby-elektronik-messe-stuttgart
 
-|image0|\ Vom Donnerstag den 18. bis Sonntag den 21. wird der shackspace
-(shack e.V.) durchgängig auf der `Hobby & Elektronik
-Messe <http://cms.messe-stuttgart.de/cms/hobby10_besucher_messe0.0.html>`__
-(Neue Messe beim Flughafen Stuttgart) vertreten sein.
+|image0|\ Vom Donnerstag den 18. bis Sonntag den 21. wird der shackspace (shack e.V.) durchgängig auf der `Hobby & Elektronik Messe <http://cms.messe-stuttgart.de/cms/hobby10_besucher_messe0.0.html>`__ (Neue Messe beim Flughafen Stuttgart) vertreten sein.
 
 Zu finden sind wir in Halle 4 am Stand 4D58, direkt neben der Linux User
 Group Stuttgart (LUGS) beim Forum.
@@ -42,3 +39,5 @@ Besucht uns in Halle 4 Stand 4D58!
 
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2010/11/hobby.jpg
    :target: http://cms.messe-stuttgart.de/cms/hobby10_besucher_messe0.0.html
+
+

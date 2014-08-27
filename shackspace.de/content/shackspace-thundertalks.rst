@@ -7,11 +7,8 @@ shackspace Thundertalks!
 
 shackspace lädt zu den Thundertalks!
 
-| In
-`Lightning-Talk <http://en.wikipedia.org/wiki/Lightning_Talk>`__-ähnlichen
-Kurzvorträgen wird über Aktuelles, Geschehenes und Kommendes referiert.
-|  Ein Vortrag ist zwischen 5 und maximal 15 Minuten lang und es werden
-Vorträge zu den verschiedensten Themen gehalten.
+| In `Lightning-Talk <http://en.wikipedia.org/wiki/Lightning_Talk>`__-ähnlichen Kurzvorträgen wird über Aktuelles, Geschehenes und Kommendes referiert.
+|  Ein Vortrag ist zwischen 5 und maximal 15 Minuten lang und es werden Vorträge zu den verschiedensten Themen gehalten.
 
 Der Event steht allen offen und auch nicht-Mitglieder sind herzlichst
 eingeladen Vorträge zu halten oder einfach als Zuhörer dabei zu sein.
@@ -31,12 +28,6 @@ Unter Anderem gibt es Talks zu folgenden Themen:
 -  Hacking the city - Wo stehen wir? (claus)
 
 | *Zum Event:*
-|  **Eintritt frei!** Jeder ist willkommen!  Wer schon weiß was er
-vortragen will, bitte einfach auf der `Thundertalks-Seite im
-Wiki <http://shackspace.de/wiki/doku.php?id=project:thundertalks>`__
-eintragen.  Um `formlose
-Anmeldung <http://www.doodle.com/msn935peydirn23q>`__ (Doodle) wird
-gebeten.
-|  Datum: **Samstag, 17. Dezember 2011** um **19:00 Uhr
-**\ Anfahrt:U4/U9 Haltestelle “Im Degen”, `Ulmer Straße
-255 <../?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
+|  **Eintritt frei!** Jeder ist willkommen!  Wer schon weiß was er vortragen will, bitte einfach auf der `Thundertalks-Seite im Wiki <http://shackspace.de/wiki/doku.php?id=project:thundertalks>`__ eintragen.  Um `formlose Anmeldung <http://www.doodle.com/msn935peydirn23q>`__ (Doodle) wird gebeten.
+|  Datum: **Samstag, 17. Dezember 2011** um **19:00 Uhr **\ Anfahrt:U4/U9 Haltestelle “Im Degen”, `Ulmer Straße 255 <../?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
+

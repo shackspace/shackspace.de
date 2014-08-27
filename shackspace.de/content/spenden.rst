@@ -14,14 +14,10 @@ Jeder Beitrag ist willkommen. Spendenquittungen können auf Wunsch
 ausgestellt werden.
 
 +----------------+-------------------------+
-| Empfänger      | shack e.V.              |
-+----------------+-------------------------+
-| Kontonummmer   | 7016809500              |
-+----------------+-------------------------+
-| Bankleitzahl   | 43060967                |
-+----------------+-------------------------+
-| Institut       | GLS Gemeinschaftsbank   |
-+----------------+-------------------------+
+| Empfänger      | shack e.V.              | +----------------+-------------------------+
+| Kontonummmer   | 7016809500              | +----------------+-------------------------+
+| Bankleitzahl   | 43060967                | +----------------+-------------------------+
+| Institut       | GLS Gemeinschaftsbank   | +----------------+-------------------------+
 
 **Paypal:**
 
@@ -33,9 +29,7 @@ ausgestellt werden.
 |                                      |                                      |
 | .. raw:: html                        | .. raw:: html                        |
 |                                      |                                      |
-|    </form>                           |    </form>                           |
-                                                                             
-+--------------------------------------+--------------------------------------+
+|    </form>                           |    </form>                           |                                                                               +--------------------------------------+--------------------------------------+
 
 Flattr us:
 
@@ -54,3 +48,5 @@ this| <http://flattr.com/thing/316039/shackspace-SpendenDonation>`__
    </noscript>
 
 .. |Flattr this| image:: http://api.flattr.com/button/flattr-badge-large.png
+
+

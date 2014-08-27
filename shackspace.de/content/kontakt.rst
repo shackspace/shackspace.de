@@ -43,3 +43,5 @@ IRC
 Für Fragen bezüglich unseres IRC Channels #shackspace auf
 irc.freenode.net bitte an\ `bronsen aka
 housetier <mailto:housetier@nrrd.de>`__ wenden.
+
+

@@ -68,11 +68,8 @@ Albi: albi_keller
 
 Jan: jvanvinkenroye
 
-| Skype kann man `sich kostenlos
-downloaden <http://www.chip.de/downloads/Skype_13010241.html>`__,
-|  Man braucht ein Mikro `oder ein
-Headset <http://www.pixmania.com/de/de/761/xx/xx/104/9/criteresn.html>`__,
-|  und `nach einer kurzen
-Einstellzeit <http://www.netzwelt.de/news/71584-tutorial-skype-installieren-einrichten-so-gehts.html>`__
--
+| Skype kann man `sich kostenlos downloaden <http://www.chip.de/downloads/Skype_13010241.html>`__,
+|  Man braucht ein Mikro `oder ein Headset <http://www.pixmania.com/de/de/761/xx/xx/104/9/criteresn.html>`__,
+|  und `nach einer kurzen Einstellzeit <http://www.netzwelt.de/news/71584-tutorial-skype-installieren-einrichten-so-gehts.html>`__ -
 |  geht es los!
+

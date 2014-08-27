@@ -5,11 +5,7 @@
 :category: Allgemein
 :slug: 27c3-peace-mission-sonntag
 
-|image0|\ Aufbau einer Trennwand von der fensterabgewandten Saal-Seite
-bis zur mittleren Säule mit Getränkekästen, dem Rollschrank und dem
-Spind aus dem Treppenhaus. Die vorhandenen drei Fleecedecken werden
-davorgehängt und dienen als Schallabsorber. Projektionswand wird die
-lange Wand gegenüber den Fenstern.
+|image0|\ Aufbau einer Trennwand von der fensterabgewandten Saal-Seite bis zur mittleren Säule mit Getränkekästen, dem Rollschrank und dem Spind aus dem Treppenhaus. Die vorhandenen drei Fleecedecken werden davorgehängt und dienen als Schallabsorber. Projektionswand wird die lange Wand gegenüber den Fenstern.
 
 Im eingangszugewandten Teil wird Saal 1 übertragen. Beamer ist der neue
 shack-Beamer, Rechner der Mini-MAC. Um die akustische Trennung zu
@@ -29,3 +25,5 @@ Neonleuchten vervollständigen die Show.
 
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2011/01/logo_27c3.png
    :target: http://shackspace.de/wp-content/uploads/2011/01/logo_27c3.png
+
+

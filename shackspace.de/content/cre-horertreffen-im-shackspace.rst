@@ -17,3 +17,5 @@ shackspace noch nicht kennen! Ab 19:00 ist immer jemand da.
 Die Anfahrt zum shackspace ist
 `hier <http://shackspace.de/?page_id=713>`__ beschrieben. Bei Fragen zur
 Anfahrt könnt ihr auch das ShackPhone anrufen: 0178/6624218.
+
+

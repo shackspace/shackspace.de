@@ -5,10 +5,7 @@ CCCS Vortrag zum Turing-Jahr 2012 in der Stadtbibliothek
 :category: Termine
 :slug: cccs-vortrag-zum-turing-jahr-2012-in-der-stadtbibliothek
 
-|image0|\ Wir möchten an dieser Stelle kurz auf den monatlichen
-Vortrags-Event des `Chaos Computer Club Stuttgart
-(CCCS) <http://www.cccs.de/>`__ hinweisen, der wie immer in der
-Stadtbiliothek am Mailänder Platz stattfindet.
+|image0|\ Wir möchten an dieser Stelle kurz auf den monatlichen Vortrags-Event des `Chaos Computer Club Stuttgart (CCCS) <http://www.cccs.de/>`__ hinweisen, der wie immer in der Stadtbiliothek am Mailänder Platz stattfindet.
 
 Diesmal, am morgigen **Donnerstag** den **12. Juli** um **19:30**
 Uhr\ `trägt Christian Lehmann anlässlich des Turing-Jahres 2012 über
@@ -24,14 +21,12 @@ Nationalheiligtum gesehen.  Begriffe wie "Turing-Test" und
 "turing-vollständig" sind vielen Menschen ein Begriff.  Ein Überblick
 über Meilensteine und ein wahrlich unwürdiges Ende.*
 
-| *Zum Event:
-*\ **Eintritt frei!**
-|  Datum: \ **Donnerstag, 12. Juli 2012**, ab \ **19:30 Uhr
-**\ Anfahrt: \ **Stadtbibliothek am Mailänder Platz**, Mailänder Platz
-1, 70173 Stuttgart, **Max-Bense-Forum (UG)**, N 48° 47' 25.249" E9° 10'
-56.96"
+| *Zum Event: *\ **Eintritt frei!**
+|  Datum: \ **Donnerstag, 12. Juli 2012**, ab \ **19:30 Uhr **\ Anfahrt: \ **Stadtbibliothek am Mailänder Platz**, Mailänder Platz 1, 70173 Stuttgart, **Max-Bense-Forum (UG)**, N 48° 47' 25.249" E9° 10' 56.96"
 
  
 
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2011/11/cccs-logo.png
    :target: http://shackspace.de/wp-content/uploads/2011/11/cccs-logo.png
+
+

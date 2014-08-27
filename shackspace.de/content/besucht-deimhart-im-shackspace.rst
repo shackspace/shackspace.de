@@ -17,3 +17,5 @@ Herausgeber des `Perl Magazins <http://www.perl-magazin.de/>`__.
 
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2010/12/DeimHart_200.serendipityThumb.png
    :target: http://www.deimeke.net/dirk/blog/index.php?/categories/41-deimhart
+
+

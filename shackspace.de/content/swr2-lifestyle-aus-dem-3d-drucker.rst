@@ -5,10 +5,7 @@ SWR2: Lifestyle aus dem 3D-Drucker
 :category: Allgemein
 :slug: swr2-lifestyle-aus-dem-3d-drucker
 
-|SWR2|\ Neulich war das Team von `SWR2
-Impuls <http://www.swr.de/swr2/programm/sendungen/impuls/-/id=1853902/zn5yyj/index.html>`__
-im shackspace. rixx lernte von ttb wie der 3D-Drucker funktioniert, der
-SWR dokumentierte eifrig.
+|SWR2|\ Neulich war das Team von `SWR2 Impuls <http://www.swr.de/swr2/programm/sendungen/impuls/-/id=1853902/zn5yyj/index.html>`__ im shackspace. rixx lernte von ttb wie der 3D-Drucker funktioniert, der SWR dokumentierte eifrig.
 
 Jetzt könnt ihr auch alle daran teilhaben. Der SWR2 veröffentlichte das
 Ergebnis des Nachmittags als `ausführlichen
@@ -32,3 +29,5 @@ begleitet von einer kurzen
 
 .. |SWR2| image:: http://shackspace.de/wp-content/uploads/2014/04/index-300x114.jpg
    :target: http://shackspace.de/wp-content/uploads/2014/04/index.jpg
+
+

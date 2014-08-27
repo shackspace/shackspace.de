@@ -5,15 +5,7 @@ Reunification Weekend in Review: So much win!
 :category: Allgemein
 :slug: reunification-weekend-in-review-so-much-win
 
-|image0|\ We've had an awesome long weekend and many of us spent it on
-and off playing games at the `Zocker werden zocken **LAN
-Party** <http://shackspace.de/?p=2444>`__.  As last time we've had a LAN
-party this years favorite was again
-`UT99 <https://secure.wikimedia.org/wikipedia/en/wiki/Unreal_Tournament>`__
-closely followed by
-`TF2 <https://secure.wikimedia.org/wikipedia/en/wiki/Team_fortress_2>`__. 
-Also quite well received was
-`TMNF <https://secure.wikimedia.org/wikipedia/en/wiki/TrackMania_Nations_Forever#TrackMania_Forever>`__.
+|image0|\ We've had an awesome long weekend and many of us spent it on and off playing games at the `Zocker werden zocken **LAN Party** <http://shackspace.de/?p=2444>`__.  As last time we've had a LAN party this years favorite was again `UT99 <https://secure.wikimedia.org/wikipedia/en/wiki/Unreal_Tournament>`__ closely followed by `TF2 <https://secure.wikimedia.org/wikipedia/en/wiki/Team_fortress_2>`__.  Also quite well received was `TMNF <https://secure.wikimedia.org/wikipedia/en/wiki/TrackMania_Nations_Forever#TrackMania_Forever>`__.
 
 Of course there wasn't just gaming going on!  Samuel brought a ton of
 receivers and tuners to the space so we have some material to start
@@ -28,19 +20,8 @@ This baby is able to suck 42 l/min (sic) and create a vacuum of down to
 0.05 mbar.  Now you're asking yourself: "What do I need that for?". 
 Well, ask no more, just keep reading!
 
-| Samuel, renowned for his cra^W fearless handling of higher and higher
-voltages improved his **`flyback
-transformer <https://en.wikipedia.org/wiki/Flyback_transformer>`__**
-setup to yield around 25 kV.  This figure was actually measured by a
-home-built high-power resistor made up of a lot of individual resistors
-and plenty of shrink tubing.  25 kV is enough to easily cover between 2
-to 3 cm of air gap with awesome sparks!  Or to power a presumably broken
-`CFL <https://secure.wikimedia.org/wikipedia/en/wiki/Compact_fluorescent_lamp>`__. 
-However, *magic smoke*\ (tm) left the CFL during "operation" rendering
-it officially broken.
-|  Now, back to the vacuum pump.  It'll be required to evacuate a glass
-cylinder to allow reliable and beautiful plasma to be generated using
-the flyblack transformer :)
+| Samuel, renowned for his cra^W fearless handling of higher and higher voltages improved his **`flyback transformer <https://en.wikipedia.org/wiki/Flyback_transformer>`__** setup to yield around 25 kV.  This figure was actually measured by a home-built high-power resistor made up of a lot of individual resistors and plenty of shrink tubing.  25 kV is enough to easily cover between 2 to 3 cm of air gap with awesome sparks!  Or to power a presumably broken `CFL <https://secure.wikimedia.org/wikipedia/en/wiki/Compact_fluorescent_lamp>`__.  However, *magic smoke*\ (tm) left the CFL during "operation" rendering it officially broken.
+|  Now, back to the vacuum pump.  It'll be required to evacuate a glass cylinder to allow reliable and beautiful plasma to be generated using the flyblack transformer :)
 
 On to @\ `dop3j0e <https://twitter.com/dop3j0e>`__ who pointed a few
 fellow hackers to this video of awesome **`C one-liners making
@@ -82,3 +63,5 @@ other things that happened during the last 3 days and nights.
 
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2011/10/jt9ja-150x150.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/10/jt9ja.jpg
+
+

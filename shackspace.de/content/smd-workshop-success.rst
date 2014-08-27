@@ -5,19 +5,9 @@ SMD Workshop: Success!
 :category: Allgemein
 :slug: smd-workshop-success
 
-|Symbolfoto| On the second-to-last weekend, our member
-@\ `dop3j0e <http://twitter.com/dop3j0e>`__ combined the wonders of
-Atmel microcontrollers, USB and surface-mount soldering in a workshop
-where participants could assemble their own development board based on
-Atmel's
-`ATmega32U4 <http://www.atmel.com/dyn/products/product_card.asp?part_id=4317&category_id=163&family_id=607&subfamily_id=760>`__
-microcontroller: 32K flash, 2.5K RAM, 1K EEPROM, 16MHz and an integrated
-USB controller.
+|Symbolfoto| On the second-to-last weekend, our member @\ `dop3j0e <http://twitter.com/dop3j0e>`__ combined the wonders of Atmel microcontrollers, USB and surface-mount soldering in a workshop where participants could assemble their own development board based on Atmel's `ATmega32U4 <http://www.atmel.com/dyn/products/product_card.asp?part_id=4317&category_id=163&family_id=607&subfamily_id=760>`__ microcontroller: 32K flash, 2.5K RAM, 1K EEPROM, 16MHz and an integrated USB controller.
 
-|Checking for shorts| Over the weekend, two groups of four participants
-each, who had never before soldered SMD, tried their luck under
-@dop3j0e's watchful eyes after a detailed introduction into the basic
-methods and tricks.
+|Checking for shorts| Over the weekend, two groups of four participants each, who had never before soldered SMD, tried their luck under @dop3j0e's watchful eyes after a detailed introduction into the basic methods and tricks.
 
 Sadly, the number of participants had to be reduced because @dop3j0e had
 less parts in stock than expected, but that turned out to be a blessing
@@ -40,3 +30,5 @@ parts for everyone ;)
    :target: http://shackspace.de/gallery/index.php/Menschen-Daten-Sensationen/SMD-Workshop-2011-11-04-05
 .. |Checking for shorts| image:: http://shackspace.de/gallery/var/thumbs/Menschen%2C-Daten%2C-Sensationen/SMD-Workshop-2011-11-04-05/DSC_6309.jpg
    :target: http://shackspace.de/gallery/index.php/Menschen-Daten-Sensationen/SMD-Workshop-2011-11-04-05
+
+

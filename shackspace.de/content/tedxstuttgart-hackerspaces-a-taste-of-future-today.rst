@@ -24,3 +24,5 @@ Workshop <http://slopjong.de/2012/11/29/etching-and-soldering-workshop-in-the-sy
    `ODP <https://github.com/shackspace/presentations/blob/master/TEDxStuttgart13/tedxstuttgart.odp?raw=true>`__)
 
 
+
+

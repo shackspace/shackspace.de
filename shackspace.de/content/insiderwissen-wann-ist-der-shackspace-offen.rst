@@ -5,11 +5,7 @@ Insiderwissen: Wann ist der shackspace offen?
 :category: Allgemein
 :slug: insiderwissen-wann-ist-der-shackspace-offen
 
-|image0|"*Wann habt ihr denn offen?*\ ", "*Wann kann ich mal
-vorbeikommen?*\ ". Diese und ähnliche Fragen bekommen wir oft.
-Verständlich, denn wer will sich schon bis in die [STRIKEOUT:letzte Ecke
-des Nordbahnhofs] endlosen  Weiten der Stuttgarter Vororte vorkämpfen,
-womöglich noch nachts, um dann vor verschlossener Tür zu stehen.
+|image0|"*Wann habt ihr denn offen?*\ ", "*Wann kann ich mal vorbeikommen?*\ ". Diese und ähnliche Fragen bekommen wir oft. Verständlich, denn wer will sich schon bis in die [STRIKEOUT:letzte Ecke des Nordbahnhofs] endlosen  Weiten der Stuttgarter Vororte vorkämpfen, womöglich noch nachts, um dann vor verschlossener Tür zu stehen.
 
 Als Daumenregel lässt sich sagen, der shackspace ist unter der Woche ab
 18:00 oder 19:00 bis kurz nach Mitternacht in der Regel offen; das
@@ -46,3 +42,5 @@ auf deine Frage antwortet.
 
 .. |image0| image:: http://shackspace.de/gallery/var/thumbs/shack.media/3rd-party/opendoor.jpg?m=1285325076
    :target: http://shackspace.de/gallery/index.php/shack-media/3rd-party/opendoor
+
+

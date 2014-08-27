@@ -5,10 +5,9 @@ Gespräch/Podcast über Hackspaces
 :category: Archiv, Grundsätzliches
 :slug: ausfuhrlicher-podcast-uber-hackspaces
 
-| |text-x-readme|\ Einen umfangreichen podcast zum Thema 'Hackspaces'
-gibt es beim `Chaosradio vom ccc unter
-http://chaosradio.ccc.de/cre134.html <http://chaosradio.ccc.de/cre134.html>`__
-|  Und dazu das Wiki der Bewegung:
-`hackerspaces.org <http://hackerspaces.org/wiki/>`__
+| |text-x-readme|\ Einen umfangreichen podcast zum Thema 'Hackspaces' gibt es beim `Chaosradio vom ccc unter http://chaosradio.ccc.de/cre134.html <http://chaosradio.ccc.de/cre134.html>`__
+|  Und dazu das Wiki der Bewegung: `hackerspaces.org <http://hackerspaces.org/wiki/>`__
 
 .. |text-x-readme| image:: http://hs07.eu/wp-content/uploads/2009/11/text-x-readme.png
+
+

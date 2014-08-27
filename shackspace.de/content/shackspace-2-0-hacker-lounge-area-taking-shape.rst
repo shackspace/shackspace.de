@@ -6,13 +6,7 @@ shackspace 2.0: hacker lounge area taking shape
 :slug: shackspace-2-0-hacker-lounge-area-taking-shape
 
 | |image0|\ It was a very busy weekend indeed.
-|  Removing the excess walls left in the new shackspace location by the
-company who owned the building before turned out to be harder than
-expected. The wall elements are anything but light-weight (estimates are
-in the range of 80 to 90/kg per element). However, the hacker lounge and
-seminar room areas are now properly opened up and the wall between
-workshop, storage area, and electronics lab was left in for simplicities
-sake.
+|  Removing the excess walls left in the new shackspace location by the company who owned the building before turned out to be harder than expected. The wall elements are anything but light-weight (estimates are in the range of 80 to 90/kg per element). However, the hacker lounge and seminar room areas are now properly opened up and the wall between workshop, storage area, and electronics lab was left in for simplicities sake.
 
 After the huge `set-back ruining the floor of the
 workshop <http://shackspace.de/?p=1846>`__ during carpet removal we
@@ -27,3 +21,5 @@ photos <http://shackspace.de/gallery/index.php/Umzug-nach-0xff/>`__.
 
 .. |image0| image:: http://shackspace.de/gallery/var/thumbs/Umzug-nach-0xff/IMG_1127.JPG
    :target: http://shackspace.de/gallery/index.php/Umzug-nach-0xff/IMG_1127
+
+

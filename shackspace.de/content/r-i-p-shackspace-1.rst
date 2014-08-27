@@ -26,3 +26,5 @@ heap of rubble and many good memories.  Time to move on!
 
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2012/05/old_shackspace-1024x649.jpg
    :target: http://shackspace.de/wp-content/uploads/2012/05/old_shackspace.jpg
+
+

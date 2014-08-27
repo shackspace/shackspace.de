@@ -22,3 +22,5 @@ hadez (at) shackspace.de
 Resolved <http://vimeo.com/25260457>`__ from `shack e.V. Hackerspace
 Stuttgart <http://vimeo.com/shackspace>`__ on
 `Vimeo <http://vimeo.com>`__.
+
+

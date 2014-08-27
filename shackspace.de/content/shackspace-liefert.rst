@@ -11,3 +11,5 @@ Muntionskiste Club-Mate hinter die feindlichen Linien des dritten Bar
 Camp Stuttgart.
 
 Update: `Der Vorgang wurde dokumentiert <http://twitpic.com/2nottf>`__.
+
+

@@ -29,18 +29,9 @@ Diesen **Freitag, 13. April 2012** **ab 20:00 Uhr**, laden
 Exploiten und zur Diskussion über Techniken bezogen auf
 exploit-exercises.com geladen.
 
-| Im Anschluss wird Ertes eine \ *detaillierte Einführung in die RSA
-Kryptographie* geben.  Ziel des Tutorials ist es, dass am Ende jeder
-fähig ist mit Papier und Bleistift einen RSA Schlüssel zu erstellen und
-zu brechen.
-|  Im Rahmen des Workshop soll auch ein Kommandozeilentool erstellt
-werden mit dem RSA-Verschlüsselung und -Signierung möglich ist.
+| Im Anschluss wird Ertes eine \ *detaillierte Einführung in die RSA Kryptographie* geben.  Ziel des Tutorials ist es, dass am Ende jeder fähig ist mit Papier und Bleistift einen RSA Schlüssel zu erstellen und zu brechen.
+|  Im Rahmen des Workshop soll auch ein Kommandozeilentool erstellt werden mit dem RSA-Verschlüsselung und -Signierung möglich ist.
 
-| *Zum Event:
-*\ **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder
-ist willkommen!  Um `formlose
-Anmeldung <http://www.doodle.com/p336bm8bqsc7qnvf>`__ (Doodle) wird
-gebeten.
-|  Datum: \ **Freitag, 13. April 2012**, ab \ **20:00Uhr
-**\ Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße
-255 <../?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
+| *Zum Event: *\ **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder ist willkommen!  Um `formlose Anmeldung <http://www.doodle.com/p336bm8bqsc7qnvf>`__ (Doodle) wird gebeten.
+|  Datum: \ **Freitag, 13. April 2012**, ab \ **20:00Uhr **\ Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <../?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
+

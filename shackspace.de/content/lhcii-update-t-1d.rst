@@ -5,11 +5,7 @@ LHC II Update: T-1d
 :category: Allgemein
 :slug: lhcii-update-t-1d
 
-|image0|\ Good news everyone!  The shackspace hackerspace passport stamp
-arrived! And as a special bonus there's also a `Ministry of
-Cancer <http://shackspace.de/wiki/doku.php?id=ministry:cancer>`__ stamp
-on top of that.  So make sure to pack your passport and get two stamps
-for the price of one :)
+|image0|\ Good news everyone!  The shackspace hackerspace passport stamp arrived! And as a special bonus there's also a `Ministry of Cancer <http://shackspace.de/wiki/doku.php?id=ministry:cancer>`__ stamp on top of that.  So make sure to pack your passport and get two stamps for the price of one :)
 
 Several folks around here started to drop camp beds and sleeping mats at
 the space.  This means we'll have a couple of those for you on a on-site
@@ -61,3 +57,5 @@ shack-o-phon: **+49 (0)711 21729823**
 
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2011/08/IMG_20110825_093643-150x150.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/08/IMG_20110825_093643.jpg
+
+

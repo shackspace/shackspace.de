@@ -10,10 +10,7 @@ Selbermachen: Reparatur-Cafe im shackspace
 Technischer Defekt: Einfach wegwerfen?!
 
 | Diesem Trend stellt sich das Stuttgarter Reparatur-Cafe entgegen.
-|  Inspiriert vom "`Repair-Cafe <http://repaircafe.de/>`__\ " findet im
-Stuttgarter Hackerspace am **Sonntag**, den **26. Mai 2013** von **11
-Uhr bis 18 Uhr** (open end) eine Mitmach-Veranstaltung zur
-Instandsetzung technischer Gegenstände für Jedermann statt.
+|  Inspiriert vom "`Repair-Cafe <http://repaircafe.de/>`__\ " findet im Stuttgarter Hackerspace am **Sonntag**, den **26. Mai 2013** von **11 Uhr bis 18 Uhr** (open end) eine Mitmach-Veranstaltung zur Instandsetzung technischer Gegenstände für Jedermann statt.
 
 Freiwillige Helfer aus dem Umfeld des Stuttgarter Hackerspace bieten
 kostenfrei Unterstützung in allen technischen Fragen zu Defekten und
@@ -49,13 +46,11 @@ Bei Fragen einfach eine kurze Mail an: repcafe (at) winningindustries
 (dot) de
 
 | *Zum Event:*
-|  **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder
-ist willkommen! Um \ `formlose
-Anmeldung <http://doodle.com/4n6pyx4q3dksg9be>`__ (Doodle) wird gebeten.
+|  **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder ist willkommen! Um \ `formlose Anmeldung <http://doodle.com/4n6pyx4q3dksg9be>`__ (Doodle) wird gebeten.
 |  Datum: \ **Sonntag, 26. Mai 2013**, ab \ **11:00 Uhr**
-|  Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße
-255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber
-Kulturhaus Arena)
+|  Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
 
 .. |IMG_20130302_034831__| image:: http://shackspace.de/wp-content/uploads/2013/05/IMG_20130302_034831__-300x159.jpg
    :target: http://shackspace.de/wp-content/uploads/2013/05/IMG_20130302_034831__.jpg
+
+

@@ -7,25 +7,16 @@ SNESoIP: Play Super Nintendo Games Over the Internet
 
 |2013-08-28-prototype-01|
 
-| Here's a real gem for all you lovers of classic gaming consoles, right
-now specifically the SNES.
-|  Remember, back in the olden days, when you spent hours with your
-friends playing your favorite games on the SNES? Good times, good times.
-|  But you all grew up and moved away, spread out over the world. What
-would you give if you could once again meet up and play those beloved
-games together?
+| Here's a real gem for all you lovers of classic gaming consoles, right now specifically the SNES.
+|  Remember, back in the olden days, when you spent hours with your friends playing your favorite games on the SNES? Good times, good times.
+|  But you all grew up and moved away, spread out over the world. What would you give if you could once again meet up and play those beloved games together?
 
 Fret not, here's just the thing you need. And shackspace resident hacker
 `Michael Fitzmayer <https://github.com/mupfelofen-de>`__ is to blame for
 it!
 
-| The `**SNESoIP** <https://github.com/mupfelofen-de/SNESoIP>`__
-ethernet adapter for the Super Nintendo Entertainment System (also known
-as the Super NES, SNES or Super Nintendo) is an open-source,
-proof-of-concept, network-bridge for sharing local controller-inputs
-over the Internet.
-|  The project it currently in its early stage, but fully functional and
-could be used to play multiplayer games over the Internet.
+| The `**SNESoIP** <https://github.com/mupfelofen-de/SNESoIP>`__ ethernet adapter for the Super Nintendo Entertainment System (also known as the Super NES, SNES or Super Nintendo) is an open-source, proof-of-concept, network-bridge for sharing local controller-inputs over the Internet.
+|  The project it currently in its early stage, but fully functional and could be used to play multiplayer games over the Internet.
 
 He's also planning on integrating some kind of server-controlled BBS
 system for which he's already built a `PS/2-to-SNES keyboard
@@ -61,3 +52,5 @@ Now, without further ado, check out this video of the SNESoIP in action:
 
 .. |2013-08-28-prototype-01| image:: http://shackspace.de/wp-content/uploads/2013/09/2013-08-28-prototype-01-300x200.jpg
    :target: http://shackspace.de/wp-content/uploads/2013/09/2013-08-28-prototype-01.jpg
+
+

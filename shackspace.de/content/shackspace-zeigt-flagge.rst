@@ -5,8 +5,7 @@ shackspace zeigt Flagge
 :category: Allgemein
 :slug: shackspace-zeigt-flagge
 
-|image0|\ Am Wochende wurde hart gearbeitet und das Ergebnis spricht für
-sich.
+|image0|\ Am Wochende wurde hart gearbeitet und das Ergebnis spricht für sich.
 
 Dank layer.1.gfx, der mit vollem Einsatz zwei Tage und Nächte mit der
 Umsetzung seines Entwurfs beschäftigt war, ziert nun unser Maskottchen
@@ -36,3 +35,5 @@ Klasse Entwurf, die Umsetzung und das epische Ergebnis!
 
 .. |image0| image:: http://shackspace.de/gallery/var/thumbs/Projekte/shack-front/IMG_20101003_230727.jpg?m=1286180916
    :target: http://shackspace.de/gallery/index.php/Projekte/shack-front/IMG_20101003_230727
+
+

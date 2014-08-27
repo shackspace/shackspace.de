@@ -5,13 +5,7 @@ Last Minute Presents: DIY Bath Melts
 :category: Allgemein
 :slug: last-minute-presents-diy-bath-melts
 
-|IMG_20121221_230155|\ You can buy bath melts with a significant
-price-tag attached at your local or `online cosmetics and beauty
-shop <www.lush.com.au/shop/product/category/path/144/luxury-bath-melts>`__
-but you can just as easily make your own with a few simple ingredients
-available at a far more reasonable price.  They also make very nice
-presents so if you're still looking for something to give for the
-holidays, stop looking right now.
+|IMG_20121221_230155|\ You can buy bath melts with a significant price-tag attached at your local or `online cosmetics and beauty shop <www.lush.com.au/shop/product/category/path/144/luxury-bath-melts>`__ but you can just as easily make your own with a few simple ingredients available at a far more reasonable price.  They also make very nice presents so if you're still looking for something to give for the holidays, stop looking right now.
 
 A week ago shackspace member `Bine <https://twitter.com/KaBine>`__ gave
 a bath melts workshop at shackspace and it left us with a very nice
@@ -81,11 +75,8 @@ easier if you're using silicone trays.
 Tips
 ~~~~
 
-| You can make your own (relatively) water free food coloring using
-easter egg dye (they either come pulverized or as small pellets).
-|  Simply add a tiny amount of water to help dissolve the powder.  Once
-its dissolved use olive oil to thin the color before adding it to your
-mix.
+| You can make your own (relatively) water free food coloring using easter egg dye (they either come pulverized or as small pellets).
+|  Simply add a tiny amount of water to help dissolve the powder.  Once its dissolved use olive oil to thin the color before adding it to your mix.
 
 Also pay close attention during making and later storing of the bath
 melts to ensure that everything is kept dry and no water is introduced
@@ -108,3 +99,5 @@ irritate your skin.
 
 .. |IMG_20121221_230155| image:: http://shackspace.de/wp-content/uploads/2012/12/IMG_20121221_230155-150x150.jpg
    :target: http://shackspace.de/wp-content/uploads/2012/12/IMG_20121221_230155.jpg
+
+

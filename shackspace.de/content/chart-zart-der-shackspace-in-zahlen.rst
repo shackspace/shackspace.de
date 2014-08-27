@@ -5,10 +5,7 @@ Chart.Zart - Der shackspace in Zahlen
 :category: Allgemein
 :slug: chart-zart-der-shackspace-in-zahlen
 
-|image0|\ Am kommenden **Montag, 21. Juni, ab 19:00Uhr**, werden wir
-unsere Location am fNordbahnhof #12 seit ziemlich genau drei Monaten
-bewohnen. Mit genug Platz, um Ideen zu realisieren und Projekte
-durchstarten zu lassen.
+|image0|\ Am kommenden **Montag, 21. Juni, ab 19:00Uhr**, werden wir unsere Location am fNordbahnhof #12 seit ziemlich genau drei Monaten bewohnen. Mit genug Platz, um Ideen zu realisieren und Projekte durchstarten zu lassen.
 
 Aber am Anfang war das Licht - und nicht nur das Licht, sondern auch der
 Strom, das Netzwerk, die Wandfarbe, die Möbel, der Mate-O-Mat ... alles
@@ -26,3 +23,5 @@ kennenzulernen.
 
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2010/06/chart-zart.jpg
    :target: http://shackspace.de/wp-content/uploads/2010/06/chart-zart.jpg
+
+
