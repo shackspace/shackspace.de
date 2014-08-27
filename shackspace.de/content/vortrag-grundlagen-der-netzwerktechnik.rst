@@ -46,16 +46,6 @@ folgendes für euch geplant:
    -  Sicherheitsmechanismen (L2 u. L3)
    -  Gateway Redundancy (L3)
 
-| *Zum Event: *\ Um Spenden and shack e.V. (z.B. 3 EUR) wird gegeben.
-|  Anmeldung: \ `Doodle <http://doodle.com/wmy54z6fhxgc5hdn>`__
-|  Datum: \ **Samstag, 16. Februar 2013**, \ **18:00 Uhr **\ Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
-*Bild: `|Attribution|\ |Noncommercial|\ |Share
-Alike| <http://creativecommons.org/licenses/by-nc-sa/2.0/>`__ `Some
-rights
-reserved <http://creativecommons.org/licenses/by-nc-sa/2.0/>`__ by `-=
-Treviño =- <http://www.flickr.com/photos/trevi55/>`__*
-
 .. |94552487_3254218671| image:: http://shackspace.de/wp-content/uploads/2013/02/94552487_3254218671-150x150.jpg
    :target: http://www.flickr.com/photos/trevi55/94552487/sizes/m/in/photostream/
 .. |Attribution| image:: http://l.yimg.com/g/images/cc_icon_attribution_small.gif

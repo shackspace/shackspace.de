@@ -27,10 +27,6 @@ Mitbringen sollte man:
 -  Einen Computer mit installiertem `Java Development Kit
    7 <http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html>`__
 
-| *Zum Event: *\ Teilnahmegebühr: \ **5 EUR** (3 EUR für Mitglieder des shack e.V.)
-|  Anmeldung: \ `Doodle <http://doodle.com/97gzn4rg9a36sq3d>`__
-|  Datum: \ **Montag, 25. Februar 2013**, \ **20:00 Uhr **\ Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
 .. |shack| image:: http://shackspace.de/wp-content/uploads/2012/06/shack-150x150.png
 
 

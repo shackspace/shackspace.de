@@ -19,12 +19,6 @@ einsetzen. Mehr Informationen finden sich auf der
 | Die Anmeldung erfolgt im Vorfeld mit `diesem Formular <https://docs.google.com/forms/d/1yszLRmMnW8-I_shnDqQHrj8FbeObIm994rwhcs4pUbA/viewform>`__. Hier kann auch der Wunschtermin (sofern noch verfügbar) gewählt werden. First come, first serve. Der Workshop wird von @\ `dop3j0e <https://twitter.com/dop3j0e>`__ und @\ `fu86 <https://twitter.com/fu86>`__ geführt.
 |  Wir freuen uns auf rege Teilnahme.
 
-| *Zum Event:*
-|  **Materialkosten: 8 €**\ (*Spenden an shack e.V. sind gerne gesehen*) Jeder ist willkommen!
-|  Bitte unbedingt [STRIKEOUT:**vorher anmelden**]. **Workshop ist ausgebucht!**
-|  Datum: **Samstag, 20. September & Sonntag 21. September 2014**, ab **14:00Uhr**
-|  Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
 .. |miniledcube-smd| image:: http://shackspace.de/wp-content/uploads/2014/08/miniledcube-smd-300x198.png
    :target: http://shackspace.de/wp-content/uploads/2014/08/miniledcube-smd.png
 

@@ -28,10 +28,6 @@ Workshop.
 |  Ein modularer Synthesizer ist durch seine Schaltungsfreiheit auch ein idealer akustischer Experimentierbaukasten für ungewöhnliche Klangstrukturen und Sounddesign.
 |  Zufalls-Trigger, schwankende `LFO <http://de.wikipedia.org/wiki/Low_Frequency_Oscillator>`__-Modulationen und chaotische Frequenzmodulationen als Inspirationsquelle für eigene Klangkreationen.
 
-| *Zum Event: *\ Teilnahmegebühr: \ **5 EUR** (3 EUR für Mitglieder des shack e.V.)
-|  Anmeldung: \ `Doodle <http://doodle.com/p72986ss6swubqhr>`__
-|  Datum: \ **Samstag, 9. Februar 2013**, \ **20:00 **\ bis\ ** 22:00 Uhr **\ Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
 .. |Logo_01gr| image:: http://shackspace.de/wp-content/uploads/2013/01/Logo_01gr.jpg
    :target: http://shackspace.de/wp-content/uploads/2013/01/Logo_01gr.jpg
 

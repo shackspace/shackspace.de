@@ -27,6 +27,3 @@ Teilnehmer sollten dabei haben:
    können beim Workshop für den Einkaufspreis erworben werden (solange
    der Vorrat reicht).
 
-| **Zum Event: **\ **Eintritt frei!** (Spenden an shack e.V. sind gerne gesehen) Jeder ist willkommen!  Freiwillige, `formlose Anmeldung <http://doodle.com/zm2udz8mpx44ikwk>`__ (Doodle) wäre  cool, braucht’s aber nicht.
-|  Datum: \ **Sonntag, 28. Oktober 2012**, ab \ **14:00 Uhr **\ Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-

@@ -138,11 +138,6 @@ Der aktuelle Stand der Agenda:
 
       </div>
 
-| *Zum Event:*
-|  **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder ist willkommen! Wer gerne etwas vortragen will, bitte einfach auf der \ `Thundertalks-Seite im Wiki <http://shackspace.de/wiki/doku.php?id=project:thundertalks>`__ eintragen.
-|  Um \ `formlose Anmeldung <http://doodle.com/8z57gh46a8t58f87>`__ (Doodle) wird gebeten.
-|  Datum: \ **Samstag, 23. März 2013** um **19:00 Uhr **\ Anfahrt:\ ** **\ U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
 .. |shack| image:: http://shackspace.de/wp-content/uploads/2012/06/shack-150x150.png
 
 

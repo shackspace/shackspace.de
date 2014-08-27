@@ -25,11 +25,6 @@ Weiterführende Informationen:
    heise.de <http://www.heise.de/newsticker/meldung/Der-GAU-fuer-Verschluesselung-im-Web-Horror-Bug-in-OpenSSL-2165517.html>`__
 -  `Offizielle Infoseite zu Heartbleed <http://heartbleed.com/>`__
 
-| *Zum Event:*
-|  **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder ist willkommen! Terminabsprachen werden auf auf der \ `Wikiseite organisiert <http://shackspace.de/wiki/doku.php?id=project:cypherpunks>`__.
-|  Datum: \ **Sonntag, 13. April 2014**, ab \ **19:00 Uhr**
-|  Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena\ *)*
-
 .. |heartbleed| image:: http://shackspace.de/wp-content/uploads/2014/04/heartbleed-247x300.png
    :target: http://shackspace.de/wp-content/uploads/2014/04/heartbleed.png
 

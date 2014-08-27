@@ -105,10 +105,6 @@ Vorträge zu den verschiedensten Themen gehalten.
 | Der Event steht allen offen und auch nicht-Mitglieder sind herzlichst eingeladen Vorträge zu halten oder einfach als Zuhörer dabei zu sein.
 |  Einen Vorgeschmack kann man sich bei den \ `Aufzeichnungen der vorletzten Thundertalks <http://shackspace.de/?p=2737>`__ holen.
 
-| *Zum Event:*
-|  **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder ist willkommen!  Wer schon weiß was er vortragen will, bitte einfach auf der \ `Thundertalks-Seite im Wiki <http://shackspace.de/wiki/doku.php?id=project:thundertalks>`__ eintragen.  Um \ `formlose Anmeldung <http://www.doodle.com/bg7324pkf39hzpza>`__ (Doodle) wird gebeten.
-|  Datum: \ **Samstag, 25.Februar 2012** um \ **19:00 Uhr **\ Anfahrt:U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
 .. |:-)| image:: http://shackspace.de/wiki/lib/images/smileys/icon_smile.gif
 
 

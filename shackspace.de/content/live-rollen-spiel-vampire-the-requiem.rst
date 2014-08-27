@@ -34,12 +34,6 @@ Mitbringen solltet ihr:
 -  Spaß an Neuem
 -  für euren Charakter passende Kleidung
 
-| *Zum Event:*
-|  Unkostenbeitrag: **2 EUR** (*Spenden an shack e.V. sind gerne gesehen*)
-|  Neueinsteiger bitte \ `bei der Spielleitung <mailto:Sogeking@t-online.de>`__ (Sogeking@t-online.de) melden
-|  Datum: jeden **dritten** **Samstag im Monat**, ab \ **18:00 Uhr**
-|  Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
 .. |lubularp| image:: http://shackspace.de/wp-content/uploads/2013/05/lubularp.png
    :target: http://shackspace.de/wp-content/uploads/2013/05/lubularp.png
 

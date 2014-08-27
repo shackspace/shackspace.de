@@ -14,11 +14,6 @@ Workshop <http://shackspace.de/?p=3448>`__ zu finden.
 Organisator des Workshops und und Ansprechpartner ist shack-Mitglied
 rashfael.
 
-| *Zum Event: *\ **Eintritt frei!** (Spenden an shack e.V. sind gerne gesehen) Jeder ist willkommen!
-|  Datum: \ **alle zwei Wochen, Samstag**, ab \ **15:00 Uhr** (etwa 3 Stunden)\ ** **\ Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
-*Bild: nodejs.org \ http://nodejs.org/logos/*
-
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2012/09/nodejs-dark.png
    :target: http://shackspace.de/wp-content/uploads/2012/09/nodejs-dark.png
 

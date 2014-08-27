@@ -21,11 +21,6 @@ Nationalheiligtum gesehen.  Begriffe wie "Turing-Test" und
 "turing-vollständig" sind vielen Menschen ein Begriff.  Ein Überblick
 über Meilensteine und ein wahrlich unwürdiges Ende.*
 
-| *Zum Event: *\ **Eintritt frei!**
-|  Datum: \ **Donnerstag, 12. Juli 2012**, ab \ **19:30 Uhr **\ Anfahrt: \ **Stadtbibliothek am Mailänder Platz**, Mailänder Platz 1, 70173 Stuttgart, **Max-Bense-Forum (UG)**, N 48° 47' 25.249" E9° 10' 56.96"
-
- 
-
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2011/11/cccs-logo.png
    :target: http://shackspace.de/wp-content/uploads/2011/11/cccs-logo.png
 

@@ -35,11 +35,6 @@ reflektieren auf spannende Weise die kulturelle Bedeutung des Mediums,
 indem sie es kontext-fremd vermitteln, und verstehen digitale Spiele und
 Medien stärker als Kultur.
 
-| *Zum Event:*
-| Anmeldung: Zur einfacheren Organisation, bitte über den `Facebook-Event anmelden <https://www.facebook.com/events/1448821488718643/>`__, Platzangebot beschränkt!
-| Datum: \ **Sonntag**\ **, 10. August 2014, 19:00 Uhr**
-| Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__\ , Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
 .. |NDNS_Logo| image:: http://shackspace.de/wp-content/uploads/2014/08/NDNS_Logo.png
    :target: http://shackspace.de/wp-content/uploads/2014/08/NDNS_Logo.png
 

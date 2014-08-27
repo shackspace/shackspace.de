@@ -21,12 +21,6 @@ Agenda
 -  Offene Diskussion über Schutz der Privatssphäre,
    Vorratsdatenspeicherung und Handhabung im shackspace
 
-| *Zum Event:*
-|  Teilnahmegebühr: **Frei!** (um Spenden an shack e.V. wird gebeten)
-|  Anmeldung: \ `Doodle <http://doodle.com/m3km2h6rxwfzpvwg>`__
-|  Datum: \ **Samstag, 16. März 2013**, \ **19:00 Uhr**
-|  Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
 .. |Hello_2ab23c_2705941| image:: http://shackspace.de/wp-content/uploads/2013/03/Hello_2ab23c_2705941-150x150.jpg
 
 

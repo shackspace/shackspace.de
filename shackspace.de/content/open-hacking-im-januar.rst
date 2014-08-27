@@ -14,14 +14,6 @@ Frickelwochen 2013 im Januar
 
    <div>
 
-*Zum Event:
-*\ **Eintritt frei!** (Spenden an shack e.V. sind gerne gesehen) Jeder
-ist willkommen!
- Datum: \ **2. bis 4.**\ und\ **7. bis 11. Januar 2013**, ab \ **16:00
-Uhr
-**\ Anfahrt: U4/U9 Haltestelle “Im Degen”, Ulmer Straße 255, Stuttgart
-Wangen (gegenüber Kulturhaus Arena)
-
 .. raw:: html
 
    </div>

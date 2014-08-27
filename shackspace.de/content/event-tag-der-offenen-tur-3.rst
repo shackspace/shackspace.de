@@ -1460,9 +1460,6 @@ Lounge & DJs
 -  |image3| `Flyer
    (Rückseite) <http://shackspace.de/wp-content/uploads/2012/08/ShackFlyerBack.jpg>`__
 
-| **Zum Event: **\ **Eintritt frei!** (Spenden an shack e.V. sind gerne gesehen) Jeder ist willkommen!  Freiwillige, `formlose Anmeldung <http://doodle.com/vqq7eicypi4bmxqs>`__ (Doodle) wäre  cool, braucht's aber nicht.
-|  Datum: \ **Samstag, 15. September 2012**, ab \ **12:00 Uhr **\ Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2012/08/ShackFlyerFront-300x213.jpg
    :target: http://shackspace.de/wp-content/uploads/2012/08/ShackFlyerFront.jpg
 .. |image1| image:: http://shackspace.de/wp-content/uploads/2012/08/TDOT_Poster-150x150.jpg

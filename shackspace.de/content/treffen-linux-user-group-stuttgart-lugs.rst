@@ -22,10 +22,6 @@ Treffen: Linux User Group Stuttgart (LUGS)
 -  Pinguine knuddeln
 -  Spaß haben
 
-| *Zum Event:*
-|  **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder ist willkommen!
-|  Datum: jeder **letzte Donnerstag** des Monat\ **s **\ Anfahrt:U4/U9 Haltestelle “Im Degen”, `Ulmer Straße 255 <../?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2011/12/pllogo.gif
    :target: http://shackspace.de/wp-content/uploads/2011/12/pllogo.gif
 

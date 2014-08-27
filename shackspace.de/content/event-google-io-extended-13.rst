@@ -24,11 +24,6 @@ sich auf den Mittwoch.
 (`English Version of the
 announcement <https://plus.google.com/110418713081470246659/posts>`__)
 
-| *Zum Event:*
-|  **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder ist willkommen! \ `**Anmeldung erforderlich!** <https://plus.google.com/110418713081470246659/posts>`__
-|  Datum: \ **Mittwoch, 15. Mai 2013**, ab \ **17:00 Uhr**
-|  Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
 .. |google-io-logo| image:: http://shackspace.de/wp-content/uploads/2013/04/google-io-logo.png
 .. |GDG-program-icon| image:: http://shackspace.de/wp-content/uploads/2013/04/GDG-program-icon-150x150.png
    :target: http://shackspace.de/wp-content/uploads/2013/04/google-io-logo.png

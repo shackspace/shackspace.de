@@ -21,9 +21,6 @@ Plauderrunde eingeplant.
 | *Zur Person:*
 |  Sierk Hamann ist Jurist aus Tübingen und unternahm seine ersten Reisen im Cyberspace mit `NCSA Mosaic <http://de.wikipedia.org/wiki/NCSA_Mosaic>`__. Er ist seit dem Jahr 2000 als Richter und `Staatsanwalt <http://de.wikipedia.org/wiki/Staatsanwalt>`__ tätig. Die Ursprünge seiner wissenschaftlichen Arbeit liegen im `Verfassungsrecht <http://de.wikipedia.org/wiki/Verfassungsrecht>`__ mit besonderem Schwerpunkt auf Telekommunikationsfreiheiten & `Informationeller Selbstbestimmung <http://de.wikipedia.org/wiki/Informationelle_Selbstbestimmung>`__.
 
-| *Zum Event: *\ **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder ist willkommen!  Um `formlose Anmeldung <http://doodle.com/yk4p7dvaiy9qqfdw>`__ (Doodle) wird gebeten.
-|  Datum: \ **Samstag, 20. April. 2013**, **19:30 Uhr **\ Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
 .. |shack| image:: http://shackspace.de/wp-content/uploads/2012/06/shack-150x150.png
    :target: http://shackspace.de/wp-content/uploads/2012/06/shack.png
 

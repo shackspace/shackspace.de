@@ -15,9 +15,6 @@ Haskel-Workshop: Web-Entwicklung mit Snap-Framework
 |  Natürlich beginnt der Workshop mit einer Grundeinführung in Haskell.
 |  Laptop ist notwendig.
 
-| **Zum Event: **\ **Eintritt frei!** (Spenden an shack e.V. sind gerne gesehen) Jeder ist willkommen!  Um `formlose Anmeldung <http://doodle.com/3wdibct9z73swawm>`__ (Doodle) wird gebeten.
-|  Datum: \ **Freitag, 17. August 2012**, ab \ **20:00 Uhr **\ Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2011/12/HaskellLogoStyPreview-1.png
    :target: http://shackspace.de/wp-content/uploads/2011/12/HaskellLogoStyPreview-1.png
 

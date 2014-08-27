@@ -27,7 +27,3 @@ Unter Anderem gibt es Talks zu folgenden Themen:
    (Dominik)
 -  Hacking the city - Wo stehen wir? (claus)
 
-| *Zum Event:*
-|  **Eintritt frei!** Jeder ist willkommen!  Wer schon weiß was er vortragen will, bitte einfach auf der `Thundertalks-Seite im Wiki <http://shackspace.de/wiki/doku.php?id=project:thundertalks>`__ eintragen.  Um `formlose Anmeldung <http://www.doodle.com/msn935peydirn23q>`__ (Doodle) wird gebeten.
-|  Datum: **Samstag, 17. Dezember 2011** um **19:00 Uhr **\ Anfahrt:U4/U9 Haltestelle “Im Degen”, `Ulmer Straße 255 <../?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-

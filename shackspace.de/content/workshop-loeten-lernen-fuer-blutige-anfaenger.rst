@@ -34,14 +34,6 @@ einen Nachrückerplatz ergattern.
 -  `Liste der erhältlichen Bausätze /
    Kits <https://noisebridge.net/wiki/MitchWorkshopsEU#Kits>`__
 
-| *Zum Event:*
-|  **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*)
-|  Limitierte Workshopplätze (~30), bitte unbedingt `voranmelden <http://doodle.com/u4n6tkhqfeawf8u7>`__ (Doodle), wer zuerst kommt, malt zuerst :)
-|  Datum: **Sonntag, 18. Maiab 14 Uhr**
-|  Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
-*Bild: CC-BY Andy Nordgren, modifiziert von hadez*
-
 .. |loeten| image:: http://shackspace.de/wp-content/uploads/2014/05/loeten-300x86.png
    :target: http://shackspace.de/wp-content/uploads/2014/05/loeten.png
 

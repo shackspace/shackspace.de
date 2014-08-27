@@ -197,10 +197,6 @@ Jeder ist willkommen!
 
    </div>
 
-| *Zum Event:*
-|  **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder ist willkommen!  Um `formlose Anmeldung <http://www.doodle.com/c7uegybdh74gingx>`__ (Doodle) wird gebeten.
-|  Datum: **Samstag, 11. Februar 2012** ab **18:00 Uhr **\ Anfahrt:U4/U9 Haltestelle “Im Degen”, `Ulmer Straße 255 <../?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2012/01/python-logo-master-v3-TM-flattened-300x101.png
    :target: http://shackspace.de/wp-content/uploads/2012/01/python-logo-master-v3-TM-flattened.png
 

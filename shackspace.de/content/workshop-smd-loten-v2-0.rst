@@ -30,10 +30,6 @@ finden sich in unserer Gallery.
 Diese Auflage des Workshops ist rein intern, die verfügbaren Plätze sind
 leider schon voll mit interessierten Vereinsmitgliedern besetzt.
 
-| *Zum Event:*
-|  **Anmeldung geschlossen!** Leider sind bereits alle Plätze für den Workshop belegt, wer aber Interesse daran hat an einem möglichen Workshop #3 teilzunehmen (gerne auch nicht-Mitglieder), mailt bitte direkt \ `atmega32u4-workshop@dojoe.net <mailto:atmega32u4-workshop@dojoe.net?subject=[workshop]%20Interesse>`__.
-|  Datum: \ **Freitag, 17. und Samstag 18. Februar 2012 **\ Anfahrt:U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
 .. |image0| image:: http://shackspace.de/gallery/var/thumbs/Projekte/ATmega32U4-Board/DSC_5667.jpg
    :target: http://shackspace.de/gallery/index.php/Projekte/ATmega32U4-Board
 

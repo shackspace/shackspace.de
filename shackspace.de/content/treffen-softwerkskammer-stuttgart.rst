@@ -30,12 +30,6 @@ Kurzvorträge und Ideen mit die in der Gruppe diskutiert werden können.
 Kurz: [...] die richtige Software entwickeln, und [...] die Software
 richtig entwickeln.
 
-| *Zum Event:*
-|  **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder ist willkommen! Anmeldung bitte über `softwerkskammer.org <http://www.softwerkskammer.org/>`__.
-|  Datum: \ **Mittwoch, 12. Februar 2014**, ab \ **19:30 Uhr **\ Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
- 
-
 .. |d5be303ec904bdd9c02481ac7dcfe189| image:: http://shackspace.de/wp-content/uploads/2013/05/d5be303ec904bdd9c02481ac7dcfe189.jpg
    :target: http://shackspace.de/wp-content/uploads/2013/05/d5be303ec904bdd9c02481ac7dcfe189.jpg
 

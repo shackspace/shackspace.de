@@ -32,13 +32,6 @@ einer neuen Veranstaltungsserie.
 Kurz: [...] die richtige Software entwickeln, und [...] die Software
 richtig entwickeln.
 
-| *Zum Event:*
-|  **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder ist willkommen! Um `formlose Anmeldung <http://doodle.com/z26snppnbmkep8bx>`__ (Doodle) wird gebeten.
-|  Datum: \ **Mittwoch, 23. Mai 2013**, ab \ **19:30 Uhr**
-|  Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
- 
-
 .. |d5be303ec904bdd9c02481ac7dcfe189| image:: http://shackspace.de/wp-content/uploads/2013/05/d5be303ec904bdd9c02481ac7dcfe189.jpg
    :target: http://shackspace.de/wp-content/uploads/2013/05/d5be303ec904bdd9c02481ac7dcfe189.jpg
 

@@ -24,8 +24,3 @@ mit dem Vortragenden in die Tiefen des Hardwarehackings abzutauchen.
 | *Zum Vortragenden:*
 |  `Thomas Roth <https://twitter.com/stacksmashing>`__ ist `Security Researcher und Consultant <http://leveldown.de/>`__. Seine Hauptinteressen liegen in den Bereichen `Exploit <http://de.wikipedia.org/wiki/Exploit>`__\ techniken sowie dem \ `Reverse Engineering <http://de.wikipedia.org/wiki/Reverse_engineering>`__ von `Embedded Systems <http://de.wikipedia.org/wiki/Embedded_Systems>`__ und Kryptographieimplementationen. Bekannt wurde er unter Anderem für das von ihm entwicklete verteile Framework zum Brechen von Verschlüsselungen, Aufzeigen von `Sicherheitslücken in EC Bezahlterminals <http://www.heise.de/security/meldung/EC-Karten-PIN-Klau-am-Kartenterminal-moeglich-1636550.html>`__ und der Entwicklung von Reverse Engineering Werkzeugen für die ARM Architektur.
 
-| *Zum Event:*
-|  **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder ist willkommen! Um \ `formlose Anmeldung <http://doodle.com/dqyu5ggu4ubve98p>`__ (Doodle) wird gebeten.
-|  Datum: \ **Samstag, 11. Mai 2013**, ab \ **19:30 Uhr**
-|  Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-

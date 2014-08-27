@@ -25,10 +25,6 @@ Vorraussetzungen:
 -  `node.js <http://nodejs.org/>`__ (>= 0.8.x)
 -  root-Rechte
 
-| *Zum Event: *\ Teilnahmegebühr: \ **5 EUR** (3 EUR für Mitglieder des shack e.V.)
-|  Anmeldung: \ `Doodle <http://doodle.com/4mqebb5t64aedqe4>`__
-|  Datum: \ **Samstag, 2. März 2013**, \ **18:00 Uhr **\ Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
 .. |c99eed5c9c20eb19a68c14256fbf5dae| image:: http://shackspace.de/wp-content/uploads/2013/02/c99eed5c9c20eb19a68c14256fbf5dae-150x150.jpeg
 
 

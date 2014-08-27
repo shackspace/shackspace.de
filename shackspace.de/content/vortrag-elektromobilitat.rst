@@ -20,7 +20,3 @@ sind alle Technikbegeisterten und an E-Mobilität Interessierte.
 | *Zum Vortragenden:*
 |  Tomi Engel beschäftigt sich im Rahmen der `Deutschen Gesellscahft für Sonnenenergie e.V. <http://www.dgs.de/>`__ eingehend mit den Themen der Elektromobilität.
 
-| *Zum Event:*
-|  **Eintritt frei!** Jeder ist willkommen!  Um `formlose Anmeldung <http://www.doodle.com/rrn4uemrw6ci2zmu>`__ (Doodle) wird gebeten.
-|  Datum: **Montag, 6. Februar 2012** ab **19:30 Uhr **\ Anfahrt:U4/U9 Haltestelle “Im Degen”, `Ulmer Straße 255 <../?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-

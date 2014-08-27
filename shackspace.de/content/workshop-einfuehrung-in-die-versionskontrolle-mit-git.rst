@@ -45,11 +45,6 @@ nimmt, bitte folgende Anmeldebedingungen beachten:
 -  Die ersten 10 Personen, die einen SSH Public Key einsenden dürfen
    mitspielen
 
-| *Zum Event:*
-|  **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder ist willkommen! **ACHTUNG**: Workshop ist auf 10 Teilnehmer beschränkt.
-|  Datum: \ **Samstag, 22. Februar 2014 ab 15 Uhr** (Anmeldung durch Einsenden des SSH Public Keys an rixx@foyfoy.de)
-|  Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
 .. |Git-Logo-2Color| image:: http://shackspace.de/wp-content/uploads/2014/02/Git-Logo-2Color-300x125.png
    :target: http://shackspace.de/wp-content/uploads/2014/02/Git-Logo-2Color.png
 

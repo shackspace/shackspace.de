@@ -15,11 +15,6 @@ technischen Dingen auf den Grund gegangen werden. Wir haben Werkzeuge
 und einiges an Ersatzteilen vor Ort. Garantie gibt es keine, zu Lernen
 aber jede Menge.
 
-| *Zum Event:*
-|  **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder ist willkommen! Um \ `formlose Anmeldung <http://doodle.com/b3596wktfrg5h3eu>`__ (Doodle) wird gebeten.
-|  Datum: \ **Sonntag, 22. September 2013**, ab \ **11:00 Uhr**
-|  Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
 .. |bjficafc| image:: http://shackspace.de/wp-content/uploads/2013/09/bjficafc-300x141.png
    :target: http://shackspace.de/wp-content/uploads/2013/09/bjficafc.png
 

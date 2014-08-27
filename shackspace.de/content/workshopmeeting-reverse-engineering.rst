@@ -61,11 +61,6 @@ Kenntnisstand und was ihr euch wünsch/erhofft als Kommentar.
 Weitere Informationen auf der `Wikiseite zur Reverse Engineering
 Group <http://shackspace.de/wiki/doku.php?id=reverse_engineering_group>`__.
 
-| **Zum Event: **\ **Eintritt frei!** (Spenden an shack e.V. sind gerne gesehen) Jeder ist willkommen!  Um `formlose Anmeldung <http://doodle.com/77p8ntgashczyygr>`__ (Doodle) wird gebeten.
-|  Datum: \ **Freitag, 31. August 2012**, ab \ **19:00 Uhr **\ Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
-*Bild: CC-BY-SA \ *http://www.flickr.com/photos/pablobd/**
-
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2012/08/4760973863_6199c4ca88_q.jpg
    :target: http://shackspace.de/wp-content/uploads/2012/08/4760973863_6199c4ca88_q.jpg
 

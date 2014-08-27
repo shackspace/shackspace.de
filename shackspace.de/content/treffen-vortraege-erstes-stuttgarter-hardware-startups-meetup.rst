@@ -36,12 +36,6 @@ anhand der Werbeartikelfirma Neon-Online*\ ".
 Im Anschluss an den Event wird Interessierten eine Führung durch den
 shackspace geboten.
 
-| *Zum Event:*
-|  **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder ist willkommen!
-|  Bitte kostenlos **`vorher anmelden <http://www.meetup.com/Stuttgart-Hardware-Startups/>`__** (meetup.com).
-|  Datum: **Dienstag, 9. September 2014**\ ab\ **19 Uhr**
-|  Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
 .. |600_395679172| image:: http://shackspace.de/wp-content/uploads/2014/08/600_395679172-300x161.jpeg
    :target: http://shackspace.de/wp-content/uploads/2014/08/600_395679172.jpeg
 

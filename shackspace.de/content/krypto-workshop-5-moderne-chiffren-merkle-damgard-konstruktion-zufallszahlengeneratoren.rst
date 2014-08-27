@@ -36,6 +36,3 @@ einen weit verbreiteten kryptografischen Generator (AES/CTR) vorstellen
 und ein Szenario konstruieren, in dem eine Abweichung des Generators von
 diesen Forderungen in eine praktische Attacke verwandelt werden kann.
 
-| *Zum Event: *\ **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder ist willkommen!  Um `formlose Anmeldung <http://www.doodle.com/cw42zbmqrdtbwftx>`__ (Doodle) wird gebeten.
-|  Datum: \ **Freitag, 1. Juni 2012**, ab \ **19:00 Uhr **\ Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-

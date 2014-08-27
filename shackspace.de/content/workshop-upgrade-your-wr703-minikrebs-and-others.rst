@@ -36,11 +36,6 @@ Was konkret gemacht werden kann:
 Wer "nur" OpenWRT/dd-wrt installieren will, kann ein beliebiges mit
 diesen Firmwaren kompatibles Accesspoint/Router-Modell mitbringen.
 
-| *Zum Event:*
-|  **Eintritt frei!** 5 EUR Unkosten für Verbrauchsmaterialien. (*Spenden an shack e.V. sind gerne gesehen*) Jeder ist willkommen!
-|  Datum: **Sonntag, 19. Januar 2014 ab 16 Uhr** (`Anmeldung <http://doodle.com/fpsxy9uc5f9sbr3u>`__ (Doodle))
-|  Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
 .. |TP-Link NFC Terminal| image:: http://shackspace.de/wp-content/uploads/2013/01/IMG_20130114_003939-e1358188922575.jpg
    :target: http://shackspace.de/wp-content/uploads/2013/01/IMG_20130114_003939-e1358188922575.jpg
 

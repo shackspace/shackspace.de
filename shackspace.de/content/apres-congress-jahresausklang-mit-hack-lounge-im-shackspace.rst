@@ -11,13 +11,6 @@ Après-Congress Jahresausklang mit Hack & Lounge im shackspace
 
    <div>
 
-*Zum Event:
-*\ **Eintritt frei!** (Spenden an shack e.V. sind gerne gesehen) Jeder
-ist willkommen!
- Datum: \ **31. Dezember 2013**, ab \ **19:00 Uhr
-**\ Anfahrt: U4/U9 Haltestelle “Im Degen”, Ulmer Straße 255, Stuttgart
-Wangen (gegenüber Kulturhaus Arena)
-
 .. raw:: html
 
    </div>

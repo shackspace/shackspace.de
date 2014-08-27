@@ -18,8 +18,3 @@ Interessierten zum Vortrag "Datenübertragung mit Licht" ein.
 | *Zum Vortragenden:*
 |  Klaus (DL8SER) beschäftigt sich als `Funkamateur <http://de.wikipedia.org/wiki/Funkamateur>`__ seit Jahren im Detail mit den Möglichkeiten der drahtlosen Signalübertragung.
 
-| *Zum Event:*
-|  **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder ist willkommen! Bitte unverbindlich `anmelden (Doodle) <http://doodle.com/84gerinkxqfic4dm>`__
-|  Datum: **Samstag, 10. Mai 2014 um 20 Uhr**
-|  Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-

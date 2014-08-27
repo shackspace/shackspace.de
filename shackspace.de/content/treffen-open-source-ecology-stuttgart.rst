@@ -17,11 +17,6 @@ Gruppe in Stuttgart zu etablieren.
 
 Jeden **ersten** **Dienstag im Monat** ab **19 Uhr**.
 
-| *Zum Event:*
-|  **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder ist willkommen!
-|  Datum: **Erster** **Dienstag im Monat**, **19 Uhr**
-|  Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
 .. |logo| image:: http://shackspace.de/wp-content/uploads/2013/07/logo-300x185.png
    :target: http://shackspace.de/wp-content/uploads/2013/07/logo.png
 

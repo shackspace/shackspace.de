@@ -44,10 +44,6 @@ vergangenen Workshops verpasst haben.
 
 Ihr solltet einen Laptop mitbringen.
 
-| *Zum Event:*
-|  **Eintritt frei!** Jeder ist willkommen!  Um `formlose Anmeldung <http://www.doodle.com/v247hidebrcbt4px>`__ (Doodle) wird gebeten.
-|  Datum: **Samstag, 14. Januar 2012** um **16:00 Uhr **\ Anfahrt:U4/U9 Haltestelle “Im Degen”, `Ulmer Straße 255 <../?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2011/12/HaskellLogoStyPreview-1.png
    :target: http://shackspace.de/wp-content/uploads/2011/12/HaskellLogoStyPreview-1.png
 

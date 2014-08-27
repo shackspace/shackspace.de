@@ -47,10 +47,6 @@ Hier die Eckdaten zum kommenden Workshop:
 Arbeitsmaterialien wie Papier, Bleistifte, Sprühdosen, Caps, Handschuhe,
 Atemschutzmaske und Streichfarbe sind im Workshopbeitrag enthalten.
 
-| *Zum Event: *\ Jeder ist willkommen! Bitte unbedingt per Email an layer1gfx@graffiti.net anmelden!
-|  Beitrag: **90 EUR** (enthält Farben und Schutzkleidung)
-|  Datum: **Freitag 23. März bis Sonntag 25. März 2012 **\ Anfahrt:U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2012/03/haxx0rzinspace_s-300x174.png
    :target: http://shackspace.de/wp-content/uploads/2012/03/haxx0rzinspace_s.png
 

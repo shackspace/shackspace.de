@@ -35,11 +35,6 @@ Mitbringen müsst ihr
    Software <http://www.openpcd.org/OpenPCD_2_RFID_Reader_for_13.56MHz>`__
    auf CD (oder ähnlichem Bootmedium)
 
-| *Zum Event:*
-|  **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder ist willkommen! Um \ `formlose Anmeldung <http://doodle.com/323um4uy9fzpeesb>`__ (Doodle) wird gebeten.
-|  Datum: \ **Samstag, 25. Mai 2013**, ab \ **15:00 Uhr**
-|  Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
 .. |openpcd_logo| image:: http://shackspace.de/wp-content/uploads/2013/05/openpcd_logo.png
    :target: http://shackspace.de/wp-content/uploads/2013/05/openpcd_logo.png
 

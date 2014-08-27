@@ -19,8 +19,3 @@ Die Agenda des Plenums wird per Wiki-Liste gesammelt und
 geordnet.\ `Wiki-Startseite mit Themenliste und aktuellen weiteren
 Links <http://shackspace.de/wiki>`__
 
-| *Zum Event:*
-|  **Eintritt frei!** Jeder ist willkommen!
-|  **Datum:** Wöchentlich, abwechselnd Donnerstags und Mittwochs
-|  **Anfahrt:** U4/U9 Haltestelle “Im Degen”, `Ulmer Straße 255 <../?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-

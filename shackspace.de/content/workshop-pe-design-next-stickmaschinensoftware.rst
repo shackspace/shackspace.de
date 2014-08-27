@@ -31,10 +31,6 @@ Samstags im Anschluss an den Workshop  sowie Sonntag Nachmittag kann
 nach weiterer Absprache in Einzelterminen eine Einweisung in den
 Gebrauch der shackspace Stickmaschine erfolgen.
 
-| *Zum Event: *\ Teilnahmegebühr: \ **5 EUR** (3 EUR für Mitglieder des shack e.V.)
-|  Anmeldung: \ `Doodle <http://doodle.com/9s3ftqppes2e9nvh>`__
-|  Datum: \ **Samstag, 2. Februar 2013**, \ **18:00 Uhr **\ Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
 .. |nT6FS| image:: http://shackspace.de/wp-content/uploads/2013/01/nT6FS-300x224.jpg
 
 

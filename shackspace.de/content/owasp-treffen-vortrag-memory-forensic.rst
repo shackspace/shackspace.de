@@ -22,12 +22,6 @@ OWASP Treffen & Vortrag: Memory Forensic
 -  `Wikiseite zum Stuttgarter
    Stammtisch <https://www.owasp.org/index.php/OWASP_German_Chapter_Stammtisch_Initiative/Stuttgart>`__
 
-| *Zum Event:*
-|  **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*)
-|  Anmeldung: Zur einfacheren Organisation, bitte kurz `anmelden <http://moreganize.ch/bwUr1JNINmi>`__ (moreganize.ch).
-|  Datum: **Montag, 5. Mai 2014, 19:30 Uhr**
-|  Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
 .. |owasp_logo| image:: http://shackspace.de/wp-content/uploads/2014/04/owasp_logo-291x300.png
    :target: http://shackspace.de/wp-content/uploads/2014/04/owasp_logo.png
 

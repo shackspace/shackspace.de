@@ -39,16 +39,6 @@ möglich.
 
    <div>
 
-*Zum Event:
-*\ [STRIKEOUT:Anmeldung und weitere Infor]\ mationen über die `Website
-des
-Barcamp <http://jugendakademie-bw.de/index.php/component/seminar/?task=3&cid=34>`__.
- Anmeldeschluss ist Mittwoch der 11. April 2012.
- Datum: \ **[STRIKEOUT:Freitag 13. April]
-**\ Anfahrt:\ ** **\ U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße
-255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber
-Kulturhaus Arena)
-
 .. raw:: html
 
    </div>

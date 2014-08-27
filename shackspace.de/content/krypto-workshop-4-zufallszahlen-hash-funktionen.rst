@@ -28,7 +28,3 @@ folgenden Themen selber erkundigen:
 -  Was sind Folgewahrscheinlichkeiten (Markov-Ketten)?
 -  Wie funktioniert das One-Time-Pad und warum ist es so sicher?
 
-| *Zum Event:*
-|  **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder ist willkommen!  Um `formlose Anmeldung <http://www.doodle.com/9akzxc88fqfku4zi>`__ (Doodle) wird gebeten.
-|  Datum: \ **Freitag, 18. Mai 2012** um **19:00 Uhr **\ Anfahrt:\ ** **\ U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-

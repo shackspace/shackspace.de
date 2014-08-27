@@ -15,10 +15,6 @@ und es geht um alle Themen rund um unixoide Betriebssysteme.
 |  Nach unserem Verständnis umfasst Unix sowohl freie Betriebssysteme wie Linux, BSD- und OpenSolaris-Varianten als auch kommerzielle Unices. Wichtig sind uns die offenen Schnittstellen der Unix-Systeme, die Einhaltung der Internet- und anderer anerkannter offener Standards sowie vor allen Dingen die Möglichkeit, tief unter die Oberfläche schauen zu können.
 |  Die GUUG veranstaltet seit mehr als 20 Jahren nationale und internationale \ `Fachkonferenzen <https://www.guug.de/veranstaltungen/index.html>`__, auf denen relevante Entwickler und andere gestandene Experten Neuigkeiten der schnelllebigen IT vorstellen, man sich in Tutorien fortbilden oder seine Erfahrungen mit ähnlich Qualifizierten diskutieren kann. Eine eigene Fachzeitung erscheint als Mitgliedermagazin \ `UpTimes <https://www.guug.de/uptimes/index.html>`__ mehrmals im Jahr. In einer Reihe von Metropolen gibt es \ `(kostenlose) regionale Treffen mit Vorträgen <https://www.guug.de/lokal/index.html>`__, die Interessierten Gelegenheit zum Meinungs- und Erfahrungsaustausch vor Ort bieten.
 
-| *Zum Event:*
-|  **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder ist willkommen!
-|  Datum: **Dritter Dienstag im Monat **\ Anfahrt:U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2012/03/logo.png
    :target: http://shackspace.de/wp-content/uploads/2012/03/logo.png
 

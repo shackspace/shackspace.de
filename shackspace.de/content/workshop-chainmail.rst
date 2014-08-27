@@ -35,12 +35,6 @@ selbst auch noch nie
 | **Kosten**: Teilnahme ist kostenlos (Spenden an shack e.V. sind gerne gesehen);
 |  allerdings müsst ihr die Ringe, die ihr verbaut, bezahlen. Der Preis beträgt 1,25€ pro 10 Gramm. 300 Ringe wiegen etwa 40 Gramm, für einen großen Beutel benötigt ihr etwa 1000 - 1500 Ringe.
 
-| *Zum Event:*
-|  **Eintritt frei!** Verbrauchsmaterial muss bezahlt werden. (*Spenden an shack e.V. sind gerne gesehen*)
-|  Anmeldung: Bitte Mail an chainmail@flyx.org
-|  Datum: **Samstag, 26. April 2014, 11 bis 20 Uhr**
-|  Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
 .. |rings| image:: http://shackspace.de/wp-content/uploads/2014/04/rings-150x150.jpg
    :target: http://shackspace.de/wp-content/uploads/2014/04/rings.jpg
 

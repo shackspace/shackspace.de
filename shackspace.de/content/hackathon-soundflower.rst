@@ -54,20 +54,6 @@ v1 <http://shackspace.de/wiki/doku.php?id=project:soundflower>`__.
 oder kleine Lauptsprecher habt dürft ihr diese gerne mitbringen und in
 die Installation einarbeiten.
 
-| *Zum Event:*
-|  **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder ist willkommen!
-|  Um \ `formlose Anmeldung <http://www.doodle.com/36rk2u32chsnuu7i>`__ (Doodle) wird gebeten.
-|  Datum: \ **Freitag, 02. August 2013**, ab **19:00 Uhr**\ bis\ **Samstag 03. August 2013**
-|  Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
-Foto: `Sound
-Flower <http://risigma.deviantart.com/art/Sound-flower-260972077>`__ by
-`Risigma <http://risigma.deviantart.com/>`__
-
- 
-
- 
-
 .. |http://risigma.deviantart.com/art/Sound-flower-260972077| image:: http://shackspace.de/wp-content/uploads/2013/07/sound_flower_by_risigma-d4bdjcd-300x198.jpg
    :target: http://shackspace.de/wp-content/uploads/2013/07/sound_flower_by_risigma-d4bdjcd.jpg
 

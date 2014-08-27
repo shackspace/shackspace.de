@@ -17,9 +17,6 @@ mit Erzähler.
 Mehr zur GUUG Lokalgruppe Stuttgart unter
 http://www.guug.de/lokal/stuttgart
 
-| **Zum Event: **\ **Eintritt frei!** (Spenden an shack e.V. sind gerne gesehen) Jeder ist willkommen!  Um `formlose Anmeldung <http://www.doodle.com/yh8ii74sf833vggs>`__ (Doodle) wird gebeten.
-|  Datum: \ **Dienstag, 19. Juni 2012**, ab \ **19:30 Uhr **\ Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2012/03/logo.png
    :target: http://shackspace.de/wp-content/uploads/2012/03/logo.png
 

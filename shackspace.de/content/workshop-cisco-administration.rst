@@ -49,14 +49,6 @@ Was muss ich mitbringen?
    Linux* nur zuschauen)
 -  USB->Seriell Adapter sofern vorhanden
 
-| *Zum Event:*
-|  **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder ist willkommen!
-|  Datum: \ **Samstag, 8. Februar 2014 ab 15 Uhr** (`Anmeldung <http://doodle.com/dcqapm9evqikwydi>`__ (Doodle))
-|  Anfahrt: U4/U9 Haltestelle “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
-*Photo: CC-BY-NC-SA
-@\ `momorientes <https://twitter.com/momorientes>`__*
-
 .. |2014-01-11 23.53.47| image:: http://shackspace.de/wp-content/uploads/2014/01/2014-01-11-23.53.47-300x78.jpg
    :target: http://shackspace.de/wp-content/uploads/2014/01/2014-01-11-23.53.47.jpg
 

@@ -24,18 +24,3 @@ Bezockung nicht entziehen werden kann.
 |  So ernst, dass wir an einem Wochenende nicht ausreichend hart Zocken können.
 |  Darum wird *Härter Zocken* auf das folgende Wochenende ausgedehnt! \ *Doppelt Härter Zocken*!
 
-| *Zum Event:*
-|  **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder ist willkommen!
-|  Datum:
-
--  Freitag 2. März 2012 19 Uhr bis Sonntag 4. März 2012 18 Uhr /
-   Um \ `formlose Anmeldung <http://www.doodle.com/rma6c4zs6cp6aahz>`__
-   (Doodle) wird gebeten.
--  Freitag 9. März 2012 19 Uhr bis Sonntag 11. März 2012 18 Uhr / Um
-   `formlose Anmeldung <http://www.doodle.com/34zv6yb7diry5b4q>`__
-   (Doodle) wird gebeten.
-
-Anfahrt:U4/U9 Haltestelle “Im Degen”, `Ulmer Straße
-255 <../?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
-
-
