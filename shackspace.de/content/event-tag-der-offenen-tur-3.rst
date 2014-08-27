@@ -1452,13 +1452,14 @@ Lounge & DJs
 *Meta:*
 
 -  `Facebook Event <https://www.facebook.com/events/473198626037416/>`__
--  twitter
-   Hashtag: \ `#shack12 <https://twitter.com/#!/search/realtime/%23shack12>`__
--  |image1| `Poster <http://shackspace.de/wp-content/uploads/2012/08/TDOT_Poster.jpg>`__
--  |image2| `Flyer
-   (Vorderseite) <http://shackspace.de/wp-content/uploads/2012/08/ShackFlyerFront.jpg>`__
--  |image3| `Flyer
-   (Rückseite) <http://shackspace.de/wp-content/uploads/2012/08/ShackFlyerBack.jpg>`__
+-  twitter Hashtag:
+    `#shack12 <https://twitter.com/#!/search/realtime/%23shack12>`__
+-  |image1|
+    `Poster <http://shackspace.de/wp-content/uploads/2012/08/TDOT_Poster.jpg>`__
+-  |image2|
+    `Flyer (Vorderseite) <http://shackspace.de/wp-content/uploads/2012/08/ShackFlyerFront.jpg>`__
+-  |image3|
+    `Flyer (Rückseite) <http://shackspace.de/wp-content/uploads/2012/08/ShackFlyerBack.jpg>`__
 
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2012/08/ShackFlyerFront-300x213.jpg
    :target: http://shackspace.de/wp-content/uploads/2012/08/ShackFlyerFront.jpg
