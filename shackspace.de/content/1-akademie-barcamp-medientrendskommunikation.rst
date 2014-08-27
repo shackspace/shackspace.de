@@ -18,8 +18,9 @@ MedienTrendsKommunikation <http://jugendakademie-bw.de/index.php/component/semin
 Das Barcamp richtet sich speziell an Beschäftigte aus den Bereichen der
 Kinder- und Jugendarbeit.
 
-*Hintergründe:
-*\ Viele Mitarbeiterinnen und Mitarbeiter in der Kinder- und
+*Hintergründe:*
+
+Viele Mitarbeiterinnen und Mitarbeiter in der Kinder- und
 Jugendarbeit arbeiten im Bereich Medien und Kommunikation an neuen
 Konzepten oder haben bereits welche erfolgreich umgesetzt.  Andere
 suchen nach Ideen und Lösungen die es vielleicht bereits schon gibt.  In
