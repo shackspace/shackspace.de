@@ -57,7 +57,6 @@ Projekte voran bringt, oder sich immer Mittwochs bzw. Donnerstag zum
 Command-Plausch trifft: Wie geht es weiter mit dem Hackspace, wo stehen
 wir?
 
-**- bis demnächst also, im shack, dem Hackerspace in Stuttgart
-**
+**- bis demnächst also, im shack, dem Hackerspace in Stuttgart**
 
 
