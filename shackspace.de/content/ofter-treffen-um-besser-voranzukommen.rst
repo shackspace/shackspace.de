@@ -13,9 +13,9 @@ Planungstreffen fuer Gruendungsveranstaltung
 |  nächsten Schritte insbesondere im Hinblick auf die Vereinsgründung und die Gründungsparty festzulegen.
 |  Wir haben denn auch gleich Nägel mit Köpfen gemacht, **den kommenden Mittwoch, den 3.2. 20:00 als Termin festgelegt**\ und ein paar Tische im Forum 3 reserviert. Hoffentlich können - obwohl das jetzt recht kurzfristig ist - viele kommen. Wie wir das in Zukunft machen (Treffen z.B. in zweiwöchigem Turnus? An wechselnden Wochentagen?) steht natürlich ebenfalls zur offenen Diskussion. Hier nochmal die Eckdaten für den Mittwoch:
 
-**Termin: 03.02.2010 ab 20:00
- Location: http://forum3.dajool.de/ (Tischreservierung für "Shackspace")
- Google Maps: http://is.gd/7nfPP**
+**Termin: 03.02.2010 ab 20:00**
+**Location: http://forum3.dajool.de/ (Tischreservierung für "Shackspace")**
+**Google Maps: http://is.gd/7nfPP**
 
 Thomas Klein
 
