@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="{% block html_lang %}{{ DEFAULT_LANG }}{% endblock %}">
+  <head>
+    <meta charset="utf-8">
+    <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+
+    <!-- Le styles -->
+    <link href="{{ SITEURL }}/theme/css/bootstrap.css" rel="stylesheet">
+    <style type="text/css">
+      body {
+        padding-top: 20px;
+        padding-bottom: 60px;
+      }
+
+      /* Custom container */
+      .container {
+        margin: 0 auto;
+        max-width: 1000px;
+      }
+      .container > hr {
+        margin: 60px 0;
+      }
+
+      /* Main marketing message and sign up button */
+      .jumbotron {
+        margin: 80px 0;
+        text-align: center;
+      }
+      .jumbotron h1 {
+        font-size: 100px;
+        line-height: 1;
+      }
+      .jumbotron .lead {
+        font-size: 24px;
+        line-height: 1.25;
+      }
+      .jumbotron .btn {
+        font-size: 21px;
+        padding: 14px 24px;
+      }
+
+      /* Supporting marketing content */
+      .marketing {
+        margin: 60px 0;
+      }
+      .marketing p + h4 {
+        margin-top: 28px;
+      }
+
+
+      /* Customize the navbar links to be fill the entire space of the .navbar */
+      .navbar .navbar-inner {
+        padding: 0;
+      }
+      .navbar .nav {
+        margin: 0;
+        display: table;
+        width: 100%;
+      }
+      .navbar .nav li {
+        display: table-cell;
+        width: 1%;
+        float: none;
+      }
+      .navbar .nav li a {
+        font-weight: bold;
+        text-align: center;
+        border-left: 1px solid rgba(255,255,255,.75);
+        border-right: 1px solid rgba(0,0,0,.1);
+      }
+      .navbar .nav li:first-child a {
+        border-left: 0;
+        border-radius: 3px 0 0 3px;
+      }
+      .navbar .nav li:last-child a {
+        border-right: 0;
+        border-radius: 0 3px 3px 0;
+      }
+      .navbar-outer {
+        width: 800px;
+      }
+
+      #mehrshackspace td {
+        padding-bottom: 10px;
+        padding-right: 20px;
+        vertical-align: bottom;
+      }
+    </style>
+    <link href="{{ SITEURL }}/theme/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="{{ SITEURL }}/theme/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="ico/apple-touch-icon-57-precomposed.png">
+    <link rel="shortcut icon" href="ico/favicon.png">
+    
+    {% block canonical_rel %}{% endblock %} 
+    
+    {% block meta %}
+        <meta name="author" content="{{ AUTHOR }}" />
+    {% endblock %}
+
+    {# Twitter Cards tags #}
+    {% include 'includes/twitter_cards.html' %}
+
+
+    {% if FEED_ALL_ATOM %}
+        <link href="{{ SITEURL }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} ATOM Feed"/>
+    {% endif %}
+    {% if FEED_ALL_RSS %}
+        <link href="{{ SITEURL }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed"/>
+    {% endif %}
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <div class="masthead">
+        <h3 class="muted"><a href="/">shackspace - Der Hackerspace in Stuttgart</a></h3>
+        <div class="navbar-outer">
+        <div class="navbar navbar-nav" role="navigation">
+          <div class="navbar-inner">
+            <div class="container">
+              <ul class="nav">
+                <!-- <li class="active"><a href="#">Home</a></li> -->
+                <li><a href="{{ SITEURL }}/b/">Blog</a></li>
+                <li><a href="//log.shackspace.de/">Logbuch</a></li>
+                <li><a href="{{ SITEURL }}/p/projects/">Projekte</a></li>
+                <li><a href="//shackspace.de/wiki">Wiki</a></li>
+                <li><a href="//shackspace.de/gallery">Bilder</a></li>
+                <li><a href="{{ SITEURL }}/p/about/">shackspace</a></li>
+                <li><a href="{{ SITEURL }}/p/verein/">Verein</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Kontakt <span class="caret"></span></a>
+                    <ul class="dropdown-menu" role="menu">
+                      <li><a href="#">Anfahrt</a></li>
+                      <li><a href="#">Öffentliche Mailingliste</a></li>
+                      <li><a href="#">Presse</a></li>
+                      <li><a href="#">Events</a></li>
+                      <li><a href="#">Vorstand</a></li>
+                    </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div><!-- /.navbar -->
+        </div>
+      </div>
+
+      {% block content %}
+      {% endblock %}
+
+      {% include 'includes/footer.html' %}
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="{{ SITEURL }}/theme/js/jquery.js"></script>
+    <script src="{{ SITEURL }}/theme/js/bootstrap-transition.js"></script>
+    <script src="{{ SITEURL }}/theme/js/bootstrap-alert.js"></script>
+    <script src="{{ SITEURL }}/theme/js/bootstrap-modal.js"></script>
+    <script src="{{ SITEURL }}/theme/js/bootstrap-dropdown.js"></script>
+    <script src="{{ SITEURL }}/theme/js/bootstrap-scrollspy.js"></script>
+    <script src="{{ SITEURL }}/theme/js/bootstrap-tab.js"></script>
+    <script src="{{ SITEURL }}/theme/js/bootstrap-tooltip.js"></script>
+    <script src="{{ SITEURL }}/theme/js/bootstrap-popover.js"></script>
+    <script src="{{ SITEURL }}/theme/js/bootstrap-button.js"></script>
+    <script src="{{ SITEURL }}/theme/js/bootstrap-collapse.js"></script>
+    <script src="{{ SITEURL }}/theme/js/bootstrap-carousel.js"></script>
+    <script src="{{ SITEURL }}/theme/js/bootstrap-typeahead.js"></script>
+  </body>
+</html>
+
