@@ -48,9 +48,7 @@ Costs: **It's free!**
 
    <div>
 
-**Please do not forget to register your ticket with Eventbrite:\ `
-
-io11extendedstuttgart.eventbrite.com <http://io11extendedstuttgart.eventbrite.com/>`__
+**Please do not forget to register your ticket with Eventbrite:\ `io11extendedstuttgart.eventbrite.com <http://io11extendedstuttgart.eventbrite.com/>`__
 or use the form
 `here <http://blackforest.gtugs.org/home/google-i-o-extended>`__.**
 
