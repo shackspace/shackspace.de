@@ -5,9 +5,7 @@ Event: Google I/O Extended 13
 :category: Allgemein, Termine
 :slug: event-google-io-extended-13
 
-`
-
-|google-io-logo| <http://shackspace.de/wp-content/uploads/2013/04/google-io-logo.png>`__
+|google-io-logo|
 
 | |GDG-program-icon|\ `+GDG Stuttgart <https://plus.google.com/110418713081470246659/about>`__ und shackspace veranstalten auch dieses Jahr wieder den Stuttgarter Ableger der \ **Google I/O Extended**!
 |  Zusammen bieten wir euch die Möglichkeit die Google I/O Entwicklermesse in San Francisco über einen Livestream direkt im Ländle zu verfolgen. Komm' vorbei und treffe dich mich anderen Entwicklern zum diskutieren und Livestream schauen.
