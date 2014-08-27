@@ -19,10 +19,8 @@ Workshop: Erste Programmierschritte in Haskell
 -  Einen Editor solltet ihr bedienen können und auch ein paar
    Grundbefehle der Shell eures jeweiligen Betriebssystems (Linux,
    Windows or Mac empfohlen) kennen.
--  Editoren, die mindestens Syntax-Highlighting für Haskell anbieten,
-   sind (alphabetisch):
-    `Eclipse <http://www.eclipse.org/>`__\ (mit
-   `EclipseFP <http://eclipsefp.github.com/>`__)
+-  Editoren, die mindestens Syntax-Highlighting für Haskell anbieten, sind (alphabetisch):
+    `Eclipse <http://www.eclipse.org/>`__\ (mit `EclipseFP <http://eclipsefp.github.com/>`__)
     `Emacs <http://www.gnu.org/s/emacs/>`__
     `Vim <http://www.vim.org/>`__
     `und weitere <http://haskell.org/haskellwiki/Editors>`__
