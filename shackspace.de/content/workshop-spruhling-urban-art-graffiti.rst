@@ -35,14 +35,14 @@ Hier die Eckdaten zum kommenden Workshop:
 *Zum Groben Ablauf des Workshop:*
 
 -  Freitag, ab 16:00 Uhr
-    *Theorie und Vorbereitung im Seminarraum des shackspace
-   Es wird ausreichend Papier, Bleistifte und Anschauungsmaterial zur
-   Verfügung gestellt*
+    Theorie und Vorbereitung im Seminarraum des shackspace
+    Es wird ausreichend Papier, Bleistifte und Anschauungsmaterial zur
+    Verfügung gestellt
 -  Samstag
     Fertigstellung Motiv & Farbkonzept
     Umsetzung im Treppenhaus
 -  Sonntag
-    *Umsetzung im Treppenhaus*
+    Umsetzung im Treppenhaus
 
 Arbeitsmaterialien wie Papier, Bleistifte, Sprühdosen, Caps, Handschuhe,
 Atemschutzmaske und Streichfarbe sind im Workshopbeitrag enthalten.
