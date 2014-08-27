@@ -1,6 +1,25 @@
 #!/usr/bin/perl -W
 #
+# merges runaway block lines in .rst files
+# 
+# Example:
+
+# | foo
+# bar
+# baz
+# | la
+# di
+# da
 #
+# hello
+
+# will be merged to
+
+# | foo bar baz
+# | la di da
+#
+# hello
+
 
 
 use strict;
