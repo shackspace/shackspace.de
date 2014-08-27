@@ -17,15 +17,10 @@ sind jede Menge Farben, Schutzkleidung, etc.
 | *Zum Workshop:*
 |  **Jeder ist willkommen!** Anmeldung via ` <../wiki/doku.php?id=project:urban_art>`__\ Email an layer1gfx@graffiti.net.
 |  Datum: **Workshop #2:25/26/27. Novemeber 2011**, Nachmittags bis Abends
-|  Unkosten: **90 EUR  Anmeldeschluss: Donnerstag 24. November 2011, 16 Uhr **
+|  Unkosten: **90 EUR  Anmeldeschluss: Donnerstag 24. November 2011, 16 Uhr** 
 
-*Zum Workshopveranstaltenden:
-*\ layer1gfx ist Urban Artist,
-`Illustrator <http://layer1gfx.carbonmade.com/>`__ und
-`Graffitikünstler <http://www.flickr.com/photos/layer1gfx/>`__,
-beschäftigt sich mit japanischer Kalligraphie, `produziert Drum &
-Bass <http://soundcloud.com/djsaiba>`__ und bummelt `mit wenig Gepäck
-durch die Welt <http://twitter.com/t3chn0m4d>`__.
+*Zum Workshopveranstaltenden:*
+layer1gfx ist Urban Artist, `Illustrator <http://layer1gfx.carbonmade.com/>`__ und `Graffitikünstler <http://www.flickr.com/photos/layer1gfx/>`__, beschäftigt sich mit japanischer Kalligraphie, `produziert Drum & Bass <http://soundcloud.com/djsaiba>`__ und bummelt `mit wenig Gepäck durch die Welt <http://twitter.com/t3chn0m4d>`__.
 
 *Zum Ablauf:*
 
@@ -39,14 +34,14 @@ durch die Welt <http://twitter.com/t3chn0m4d>`__.
 **Geplanter Ablauf, Workshop #1**
 
 -  Freitag, 25.11. ab 16:00 - 18:00 Uhr
-    *Theorie und Vorbereitung im Seminarraum des shackspace*
+    Theorie und Vorbereitung im Seminarraum des shackspace
 -  Samstag, 26.11. ab 16:00 - ca. 18:00 Uhr
-    *Theorie und Vorbereitung / Fertigstellung Motiv & Farbkonzept
+    Theorie und Vorbereitung / Fertigstellung Motiv & Farbkonzept
     Es wird ausreichend Papier, Bleistifte und Anschauungsmaterial zur
-   Verfügung gestellt*
+    Verfügung gestellt
 -  Sonntag, 27.11. ab 14:00 - ca. 18:00 Uhr
-    *Praxis an der Open-Art-Wall in der shackspace Werkstatt
-    Vor Ort gibt es Farbe und Rollen zum Grundieren der Wände*
+    Praxis an der Open-Art-Wall in der shackspace Werkstatt
+    Vor Ort gibt es Farbe und Rollen zum Grundieren der Wände
 
 | **Arbeitsmaterial**
 |  Papier, Bleistifte, Sprühdosen, Caps, Einweg Handschuhe,- und Atemschutzmaske, Streichfarbe
