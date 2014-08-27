@@ -5,7 +5,8 @@ Workshop: node.js - Backbone-Views
 :category: Termine
 :slug: workshop-node-js-backbone-views
 
-|image0| Am **Samstag** den **10. November 2012** lädt shackspace wieder zum im \ **zweiwöchigen Rythmus** stattfindenden Workshop rund um die Technologien hinter aktuellen Entwicklungen im Web und im speziellen node.js.
+|image0|
+Am **Samstag** den **10. November 2012** lädt shackspace wieder zum im \ **zweiwöchigen Rythmus** stattfindenden Workshop rund um die Technologien hinter aktuellen Entwicklungen im Web und im speziellen node.js.
 
 | Nachdem der letzte Workshop alles rund um Datenmodelle beleuchtete, geht es dieses um **Backbone-Views**.
 |  Wer Doku vorlesen will, findet diese unter: http://documentcloud.github.com/backbone/#View bzw https://github.com/chaplinjs/chaplin/tree/master/src/chaplin/views
