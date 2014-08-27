@@ -11,9 +11,9 @@ Diesmal wird einiges geboten:
 
 -  Der Abend beginnt mit einer Kurzeinführung in GPG/PGP.
     Erklärt wird wie man diese Technik einsetzen kann um Geheimes geheim
-   zu halten und die Identität eines Absenders sicherzustellen.
+    zu halten und die Identität eines Absenders sicherzustellen.
     Die Teilnehmer erlernen den kompletten Prozess der
-   Schlüsselerstellung und -benutzung.
+    Schlüsselerstellung und -benutzung.
 -  Im Anschluss ab etwa 21 Uhr geht der Event fließend in eine
    `Keysigning <http://de.wikipedia.org/wiki/Keysigning-Party>`__- und
    `Kryptoparty <http://kryptoparty.de/?page_id=106>`__ über.
