@@ -12,10 +12,7 @@ Webmontag
 Topics covered are, besides others, *Ambiguität im Interface-Design* by
 Dragan Espenschied and\ *Open Source Ecology* by Nikolay Georgiev.
 
-More about this month's Webmontag can be found on the `wiki page for the
-event <http://webmontag.de/location/stuttgart/index>`__.
- To learn more about Webmontag in general, check out the `Webmontag
-website <http://webmontag.de/>`__.
+More about this month's Webmontag can be found on the `wiki page for the event <http://webmontag.de/location/stuttgart/index>`__. To learn more about Webmontag in general, check out the `Webmontag website <http://webmontag.de/>`__.
 
 Feel free to drop by and check it out!
 
