@@ -41,8 +41,8 @@ Now, for the two rear pieces.
 
 #. Use a crowbar to push the corner upwards by around 2 to 3cm.
     You can do this by placing the crowbar between the rounded-off top
-   of the rear corner and the two side walls and use it as a lever to
-   push the corner upwards.
+    of the rear corner and the two side walls and use it as a lever to
+    push the corner upwards.
 #. Force the crowbar down into the gap you just created and try to
    unclip the top most clip.
 #. Start pulling on the corner piece in a diagonally outward direction.
