@@ -16,18 +16,11 @@ Ingredients
 ~~~~~~~~~~~
 
 -  **60g Cocoa butter**
-    get this from an `online
-   shop <http://www.sheabutter-thome.de/product_info.php/info/p441_Kakaobutter-Chips.html>`__
-   or last minute at your local pharmacy at a slightly higher price.
+    get this from an `online shop <http://www.sheabutter-thome.de/product_info.php/info/p441_Kakaobutter-Chips.html>`__ or last minute at your local pharmacy at a slightly higher price.
 -  **50g Sodium hydrogen carbonate**
-    also known as baking soda and sold as *Kaiser Natron* in German
-   supermarkets.
+    also known as baking soda and sold as *Kaiser Natron* in German supermarkets.
 -  **40g Citric acid (powder)**
-    the cheapest source for this is the big packs you get in the
-   cleaning supply section of the supermarket where it's sold as a
-   descaling agent (*Entkalker*), make sure to only buy *100% citric
-   acid*.  There's also 5 gram packages in the baking supply isle but
-   those are much more expensive than the cleaning supplies ;)
+    the cheapest source for this is the big packs you get in the cleaning supply section of the supermarket where it's sold as a descaling agent (*Entkalker*), make sure to only buy *100% citric acid*.  There's also 5 gram packages in the baking supply isle but those are much more expensive than the cleaning supplies ;)
 -  **100g Powdered milk**
     most commonly found in the baby food section of your supermarket.
 -  **2-4 tablespoons of olive oil**
@@ -38,13 +31,11 @@ ideas
 -  **Essential oils**
     Vanilla, Orange, Cherry, Apple, Cinnamon, ... or baking extracts
 -  **Food coloring**
-    Make sure it's not water-based or see the tip below on how to make
-   suitable colors using easter egg dye
--  **Dried flowers
-   **\ Rose blossoms? In my bath melts? More likely than you think.
+    Make sure it's not water-based or see the tip below on how to make suitable colors using easter egg dye
+-  **Dried flowers**
+    Rose blossoms? In my bath melts? More likely than you think.
 -  **Glitter**
-    Because everything is more awesome with glitter (except for that
-   horrible vampire thing)
+    Because everything is more awesome with glitter (except for that horrible vampire thing)
 
 To mold the melts into shape use silicone ice cube trays or other
 silicone molds.  There's a wide array of patters to choose from.
@@ -53,18 +44,14 @@ Making the bath melts
 ~~~~~~~~~~~~~~~~~~~~~
 
 #. Carefully dissolve cocoa butter in a water bath
-    Note: cocoa butter begins to melt at 30C, do not overheat the
-   butter.
+    Note: cocoa butter begins to melt at 30C, do not overheat the butter.
 #. Mix up powdered milk, olive oil, baking soda and citric acid
 #. If you want to add food coloring, now's the time
 #. Add the molten cocoa butter and mix well
 #. If you like you can add essentials oils.  Use between 15 to 50 drops.
-#. If you want to decorate your melts, add glitter or dried flowers to
-   the ice cube tray now
-#. Use a teaspoon to press the mixture into the ice cube tray or
-   silicone molds
-#. Let the tray rest in your freezer for half an hour so the melts can
-   harden
+#. If you want to decorate your melts, add glitter or dried flowers to the ice cube tray now
+#. Use a teaspoon to press the mixture into the ice cube tray or silicone molds
+#. Let the tray rest in your freezer for half an hour so the melts can harden
 
 Carefully remove the finished melts from the ice cube tray.  This is
 easier if you're using silicone trays.
