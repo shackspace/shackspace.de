@@ -17,8 +17,6 @@ Hackathon: International Space Apps Challenge
 |  We're currently in the process of acquiring sponsors to cover a few small prices and gimmicks to be handed out to participants and challenge winners, stay tuned for more information.
 |  Also make sure to check out the official `Frequently Asked Questions (FAQ) <http://spaceappschallenge.org/faq/>`__.
 
-| *Event Meta: *\ **`Signup required <https://spaceappschallenge.org/register/>`__**.
-|  Date: \ **9am Saturday, 21st April to\ ** **4pm**** Sunday 22nd April 2012 **\ How to find us: U4/U9 “Im Degen”, \ `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (across from Kulturhaus Arena)
 
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2012/03/brandingguidelines.jpg
    :target: http://shackspace.de/wp-content/uploads/2012/03/brandingguidelines.jpg
