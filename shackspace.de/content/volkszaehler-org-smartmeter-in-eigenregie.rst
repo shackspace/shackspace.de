@@ -32,11 +32,13 @@ Haus angebrachten Záhlers ausliest.
 Nach den Vorträgen bleibt noch Zeit für Detailfragen und
 volkszaehler.org bezogenes Hard- und Softwarehacking.
 
-| *Zum Vortrag:*\ **  Eintritt frei!** Jeder ist willkommen!  Um `formlose Anmeldung <http://www.doodle.com/brt8m9ckyueq5rmp>`__ (Doodle) wird gebeten.
-|  Datum: **Samstag, 10. Dezember 2011** um **19:30 Uhr **\ Anfahrt:U4/U9 Haltestelle "Im Degen", `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
+| *Zum Vortrag:*
+| **Eintritt frei!** Jeder ist willkommen!  Um `formlose Anmeldung <http://www.doodle.com/brt8m9ckyueq5rmp>`__ (Doodle) wird gebeten.
+| Datum: **Samstag, 10. Dezember 2011** um **19:30 Uhr**
+| Anfahrt: U4/U9 Haltestelle "Im Degen", `Ulmer Straße 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
 
 | *Zum Vortragenden:*
-|  `Justin Otherguy <https://twitter.com/justinotherguy/>`__ ist Gründer des Projekts volkszaehler.org was seit nunmehr zwei Jahren besteht.
+| `Justin Otherguy <https://twitter.com/justinotherguy/>`__ ist Gründer des Projekts volkszaehler.org was seit nunmehr zwei Jahren besteht.
 
 .. |image0| image:: http://shackspace.de/wp-content/uploads/2011/11/logo-150x150.png
    :target: http://shackspace.de/wp-content/uploads/2011/11/logo.png
