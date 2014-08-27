@@ -29,7 +29,7 @@ Willkommen beim shackspace, dem Hackerspace in Stuttgart
 
    </object>
 
- shackspace ist Werkstatt und Lernort für freie und kreative Soft- und
+shackspace ist Werkstatt und Lernort für freie und kreative Soft- und
 Hardwarebastelei. Mitglieder können auf 24/7- Basis den Raum nutzen -
 für Computerkultur, Lernen & Löten, coden & reden. Man trifft Nerds und
 Neulinge, besucht/gibt Workshops, bearbeitet als Team Projekte,
