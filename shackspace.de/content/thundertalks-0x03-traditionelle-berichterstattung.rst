@@ -92,10 +92,10 @@ ihre Projekte vorstellen.
 
    <div>
 
-*Das Konzept Thundertalks:
-*\ In \ `Lightning-Talk <http://en.wikipedia.org/wiki/Lightning_Talk>`__-ähnlichen
+*Das Konzept Thundertalks:*
+\ In \ `Lightning-Talk <http://en.wikipedia.org/wiki/Lightning_Talk>`__-ähnlichen
 Kurzvorträgen wird über Aktuelles, Geschehenes und Kommendes referiert.
- Ein Vortrag ist zwischen 5 und maximal 15 Minuten lang und es werden
+Ein Vortrag ist zwischen 5 und maximal 15 Minuten lang und es werden
 Vorträge zu den verschiedensten Themen gehalten.
 
 .. raw:: html
