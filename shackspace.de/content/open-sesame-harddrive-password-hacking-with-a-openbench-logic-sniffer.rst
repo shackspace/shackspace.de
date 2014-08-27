@@ -78,11 +78,11 @@ Metafoo
 -  `Photo documentation of the
    project <http://www.shackspace.de/gallery/index.php/Projekte/Festplattenpasswort-sniffen>`__
 
-**Update #1**: Exchanged the SUMP screenshot with one that actually
-shows the 0xf2 command.\ **
- Update #2**: Added more info why sniffing of the password was
-necessary.\ **
- Update #3**: Added link to the trigger settings.
+**Update #1**: Exchanged the SUMP screenshot with one that actually shows the 0xf2 command.
+
+**Update #2**: Added more info why sniffing of the password was necessary.
+
+**Update #3**: Added link to the trigger settings.
 
 .. raw:: html
 
