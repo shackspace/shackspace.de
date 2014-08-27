@@ -16,9 +16,9 @@ We did it!
 
 From now on shackspace is located at:
 
-**shack e.V.
- Ulmer Straße 255
- 70327 Stuttgart-Wangen**
+  **shack e.V.**
+  **Ulmer Straße 255**
+  **70327 Stuttgart-Wangen**
 
 | We're still working on many details and are busy unpacking and setting up everything.  The shackspace open status monitor is not working yet (give the space a call at +49 (0)178 6624218 to check if it's open), Internet is supposed to be hooked up some time next week, the WiFi door lock is not yet installed and there's a lot of boxes piled up in the lounge.
 |  Over the following days we'll push out more info on what happened this past couple of weeks.  Photos were taken and videos recorded, there's stories to be told.
