@@ -62,7 +62,7 @@ while (<STDIN>)
     }
     else
     {
-        if(m/^|/) {
+        if(m/^\|/) {
             print "%% SB %%$/" if ($debug);
             # start block
             #
