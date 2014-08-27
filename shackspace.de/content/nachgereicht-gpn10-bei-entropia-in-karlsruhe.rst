@@ -18,7 +18,7 @@ abrufbar. Einige Bilder gibt es auch in der `shackspace Gallery zur
 GPN10 <http://shackspace.de/gallery/index.php/Menschen-Daten-Sensationen/2010-06-11-13-GPN10-entropia-Karlsruhe>`__
 zu sehen.
 
-| Wacker geschlagen hatte sich das Team r0\_x, hadez und 4RM4 bei den
+| Wacker geschlagen hatte sich das Team r0_x, hadez und 4RM4 bei den
 `Gulaschbytes <https://entropia.de/wiki/GPN10:Gulaschbytes>`__
 (`MKV <http://ftp.ccc.de/events/gpn10/gpn10-gulaschbytes.mkv>`__,
 `Torrent <https://entropia.de/wiki/images/a/a8/Gpn10-gulaschbytes.mkv.torrent>`__).

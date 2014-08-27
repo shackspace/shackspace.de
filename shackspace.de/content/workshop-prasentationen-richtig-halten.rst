@@ -36,7 +36,7 @@ Anmeldung <http://www.doodle.com/kts76eiyvfz28mgd>`__.
 
 | *Zu den Vortragenden:*
 |  Der Workshop wird durchgeführt von den shack e.V. Mitgliedern
-@\ `Laird\_Dave <https://twitter.com/Laird_Dave>`__ & heavy.
+@\ `Laird_Dave <https://twitter.com/Laird_Dave>`__ & heavy.
 
 | *Zum Event:
 *\ **Eintritt frei!** (*Spenden an shack e.V. sind gerne gesehen*) Jeder

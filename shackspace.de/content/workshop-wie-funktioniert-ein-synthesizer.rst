@@ -5,7 +5,7 @@ Workshop: Wie funktioniert ein Synthesizer
 :category: Allgemein, Termine
 :slug: workshop-wie-funktioniert-ein-synthesizer
 
-|Logo\_01gr|
+|Logo_01gr|
 
 Samstag den 9. Februar 2012 lädt shackspace zum Synthesizer Workshop.
 
@@ -53,5 +53,5 @@ Klangkreationen.
 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber
 Kulturhaus Arena)
 
-.. |Logo\_01gr| image:: http://shackspace.de/wp-content/uploads/2013/01/Logo_01gr.jpg
+.. |Logo_01gr| image:: http://shackspace.de/wp-content/uploads/2013/01/Logo_01gr.jpg
    :target: http://shackspace.de/wp-content/uploads/2013/01/Logo_01gr.jpg

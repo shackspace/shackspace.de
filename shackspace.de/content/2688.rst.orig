@@ -1,0 +1,46 @@
+Workshop: Chatserver-Programmierung in Haskell
+##############################################
+:date: 2011-12-16 08:31
+:author: hdz
+:category: Termine
+:slug: 2688
+
+| |image0|\ Diesen **Samstag**, den\ **17. Dezember 2011** lädt
+shackspace alle Interessierten ein
+`erste <http://shackspace.de/?p=2653>`__ zweite Schritte in der
+`Funktionalen
+Programmierung <http://de.wikipedia.org/wiki/Funktionale_Programmierung>`__
+zu wagen.
+|  Konkret wird shackspace’s `Haskell <http://haskell.org/>`__-Hacker
+Ertes seinen zweiten Workshop `Haskell <http://haskell.org/>`__ geben.
+
+*Hinweise:*
+
+| Wir werden diesmal zusammen einen Chat-Server programmieren, der sich
+über Telnet bedienen lässt.
+|  Dabei lernen wir:
+
+-  Effiziente Datenstrukturen
+-  Konkurrentes Programmieren
+-  `Software Transactional
+   Memory <http://en.wikipedia.org/wiki/Software_transactional_memory>`__
+-  Parser schreiben.
+
+*Wichtig:*
+
+| Für alle, die den ersten Teil verpasst haben, ist Ertes ab 15:00 Uhr
+da, denn der morgige Termin wird auf dem letzten aufbauen.  Sprecht Ihn
+einfach im space an!
+|  Für künftige Termine wird sich in Bälde eine regelmäßiger Termin
+finden.
+
+| *Zum Event:*
+|  **Eintritt frei!** Jeder ist willkommen!  Um `formlose
+Anmeldung <http://www.doodle.com/hmr9x96pa9z9saeb>`__ (Doodle) wird
+gebeten.
+|  Datum: **Samstag, 10. Dezember 2011** um **16:00 Uhr
+**\ Anfahrt:U4/U9 Haltestelle “Im Degen”, `Ulmer Straße
+255 <../?page_id=713>`__, Stuttgart Wangen (gegenüber Kulturhaus Arena)
+
+.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/12/HaskellLogoStyPreview-1.png
+   :target: http://shackspace.de/wp-content/uploads/2011/12/HaskellLogoStyPreview-1.png

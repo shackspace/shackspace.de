@@ -14,7 +14,7 @@ oder den Talk noch einmal sehen wollen, hier die Aufzeichnung.
 Weiterführende Links:
 
 -  `coding.smashingmagazine.com/2012/11/05/writing-fast-memory-efficient-javascript/ <http://coding.smashingmagazine.com/2012/11/05/writing-fast-memory-efficient-javascript/>`__
--  `kripken.github.com/mloc\_emscripten\_talk <http://kripken.github.com/mloc_emscripten_talk>`__
+-  `kripken.github.com/mloc_emscripten_talk <http://kripken.github.com/mloc_emscripten_talk>`__
 -  `2ality.com/2013/02/asm-js.html <http://www.2ality.com/2013/02/asm-js.html>`__
 -  `asmjs.org <http://asmjs.org/>`__
 

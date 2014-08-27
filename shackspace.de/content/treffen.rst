@@ -33,8 +33,8 @@ einziehen?
 |  **`Einladungs-PDF ansehen /
 downloaden <http://hs07.eu/wp-content/uploads/2010/01/Januar-Einladung-SHACK.pdf>`__**
 |  **Anfahrt**
-|  |anfahrt\_La\_Piazza|
+|  |anfahrt_La_Piazza|
 
 ...
 
-.. |anfahrt\_La\_Piazza| image:: http://hs07.eu/wp-content/uploads/2010/01/anfahrt-la_piazza.jpg
+.. |anfahrt_La_Piazza| image:: http://hs07.eu/wp-content/uploads/2010/01/anfahrt-la_piazza.jpg

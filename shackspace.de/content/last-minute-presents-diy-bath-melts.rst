@@ -5,7 +5,7 @@ Last Minute Presents: DIY Bath Melts
 :category: Allgemein
 :slug: last-minute-presents-diy-bath-melts
 
-|IMG\_20121221\_230155|\ You can buy bath melts with a significant
+|IMG_20121221_230155|\ You can buy bath melts with a significant
 price-tag attached at your local or `online cosmetics and beauty
 shop <www.lush.com.au/shop/product/category/path/144/luxury-bath-melts>`__
 but you can just as easily make your own with a few simple ingredients
@@ -106,5 +106,5 @@ fizz and bubble resulting in a fresh bubbly feeling on your skin and
 soften the water.  Do not use too much citric acid since it might
 irritate your skin.
 
-.. |IMG\_20121221\_230155| image:: http://shackspace.de/wp-content/uploads/2012/12/IMG_20121221_230155-150x150.jpg
+.. |IMG_20121221_230155| image:: http://shackspace.de/wp-content/uploads/2012/12/IMG_20121221_230155-150x150.jpg
    :target: http://shackspace.de/wp-content/uploads/2012/12/IMG_20121221_230155.jpg

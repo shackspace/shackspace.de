@@ -5,7 +5,7 @@ Vortrag: Grundlagen der Netzwerktechnik
 :category: Termine
 :slug: vortrag-grundlagen-der-netzwerktechnik
 
-|94552487\_3254218671|\ Am **Samstag** den **16. Februar 2013** lädt
+|94552487_3254218671|\ Am **Samstag** den **16. Februar 2013** lädt
 shackspace um **18 Uhr** zu einem Votrag über die Grundlagen der
 Netzwerktechnik.
 
@@ -62,7 +62,7 @@ rights
 reserved <http://creativecommons.org/licenses/by-nc-sa/2.0/>`__ by `-=
 Treviño =- <http://www.flickr.com/photos/trevi55/>`__*
 
-.. |94552487\_3254218671| image:: http://shackspace.de/wp-content/uploads/2013/02/94552487_3254218671-150x150.jpg
+.. |94552487_3254218671| image:: http://shackspace.de/wp-content/uploads/2013/02/94552487_3254218671-150x150.jpg
    :target: http://www.flickr.com/photos/trevi55/94552487/sizes/m/in/photostream/
 .. |Attribution| image:: http://l.yimg.com/g/images/cc_icon_attribution_small.gif
 .. |Noncommercial| image:: http://l.yimg.com/g/images/cc_icon_noncomm_small.gif

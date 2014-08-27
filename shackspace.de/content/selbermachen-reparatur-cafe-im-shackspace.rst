@@ -5,7 +5,7 @@ Selbermachen: Reparatur-Cafe im shackspace
 :category: Allgemein, Termine
 :slug: selbermachen-reparatur-cafe-im-shackspace
 
-|IMG\_20130302\_034831\_\_|
+|IMG_20130302_034831__|
 
 Technischer Defekt: Einfach wegwerfen?!
 
@@ -57,5 +57,5 @@ Anmeldung <http://doodle.com/4n6pyx4q3dksg9be>`__ (Doodle) wird gebeten.
 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber
 Kulturhaus Arena)
 
-.. |IMG\_20130302\_034831\_\_| image:: http://shackspace.de/wp-content/uploads/2013/05/IMG_20130302_034831__-300x159.jpg
+.. |IMG_20130302_034831__| image:: http://shackspace.de/wp-content/uploads/2013/05/IMG_20130302_034831__-300x159.jpg
    :target: http://shackspace.de/wp-content/uploads/2013/05/IMG_20130302_034831__.jpg

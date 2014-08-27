@@ -5,7 +5,7 @@ Treffen & Vorträge: Erstes Stuttgarter Hardware Startups Meetup
 :category: Termine
 :slug: treffen-vortraege-erstes-stuttgarter-hardware-startups-meetup
 
-**|600\_395679172|**\ Am\ **Dienstag** den **9. September** ab **19
+**|600_395679172|**\ Am\ **Dienstag** den **9. September** ab **19
 Uhr** freut sich shackspace euch das erste *Stuttgarter Hardware
 Startups Meetup* zu präsentieren.
 
@@ -47,5 +47,5 @@ anmelden <http://www.meetup.com/Stuttgart-Hardware-Startups/>`__**
 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber
 Kulturhaus Arena)
 
-.. |600\_395679172| image:: http://shackspace.de/wp-content/uploads/2014/08/600_395679172-300x161.jpeg
+.. |600_395679172| image:: http://shackspace.de/wp-content/uploads/2014/08/600_395679172-300x161.jpeg
    :target: http://shackspace.de/wp-content/uploads/2014/08/600_395679172.jpeg

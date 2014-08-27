@@ -5,7 +5,7 @@ redaktionzukunft: Ein Paradies für Stuttgarts Hacker
 :category: Allgemein
 :slug: redaktionzukunft-ein-paradies-fuer-stuttgarts-hacker
 
-|1506074\_580028572070006\_853412249\_n|\ Vor kurzem hatten wir Besuch
+|1506074_580028572070006_853412249_n|\ Vor kurzem hatten wir Besuch
 von Sara Rehm die für die an der `HdM
 Stuttgart <http://www.hdm-stuttgart.de/>`__ studiert und dort für die
 redaktionzukunft schreibt. Das Ergebnis findet ihr hier:
@@ -21,5 +21,5 @@ redaktionzukunft schreibt. Das Ergebnis findet ihr hier:
 
     `weiterlesen... <https://www.hdm-stuttgart.de/redaktionzukunft/beitrag.html?beitrag_ID=1822&stars=5>`__
 
-.. |1506074\_580028572070006\_853412249\_n| image:: http://shackspace.de/wp-content/uploads/2014/01/1506074_580028572070006_853412249_n-150x150.jpg
+.. |1506074_580028572070006_853412249_n| image:: http://shackspace.de/wp-content/uploads/2014/01/1506074_580028572070006_853412249_n-150x150.jpg
    :target: http://shackspace.de/wp-content/uploads/2014/01/1506074_580028572070006_853412249_n.jpg

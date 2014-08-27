@@ -24,7 +24,7 @@ the laser cutter - and since the software for controlling it only runs
 on Windows - without requiring a native Windows computer (which concerns
 most people around here).
 
-| |IMG\_20130105\_031135 (1)|\ The first thing we did was to set up a
+| |IMG_20130105_031135 (1)|\ The first thing we did was to set up a
 Windows 7 OS in a `KVM
 instance <http://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine>`__ on
 one of the servers of  shackspace's data center.
@@ -65,7 +65,7 @@ After quite a few non-booting Linux images, tons of blue screens and
 kernel panics the results were satisfying and we remotely
 lazored the no-fucking sign:
 
-|IMG\_20130105\_052653|
+|IMG_20130105_052653|
 
 We were asked to make some pictures or a video - and since we don't take
 ourselves too serious - we came up with the idea of doing it with one of
@@ -88,5 +88,5 @@ People involved:
 -  Pedro the Bear - protagonist, being generally awesome
 
 .. |SANY0388| image:: http://shackspace.de/wp-content/uploads/2013/02/SANY0388-150x150.jpg
-.. |IMG\_20130105\_031135 (1)| image:: http://shackspace.de/wp-content/uploads/2013/02/IMG_20130105_031135-1-150x150.jpg
-.. |IMG\_20130105\_052653| image:: http://shackspace.de/wp-content/uploads/2013/02/IMG_20130105_052653-150x150.jpg
+.. |IMG_20130105_031135 (1)| image:: http://shackspace.de/wp-content/uploads/2013/02/IMG_20130105_031135-1-150x150.jpg
+.. |IMG_20130105_052653| image:: http://shackspace.de/wp-content/uploads/2013/02/IMG_20130105_052653-150x150.jpg

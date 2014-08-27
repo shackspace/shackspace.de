@@ -5,7 +5,7 @@ Workshop: Schmuckbasteln
 :category: Termine
 :slug: workshop-schmuckbasteln
 
-|3895744426\_36f45d70c0\_b|\ **Sonntag** den **20. Juli** 2014 gibt es
+|3895744426_36f45d70c0_b|\ **Sonntag** den **20. Juli** 2014 gibt es
 ab **15 Uhr** den Workshop für alle, die sich selbst, Freundinnen,
 Müttern, oder sonstigen schmuckvernarrten Bekannten eine Freude machen
 wollen. Wir laden zum Schmuckbastelworkshop!
@@ -36,5 +36,5 @@ kurz \ `anmelden <http://doodle.com/mytauyehhhu7crpw>`__\  (doodle.com).
 *Photo: `CC-BY-NC-SA
 vossi <https://www.flickr.com/photos/anvosa/3895744426>`__*
 
-.. |3895744426\_36f45d70c0\_b| image:: http://shackspace.de/wp-content/uploads/2014/07/3895744426_36f45d70c0_b-206x300.jpg
+.. |3895744426_36f45d70c0_b| image:: http://shackspace.de/wp-content/uploads/2014/07/3895744426_36f45d70c0_b-206x300.jpg
    :target: http://shackspace.de/wp-content/uploads/2014/07/3895744426_36f45d70c0_b.jpg

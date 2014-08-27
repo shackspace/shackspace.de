@@ -5,7 +5,7 @@
 :category: Allgemein
 :slug: 3-kw-e-kickboard-brings-tears-to-your-eyes
 
-|IMG\_20140104\_165009|\ Since exco is not big on baking cookies for
+|IMG_20140104_165009|\ Since exco is not big on baking cookies for
 Christmas, he invested his time in a project he was thinking about doing
 for some time: Building an electrified kickboard.
 
@@ -74,5 +74,5 @@ log <http://endless-sphere.com/forums/viewtopic.php?f=35&t=56030>`__
 over at the Endless Sphere forum and `a whole bunch of extra
 photos <https://picasaweb.google.com/115792422633543473919/KickboardK2?authkey=Gv1sRgCKHe3YqeseKvrwE#>`__.
 
-.. |IMG\_20140104\_165009| image:: http://shackspace.de/wp-content/uploads/2014/01/IMG_20140104_165009-300x225.jpg
+.. |IMG_20140104_165009| image:: http://shackspace.de/wp-content/uploads/2014/01/IMG_20140104_165009-300x225.jpg
    :target: http://shackspace.de/wp-content/uploads/2014/01/IMG_20140104_165009.jpg

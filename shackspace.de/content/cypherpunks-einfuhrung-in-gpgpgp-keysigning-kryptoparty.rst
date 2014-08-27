@@ -5,7 +5,7 @@ Cypherpunks: Einführung in GPG/PGP, Keysigning- & Kryptoparty
 :category: Allgemein, Termine
 :slug: cypherpunks-einfuhrung-in-gpgpgp-keysigning-kryptoparty
 
-|2686824354\_be3bc399cc\_z|\ Die erst `kürzlich
+|2686824354_be3bc399cc_z|\ Die erst `kürzlich
 formierte <http://shackspace.de/?p=4186>`__ Gruppe der
 `Cypherpunks <http://shackspace.de/wiki/doku.php?id=project:cypherpunks>`__ trifft
 sich erneut Sonntag den 21. Juli 2013 ab 19 Uhr.
@@ -87,5 +87,5 @@ Doctorow <http://www.flickr.com/photos/doctorow/2686824354/sizes/z/in/photolist-
 
 `  <http://shackspace.de/wp-content/uploads/2013/06/2686824354_be3bc399cc_z.jpg>`__
 
-.. |2686824354\_be3bc399cc\_z| image:: http://shackspace.de/wp-content/uploads/2013/06/2686824354_be3bc399cc_z-300x168.jpg
+.. |2686824354_be3bc399cc_z| image:: http://shackspace.de/wp-content/uploads/2013/06/2686824354_be3bc399cc_z-300x168.jpg
    :target: http://shackspace.de/wp-content/uploads/2013/06/2686824354_be3bc399cc_z.jpg

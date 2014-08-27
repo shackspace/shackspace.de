@@ -5,7 +5,7 @@ GPN13: @dop3j0e's Demoscene Extravaganza Mix
 :category: Allgemein
 :slug: gpn13-dop3j0es-demoscene-extravaganza-mix
 
-|800px-Gpn13\_high\_res|
+|800px-Gpn13_high_res|
 
 The `demoscene <http://en.wikipedia.org/wiki/Demoscene>`__ is not just
 pretty and amazing graphics but also offers a great selection of really
@@ -106,5 +106,5 @@ Tracklisting:
  <http://dojoe.net/mixes/DoJoe%20-%20GPN13%20Demoscene%20Set.mp3>`__\ `Cuesheet
 (CUE) <http://dojoe.net/mixes/DoJoe%20-%20GPN13%20Demoscene%20Set.cue>`__
 
-.. |800px-Gpn13\_high\_res| image:: http://shackspace.de/wp-content/uploads/2013/06/800px-Gpn13_high_res-300x64.png
+.. |800px-Gpn13_high_res| image:: http://shackspace.de/wp-content/uploads/2013/06/800px-Gpn13_high_res-300x64.png
    :target: http://shackspace.de/wp-content/uploads/2013/06/800px-Gpn13_high_res.png

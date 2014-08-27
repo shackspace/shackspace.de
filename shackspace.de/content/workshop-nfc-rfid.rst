@@ -5,7 +5,7 @@ Workshop: NFC & RFID
 :category: Termine
 :slug: workshop-nfc-rfid
 
-| |IMG\_20140520\_102038|\ Am **Sonntag den 29. Juni 2014** lädt
+| |IMG_20140520_102038|\ Am **Sonntag den 29. Juni 2014** lädt
 shackspace zum NFC & RFID Workshop.
 |  Los geht es um **13 Uhr** und lernen könnt ihr folgendes:
 
@@ -40,5 +40,5 @@ kurz \ `anmelden <http://doodle.com/rr8g5p4zu4pivf5c>`__\  (doodle.com).
 255 <http://shackspace.de/?page_id=713>`__\ , Stuttgart Wangen
 (gegenüber Kulturhaus Arena)
 
-.. |IMG\_20140520\_102038| image:: http://shackspace.de/wp-content/uploads/2014/05/IMG_20140520_102038-e1400574405805-300x229.jpg
+.. |IMG_20140520_102038| image:: http://shackspace.de/wp-content/uploads/2014/05/IMG_20140520_102038-e1400574405805-300x229.jpg
    :target: http://shackspace.de/wp-content/uploads/2014/05/IMG_20140520_102038-e1400574405805.jpg

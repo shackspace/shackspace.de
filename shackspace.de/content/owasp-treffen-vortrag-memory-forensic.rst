@@ -5,7 +5,7 @@ OWASP Treffen & Vortrag: Memory Forensic
 :category: Allgemein, Termine
 :slug: owasp-treffen-vortrag-memory-forensic
 
-|owasp\_logo|\ Am **Montag**, den **5. Mai 2014** lädt shackspace zum
+|owasp_logo|\ Am **Montag**, den **5. Mai 2014** lädt shackspace zum
 Reboot des OWASP Stammtisch. Los geht es um\ **19:30 Uhr** mit einem
 Vortrag zu "Memory Forensics" (`Wikipedia
 engl. <http://en.wikipedia.org/wiki/Memory_forensics>`__)
@@ -44,5 +44,5 @@ Angewandte Informatik mit dem Schwerpunkt IT-Security in Mosbach.
 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber
 Kulturhaus Arena)
 
-.. |owasp\_logo| image:: http://shackspace.de/wp-content/uploads/2014/04/owasp_logo-291x300.png
+.. |owasp_logo| image:: http://shackspace.de/wp-content/uploads/2014/04/owasp_logo-291x300.png
    :target: http://shackspace.de/wp-content/uploads/2014/04/owasp_logo.png

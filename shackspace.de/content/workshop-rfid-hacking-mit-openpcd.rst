@@ -5,7 +5,7 @@ Workshop: RFID Hacking mit OpenPCD
 :category: Allgemein, Termine
 :slug: workshop-rfid-hacking-mit-openpcd
 
-|openpcd\_logo|\ Am **Samstag** den \ **25. Mai 2013** ab **15 Uhr**
+|openpcd_logo|\ Am **Samstag** den \ **25. Mai 2013** ab **15 Uhr**
 lädt shackspace zum *RFID Hacking mit OpenPCD* Workshop.
 
 Ziel des Workshops
@@ -53,5 +53,5 @@ Anmeldung <http://doodle.com/323um4uy9fzpeesb>`__ (Doodle) wird gebeten.
 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber
 Kulturhaus Arena)
 
-.. |openpcd\_logo| image:: http://shackspace.de/wp-content/uploads/2013/05/openpcd_logo.png
+.. |openpcd_logo| image:: http://shackspace.de/wp-content/uploads/2013/05/openpcd_logo.png
    :target: http://shackspace.de/wp-content/uploads/2013/05/openpcd_logo.png

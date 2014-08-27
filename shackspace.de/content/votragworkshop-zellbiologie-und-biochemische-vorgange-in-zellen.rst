@@ -5,7 +5,7 @@ Vortrag/Workshop: Zellbiologie und Biochemische Vorgänge in Zellen
 :category: Allgemein, Termine
 :slug: votragworkshop-zellbiologie-und-biochemische-vorgange-in-zellen
 
-|335px-L-Arginin\_-\_L-Arginine.svg|
+|335px-L-Arginin_-_L-Arginine.svg|
 
 Am **Samstag** den **19.01.2013** um **18 Uhr** lädt shackspace zu einem
 Vortrag / Workshop der etwas anderen Art.
@@ -39,5 +39,5 @@ Kulturhaus Arena)
 *Bild: `NEUROtiker, public
 domain <http://de.wikipedia.org/w/index.php?title=Datei:L-Arginin_-_L-Arginine.svg&filetimestamp=20070629144449>`__*
 
-.. |335px-L-Arginin\_-\_L-Arginine.svg| image:: http://shackspace.de/wp-content/uploads/2013/01/335px-L-Arginin_-_L-Arginine.svg_-300x108.png
+.. |335px-L-Arginin_-_L-Arginine.svg| image:: http://shackspace.de/wp-content/uploads/2013/01/335px-L-Arginin_-_L-Arginine.svg_-300x108.png
    :target: http://de.wikipedia.org/w/index.php?title=Datei:L-Arginin_-_L-Arginine.svg&filetimestamp=20070629144449

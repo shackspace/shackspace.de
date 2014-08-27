@@ -5,7 +5,7 @@ Treffen: Cypherpunks
 :category: Allgemein, Termine
 :slug: treffen-cypherpunks
 
-| |2686824354\_be3bc399cc\_z|\ Mit dem Treffen der Cypherpunks bietet
+| |2686824354_be3bc399cc_z|\ Mit dem Treffen der Cypherpunks bietet
 der shackspace einen regelmäßigen Termin für alle Crypto-, Privacy- und
 Datenschutzinteressierten.
 |  Das Treffen findet **jeden zweiten Sonntag ab 19 Uhr** statt.
@@ -31,5 +31,5 @@ Kulturhaus Arena)
 
 *Photo: CC-BY `Cory Doctorow <http://www.flickr.com/photos/doctorow>`__*
 
-.. |2686824354\_be3bc399cc\_z| image:: http://shackspace.de/wp-content/uploads/2013/06/2686824354_be3bc399cc_z-300x168.jpg
+.. |2686824354_be3bc399cc_z| image:: http://shackspace.de/wp-content/uploads/2013/06/2686824354_be3bc399cc_z-300x168.jpg
    :target: http://shackspace.de/wp-content/uploads/2013/06/2686824354_be3bc399cc_z.jpg

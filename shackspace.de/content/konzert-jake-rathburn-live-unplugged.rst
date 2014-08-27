@@ -5,7 +5,7 @@ Konzert: Jake Rathburn LIVE & Unplugged
 :category: Allgemein, Termine
 :slug: konzert-jake-rathburn-live-unplugged
 
-|1146321\_572056362840425\_1247693089\_o|
+|1146321_572056362840425_1247693089_o|
 
 Ein halbes Jahr ist es her, dass `Jake Rathburn im shackspace ein
 Wohnzimmerkonzert <http://shackspace.de/?p=3955>`__ gab. Der Saal war
@@ -48,5 +48,5 @@ Doodle <http://doodle.com/cewzxmsd38aak9xb>`__ anmelden.
 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber
 Kulturhaus Arena)
 
-.. |1146321\_572056362840425\_1247693089\_o| image:: http://shackspace.de/wp-content/uploads/2013/08/1146321_572056362840425_1247693089_o.jpg
+.. |1146321_572056362840425_1247693089_o| image:: http://shackspace.de/wp-content/uploads/2013/08/1146321_572056362840425_1247693089_o.jpg
    :target: http://shackspace.de/wp-content/uploads/2013/08/1146321_572056362840425_1247693089_o.jpg

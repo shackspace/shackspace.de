@@ -5,7 +5,7 @@ Diskussionsrunde: Everybody knows you're a dog - Schutz der Privatsphäre, Vorra
 :category: Termine
 :slug: diskussionsrunde-everybody-knows-youre-a-dog-schutz-der-privatsphare-vorratsdatenspeicherung-mogliche-handhabung-im-shackspace
 
-| |Hello\_2ab23c\_2705941|\ Diesen **Samstag** um **19 Uhr** lädt
+| |Hello_2ab23c_2705941|\ Diesen **Samstag** um **19 Uhr** lädt
 shackspace zur Diskussion mit angegliedertem Vortrag zum Thema:
 *Everybody knows you're a dog - Diskussion über den Schutz der
 Privatsphäre, Vorratsdatenspeicherung und wie wir das im
@@ -40,4 +40,4 @@ Agenda
 255 <http://shackspace.de/?page_id=713>`__, Stuttgart Wangen (gegenüber
 Kulturhaus Arena)
 
-.. |Hello\_2ab23c\_2705941| image:: http://shackspace.de/wp-content/uploads/2013/03/Hello_2ab23c_2705941-150x150.jpg
+.. |Hello_2ab23c_2705941| image:: http://shackspace.de/wp-content/uploads/2013/03/Hello_2ab23c_2705941-150x150.jpg

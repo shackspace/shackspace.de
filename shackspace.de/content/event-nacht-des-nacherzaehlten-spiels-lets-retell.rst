@@ -5,7 +5,7 @@ Event: Nacht des Nacherzählten Spiels "Let's Retell!"
 :category: Termine
 :slug: event-nacht-des-nacherzaehlten-spiels-lets-retell
 
-|NDNS\_Logo|\ Am **Sonntag den 10. August 2014** freu sich shackspace
+|NDNS_Logo|\ Am **Sonntag den 10. August 2014** freu sich shackspace
 euch mit der Nacht des nacherzählten Spiels die perfekte Mischung aus
 Kultur, Games und Spaß zu bieten.
 
@@ -49,5 +49,5 @@ Platzangebot beschränkt!
 255 <http://shackspace.de/?page_id=713>`__\ , Stuttgart Wangen
 (gegenüber Kulturhaus Arena)
 
-.. |NDNS\_Logo| image:: http://shackspace.de/wp-content/uploads/2014/08/NDNS_Logo.png
+.. |NDNS_Logo| image:: http://shackspace.de/wp-content/uploads/2014/08/NDNS_Logo.png
    :target: http://shackspace.de/wp-content/uploads/2014/08/NDNS_Logo.png

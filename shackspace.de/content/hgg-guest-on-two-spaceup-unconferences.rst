@@ -5,7 +5,7 @@ HGG Guest on two SpaceUp UnConferences
 :category: Allgemein
 :slug: hgg-guest-on-two-spaceup-unconferences
 
-|hgg\_earth\_rgb\_pos-72dpi|\ `Hackerspace Global
+|hgg_earth_rgb_pos-72dpi|\ `Hackerspace Global
 Grid <http://hgg.aero/>`__ (HGG) is a community driven project aiming to
 build a distributed measurement platform with space applications. Would
 there be a better place than space unconferences to present it? We, the
@@ -70,5 +70,5 @@ also kindly invite you to follow our HGG efforts on
 or at `hgg.aero <http://hgg.aero/>`__ and help our grassroots space
 program to achieve its goals.
 
-.. |hgg\_earth\_rgb\_pos-72dpi| image:: http://shackspace.de/wp-content/uploads/2012/12/hgg_earth_rgb_pos-72dpi-150x150.png
+.. |hgg_earth_rgb_pos-72dpi| image:: http://shackspace.de/wp-content/uploads/2012/12/hgg_earth_rgb_pos-72dpi-150x150.png
    :target: http://shackspace.de/wp-content/uploads/2012/12/hgg_earth_rgb_pos-72dpi.png

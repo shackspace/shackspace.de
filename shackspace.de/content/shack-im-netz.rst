@@ -10,7 +10,7 @@ started:
 -  IRC: irc.freenode.net
    #\ `shackspace <irc://irc.freenode.net/shackspace>`__
 -  twitter: @\ `shackspace <https://twitter.com/shackspace>`__,
-   @\ `shack\_status <https://twitter.com/shack_status>`__ (space
+   @\ `shack_status <https://twitter.com/shack_status>`__ (space
    status), @\ `alphafluid <https://twitter.com/\alphafluid>`__ (our
    vending machine)
 -  `YouTube <http://www.youtube.com/shackev>`__

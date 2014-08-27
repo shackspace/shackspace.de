@@ -5,7 +5,7 @@ shackspace unterstützt 27. Stuttgarter Filmwinter
 :category: Allgemein
 :slug: shackspace-unterstuetzt-27-stuttgarter-filmwinter
 
-|IMG\_20140111\_151827 (1)|\ Der `Filmwinter in
+|IMG_20140111_151827 (1)|\ Der `Filmwinter in
 Stuttgart <http://www.filmwinter.de/>`__ bietet diese Jahr zum ersten
 mal neben dem Film auch den neuen Medien und interaktiver digitaler
 Kunst eine Bühne.
@@ -37,5 +37,5 @@ Ein Paar `Bildeindrücke vom
 Aufbau <http://shackspace.de/gallery/index.php/Projekte/Filmwinter-2014>`__
 finden sich in der shackspace Gallery.
 
-.. |IMG\_20140111\_151827 (1)| image:: http://shackspace.de/wp-content/uploads/2014/01/IMG_20140111_151827-1-300x225.jpg
+.. |IMG_20140111_151827 (1)| image:: http://shackspace.de/wp-content/uploads/2014/01/IMG_20140111_151827-1-300x225.jpg
    :target: http://shackspace.de/gallery/index.php/Projekte/Filmwinter-2014/

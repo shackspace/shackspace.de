@@ -5,7 +5,7 @@ shackspace Hacker finds Flaw in Ubiquiti Networks' UniFi Products
 :category: Allgemein
 :slug: shackspace-hacker-finds-flaw-in-ubiquiti-networks-unifi-products
 
-|ubnt\_logo\_basic\_flat\_color|\ Over a year ago shackspace migrated
+|ubnt_logo_basic_flat_color|\ Over a year ago shackspace migrated
 its Wifi infrastructure to an all-Ubiquiti setup because our previous
 setup made up of consumer grade TP-Link access points was neither stable
 nor could it cope with enough clients to cover 30+ visitors to the
@@ -39,5 +39,5 @@ now's a good time to update ;)
    Advisory <https://community.ubnt.com/t5/UniFi/Security-Advisory-CVE-2013-3572/m-p/601047#U601047>`__
 -  `CVE-2013-3572 <http://dl.ubnt.com/unifi/static/cve-2013-3572.html>`__
 
-.. |ubnt\_logo\_basic\_flat\_color| image:: http://shackspace.de/wp-content/uploads/2013/10/ubnt_logo_basic_flat_color.png
+.. |ubnt_logo_basic_flat_color| image:: http://shackspace.de/wp-content/uploads/2013/10/ubnt_logo_basic_flat_color.png
    :target: http://shackspace.de/wp-content/uploads/2013/10/ubnt_logo_basic_flat_color.png

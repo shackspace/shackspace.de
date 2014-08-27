@@ -7,7 +7,7 @@ Einladung zum dritten Treffen: 13.12.2009 Stuttgart City, Lichtblick
 
 | **Alive & kickin´ ab 10:00 Uhr im Lichtblick Stuttgart,
 Reinsburgstraße 13**
-|  |schraubenzieher\_300x41|
+|  |schraubenzieher_300x41|
 
 | Der Hackspace Stuttgart trifft sich im Bar-Restaurant Lichtblick,
 Reinsburgstraße 13, Stuttgart.
@@ -32,4 +32,4 @@ City <http://www.lichtblickstuttgart.de/karte.htm>`__
 
 Fragen? Wünsche? Anregungen? Post it:
 
-.. |schraubenzieher\_300x41| image:: http://hs07.eu/wp-content/uploads/2009/12/schraubenzieher_300x41.png
+.. |schraubenzieher_300x41| image:: http://hs07.eu/wp-content/uploads/2009/12/schraubenzieher_300x41.png

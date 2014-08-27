@@ -29,7 +29,7 @@ Metapräsentation
 |image1|\ Talks
 ~~~~~~~~~~~~~~~
 
-| @\ `V\_wie\_Vendetta <http://twitter.com/#!/V_wie_Vendetta>`__ /
+| @\ `V_wie_Vendetta <http://twitter.com/#!/V_wie_Vendetta>`__ /
 Webanalyse - Praxiswissen zur Analyse eures Traffics
 (`Slides <http://www.zion-control.de/slides_webanalyse.pdf>`__)
 |  @\ `pfleidi <http://twitter.com/#!/pfleidi>`__,

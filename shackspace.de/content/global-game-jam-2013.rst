@@ -5,7 +5,7 @@ Global Game Jam 2013
 :category: Termine
 :slug: global-game-jam-2013
 
-|ggj\_logos\_ggj|
+|ggj_logos_ggj|
 
 Vom **25. bis 27. Januar 2013** präsentieren euch `Chasing
 Carrots <http://www.chasing-carrots.com/>`__ und shackspace die
@@ -52,22 +52,22 @@ Region Stuttgart <http://wrs.region-stuttgart.de/>`__ und dem
 `Softwarezentrum Böblingen/Sindelfingen
 e.V. <http://www.softwarezentrum.de/>`__.*
 
-| |ggj\_logos\_igda|\ |ggj\_logos\_carrots|\ |ggj\_logos\_shackspace|\ |ggj\_logos\_mfg|\ |ggj\_logos\_wrs|\ |ggj\_logos\_softwarezentrum|
+| |ggj_logos_igda|\ |ggj_logos_carrots|\ |ggj_logos_shackspace|\ |ggj_logos_mfg|\ |ggj_logos_wrs|\ |ggj_logos_softwarezentrum|
 |   
 |   
 |   
 |   
 
-.. |ggj\_logos\_ggj| image:: http://shackspace.de/wp-content/uploads/2013/01/ggj_logos_ggj.png
-.. |ggj\_logos\_igda| image:: http://shackspace.de/wp-content/uploads/2013/01/ggj_logos_igda-e1357804379504.png
+.. |ggj_logos_ggj| image:: http://shackspace.de/wp-content/uploads/2013/01/ggj_logos_ggj.png
+.. |ggj_logos_igda| image:: http://shackspace.de/wp-content/uploads/2013/01/ggj_logos_igda-e1357804379504.png
    :target: http://www.igda.org/
-.. |ggj\_logos\_carrots| image:: http://shackspace.de/wp-content/uploads/2013/01/ggj_logos_carrots-e1357804409401.png
+.. |ggj_logos_carrots| image:: http://shackspace.de/wp-content/uploads/2013/01/ggj_logos_carrots-e1357804409401.png
    :target: http://www.chasing-carrots.de/
-.. |ggj\_logos\_shackspace| image:: http://shackspace.de/wp-content/uploads/2013/01/ggj_logos_shackspace-e1357804435612.png
+.. |ggj_logos_shackspace| image:: http://shackspace.de/wp-content/uploads/2013/01/ggj_logos_shackspace-e1357804435612.png
    :target: http://shackspace.de/
-.. |ggj\_logos\_mfg| image:: http://shackspace.de/wp-content/uploads/2013/01/ggj_logos_mfg-e1357804446507.png
+.. |ggj_logos_mfg| image:: http://shackspace.de/wp-content/uploads/2013/01/ggj_logos_mfg-e1357804446507.png
    :target: http://www.mfg.de/
-.. |ggj\_logos\_wrs| image:: http://shackspace.de/wp-content/uploads/2013/01/ggj_logos_wrs-e1357804458166.png
+.. |ggj_logos_wrs| image:: http://shackspace.de/wp-content/uploads/2013/01/ggj_logos_wrs-e1357804458166.png
    :target: http://wrs.region-stuttgart.de/
-.. |ggj\_logos\_softwarezentrum| image:: http://shackspace.de/wp-content/uploads/2013/01/ggj_logos_softwarezentrum-e1357804475204.png
+.. |ggj_logos_softwarezentrum| image:: http://shackspace.de/wp-content/uploads/2013/01/ggj_logos_softwarezentrum-e1357804475204.png
    :target: http://www.softwarezentrum.de/

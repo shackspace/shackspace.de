@@ -21,7 +21,7 @@ Raumnummer für die Konferenz. Wenn sich mehr als ein Teilnehmer in der
 Konferenz befindet, kann man miteinander sprechen. Ansonsten wird man
 sehr schäußliche Musik hören.
 
-Alternativ kann man per Skype den Kontakt "talkyoo\_skype" Hinzufügen
+Alternativ kann man per Skype den Kontakt "talkyoo_skype" Hinzufügen
 und die Raumnummer und eine Raute eingeben "09 03 68#".
 
 Das Verfahren funktioniert mit bis zu 6 Personen. Ansonsten und/oder bei
@@ -64,7 +64,7 @@ Skype an:
 
 Momo: momorientes1
 
-Albi: albi\_keller
+Albi: albi_keller
 
 Jan: jvanvinkenroye
 
