@@ -17,7 +17,3 @@ Hackerspace Global Grid: Stuttgart Hackathon Weekends
    list <https://lists.shackspace.de/mailman/listinfo/constellation>`__
    for discussions
 
-| *Event details:*
-|  **Everyone’s welcome**! (*Donations towards shack e.V. are welcome*)
-|  Date: **Saturday and Sunday afternoon and late into the night **\ Driving directions:U4/U9 station “Im Degen”, `Ulmer Straße 255 <../?page_id=713>`__, Stuttgart Wangen (across from Kulturhaus Arena)
-
