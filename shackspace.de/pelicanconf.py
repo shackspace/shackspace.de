@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import collections
+import time
 
 AUTHOR = u'shack e.V.'
 SITENAME = u'shackspace - Der Hackerspace in Stuttgart'
@@ -29,6 +31,53 @@ SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 6
+
+PLUGINS = ['metadataparsing',]
+
+TimeslotEntry = collections.namedtuple("TimeslotEntry", ["start", "end"])
+def timeslotsparser(string):
+    if string is None or not isinstance(string, collections.Iterable):
+        return None
+
+    if isinstance(string, collections.Iterable):
+        string = " ".join(string)
+
+    slots = []
+
+    for slot in string.split(';'):
+        if not slot:
+            continue
+
+        parts = slot.split(',')
+
+        start = time.strptime(parts[0].strip(), '%y-%m-%d %H:%M')
+        end = time.strptime(parts[1].strip(), '%y-%m-%d %H:%M')
+
+        slots.append(TimeslotEntry(start,end))
+
+    return slots
+
+def stringparser(string):
+    if string is None or not isinstance(string, collections.Iterable):
+        return None
+
+    return string.strip()
+
+def boolparser(string):
+    if string is None or not isinstance(string, collections.Iterable):
+        return None
+
+    return string.strip() in ("yes", "true", "t", "1")
+
+METADATA_PARSERS = {
+    'timeslots': timeslotsparser,
+    'entrace_fee': stringparser,
+    'material_cost': stringparser,
+    'donations_welcome': boolparser,
+    'registration_link': stringparser,
+    'registration_required': boolparser
+}
+
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

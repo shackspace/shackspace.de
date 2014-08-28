@@ -24,4 +24,39 @@
     {% include 'includes/taglist.html' %}
     {% import 'includes/translations.html' as translations with context %}
     {{ translations.translations_for(article) }}
+
+    {% if article.timeslots %}
+    <br/>
+    <h5>Zum Event</h5>
+    <ul>
+        {% if not article.entrance_fee %}
+        <li><strong>Eintritt frei!</strong></li>
+        {% else %}
+        <li><strong>Eintritt: {{ article.entrance_fee }}</strong></li>
+        {% endif %}
+
+
+        {% if article.material_cost %}
+        <li><strong>Materialkosten: {{ article.material_cost }}</strong></li>
+        {% endif %}
+
+        {% if article.donations_welcome %}
+        <li><em>Spenden an shack e.V. sind gerne gesehen</em></li>
+        {% endif %}
+
+        {% if article.registration_link %}
+        <li>
+            {% if article.registration_required %}
+            Bitte unbedingt <a href="{{ article.registration_link }}">anmelden</a>!
+            {% else %}
+            Um <a href="{{ article.registration_link }}">vorherige Anmeldung</a> wird gebeten.
+            {% endif %}
+        </li>
+        {% endif %}
+
+        {% for slot in article.timeslots %}
+        <li>{{ slot.start }} Uhr</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
 </footer><!-- /.post-info -->

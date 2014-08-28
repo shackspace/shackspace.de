@@ -4,8 +4,14 @@ Treffen & Vorträge: Erstes Stuttgarter Hardware Startups Meetup
 :author: hdz
 :category: Termine
 :slug: treffen-vortraege-erstes-stuttgarter-hardware-startups-meetup
+:timeslots: 2014-09-09 19:30, 2014-09-09 22:00; 2014-09-10 18:00, 2014-09-10 21:00
+:entrance_fee: 23 €
+:material_cost: 42 €
+:donations_welcome: True
+:registration_link: http://doodle.com/
+:registration_required: True
 
-**|600_395679172|**\ Am\ **Dienstag** den **9. September** ab **19
+|600_395679172| Am\ **Dienstag** den **9. September** ab **19
 Uhr** freut sich shackspace euch das erste *Stuttgarter Hardware
 Startups Meetup* zu präsentieren.
 
