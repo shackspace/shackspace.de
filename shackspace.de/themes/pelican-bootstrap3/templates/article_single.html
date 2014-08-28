@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <section id="content">
+        <article>
+            <div class="row-fluid">
+                <div class="span12 article article_header">
+                    <!-- article_header -->
+                    <header>
+                    {% block article_header %}
+                    {% endblock %}
+                    </header>
+                    <!-- /article_header -->
+                </div>
+            </div>
+            <div class="row-fluid">
+                <div class="span8 article article_content">
+                    <!-- article_content -->
+                    {% block article_content %}
+                    {% endblock %}
+                    <!-- /article_content -->
+                </div>
+                <div class="span4 article article_meta">
+                    <!-- article_meta -->
+                    {% block article_meta %}
+                    {% endblock %}
+                    <!-- /article_meta -->
+                    <!-- article_event_meta -->
+                    {% block article_event_meta %}
+                    {% endblock %}
+                    <!-- /article_event_meta -->
+                    <!-- article_image_meta -->
+                    {% block article_image_meta %}
+                    {% endblock %}
+                    <!-- /article_image_meta -->
+                </div>
+            </div>
+
+            {% if SHOW_COMMENTS %}
+            <div class="row-fluid">
+                <div class="span8 article article_comment">
+                    <!-- article_comments -->
+                    {% block article_comments %}
+                    {% endblock %}
+                    <!-- /article_comments -->
+                </div>
+            </div>
+            {% endif %}
+        </article>
+    </section>
+{% endblock %}
