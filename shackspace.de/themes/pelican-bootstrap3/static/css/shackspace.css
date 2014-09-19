@@ -50,7 +50,24 @@ body {
     vertical-align: bottom;
 }
 
-.article_content img {
+hr {
+    clear: left;    
+}
+article img {
     float: left;
     margin: 0 20px 3px 0;
+}
+
+.article_meta ul {
+    list-style-type: none;
+    margin: 0 0 20px 0;
+    padding: 0;
+}
+.article_meta li {
+    margin: 0 0 3px 0;
+    padding: 0;
+}
+
+.article_meta h5 {
+    margin: 0;
 }

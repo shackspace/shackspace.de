@@ -2,11 +2,12 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
 import collections
-import time
+import datetime
 
-AUTHOR = u'shack e.V.'
-SITENAME = u'shackspace - Der Hackerspace in Stuttgart'
+AUTHOR = 'shack e.V.'
+SITENAME = 'shackspace - Der Hackerspace in Stuttgart'
 SITEURL = ''
+SHOW_ARTICLE_AUTHOR = True
 #RELATIVE_URLS = True
 
 PATH = 'content'
@@ -14,7 +15,11 @@ PATH = 'content'
 TIMEZONE = 'Europe/Berlin'
 
 DEFAULT_LANG = u'de'
-
+DATE_FORMAT = {
+    'de': '%A, %d.%m.%Y',
+    'en': '%A, %m/%d/%Y',
+}
+LOCALE = ('de_DE', 'en_US')
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -34,7 +39,14 @@ DEFAULT_PAGINATION = 6
 
 PLUGINS = ['metadataparsing',]
 
-TimeslotEntry = collections.namedtuple("TimeslotEntry", ["start", "end"])
+TimeslotEntry = collections.namedtuple("TimeslotEntry",
+        [   "start_raw",
+            "end_raw",
+            "start_f",
+            "end_f",
+            "duration_hours_f"])
+
+
 def timeslotsparser(string):
     if string is None or not isinstance(string, collections.Iterable):
         return None
@@ -44,16 +56,28 @@ def timeslotsparser(string):
 
     slots = []
 
+
     for slot in string.split(';'):
         if not slot:
             continue
 
         parts = slot.split(',')
 
-        start = time.strptime(parts[0].strip(), '%Y-%m-%d %H:%M')
-        end = time.strptime(parts[1].strip(), '%Y-%m-%d %H:%M')
+        start = datetime.datetime.strptime(parts[0].strip(), '%Y-%m-%d %H:%M')
+        end = datetime.datetime.strptime(parts[1].strip(), '%Y-%m-%d %H:%M')
+        start_f = start.strftime('%A, %d.%d.%Y %H:%M')
+        end_f = end.strftime('%A, %d.%d.%Y %H:%M')
 
-        slots.append(TimeslotEntry(start,end))
+        duration = end-start
+        duration_h = int(duration.total_seconds() / 3600)
+        duration_m = int((duration.total_seconds() / 60) % 60)
+        duration_f = '{}h'.format(duration_h)
+        if duration_m > 0:
+            duration_f += '{}m'.format(duration_m)
+
+        slots.append(TimeslotEntry( start, end,
+                                    start_f, end_f,
+                                    duration_f ))
 
     return slots
 

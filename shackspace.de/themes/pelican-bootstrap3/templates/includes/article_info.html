@@ -1,62 +1,74 @@
 <footer class="post-info">
-    <span class="label label-default">Date</span>
-    <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }}</time>
-    </span>
-    {% if SHOW_ARTICLE_AUTHOR %}
-        {% if article.author %}
-            <span class="label label-default">By</span>
-            <a href="{{ SITEURL }}/{{ article.author.url }}"><i class="fa fa-user"></i> {{ article.author }}</a>
-        {% endif %}
-    {% endif %}
-
-    {% if SHOW_ARTICLE_CATEGORY %}
-        <span class="label label-default">Category</span>
-        <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
-    {% endif %}
-
-    {% if PDF_PROCESSOR %}
-        <span class="label label-default">
-            <a href="{{ SITEURL }}/pdf/{{ article.slug }}.pdf">PDF</a>
-        </span>
-    {% endif %}
-
-    {% include 'includes/taglist.html' %}
-    {% import 'includes/translations.html' as translations with context %}
-    {{ translations.translations_for(article) }}
 
     {% if article.timeslots %}
-    <br/>
     <h5>Zum Event</h5>
     <ul>
+        <li><span span class="label label-default">Eintritt</span> <strong>
         {% if not article.entrance_fee %}
-        <li><strong>Eintritt frei!</strong></li>
+            Frei!
         {% else %}
-        <li><strong>Eintritt: {{ article.entrance_fee }}</strong></li>
+            {{ article.entrance_fee }}
         {% endif %}
-
+        </strong>
 
         {% if article.material_cost %}
-        <li><strong>Materialkosten: {{ article.material_cost }}</strong></li>
+        <br/><span span class="label label-default">Material</span> <strong>{{ article.material_cost }}</strong>
         {% endif %}
+        </li>
 
         {% if article.donations_welcome %}
         <li><em>Spenden an shack e.V. sind gerne gesehen</em></li>
         {% endif %}
 
         {% if article.registration_link %}
-        <li>
+        <li><span span class="label label-default">Anmeldung</span>
             {% if article.registration_required %}
-            Bitte unbedingt <a href="{{ article.registration_link }}">anmelden</a>!
+            <a href="{{ article.registration_link }}">Zwingend erforderlich</a>!
             {% else %}
-            Um <a href="{{ article.registration_link }}">vorherige Anmeldung</a> wird gebeten.
+            <a href="{{ article.registration_link }}">Optional</a>
             {% endif %}
         </li>
         {% endif %}
 
         {% for slot in article.timeslots %}
-        <li>{{ slot.start }} Uhr</li>
+        <li><span span class="label label-default">Datum</span> {{ slot.start_f }} Uhr<br/>
+        <span span class="label label-default">Dauer</span> {{ slot.duration_hours_f }}</li>
         {% endfor %}
     </ul>
     {% endif %}
+
+    <h5>Zum Artikel</h5>
+    <ul>
+        <li>
+            <span class="label label-default">Datum</span>
+            <span class="published">
+                <i class="fa fa-calendar"></i><time datetime="{{ article.date.isoformat() }}"> {{ article.locale_date }}</time>
+            </span>
+        </li>
+    {% if SHOW_ARTICLE_AUTHOR %}
+        {% if article.author %}
+        <li>
+            <span class="label label-default">Autor</span>
+            <a href="{{ SITEURL }}/{{ article.author.url }}"><i class="fa fa-user"></i> {{ article.author }}</a>
+        </li>
+        {% endif %}
+    {% endif %}
+    {% if SHOW_ARTICLE_CATEGORY %}
+        <li>
+            <span class="label label-default">Kategorie</span>
+            <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
+        </li>
+    {% endif %}
+    {% if PDF_PROCESSOR %}
+        <li>
+            <span class="label label-default">
+                <a href="{{ SITEURL }}/pdf/{{ article.slug }}.pdf">PDF</a>
+            </span>
+        </li>
+    {% endif %}
+    </ul>
+
+    {% include 'includes/taglist.html' %}
+    {% import 'includes/translations.html' as translations with context %}
+    {{ translations.translations_for(article) }}
 </footer><!-- /.post-info -->
