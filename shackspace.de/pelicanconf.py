@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*- #
+# -*- coding: utf-8 -*-
 from __future__ import unicode_literals
 import collections
 import time
@@ -40,7 +40,7 @@ def timeslotsparser(string):
         return None
 
     if isinstance(string, collections.Iterable):
-        string = " ".join(string)
+        string = ''.join(string)
 
     slots = []
 
@@ -50,8 +50,8 @@ def timeslotsparser(string):
 
         parts = slot.split(',')
 
-        start = time.strptime(parts[0].strip(), '%y-%m-%d %H:%M')
-        end = time.strptime(parts[1].strip(), '%y-%m-%d %H:%M')
+        start = time.strptime(parts[0].strip(), '%Y-%m-%d %H:%M')
+        end = time.strptime(parts[1].strip(), '%Y-%m-%d %H:%M')
 
         slots.append(TimeslotEntry(start,end))
 
@@ -67,7 +67,7 @@ def boolparser(string):
     if string is None or not isinstance(string, collections.Iterable):
         return None
 
-    return string.strip() in ("yes", "true", "t", "1")
+    return string.strip() in (u"yes", u"true", u"t", u"1")
 
 METADATA_PARSERS = {
     'timeslots': timeslotsparser,
