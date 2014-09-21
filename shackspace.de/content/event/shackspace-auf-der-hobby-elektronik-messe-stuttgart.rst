@@ -37,7 +37,7 @@ Mit dabei ist jede Menge Spielzeug; unter Anderem:
 
 Besucht uns in Halle 4 Stand 4D58!
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2010/11/hobby.jpg
+.. |image0| image:: /static/images/hobby.jpg
    :target: http://cms.messe-stuttgart.de/cms/hobby10_besucher_messe0.0.html
 
 

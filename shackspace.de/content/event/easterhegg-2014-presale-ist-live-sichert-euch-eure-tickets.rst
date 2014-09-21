@@ -56,9 +56,9 @@ Rückfragen
 
 Wir freuen uns auf euch!
 
-.. |Easterhegg-Logo| image:: http://shackspace.de/wp-content/uploads/2014/01/Easterhegg-Logo-300x181.png
+.. |Easterhegg-Logo| image:: /static/images/Easterhegg-Logo-300x181.png
    :target: http://shackspace.de/wp-content/uploads/2014/01/Easterhegg-Logo.png
-.. |stempel_easterhegg| image:: http://shackspace.de/wp-content/uploads/2014/02/stempel_easterhegg-150x150.jpg
+.. |stempel_easterhegg| image:: /static/images/stempel_easterhegg-150x150.jpg
    :target: http://shackspace.de/wp-content/uploads/2014/02/stempel_easterhegg.jpg
 
 

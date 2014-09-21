@@ -34,7 +34,7 @@ einen Nachrückerplatz ergattern.
 -  `Liste der erhältlichen Bausätze /
    Kits <https://noisebridge.net/wiki/MitchWorkshopsEU#Kits>`__
 
-.. |loeten| image:: http://shackspace.de/wp-content/uploads/2014/05/loeten-300x86.png
+.. |loeten| image:: /static/images/loeten-300x86.png
    :target: http://shackspace.de/wp-content/uploads/2014/05/loeten.png
 
 

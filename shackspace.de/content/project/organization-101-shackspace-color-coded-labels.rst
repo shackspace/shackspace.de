@@ -43,7 +43,7 @@ White/Green: Give Away
 Yes, there are a few items at the space that somehow ended up here and
 are free for the taking ;)
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2012/11/nrzfy-300x225.jpg
+.. |image0| image:: /static/images/nrzfy-300x225.jpg
    :target: http://shackspace.de/wp-content/uploads/2012/11/nrzfy.jpg
 
 

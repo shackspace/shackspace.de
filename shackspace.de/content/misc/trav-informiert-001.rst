@@ -36,9 +36,9 @@ TRAV informiert 001
 
 Ende der Uebermittung *+++ STOP +++*
 
-.. |image0| image:: http://shackspace.de/gallery/var/thumbs/Projekte/Tischl%C3%BCfter/Drehzahlmessung/DSC_0290.jpg?m=1281992527
+.. |image0| image:: /static/images/DSC_0290.jpg?m=1281992527
    :target: http://shackspace.de/gallery/index.php/Projekte/Tischluefter/Drehzahlmessung
-.. |image1| image:: http://shackspace.de/gallery/var/thumbs/Projekte/Werkstattwagen-XXL/Innenausbau/DSC_0212.jpg?m=1281994002
+.. |image1| image:: /static/images/DSC_0212.jpg?m=1281994002
    :target: http://shackspace.de/gallery/index.php/Projekte/Werkstattwagen-XXL
 
 

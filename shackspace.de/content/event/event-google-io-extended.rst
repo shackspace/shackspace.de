@@ -18,7 +18,7 @@ late, with the keynote starting around 18:00.
 |  Looking forward to see many of you there!
 
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2012/06/IOExtended_v02_whitelogos-e1340093040675-150x150.jpg
+.. |image0| image:: /static/images/IOExtended_v02_whitelogos-e1340093040675-150x150.jpg
    :target: http://shackspace.de/wp-content/uploads/2012/06/IOExtended_v02_whitelogos.jpg
 
 

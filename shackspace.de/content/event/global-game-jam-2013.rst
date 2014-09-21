@@ -38,18 +38,18 @@ Rekordbeteiligung.
 -  `Anmeldung zum Global Game Jam
    Stuttgart <http://globalgamejam.org/sites/2013/global-game-jam-stuttgart>`__
 
-.. |ggj_logos_ggj| image:: http://shackspace.de/wp-content/uploads/2013/01/ggj_logos_ggj.png
-.. |ggj_logos_igda| image:: http://shackspace.de/wp-content/uploads/2013/01/ggj_logos_igda-e1357804379504.png
+.. |ggj_logos_ggj| image:: /static/images/ggj_logos_ggj.png
+.. |ggj_logos_igda| image:: /static/images/ggj_logos_igda-e1357804379504.png
    :target: http://www.igda.org/
-.. |ggj_logos_carrots| image:: http://shackspace.de/wp-content/uploads/2013/01/ggj_logos_carrots-e1357804409401.png
+.. |ggj_logos_carrots| image:: /static/images/ggj_logos_carrots-e1357804409401.png
    :target: http://www.chasing-carrots.de/
-.. |ggj_logos_shackspace| image:: http://shackspace.de/wp-content/uploads/2013/01/ggj_logos_shackspace-e1357804435612.png
+.. |ggj_logos_shackspace| image:: /static/images/ggj_logos_shackspace-e1357804435612.png
    :target: http://shackspace.de/
-.. |ggj_logos_mfg| image:: http://shackspace.de/wp-content/uploads/2013/01/ggj_logos_mfg-e1357804446507.png
+.. |ggj_logos_mfg| image:: /static/images/ggj_logos_mfg-e1357804446507.png
    :target: http://www.mfg.de/
-.. |ggj_logos_wrs| image:: http://shackspace.de/wp-content/uploads/2013/01/ggj_logos_wrs-e1357804458166.png
+.. |ggj_logos_wrs| image:: /static/images/ggj_logos_wrs-e1357804458166.png
    :target: http://wrs.region-stuttgart.de/
-.. |ggj_logos_softwarezentrum| image:: http://shackspace.de/wp-content/uploads/2013/01/ggj_logos_softwarezentrum-e1357804475204.png
+.. |ggj_logos_softwarezentrum| image:: /static/images/ggj_logos_softwarezentrum-e1357804475204.png
    :target: http://www.softwarezentrum.de/
 
 

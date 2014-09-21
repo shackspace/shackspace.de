@@ -69,7 +69,7 @@ log <http://endless-sphere.com/forums/viewtopic.php?f=35&t=56030>`__
 over at the Endless Sphere forum and `a whole bunch of extra
 photos <https://picasaweb.google.com/115792422633543473919/KickboardK2?authkey=Gv1sRgCKHe3YqeseKvrwE#>`__.
 
-.. |IMG_20140104_165009| image:: http://shackspace.de/wp-content/uploads/2014/01/IMG_20140104_165009-300x225.jpg
+.. |IMG_20140104_165009| image:: /static/images/IMG_20140104_165009-300x225.jpg
    :target: http://shackspace.de/wp-content/uploads/2014/01/IMG_20140104_165009.jpg
 
 

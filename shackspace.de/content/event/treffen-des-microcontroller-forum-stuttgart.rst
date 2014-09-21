@@ -17,7 +17,7 @@ Eintritt frei,  jeder ist willkommen!
 -  `Mailingliste des Microcontroller Forum
    Stuttgart <https://lists.shackspace.de/mailman/listinfo/mcf>`__
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/02/usbasp-300x225.jpg
+.. |image0| image:: /static/images/usbasp-300x225.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/02/usbasp.jpg
 
 

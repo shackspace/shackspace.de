@@ -21,7 +21,7 @@ Nationalheiligtum gesehen.  Begriffe wie "Turing-Test" und
 "turing-vollständig" sind vielen Menschen ein Begriff.  Ein Überblick
 über Meilensteine und ein wahrlich unwürdiges Ende.*
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/11/cccs-logo.png
+.. |image0| image:: /static/images/cccs-logo.png
    :target: http://shackspace.de/wp-content/uploads/2011/11/cccs-logo.png
 
 

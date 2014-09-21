@@ -15,7 +15,7 @@ Après-Congress Jahresausklang mit Hack & Lounge im shackspace
 
    </div>
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2012/06/shack-150x150.png
+.. |image0| image:: /static/images/shack-150x150.png
    :target: http://shackspace.de/wp-content/uploads/2012/06/shack.png
 
 

@@ -20,7 +20,7 @@ news kw 21_10
 |  *Der Eierstock der Zukunft.*
 |  G. C. Lichtenberg
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2010/07/nosql_shack.png
+.. |image0| image:: /static/images/nosql_shack.png
    :target: http://nosqlsummer.org/
 
 

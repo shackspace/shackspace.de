@@ -14,7 +14,7 @@ im `Blogpost zum ersten node.js Workshop <http://shackspace.de/?p=3448>`__ zu fi
 Organisator des Workshops und und Ansprechpartner ist shack-Mitglied
 rashfael.
 
-.. |image| image:: http://shackspace.de/wp-content/uploads/2012/09/nodejs-dark.png
+.. |image| image:: /static/images/nodejs-dark.png
    :target: http://shackspace.de/wp-content/uploads/2012/09/nodejs-dark.png
 
 

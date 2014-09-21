@@ -19,7 +19,7 @@ einsetzen. Mehr Informationen finden sich auf der
 | Die Anmeldung erfolgt im Vorfeld mit `diesem Formular <https://docs.google.com/forms/d/1yszLRmMnW8-I_shnDqQHrj8FbeObIm994rwhcs4pUbA/viewform>`__. Hier kann auch der Wunschtermin (sofern noch verfügbar) gewählt werden. First come, first serve. Der Workshop wird von @\ `dop3j0e <https://twitter.com/dop3j0e>`__ und @\ `fu86 <https://twitter.com/fu86>`__ geführt.
 |  Wir freuen uns auf rege Teilnahme.
 
-.. |miniledcube-smd| image:: http://shackspace.de/wp-content/uploads/2014/08/miniledcube-smd-300x198.png
+.. |miniledcube-smd| image:: /static/images/miniledcube-smd-300x198.png
    :target: http://shackspace.de/wp-content/uploads/2014/08/miniledcube-smd.png
 
 

@@ -27,7 +27,7 @@ begleitet von einer kurzen
 
 *Logo: SWR Markenführung und Design*
 
-.. |SWR2| image:: http://shackspace.de/wp-content/uploads/2014/04/index-300x114.jpg
+.. |SWR2| image:: /static/images/index-300x114.jpg
    :target: http://shackspace.de/wp-content/uploads/2014/04/index.jpg
 
 

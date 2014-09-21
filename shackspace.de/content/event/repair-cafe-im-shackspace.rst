@@ -19,7 +19,7 @@ Repair-Cafe findet einmal im Quartal, jeweils am ersten Sonntag statt.
 
  
 
-.. |pic2| image:: http://shackspace.de/wp-content/uploads/2013/12/pic2-300x202.png
+.. |pic2| image:: /static/images/pic2-300x202.png
    :target: http://shackspace.de/wp-content/uploads/2013/12/pic2.png
 
 

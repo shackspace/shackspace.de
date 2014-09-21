@@ -30,7 +30,7 @@ finden sich in unserer Gallery.
 Diese Auflage des Workshops ist rein intern, die verfügbaren Plätze sind
 leider schon voll mit interessierten Vereinsmitgliedern besetzt.
 
-.. |image0| image:: http://shackspace.de/gallery/var/thumbs/Projekte/ATmega32U4-Board/DSC_5667.jpg
+.. |image0| image:: /static/images/DSC_5667.jpg
    :target: http://shackspace.de/gallery/index.php/Projekte/ATmega32U4-Board
 
 

@@ -41,7 +41,7 @@ Kapitelweise, sodass man jederzeit einsteigen kann.
 `saketvora@flickr <http://www.flickr.com/photos/saket_vora/2683033071/sizes/o/in/photostream/>`__
 (cc-by-nc-sa)*
 
-.. |image0| image:: http://shackspace.de/gallery/var/thumbs/shack.media/3rd-party/haarp.jpg?m=1285159421
+.. |image0| image:: /static/images/haarp.jpg?m=1285159421
    :target: http://shackspace.de/gallery/index.php/shack-media/3rd-party/haarp
 
 

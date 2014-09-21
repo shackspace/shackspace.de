@@ -35,7 +35,7 @@ selbst auch noch nie
 | **Kosten**: Teilnahme ist kostenlos (Spenden an shack e.V. sind gerne gesehen);
 |  allerdings müsst ihr die Ringe, die ihr verbaut, bezahlen. Der Preis beträgt 1,25€ pro 10 Gramm. 300 Ringe wiegen etwa 40 Gramm, für einen großen Beutel benötigt ihr etwa 1000 - 1500 Ringe.
 
-.. |rings| image:: http://shackspace.de/wp-content/uploads/2014/04/rings-150x150.jpg
+.. |rings| image:: /static/images/rings-150x150.jpg
    :target: http://shackspace.de/wp-content/uploads/2014/04/rings.jpg
 
 

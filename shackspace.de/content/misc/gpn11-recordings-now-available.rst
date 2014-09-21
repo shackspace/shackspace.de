@@ -17,7 +17,7 @@ shackspace related:
 -  `Hackstation <https://entropia.de/GPN11:Hackstation>`__
 -  `Lightning Talks <https://entropia.de/GPN11:Lightning_Talks>`__
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/09/Escher1.3.1-e1315575649908-150x79.png
+.. |image0| image:: /static/images/Escher1.3.1-e1315575649908-150x79.png
    :target: http://shackspace.de/wp-content/uploads/2011/09/Escher1.3.1.png
 
 

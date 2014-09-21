@@ -15,7 +15,7 @@ Die Teilnehmerzahl ist auf 16 beschränkt.
 **Update:** Wichtig! Bringt eine Maus mit mittlerer Maustaste zum
 Workshop mit, da dies für die Bedienung von Blender unabdingbar ist.
 
-.. |750px-Blender_Logo_official_brightbackground.svg| image:: http://shackspace.de/wp-content/uploads/2012/08/750px-Blender_Logo_official_brightbackground.svg_-e1345446021361-150x150.png
+.. |750px-Blender_Logo_official_brightbackground.svg| image:: /static/images/750px-Blender_Logo_official_brightbackground.svg_-e1345446021361-150x150.png
    :target: http://shackspace.de/wp-content/uploads/2012/08/750px-Blender_Logo_official_brightbackground.svg_.png
 
 

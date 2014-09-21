@@ -21,6 +21,6 @@ Agenda
 -  Offene Diskussion über Schutz der Privatssphäre,
    Vorratsdatenspeicherung und Handhabung im shackspace
 
-.. |Hello_2ab23c_2705941| image:: http://shackspace.de/wp-content/uploads/2013/03/Hello_2ab23c_2705941-150x150.jpg
+.. |Hello_2ab23c_2705941| image:: /static/images/Hello_2ab23c_2705941-150x150.jpg
 
 

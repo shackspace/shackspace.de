@@ -42,7 +42,7 @@ If you want to build one, make sure to drop by our booth at the `Hobby &
 Elektronik <http://www.messe-stuttgart.de/cms/hobby11_besucher_messe.0.html>`__
 fair at the Stuttgart Fair right at the airport.
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/11/bat2.jpg
+.. |image0| image:: /static/images/bat2.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/11/bat2.jpg
 
 

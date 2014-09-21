@@ -12,9 +12,9 @@ Getönt und geschlagen
 
 |image1|\ Ebenfalls sind Fortschritte mit dem `Cajon <http://de.wikipedia.org/wiki/Cajon>`__-Bausatz zu verzeichnen. Nach eifrigem Werkeln mit Leim, Spanngurten und Schraubzwingen, gefolgt von lautstarkem Einsatz eines Schwingschleifers ist das Objekt der Begierde und Quelle akustischer Verärgerung nun bereit lackiert zu werden. Hoffen wir auf eine baldige musikalische Vereinigung mit der `Gitalele <http://de.wikipedia.org/wiki/Gitalele>`__ :)
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2010/12/amp-150x150.jpg
+.. |image0| image:: /static/images/amp-150x150.jpg
    :target: http://shackspace.de/wp-content/uploads/2010/12/amp.jpg
-.. |image1| image:: http://shackspace.de/wp-content/uploads/2010/12/cajon-150x150.jpg
+.. |image1| image:: /static/images/cajon-150x150.jpg
    :target: http://shackspace.de/wp-content/uploads/2010/12/cajon.jpg
 
 

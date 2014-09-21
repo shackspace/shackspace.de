@@ -100,7 +100,7 @@ Tracklisting:
 `Download (MP3) <http://dojoe.net/mixes/DoJoe%20-%20GPN13%20Demoscene%20Set.mp3>`__
 `Cuesheet (CUE) <http://dojoe.net/mixes/DoJoe%20-%20GPN13%20Demoscene%20Set.cue>`__
 
-.. |800px-Gpn13_high_res| image:: http://shackspace.de/wp-content/uploads/2013/06/800px-Gpn13_high_res-300x64.png
+.. |800px-Gpn13_high_res| image:: /static/images/800px-Gpn13_high_res-300x64.png
    :target: http://shackspace.de/wp-content/uploads/2013/06/800px-Gpn13_high_res.png
 
 

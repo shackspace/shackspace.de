@@ -45,7 +45,7 @@ nimmt, bitte folgende Anmeldebedingungen beachten:
 -  Die ersten 10 Personen, die einen SSH Public Key einsenden dürfen
    mitspielen
 
-.. |Git-Logo-2Color| image:: http://shackspace.de/wp-content/uploads/2014/02/Git-Logo-2Color-300x125.png
+.. |Git-Logo-2Color| image:: /static/images/Git-Logo-2Color-300x125.png
    :target: http://shackspace.de/wp-content/uploads/2014/02/Git-Logo-2Color.png
 
 

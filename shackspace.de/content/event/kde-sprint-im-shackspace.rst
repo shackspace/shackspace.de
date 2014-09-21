@@ -14,7 +14,7 @@ KDE-Sprint im shackspace
 |  Für die Anreise empfehlen wir die öffentlichen Verkehrsmittel von denen aus wir leicht zu Fuß zu erreichen sind (5 bis 8 Minuten von S+U Nordbahnhof, bzw. U Eckartshaldenweg).
 |  Eine `bebilderte Anfahrtsbeschreibung <http://shackspace.de/?page_id=713>`__ haben wir selbstverständlich auch.
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2010/08/Software_labels.jpg
+.. |image0| image:: /static/images/Software_labels.jpg
    :target: http://shackspace.de/wp-content/uploads/2010/08/Software_labels.jpg
 
 

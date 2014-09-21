@@ -44,7 +44,7 @@ dazu:
 -  *Gruppenspiel*: Shackardy - Wie Jeopardy, aber mit 23 und 42
    (*robert*)
 
-.. |image0| image:: http://shackspace.de/gallery/var/thumbs/shack.media/3rd-party/42.jpg
+.. |image0| image:: /static/images/42.jpg
    :target: http://shackspace.de/gallery/index.php/shack-media/3rd-party/42
 
 

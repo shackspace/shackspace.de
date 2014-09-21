@@ -34,7 +34,7 @@ Mitbringen solltet ihr:
 -  Spaß an Neuem
 -  für euren Charakter passende Kleidung
 
-.. |lubularp| image:: http://shackspace.de/wp-content/uploads/2013/05/lubularp.png
+.. |lubularp| image:: /static/images/lubularp.png
    :target: http://shackspace.de/wp-content/uploads/2013/05/lubularp.png
 
 

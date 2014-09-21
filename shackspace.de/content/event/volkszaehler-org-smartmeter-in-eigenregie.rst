@@ -40,7 +40,7 @@ volkszaehler.org bezogenes Hard- und Softwarehacking.
 | *Zum Vortragenden:*
 | `Justin Otherguy <https://twitter.com/justinotherguy/>`__ ist Gründer des Projekts volkszaehler.org was seit nunmehr zwei Jahren besteht.
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/11/logo-150x150.png
+.. |image0| image:: /static/images/logo-150x150.png
    :target: http://shackspace.de/wp-content/uploads/2011/11/logo.png
 
 

@@ -113,11 +113,11 @@ known networks.
 -  `Project minikrebs documentation on the shackspace
    wiki <http://shackspace.de/wiki/doku.php?id=project:minikrebs>`__
 
-.. |TP-Link NFC Terminal| image:: http://shackspace.de/wp-content/uploads/2013/01/IMG_20130114_003939-e1358189039734-150x144.jpg
-.. |TP-Link NFC Terminal2| image:: http://shackspace.de/wp-content/uploads/2013/01/IMG_20130114_003939-e1358188922575.jpg
-.. |TP-Link Instacam| image:: http://shackspace.de/wp-content/uploads/2013/01/IMG_20130113_225119-e1358189326256-300x106.jpg
-.. |TP-Link Automatic Rick-Roll| image:: http://shackspace.de/wp-content/uploads/2013/01/IMG_20130113_231711-e1358189552103-300x127.jpg
-.. |TP-Link usbip| image:: http://shackspace.de/wp-content/uploads/2013/01/IMG_20130114_000208-e1358189233155-300x93.jpg
-.. |krebs-v2| image:: http://shackspace.de/wp-content/uploads/2013/01/krebs-v2-300x300.png
+.. |TP-Link NFC Terminal| image:: /static/images/IMG_20130114_003939-e1358189039734-150x144.jpg
+.. |TP-Link NFC Terminal2| image:: /static/images/IMG_20130114_003939-e1358188922575.jpg
+.. |TP-Link Instacam| image:: /static/images/IMG_20130113_225119-e1358189326256-300x106.jpg
+.. |TP-Link Automatic Rick-Roll| image:: /static/images/IMG_20130113_231711-e1358189552103-300x127.jpg
+.. |TP-Link usbip| image:: /static/images/IMG_20130114_000208-e1358189233155-300x93.jpg
+.. |krebs-v2| image:: /static/images/krebs-v2-300x300.png
 
 

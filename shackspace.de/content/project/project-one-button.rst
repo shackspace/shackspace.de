@@ -75,7 +75,7 @@ Some time later the *one button* received more awesome features:
 Check out `the code on
 GitHub <https://github.com/shackspace/one_button>`__!
 
-.. |onebutton| image:: http://shackspace.de/wp-content/uploads/2014/02/onebutton.jpg
+.. |onebutton| image:: /static/images/onebutton.jpg
    :target: http://shackspace.de/wp-content/uploads/2014/02/onebutton.jpg
 
 

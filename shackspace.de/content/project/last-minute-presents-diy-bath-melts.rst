@@ -84,7 +84,7 @@ fizz and bubble resulting in a fresh bubbly feeling on your skin and
 soften the water.  Do not use too much citric acid since it might
 irritate your skin.
 
-.. |IMG_20121221_230155| image:: http://shackspace.de/wp-content/uploads/2012/12/IMG_20121221_230155-150x150.jpg
+.. |IMG_20121221_230155| image:: /static/images/IMG_20121221_230155-150x150.jpg
    :target: http://shackspace.de/wp-content/uploads/2012/12/IMG_20121221_230155.jpg
 
 

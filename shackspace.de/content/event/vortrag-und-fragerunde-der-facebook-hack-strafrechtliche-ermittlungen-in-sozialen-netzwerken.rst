@@ -21,7 +21,7 @@ Plauderrunde eingeplant.
 | *Zur Person:*
 |  Sierk Hamann ist Jurist aus Tübingen und unternahm seine ersten Reisen im Cyberspace mit `NCSA Mosaic <http://de.wikipedia.org/wiki/NCSA_Mosaic>`__. Er ist seit dem Jahr 2000 als Richter und `Staatsanwalt <http://de.wikipedia.org/wiki/Staatsanwalt>`__ tätig. Die Ursprünge seiner wissenschaftlichen Arbeit liegen im `Verfassungsrecht <http://de.wikipedia.org/wiki/Verfassungsrecht>`__ mit besonderem Schwerpunkt auf Telekommunikationsfreiheiten & `Informationeller Selbstbestimmung <http://de.wikipedia.org/wiki/Informationelle_Selbstbestimmung>`__.
 
-.. |shack| image:: http://shackspace.de/wp-content/uploads/2012/06/shack-150x150.png
+.. |shack| image:: /static/images/shack-150x150.png
    :target: http://shackspace.de/wp-content/uploads/2012/06/shack.png
 
 

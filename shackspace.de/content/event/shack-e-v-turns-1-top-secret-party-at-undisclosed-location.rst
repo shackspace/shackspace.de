@@ -23,7 +23,7 @@ party, possibly public, may be held  at a different location at an
 undetermined time at a future point in our present or possibly forked
 time line but details are still to be determined.
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/02/birthday.png
+.. |image0| image:: /static/images/birthday.png
    :target: http://shackspace.de/wp-content/uploads/2011/02/birthday.png
 
 

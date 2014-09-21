@@ -22,8 +22,8 @@ sich auf den Mittwoch.
 (`English Version of the
 announcement <https://plus.google.com/110418713081470246659/posts>`__)
 
-.. |google-io-logo| image:: http://shackspace.de/wp-content/uploads/2013/04/google-io-logo.png
-.. |GDG-program-icon| image:: http://shackspace.de/wp-content/uploads/2013/04/GDG-program-icon-150x150.png
+.. |google-io-logo| image:: /static/images/google-io-logo.png
+.. |GDG-program-icon| image:: /static/images/GDG-program-icon-150x150.png
    :target: http://shackspace.de/wp-content/uploads/2013/04/google-io-logo.png
 
 

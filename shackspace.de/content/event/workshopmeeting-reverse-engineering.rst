@@ -61,7 +61,7 @@ Kenntnisstand und was ihr euch wünsch/erhofft als Kommentar.
 Weitere Informationen auf der `Wikiseite zur Reverse Engineering
 Group <http://shackspace.de/wiki/doku.php?id=reverse_engineering_group>`__.
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2012/08/4760973863_6199c4ca88_q.jpg
+.. |image0| image:: /static/images/4760973863_6199c4ca88_q.jpg
    :target: http://shackspace.de/wp-content/uploads/2012/08/4760973863_6199c4ca88_q.jpg
 
 

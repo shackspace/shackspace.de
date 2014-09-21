@@ -123,11 +123,11 @@ More Information
 
    </div>
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/02/badukhistogram-300x130.png
+.. |image0| image:: /static/images/badukhistogram-300x130.png
    :target: http://shackspace.de/wp-content/uploads/2011/02/badukhistogram.png
-.. |image1| image:: http://shackspace.de/wp-content/uploads/2011/02/answerestimation-300x59.png
+.. |image1| image:: /static/images/answerestimation-300x59.png
    :target: http://shackspace.de/wp-content/uploads/2011/02/answerestimation.png
-.. |image2| image:: http://shackspace.de/wp-content/uploads/2011/02/top10-300x212.png
+.. |image2| image:: /static/images/top10-300x212.png
    :target: http://shackspace.de/wp-content/uploads/2011/02/top10.png
 
 

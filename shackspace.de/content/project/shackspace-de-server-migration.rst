@@ -33,6 +33,6 @@ security.
 | After two months of preparation the services and contents were migrated to the new server yesterday. As it turned out one more time those computer things are sometimes not as easy as it seems.
 |  Sorry for the inconvenience.
 
-.. |testbild| image:: http://shackspace.de/wp-content/uploads/2013/03/testbild.gif
+.. |testbild| image:: /static/images/testbild.gif
 
 

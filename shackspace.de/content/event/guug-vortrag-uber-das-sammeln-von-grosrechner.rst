@@ -17,7 +17,7 @@ mit Erzähler.
 Mehr zur GUUG Lokalgruppe Stuttgart unter
 http://www.guug.de/lokal/stuttgart
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2012/03/logo.png
+.. |image0| image:: /static/images/logo.png
    :target: http://shackspace.de/wp-content/uploads/2012/03/logo.png
 
 

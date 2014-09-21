@@ -36,7 +36,7 @@ der `Congress Everywhere Seite im shackspace
 Wiki <http://shackspace.de/wiki/doku.php?id=congress_everywhere>`__ einzutragen
 oder sich noch vor Ort zu melden.
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2012/12/29c3_fullbanner2_468x60px-04.png
+.. |image0| image:: /static/images/29c3_fullbanner2_468x60px-04.png
    :target: http://shackspace.de/wp-content/uploads/2012/12/29c3_fullbanner2_468x60px-04.png
 
 

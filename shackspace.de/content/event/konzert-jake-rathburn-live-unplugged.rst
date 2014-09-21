@@ -36,7 +36,7 @@ Mehr Informationen:
 -  `Offizielle Website von Jake
    Rathburn <http://www.jakerathburn.com/>`__
 
-.. |1146321_572056362840425_1247693089_o| image:: http://shackspace.de/wp-content/uploads/2013/08/1146321_572056362840425_1247693089_o.jpg
+.. |1146321_572056362840425_1247693089_o| image:: /static/images/1146321_572056362840425_1247693089_o.jpg
    :target: http://shackspace.de/wp-content/uploads/2013/08/1146321_572056362840425_1247693089_o.jpg
 
 

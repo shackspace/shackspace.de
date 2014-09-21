@@ -28,9 +28,9 @@ move <http://shackspace.de/gallery/index.php/Umzug-nach-0xff>`__ to the
 new location dubbed *0xff* (the address is Ulmer Strasse 255).  There
 should be more photos coming in over the next few days.
 
-.. |image0| image:: http://shackspace.de/gallery/var/thumbs/Umzug-nach-0xff/IMG_0195.jpg?m=1299369337
+.. |image0| image:: /static/images/IMG_0195.jpg?m=1299369337
    :target: http://shackspace.de/gallery/index.php/Umzug-nach-0xff/IMG_0195
-.. |image1| image:: http://shackspace.de/gallery/var/thumbs/Umzug-nach-0xff/IMG_0185.jpg?m=1299369349
+.. |image1| image:: /static/images/IMG_0185.jpg?m=1299369349
    :target: http://shackspace.de/gallery/index.php/Umzug-nach-0xff/IMG_0185
 
 

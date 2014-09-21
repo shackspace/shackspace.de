@@ -24,6 +24,6 @@ Benutzern am Tisch zu haben.
 Falls ein Teilnehmer ein Windows XP (oder älter) auf dem Laptop laufen
 hat: bitte mitbringen!
 
-.. |2686824354_be3bc399cc_z| image:: http://shackspace.de/wp-content/uploads/2013/06/2686824354_be3bc399cc_z-300x168.jpg
+.. |2686824354_be3bc399cc_z| image:: /static/images/2686824354_be3bc399cc_z-300x168.jpg
 
 

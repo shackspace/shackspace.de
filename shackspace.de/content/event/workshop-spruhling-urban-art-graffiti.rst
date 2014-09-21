@@ -47,7 +47,7 @@ Hier die Eckdaten zum kommenden Workshop:
 Arbeitsmaterialien wie Papier, Bleistifte, Sprühdosen, Caps, Handschuhe,
 Atemschutzmaske und Streichfarbe sind im Workshopbeitrag enthalten.
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2012/03/haxx0rzinspace_s-300x174.png
+.. |image0| image:: /static/images/haxx0rzinspace_s-300x174.png
    :target: http://shackspace.de/wp-content/uploads/2012/03/haxx0rzinspace_s.png
 
 

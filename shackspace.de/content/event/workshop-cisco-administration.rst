@@ -49,7 +49,7 @@ Was muss ich mitbringen?
    Linux* nur zuschauen)
 -  USB->Seriell Adapter sofern vorhanden
 
-.. |2014-01-11 23.53.47| image:: http://shackspace.de/wp-content/uploads/2014/01/2014-01-11-23.53.47-300x78.jpg
+.. |2014-01-11 23.53.47| image:: /static/images/2014-01-11-23.53.47-300x78.jpg
    :target: http://shackspace.de/wp-content/uploads/2014/01/2014-01-11-23.53.47.jpg
 
 

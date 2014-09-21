@@ -44,7 +44,7 @@ vergangenen Workshops verpasst haben.
 
 Ihr solltet einen Laptop mitbringen.
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/12/HaskellLogoStyPreview-1.png
+.. |image0| image:: /static/images/HaskellLogoStyPreview-1.png
    :target: http://shackspace.de/wp-content/uploads/2011/12/HaskellLogoStyPreview-1.png
 
 

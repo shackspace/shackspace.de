@@ -20,7 +20,7 @@ Schaut rein!
 -  `Python Workshop im shackspace
    Wiki <http://shackspace.de/wiki/doku.php?id=project:python>`__
 
-.. |python-logo| image:: http://shackspace.de/wp-content/uploads/2012/11/python-logo-150x150.png
+.. |python-logo| image:: /static/images/python-logo-150x150.png
    :target: http://shackspace.de/wp-content/uploads/2012/11/python-logo.png
 
 

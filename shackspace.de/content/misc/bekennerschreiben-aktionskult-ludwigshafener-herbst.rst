@@ -32,9 +32,9 @@ Auch lag dem Schreiben folgendes Lebenszeichen der Flagge bei:
 
 |image1|
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2012/06/DSC_5585-300x197.jpg
+.. |image0| image:: /static/images/DSC_5585-300x197.jpg
    :target: http://shackspace.de/wp-content/uploads/2012/06/DSC_5585.jpg
-.. |image1| image:: http://shackspace.de/wp-content/uploads/2012/06/DSC_5572-290x300.jpg
+.. |image1| image:: /static/images/DSC_5572-290x300.jpg
    :target: http://shackspace.de/wp-content/uploads/2012/06/DSC_5572.jpg
 
 

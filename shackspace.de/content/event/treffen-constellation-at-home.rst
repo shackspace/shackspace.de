@@ -34,7 +34,7 @@ dem Constellation Projekt beschäftigt.
 | **Update:**
 |  Für alle die über das BOINC Projekt mithelfen wollen, Berechnungen durchzuführen die dem Projekt helfen, kann dies nun auch als Teil der `shackspace BOINC-Gruppe <http://aerospaceresearch.net/constellation/team_display.php?teamid=1550>`__ tun!
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/09/constellation2.png
+.. |image0| image:: /static/images/constellation2.png
    :target: http://shackspace.de/wp-content/uploads/2011/09/constellation2.png
 
 

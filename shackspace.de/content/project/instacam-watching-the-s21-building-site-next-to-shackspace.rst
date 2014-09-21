@@ -27,7 +27,7 @@ go wrong? :D
 
  
 
-.. |current| image:: http://shackspace.de/wp-content/uploads/2013/05/current-300x225.jpg
+.. |current| image:: /static/images/current-300x225.jpg
    :target: http://shackspace.de/wp-content/uploads/2013/05/current.jpg
 
 

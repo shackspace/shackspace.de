@@ -35,7 +35,7 @@ Mitbringen müsst ihr
    Software <http://www.openpcd.org/OpenPCD_2_RFID_Reader_for_13.56MHz>`__
    auf CD (oder ähnlichem Bootmedium)
 
-.. |openpcd_logo| image:: http://shackspace.de/wp-content/uploads/2013/05/openpcd_logo.png
+.. |openpcd_logo| image:: /static/images/openpcd_logo.png
    :target: http://shackspace.de/wp-content/uploads/2013/05/openpcd_logo.png
 
 

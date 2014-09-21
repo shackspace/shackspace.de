@@ -39,7 +39,7 @@ Stuttgart <http://www.flickr.com/photos/regionstuttgart/8428867933/in/set-721576
 
  
 
-.. |http://www.flickr.com/photos/regionstuttgart/8428867933/in/set-72157632636985537| image:: http://shackspace.de/wp-content/uploads/2013/01/8428867933_3721a8509b.jpg
+.. |http://www.flickr.com/photos/regionstuttgart/8428867933/in/set-72157632636985537| image:: /static/images/8428867933_3721a8509b.jpg
    :target: http://www.flickr.com/photos/regionstuttgart/8428867933/in/set-72157632636985537
 
 

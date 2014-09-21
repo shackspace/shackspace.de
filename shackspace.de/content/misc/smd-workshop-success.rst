@@ -26,9 +26,9 @@ made during this first iteration, there will be a second iteration soon,
 this time with professionally manufactured PCBs and definitely enough
 parts for everyone ;)
 
-.. |Symbolfoto| image:: http://shackspace.de/gallery/var/thumbs/Menschen%2C-Daten%2C-Sensationen/SMD-Workshop-2011-11-04-05/DSC_6311.jpg
+.. |Symbolfoto| image:: /static/images/DSC_6311.jpg
    :target: http://shackspace.de/gallery/index.php/Menschen-Daten-Sensationen/SMD-Workshop-2011-11-04-05
-.. |Checking for shorts| image:: http://shackspace.de/gallery/var/thumbs/Menschen%2C-Daten%2C-Sensationen/SMD-Workshop-2011-11-04-05/DSC_6309.jpg
+.. |Checking for shorts| image:: /static/images/DSC_6309.jpg
    :target: http://shackspace.de/gallery/index.php/Menschen-Daten-Sensationen/SMD-Workshop-2011-11-04-05
 
 

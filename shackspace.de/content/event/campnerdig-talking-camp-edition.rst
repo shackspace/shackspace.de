@@ -16,7 +16,7 @@ If you want to participate feel free to join us on Saturday 13th.
 For more information and the Paper check out the `Camp
 Wiki <http://events.ccc.de/camp/2011/wiki/Nerdig_Talking>`__
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/08/Banner_Rakete.png
+.. |image0| image:: /static/images/Banner_Rakete.png
    :target: http://shackspace.de/wp-content/uploads/2011/08/Banner_Rakete.png
 
 

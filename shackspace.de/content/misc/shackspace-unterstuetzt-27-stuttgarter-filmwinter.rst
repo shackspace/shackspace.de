@@ -23,7 +23,7 @@ Ein Paar `Bildeindrücke vom
 Aufbau <http://shackspace.de/gallery/index.php/Projekte/Filmwinter-2014>`__
 finden sich in der shackspace Gallery.
 
-.. |IMG_20140111_151827 (1)| image:: http://shackspace.de/wp-content/uploads/2014/01/IMG_20140111_151827-1-300x225.jpg
+.. |IMG_20140111_151827 (1)| image:: /static/images/IMG_20140111_151827-1-300x225.jpg
    :target: http://shackspace.de/gallery/index.php/Projekte/Filmwinter-2014/
 
 

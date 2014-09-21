@@ -63,7 +63,7 @@ also kindly invite you to follow our HGG efforts on
 or at `hgg.aero <http://hgg.aero/>`__ and help our grassroots space
 program to achieve its goals.
 
-.. |hgg_earth_rgb_pos-72dpi| image:: http://shackspace.de/wp-content/uploads/2012/12/hgg_earth_rgb_pos-72dpi-150x150.png
+.. |hgg_earth_rgb_pos-72dpi| image:: /static/images/hgg_earth_rgb_pos-72dpi-150x150.png
    :target: http://shackspace.de/wp-content/uploads/2012/12/hgg_earth_rgb_pos-72dpi.png
 
 

@@ -16,7 +16,7 @@ News - kw 23/2010
 | *'Zum Lärmmachen wählt man die kleinsten Leute, die Tambours.'*
 |  G.C. Lichtenberg
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2010/06/galleryshack_comp.jpg
+.. |image0| image:: /static/images/galleryshack_comp.jpg
    :target: http://shackspace.de/gallery/index.php/Impressionen
 
 

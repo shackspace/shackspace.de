@@ -130,6 +130,6 @@ ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich
 ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von
 Werbeinformationen, etwa durch Spam-Mails, vor.
 
-.. |kristalldetektor| image:: http://shackspace.de/wp-content/uploads/2009/12/kristalldetektor.jpg
+.. |kristalldetektor| image:: /static/images/kristalldetektor.jpg
 
 

@@ -56,9 +56,9 @@ or use the form
 
    </div>
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/03/stuttgartgtuglogo-300x168.png
+.. |image0| image:: /static/images/stuttgartgtuglogo-300x168.png
    :target: http://shackspace.de/wp-content/uploads/2011/03/stuttgartgtuglogo.png
-.. |image1| image:: http://shackspace.de/wp-content/uploads/2011/03/blackforestgtug02-300x125.jpg
+.. |image1| image:: /static/images/blackforestgtug02-300x125.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/03/blackforestgtug02.jpg
 
 

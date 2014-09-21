@@ -25,7 +25,7 @@ Photo:
 
 `  <http://shackspace.de/wp-content/uploads/2013/10/BVzX5cPIYAA7RBw.jpg-large.jpg>`__
 
-.. |BVzX5cPIYAA7RBw.jpg-large| image:: http://shackspace.de/wp-content/uploads/2013/10/BVzX5cPIYAA7RBw.jpg-large-300x225.jpg
+.. |BVzX5cPIYAA7RBw.jpg-large| image:: /static/images/BVzX5cPIYAA7RBw.jpg-large-300x225.jpg
    :target: http://shackspace.de/wp-content/uploads/2013/10/BVzX5cPIYAA7RBw.jpg-large.jpg
 
 

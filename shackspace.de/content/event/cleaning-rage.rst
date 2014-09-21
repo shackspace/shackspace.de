@@ -26,7 +26,7 @@ more details.
 
 Be awesome!
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/09/cleaningrage.png
+.. |image0| image:: /static/images/cleaningrage.png
    :target: http://shackspace.de/wp-content/uploads/2011/09/cleaningrage.png
 
 

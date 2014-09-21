@@ -20,8 +20,8 @@ TRAV informiert 002
 -  `SOpenStats <http://shackspace.de/wiki/doku.php?id=sopenstats>`__ -
    Wann war der Space wie lange offen?
 
-.. |RaumZeitLabor Mannheim| image:: http://shackspace.de/wp-content/uploads/2010/07/227px-RaumZeitLaborLogo.png
+.. |RaumZeitLabor Mannheim| image:: /static/images/227px-RaumZeitLaborLogo.png
    :target: http://shackspace.de/wp-content/uploads/2010/07/227px-RaumZeitLaborLogo.png
-.. |image1| image:: http://www.shackspace.de/gallery/var/thumbs/Projekte/Project%3A-WHITE-BOX-%28portal%29/79579143-361638d7ba5a66b1bd1305a0c6f93bfe.4c0cdf40-full.jpg
+.. |image1| image:: /static/images/79579143-361638d7ba5a66b1bd1305a0c6f93bfe.4c0cdf40-full.jpg
 
 

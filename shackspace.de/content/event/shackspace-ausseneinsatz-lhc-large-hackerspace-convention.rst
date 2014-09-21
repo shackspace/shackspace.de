@@ -12,7 +12,7 @@ Im RaumZeitLabor laufen die `letzten
 Vorbereitungen <http://raumzeitlabor.de/2010/08/21/intensive-lhc-vorbereitungen-ohne-rucksicht-auf-verluste/>`__
 bereits auf Hochtouren.
 
-.. |RaumZeitLabor Mannheim| image:: http://shackspace.de/wp-content/uploads/2010/07/227px-RaumZeitLaborLogo.png
+.. |RaumZeitLabor Mannheim| image:: /static/images/227px-RaumZeitLaborLogo.png
    :target: http://shackspace.de/wp-content/uploads/2010/07/227px-RaumZeitLaborLogo.png
 
 

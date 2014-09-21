@@ -14,7 +14,7 @@ Gründungsparty am 20. Februar
 |  Der Verein hat sich die Förderung von Technik- und Medienkompetenz in der Gesellschaft zur Aufgabe gemacht. "Viele scheuen zu Unrecht vor den Wunderwerken der heutigen Technik zurück", so Ansgar Schmidt, Gründungsmitglied des shack. Er selbst ist bei einem großen Technologiekonzern der Region in der Forschungsabteilung tätig und ist von den Möglichkeiten, die shack bietet, begeistert. Er sieht darin die Chance, sein Wissen und seine Erfahrung weiterzugeben. Lernen durch Anfassen und Ausprobieren ist das Motto. Denn die Bastler von heute sind die Ingenieure und Forscher von morgen.
 |  Technikinteressierte und Experimentierfreudige treffen sich am Samstag, den 20.02. um 16 Uhr in den Gebäuden des Stadtjugendrings, Junghansstraße 5 (`Anfahrtsbeschreibung <http://tinyurl.com/y9egpjh>`__).
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2010/02/feb2010einlad_thmb.gif
+.. |image0| image:: /static/images/feb2010einlad_thmb.gif
    :target: http://shackspace.de/wp-content/uploads/2010/02/feb2010einlad_thmb.gif
 
 

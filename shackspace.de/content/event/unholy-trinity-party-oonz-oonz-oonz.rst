@@ -20,7 +20,7 @@ Geburtstagsnachfeiern, und Dableiben ein.
 -  `Facebook <https://www.facebook.com/events/166040846825822/>`__
 -  `Flyer <http://follvalsch.de/zrh2011/flyer.jpg>`__
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/11/flyer-300x212.jpg
+.. |image0| image:: /static/images/flyer-300x212.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/11/flyer.jpg
 
 

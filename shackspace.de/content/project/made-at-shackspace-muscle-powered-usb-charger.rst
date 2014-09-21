@@ -16,7 +16,7 @@ workout machine than a charger.
 
 However, feel free to try it yourself when you visit the space ;)
 
-.. |tumblr_n72368ePUS1ter8t5o1_1280| image:: http://shackspace.de/wp-content/uploads/2014/07/tumblr_n72368ePUS1ter8t5o1_1280-300x225.jpg
+.. |tumblr_n72368ePUS1ter8t5o1_1280| image:: /static/images/tumblr_n72368ePUS1ter8t5o1_1280-300x225.jpg
    :target: http://shackspace.de/wp-content/uploads/2014/07/tumblr_n72368ePUS1ter8t5o1_1280.jpg
 
 

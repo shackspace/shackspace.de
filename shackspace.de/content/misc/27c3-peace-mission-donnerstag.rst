@@ -15,7 +15,7 @@ Berlin.
 
 Warten auf die ersten Heimkehrer.
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/01/logo_27c3.png
+.. |image0| image:: /static/images/logo_27c3.png
    :target: http://shackspace.de/wp-content/uploads/2011/01/logo_27c3.png
 
 

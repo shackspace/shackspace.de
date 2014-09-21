@@ -19,7 +19,7 @@ Simply grab the `source for the
 project <http://www.mupfelofen.de/public/projects/usbasp-1.0.tgz>`__ and
 start making your own!
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/02/usbasp-300x225.jpg
+.. |image0| image:: /static/images/usbasp-300x225.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/02/usbasp.jpg
 
 

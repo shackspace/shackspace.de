@@ -62,8 +62,8 @@ People involved:
 -  nadka - video editing
 -  Pedro the Bear - protagonist, being generally awesome
 
-.. |SANY0388| image:: http://shackspace.de/wp-content/uploads/2013/02/SANY0388-150x150.jpg
-.. |IMG_20130105_031135 (1)| image:: http://shackspace.de/wp-content/uploads/2013/02/IMG_20130105_031135-1-150x150.jpg
-.. |IMG_20130105_052653| image:: http://shackspace.de/wp-content/uploads/2013/02/IMG_20130105_052653-150x150.jpg
+.. |SANY0388| image:: /static/images/SANY0388-150x150.jpg
+.. |IMG_20130105_031135 (1)| image:: /static/images/IMG_20130105_031135-1-150x150.jpg
+.. |IMG_20130105_052653| image:: /static/images/IMG_20130105_052653-150x150.jpg
 
 

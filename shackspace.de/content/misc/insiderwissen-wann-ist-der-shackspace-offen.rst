@@ -40,7 +40,7 @@ Mailingliste <https://lists.shackspace.de/mailman/listinfo/public>`__
 geholfen.  In aller Regel findet sich innerhalb kurzer Zeit jemand der
 auf deine Frage antwortet.
 
-.. |image0| image:: http://shackspace.de/gallery/var/thumbs/shack.media/3rd-party/opendoor.jpg?m=1285325076
+.. |image0| image:: /static/images/opendoor.jpg?m=1285325076
    :target: http://shackspace.de/gallery/index.php/shack-media/3rd-party/opendoor
 
 

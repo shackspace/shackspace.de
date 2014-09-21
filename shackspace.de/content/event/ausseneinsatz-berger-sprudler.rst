@@ -21,7 +21,7 @@ Projektseite <http://shackspace.de/wiki/doku.php?id=project:bergersprudler>`__
 im Wiki. Einige Fotos gibt es in der `Berger Sprudler
 Gallery <http://shackspace.de/gallery/index.php/Projekte/Berger-Sprudler>`__.
 
-.. |image0| image:: http://shackspace.de/gallery/var/thumbs/Projekte/Berger-Sprudler/IMG_0557.JPG?m=1285065281
+.. |image0| image:: /static/images/IMG_0557.JPG?m=1285065281
    :target: http://shackspace.de/gallery/index.php/Projekte/Berger-Sprudler/IMG_0557
 
 

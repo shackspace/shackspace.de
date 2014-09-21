@@ -14,7 +14,7 @@ Wer den Termin verpasst hat muss nicht bangen: Das RepairCafe findet
 **jeden ersten Sonntag im Quartal** statt. Der nächste Termin ist der
 **6. April 2014**.
 
-.. |pic2| image:: http://shackspace.de/wp-content/uploads/2013/12/pic2-300x202.png
+.. |pic2| image:: /static/images/pic2-300x202.png
    :target: http://shackspace.de/wp-content/uploads/2013/12/pic2.png
 
 

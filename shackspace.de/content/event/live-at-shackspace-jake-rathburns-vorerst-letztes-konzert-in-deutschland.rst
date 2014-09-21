@@ -20,7 +20,7 @@ Jetzt habt ihr die einmalige Chance Jake Live im shackspace zu erleben.
 -  `Offizielle Website von Jake
    Rathburn <http://www.jakerathburn.com/>`__
 
-.. |Jake Rathburn| image:: http://shackspace.de/wp-content/uploads/2012/06/a790d4a39717bcbd1925166df9462600-150x150.jpeg
+.. |Jake Rathburn| image:: /static/images/a790d4a39717bcbd1925166df9462600-150x150.jpeg
    :target: http://shackspace.de/wp-content/uploads/2012/06/a790d4a39717bcbd1925166df9462600.jpeg
 
 

@@ -23,7 +23,7 @@ Es werden im Groben folgende Punkte behandelt:
 | Der Schwerpunkt wird auf Punkt 3 liegen in dem näher auf die biochemischen Prozesse im Zellinneren eingengangen wird.
 |  Selbstverständlich ist auch ein Mikroskop vorhanden über welches sich die Teilnehmer direkt am Anschauungsobjekt echte Zellen in freier Wildbahn ansehen können.
 
-.. |335px-L-Arginin_-_L-Arginine.svg| image:: http://shackspace.de/wp-content/uploads/2013/01/335px-L-Arginin_-_L-Arginine.svg_-300x108.png
+.. |335px-L-Arginin_-_L-Arginine.svg| image:: /static/images/335px-L-Arginin_-_L-Arginine.svg_-300x108.png
    :target: http://de.wikipedia.org/w/index.php?title=Datei:L-Arginin_-_L-Arginine.svg&filetimestamp=20070629144449
 
 

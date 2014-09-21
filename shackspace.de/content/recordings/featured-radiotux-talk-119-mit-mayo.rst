@@ -24,7 +24,7 @@ zum Download. Mehr Details gibts im `RadioTux Blogpost zur
 Sendung <http://blog.radiotux.de/2011/01/13/radiotux-talk-119-mit-mayo/>`__.
 Hört rein!
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/01/radiotux_logo_03.png
+.. |image0| image:: /static/images/radiotux_logo_03.png
    :target: http://radiotux.de/
 
 

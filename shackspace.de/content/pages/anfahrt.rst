@@ -39,7 +39,7 @@ Andere Services
 -  `Gowalla <http://gowalla.com/spots/764152>`__
 -  `foursquare <http://foursquare.com/venue/1804218>`__
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/05/shack-wangen-lage.jpg
+.. |image0| image:: /static/images/shack-wangen-lage.jpg
    :target: http://www.openstreetmap.org/?mlat=48.7770&mlon=9.236&zoom=15
 
 

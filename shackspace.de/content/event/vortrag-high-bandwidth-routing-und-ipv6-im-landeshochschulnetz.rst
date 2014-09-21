@@ -27,9 +27,9 @@ natürlich auch das Organisatorische.
 |  **Tim Kleefass** arbeitet bei `Landeshochschulnetz BelWü <http://www.belwue.de/>`__ im Network Operations Center (NOC). Dort ist er unter anderem verantwortlich für Ausbau und Betrieb des Netzes, der Einführung von IPv6 sowie Monitoring und allerhand coolen Dinge.
 |  **Sebastian Neuner** ist seit 2009 bei `Selfnet e.V. <https://www.selfnet.de/>`__ aktiv. Nach seiner Bacholorarbeit zu TCP/IP Congestion Feedback (ECN) arbeitet er aktuell auf seinen Master in E-Technik und Informationstechnik hin.
 
-.. |logo| image:: http://shackspace.de/wp-content/uploads/2014/07/logo.gif
+.. |logo| image:: /static/images/logo.gif
    :target: http://shackspace.de/wp-content/uploads/2014/07/logo.gif
-.. |photo.jpg| image:: http://shackspace.de/wp-content/uploads/2014/07/photo.jpg-150x150.png
+.. |photo.jpg| image:: /static/images/photo.jpg-150x150.png
    :target: http://shackspace.de/wp-content/uploads/2014/07/photo.jpg.png
 
 

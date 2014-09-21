@@ -12,7 +12,7 @@ Gemeinsamkeiten zwischen hackerspacesg und shackspace ergründet wurden.
 
 Vielen Dank für den Besuch!
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2010/12/hssg.png
+.. |image0| image:: /static/images/hssg.png
    :target: http://hackerspace.sg
 
 

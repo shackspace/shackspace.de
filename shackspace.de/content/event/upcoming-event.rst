@@ -14,7 +14,7 @@ Large Hackerspace Convention Episode II
 
 Mehr Details auf: http://shackspace.de/lhcii
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/06/LHC_Banner_minimalist2.jpg
+.. |image0| image:: /static/images/LHC_Banner_minimalist2.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/06/LHC_Banner_minimalist2.jpg
 
 

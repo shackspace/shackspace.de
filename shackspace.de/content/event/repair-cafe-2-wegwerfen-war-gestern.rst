@@ -15,7 +15,7 @@ technischen Dingen auf den Grund gegangen werden. Wir haben Werkzeuge
 und einiges an Ersatzteilen vor Ort. Garantie gibt es keine, zu Lernen
 aber jede Menge.
 
-.. |bjficafc| image:: http://shackspace.de/wp-content/uploads/2013/09/bjficafc-300x141.png
+.. |bjficafc| image:: /static/images/bjficafc-300x141.png
    :target: http://shackspace.de/wp-content/uploads/2013/09/bjficafc.png
 
 

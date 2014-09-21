@@ -17,9 +17,9 @@ allows a voltage accuracy of up to 50mV. It is delivering 0-7V with
 We would like to thank @\ `dop3j0e <https://twitter.com/#!/dop3j0e>`__
 for his efforts and IBM for the kind donation.
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/10/hp2.jpg
+.. |image0| image:: /static/images/hp2.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/10/hp2.jpg
-.. |image1| image:: http://shackspace.de/wp-content/uploads/2011/10/hp1.jpg
+.. |image1| image:: /static/images/hp1.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/10/hp1.jpg
 
 

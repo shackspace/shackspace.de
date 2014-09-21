@@ -15,7 +15,7 @@ Abendhock.
 |  Willkommen ist jeder an Softwareentwicklung Interessierte mit Schwerpunkt auf Softwareentwicklern die ihre Craftsmanship pflegen wollen.
 |  Das Treffen lebt vom Mitmachen! Bringt Codebeispiele, Probleme, Fragen, Kurzvorträge und Ideen mit die in der Gruppe diskutiert werden können.
 
-.. |d5be303ec904bdd9c02481ac7dcfe189| image:: http://shackspace.de/wp-content/uploads/2013/05/d5be303ec904bdd9c02481ac7dcfe189.jpg
+.. |d5be303ec904bdd9c02481ac7dcfe189| image:: /static/images/d5be303ec904bdd9c02481ac7dcfe189.jpg
    :target: http://shackspace.de/wp-content/uploads/2013/05/d5be303ec904bdd9c02481ac7dcfe189.jpg
 
 

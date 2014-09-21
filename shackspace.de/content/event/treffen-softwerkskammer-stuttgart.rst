@@ -30,7 +30,7 @@ Kurzvorträge und Ideen mit die in der Gruppe diskutiert werden können.
 Kurz: [...] die richtige Software entwickeln, und [...] die Software
 richtig entwickeln.
 
-.. |d5be303ec904bdd9c02481ac7dcfe189| image:: http://shackspace.de/wp-content/uploads/2013/05/d5be303ec904bdd9c02481ac7dcfe189.jpg
+.. |d5be303ec904bdd9c02481ac7dcfe189| image:: /static/images/d5be303ec904bdd9c02481ac7dcfe189.jpg
    :target: http://shackspace.de/wp-content/uploads/2013/05/d5be303ec904bdd9c02481ac7dcfe189.jpg
 
 

@@ -22,6 +22,6 @@ Koordination, Ansprechpartner: Claus Wilcke, Bad Cannstatt (0178) 49 111
 
 Fragen? Wünsche? Anregungen? Post it:
 
-.. |schraubenzieher_300x41| image:: http://hs07.eu/wp-content/uploads/2009/12/schraubenzieher_300x41.png
+.. |schraubenzieher_300x41| image:: /static/images/schraubenzieher_300x41.png
 
 

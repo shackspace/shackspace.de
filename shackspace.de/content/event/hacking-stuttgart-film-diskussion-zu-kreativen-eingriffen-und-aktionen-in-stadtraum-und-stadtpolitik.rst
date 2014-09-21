@@ -15,7 +15,7 @@ gewaltfrei und wirksam sein.
 
 Was davon wäre für Stuttgart angebracht und notwendig?
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2012/01/hacking_stuttgart_mikro.gif
+.. |image0| image:: /static/images/hacking_stuttgart_mikro.gif
    :target: http://shackspace.de/wp-content/uploads/2012/01/hacking_stuttgart_mikro.gif
 
 

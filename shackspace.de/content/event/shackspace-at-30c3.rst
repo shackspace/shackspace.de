@@ -27,7 +27,7 @@ For those of you who can't make it this year, there will be `live
 streaming of most
 lectures <https://events.ccc.de/congress/2013/wiki/Static:Documentation>`__.
 
-.. |logo-02| image:: http://shackspace.de/wp-content/uploads/2013/12/logo-02.png
+.. |logo-02| image:: /static/images/logo-02.png
    :target: http://shackspace.de/wp-content/uploads/2013/12/logo-02.png
 
 

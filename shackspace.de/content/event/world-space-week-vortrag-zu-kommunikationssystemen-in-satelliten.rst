@@ -31,7 +31,7 @@ Vortrag zum Thema "**Kommunikationssysteme in Satelliten**\ " halten.
 *
 *
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/09/keyvisual_3spalten1.jpg
+.. |image0| image:: /static/images/keyvisual_3spalten1.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/09/keyvisual_3spalten1.jpg
 
 

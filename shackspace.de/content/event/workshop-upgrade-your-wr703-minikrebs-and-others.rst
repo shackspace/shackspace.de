@@ -36,7 +36,7 @@ Was konkret gemacht werden kann:
 Wer "nur" OpenWRT/dd-wrt installieren will, kann ein beliebiges mit
 diesen Firmwaren kompatibles Accesspoint/Router-Modell mitbringen.
 
-.. |TP-Link NFC Terminal| image:: http://shackspace.de/wp-content/uploads/2013/01/IMG_20130114_003939-e1358188922575.jpg
+.. |TP-Link NFC Terminal| image:: /static/images/IMG_20130114_003939-e1358188922575.jpg
    :target: http://shackspace.de/wp-content/uploads/2013/01/IMG_20130114_003939-e1358188922575.jpg
 
 

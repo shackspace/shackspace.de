@@ -30,9 +30,9 @@ Spiele
 | Powerpoint Karaoke mit @\ `pfleidi <http://twitter.com/#%21/pfleidi>`__
 |  Shackardy mit @\ `4RM4 <http://twitter.com/#%21/4RM4>`__
 
-.. |image0| image:: http://shackspace.de/gallery/var/thumbs/Menschen%2C-Daten%2C-Sensationen/2010-10-09-10-Stuttgart-42/Social-Media/x2_2f612ba.jpg?m=1286875993
+.. |image0| image:: /static/images/x2_2f612ba.jpg?m=1286875993
    :target: http://shackspace.de/gallery/index.php/Menschen-Daten-Sensationen/2010-10-09-10-Stuttgart-42/Social-Media/x2_2f612ba
-.. |image1| image:: http://shackspace.de/gallery/var/thumbs/Menschen%2C-Daten%2C-Sensationen/2010-10-09-10-Stuttgart-42/Social-Media/174743517.jpg?m=1286876108
+.. |image1| image:: /static/images/174743517.jpg?m=1286876108
    :target: http://shackspace.de/gallery/index.php/Menschen-Daten-Sensationen/2010-10-09-10-Stuttgart-42/Social-Media/174743517
 
 

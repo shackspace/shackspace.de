@@ -21,7 +21,7 @@ Veranstaltung dauert etwa anderthalb Stunden, es gibt ausreichend
 Drinks, danach ist wie immer Zeit zum diskutieren und um den shack
 kennenzulernen.
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2010/06/chart-zart.jpg
+.. |image0| image:: /static/images/chart-zart.jpg
    :target: http://shackspace.de/wp-content/uploads/2010/06/chart-zart.jpg
 
 

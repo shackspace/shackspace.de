@@ -61,7 +61,7 @@ visit us to find out more), the kitchen staff was busy cooking up
 **delicious noms** for everypony and I've forgot to mention at least 23
 other things that happened during the last 3 days and nights.
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/10/jt9ja-150x150.jpg
+.. |image0| image:: /static/images/jt9ja-150x150.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/10/jt9ja.jpg
 
 

@@ -19,7 +19,7 @@ Commits aus den letzten Workshops auf.
 Organisator des Workshops und und Ansprechpartner ist shack-Mitglied
 rashfael.
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2012/09/nodejs-dark.png
+.. |image0| image:: /static/images/nodejs-dark.png
    :target: http://shackspace.de/wp-content/uploads/2012/09/nodejs-dark.png
 
 

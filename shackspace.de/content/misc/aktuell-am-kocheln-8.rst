@@ -27,7 +27,7 @@ news - kw 20/2010
 |  *Der Eierstock der Zukunft.*
 |  C.G. Lichtenberg
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2010/05/tagdoffenentuer_shack.png
+.. |image0| image:: /static/images/tagdoffenentuer_shack.png
    :target: http://shackspace.de/?p=830
 
 

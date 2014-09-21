@@ -37,7 +37,7 @@ http://events.ccc.de/congress/2011/Fahrplan/index.de.html
 
    </div>
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/12/logo_klein.png
+.. |image0| image:: /static/images/logo_klein.png
    :target: http://shackspace.de/wp-content/uploads/2011/12/logo_klein.png
 
 

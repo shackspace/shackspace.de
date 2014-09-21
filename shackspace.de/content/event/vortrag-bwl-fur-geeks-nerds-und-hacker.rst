@@ -28,7 +28,7 @@ folgende Themen näher beleuchten:
 -  Marketing und so
 -  und wenn es ganz arg sein muss auch noch WI / Wirtschaftsinformatik
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2012/03/df1a8ad09e561db99eaa37596d3167a7.media_.500x375-150x150.jpg
+.. |image0| image:: /static/images/df1a8ad09e561db99eaa37596d3167a7.media_.500x375-150x150.jpg
    :target: http://shackspace.de/wp-content/uploads/2012/03/df1a8ad09e561db99eaa37596d3167a7.media_.500x375.jpg
 
 

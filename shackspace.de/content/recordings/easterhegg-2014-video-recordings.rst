@@ -18,7 +18,7 @@ Aufnahmen auf `media.ccc.de <http://cdn.media.ccc.de/events/eh2014/>`__.
 
 Viel Spaß beim schauen!
 
-.. |ehlogo| image:: http://shackspace.de/wp-content/uploads/2014/04/ehlogo-282x300.png
+.. |ehlogo| image:: /static/images/ehlogo-282x300.png
    :target: http://shackspace.de/wp-content/uploads/2014/04/ehlogo.png
 
 

@@ -35,7 +35,7 @@ Ziel des Workshops ist das Bauen einer einfachen Web Application.
 -  `node.js <http://nodejs.org/>`__ (>= 0.8.x)
 -  `mongodb <http://www.mongodb.org/>`__ (>= 2.2.x)
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2012/09/nodejs-dark.png
+.. |image0| image:: /static/images/nodejs-dark.png
    :target: http://shackspace.de/wp-content/uploads/2012/09/nodejs-dark.png
 
 

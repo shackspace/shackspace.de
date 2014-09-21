@@ -87,22 +87,22 @@ damit zu beschäftigen und man schnell die Teile durchtestet.
 | Viele Grüße,
 |  Samu
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/08/DSC00251-300x168.jpg
-.. |image1| image:: http://shackspace.de/wp-content/uploads/2011/08/DSC00252-300x168.jpg
+.. |image0| image:: /static/images/DSC00251-300x168.jpg
+.. |image1| image:: /static/images/DSC00252-300x168.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/08/DSC00252.jpg
-.. |image2| image:: http://shackspace.de/wp-content/uploads/2011/08/DSC00256-300x168.jpg
+.. |image2| image:: /static/images/DSC00256-300x168.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/08/DSC00256.jpg
-.. |image3| image:: http://shackspace.de/wp-content/uploads/2011/08/DSC00261-300x168.jpg
+.. |image3| image:: /static/images/DSC00261-300x168.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/08/DSC00261.jpg
-.. |image4| image:: http://shackspace.de/wp-content/uploads/2011/08/DSC00260-300x168.jpg
+.. |image4| image:: /static/images/DSC00260-300x168.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/08/DSC00260.jpg
-.. |image5| image:: http://shackspace.de/wp-content/uploads/2011/08/DSC00265-300x168.jpg
-.. |image6| image:: http://shackspace.de/wp-content/uploads/2011/08/DSC00267-300x168.jpg
+.. |image5| image:: /static/images/DSC00265-300x168.jpg
+.. |image6| image:: /static/images/DSC00267-300x168.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/08/DSC00267.jpg
-.. |image7| image:: http://shackspace.de/wp-content/uploads/2011/08/DSC00270-300x168.jpg
+.. |image7| image:: /static/images/DSC00270-300x168.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/08/DSC00270.jpg
-.. |image8| image:: http://shackspace.de/wp-content/uploads/2011/08/DSC00272-300x168.jpg
+.. |image8| image:: /static/images/DSC00272-300x168.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/08/DSC00272.jpg
-.. |image9| image:: http://shackspace.de/wp-content/uploads/2011/08/DSC00274-300x168.jpg
+.. |image9| image:: /static/images/DSC00274-300x168.jpg
 
 

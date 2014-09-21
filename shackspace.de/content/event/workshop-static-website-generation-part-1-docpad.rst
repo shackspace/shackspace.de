@@ -25,6 +25,6 @@ Vorraussetzungen:
 -  `node.js <http://nodejs.org/>`__ (>= 0.8.x)
 -  root-Rechte
 
-.. |c99eed5c9c20eb19a68c14256fbf5dae| image:: http://shackspace.de/wp-content/uploads/2013/02/c99eed5c9c20eb19a68c14256fbf5dae-150x150.jpeg
+.. |c99eed5c9c20eb19a68c14256fbf5dae| image:: /static/images/c99eed5c9c20eb19a68c14256fbf5dae-150x150.jpeg
 
 

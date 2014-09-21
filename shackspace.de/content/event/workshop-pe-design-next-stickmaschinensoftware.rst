@@ -31,6 +31,6 @@ Samstags im Anschluss an den Workshop  sowie Sonntag Nachmittag kann
 nach weiterer Absprache in Einzelterminen eine Einweisung in den
 Gebrauch der shackspace Stickmaschine erfolgen.
 
-.. |nT6FS| image:: http://shackspace.de/wp-content/uploads/2013/01/nT6FS-300x224.jpg
+.. |nT6FS| image:: /static/images/nT6FS-300x224.jpg
 
 

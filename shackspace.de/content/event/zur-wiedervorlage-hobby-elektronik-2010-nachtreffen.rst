@@ -20,7 +20,7 @@ Kommt vorbei und schaut rein!
 
 **Update:** Treffen auf 14 Uhr verlegt.
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2010/11/hobby.jpg
+.. |image0| image:: /static/images/hobby.jpg
    :target: http://shackspace.de/wp-content/uploads/2010/11/hobby.jpg
 
 

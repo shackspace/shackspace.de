@@ -26,7 +26,7 @@ now's a good time to update ;)
    Advisory <https://community.ubnt.com/t5/UniFi/Security-Advisory-CVE-2013-3572/m-p/601047#U601047>`__
 -  `CVE-2013-3572 <http://dl.ubnt.com/unifi/static/cve-2013-3572.html>`__
 
-.. |ubnt_logo_basic_flat_color| image:: http://shackspace.de/wp-content/uploads/2013/10/ubnt_logo_basic_flat_color.png
+.. |ubnt_logo_basic_flat_color| image:: /static/images/ubnt_logo_basic_flat_color.png
    :target: http://shackspace.de/wp-content/uploads/2013/10/ubnt_logo_basic_flat_color.png
 
 

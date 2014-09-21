@@ -35,7 +35,7 @@ reflektieren auf spannende Weise die kulturelle Bedeutung des Mediums,
 indem sie es kontext-fremd vermitteln, und verstehen digitale Spiele und
 Medien stärker als Kultur.
 
-.. |NDNS_Logo| image:: http://shackspace.de/wp-content/uploads/2014/08/NDNS_Logo.png
+.. |NDNS_Logo| image:: /static/images/NDNS_Logo.png
    :target: http://shackspace.de/wp-content/uploads/2014/08/NDNS_Logo.png
 
 

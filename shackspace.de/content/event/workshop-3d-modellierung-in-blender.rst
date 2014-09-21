@@ -27,7 +27,7 @@ Es bietet sich an zur Nachverfolgung der Schritte einen eigenen Laptop
 mit einer bereits funktionierenden Installation von Blender
 mitzubringen.
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2012/08/750px-Blender_Logo_official_brightbackground.svg_-e1345446021361-150x150.png
+.. |image0| image:: /static/images/750px-Blender_Logo_official_brightbackground.svg_-e1345446021361-150x150.png
    :target: http://shackspace.de/wp-content/uploads/2012/08/750px-Blender_Logo_official_brightbackground.svg_.png
 
 

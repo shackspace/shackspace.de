@@ -13,6 +13,6 @@
 |  **Wer?:** Alle die nicht zum 27C3 kommen können/wollen und trotzdem die Vorträge sehen möchten
 |  **Wo?:**\ Bei uns im shackspace, Äusserer Nordbahnhof 12 70191 Stuttgart
 
-.. |image0| image:: http://elektronenrad.de/blog/wp-content/uploads/2010/10/27c3.jpg
+.. |image0| image:: /static/images/27c3.jpg
 
 

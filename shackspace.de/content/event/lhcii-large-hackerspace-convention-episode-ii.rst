@@ -22,7 +22,7 @@ If you have any questions, please do not hesitate to sign up for the
 `LHC mailing
 list <https://lists.shackspace.de/mailman/listinfo/lhcii>`__.
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/06/LHC_Banner_minimalist2.jpg
+.. |image0| image:: /static/images/LHC_Banner_minimalist2.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/06/LHC_Banner_minimalist2.jpg
 
 

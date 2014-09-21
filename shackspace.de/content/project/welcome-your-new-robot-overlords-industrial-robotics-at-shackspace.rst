@@ -37,7 +37,7 @@ mount.
 
 The results speak for themselves:
 
-.. |vIrOU4Vh| image:: http://shackspace.de/wp-content/uploads/2013/08/vIrOU4Vh-e1375810702416-191x300.jpg
+.. |vIrOU4Vh| image:: /static/images/vIrOU4Vh-e1375810702416-191x300.jpg
    :target: http://shackspace.de/wp-content/uploads/2013/08/vIrOU4Vh.jpg
 
 

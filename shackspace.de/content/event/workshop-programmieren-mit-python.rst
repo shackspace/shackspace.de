@@ -13,7 +13,7 @@ Workshop <http://shackspace.de/wiki/doku.php?id=project:python>`__ gibt
 es im Wiki.  Ansprechpartner bei Fragen sowie Workshoporganisator ist
 Thomas Waldmann.
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2012/11/python-logo-150x150.png
+.. |image0| image:: /static/images/python-logo-150x150.png
    :target: http://shackspace.de/wp-content/uploads/2012/11/python-logo.png
 
 

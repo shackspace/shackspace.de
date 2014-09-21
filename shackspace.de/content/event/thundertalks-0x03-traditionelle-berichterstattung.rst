@@ -105,6 +105,6 @@ Vorträge zu den verschiedensten Themen gehalten.
 | Der Event steht allen offen und auch nicht-Mitglieder sind herzlichst eingeladen Vorträge zu halten oder einfach als Zuhörer dabei zu sein.
 |  Einen Vorgeschmack kann man sich bei den \ `Aufzeichnungen der vorletzten Thundertalks <http://shackspace.de/?p=2737>`__ holen.
 
-.. |:-)| image:: http://shackspace.de/wiki/lib/images/smileys/icon_smile.gif
+.. |:-)| image:: /static/images/icon_smile.gif
 
 

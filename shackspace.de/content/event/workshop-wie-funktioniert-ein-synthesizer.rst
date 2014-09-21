@@ -28,7 +28,7 @@ Workshop.
 |  Ein modularer Synthesizer ist durch seine Schaltungsfreiheit auch ein idealer akustischer Experimentierbaukasten für ungewöhnliche Klangstrukturen und Sounddesign.
 |  Zufalls-Trigger, schwankende `LFO <http://de.wikipedia.org/wiki/Low_Frequency_Oscillator>`__-Modulationen und chaotische Frequenzmodulationen als Inspirationsquelle für eigene Klangkreationen.
 
-.. |Logo_01gr| image:: http://shackspace.de/wp-content/uploads/2013/01/Logo_01gr.jpg
+.. |Logo_01gr| image:: /static/images/Logo_01gr.jpg
    :target: http://shackspace.de/wp-content/uploads/2013/01/Logo_01gr.jpg
 
 

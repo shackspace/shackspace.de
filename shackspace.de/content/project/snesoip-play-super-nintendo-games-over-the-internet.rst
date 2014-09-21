@@ -50,7 +50,7 @@ Now, without further ado, check out this video of the SNESoIP in action:
 
  
 
-.. |2013-08-28-prototype-01| image:: http://shackspace.de/wp-content/uploads/2013/09/2013-08-28-prototype-01-300x200.jpg
+.. |2013-08-28-prototype-01| image:: /static/images/2013-08-28-prototype-01-300x200.jpg
    :target: http://shackspace.de/wp-content/uploads/2013/09/2013-08-28-prototype-01.jpg
 
 

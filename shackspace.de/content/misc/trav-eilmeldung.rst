@@ -11,7 +11,7 @@ TRAV EILMELDUNG
 |  Ausenhülle wurde mit neuer Schutzschicht versehen *+++STOP+++*
 |  Bauarbeiten fast abgeschlossen\ *+++STOP+++*
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2010/10/171485653-300x224.jpg
+.. |image0| image:: /static/images/171485653-300x224.jpg
    :target: http://shackspace.de/wp-content/uploads/2010/10/171485653.jpg
 
 

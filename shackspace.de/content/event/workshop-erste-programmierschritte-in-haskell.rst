@@ -27,7 +27,7 @@ Workshop: Erste Programmierschritte in Haskell
 -  Und zuletzt: Ihr könnt zum Mitmachen gerne einen Laptop mitbringen,
    aber das wird am Anfang keine Voraussetzung sein.
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/12/HaskellLogoStyPreview-1.png
+.. |image0| image:: /static/images/HaskellLogoStyPreview-1.png
    :target: http://shackspace.de/wp-content/uploads/2011/12/HaskellLogoStyPreview-1.png
 
 

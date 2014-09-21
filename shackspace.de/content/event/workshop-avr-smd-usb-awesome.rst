@@ -52,7 +52,7 @@ Um kurze
 `Voranmeldung <mailto:atmega32u4-workshop@dojoe.net?subject=[workshopanmeldung]>`__
 wird gebeten.
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/10/jt9ja-225x300.jpg
+.. |image0| image:: /static/images/jt9ja-225x300.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/10/jt9ja.jpg
 
 

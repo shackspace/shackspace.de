@@ -12,7 +12,7 @@ shackspace 2.0: Roomforming
 The last walls to fall weren't needed for any other purpose so `three
 hackers killed them the hacker way <http://shackspace.de/?p=1865>`__ ;)
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/03/0xff1-300x91.png
+.. |image0| image:: /static/images/0xff1-300x91.png
    :target: http://shackspace.de/wp-content/uploads/2011/03/0xff1.png
 
 

@@ -17,7 +17,7 @@ Gruppe in Stuttgart zu etablieren.
 
 Jeden **ersten** **Dienstag im Monat** ab **19 Uhr**.
 
-.. |logo| image:: http://shackspace.de/wp-content/uploads/2013/07/logo-300x185.png
+.. |logo| image:: /static/images/logo-300x185.png
    :target: http://shackspace.de/wp-content/uploads/2013/07/logo.png
 
 

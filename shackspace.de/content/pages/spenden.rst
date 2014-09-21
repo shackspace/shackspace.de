@@ -49,6 +49,6 @@ Flattr us:
 
    </noscript>
 
-.. |Flattr this| image:: http://api.flattr.com/button/flattr-badge-large.png
+.. |Flattr this| image:: /static/images/flattr-badge-large.png
 
 

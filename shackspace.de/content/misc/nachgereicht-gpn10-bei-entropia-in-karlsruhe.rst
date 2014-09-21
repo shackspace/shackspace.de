@@ -28,7 +28,7 @@ abrubbeln <https://entropia.de/wiki/GPN10:Chips_abrubbeln>`__\ "
 (`MKV <http://ftp.ccc.de/events/gpn10/gpn10-chips-abrubbeln.mkv>`__,
 `Torrent <https://entropia.de/wiki/images/2/29/Gpn10-chips-abrubbeln.mkv.torrent>`__).
 
-.. |image0| image:: http://shackspace.de/gallery/var/thumbs/Menschen%2C-Daten%2C-Sensationen/2010-06-11-13-GPN10-%28entropia%2C-Karlsruhe%29/_DSC_9185.jpg?m=1276512822
+.. |image0| image:: /static/images/_DSC_9185.jpg?m=1276512822
    :target: http://shackspace.de/gallery/index.php/Menschen-Daten-Sensationen/2010-06-11-13-GPN10-entropia-Karlsruhe
 
 

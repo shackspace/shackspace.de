@@ -15,7 +15,7 @@ Workshop: Schmuckbasteln
 
 Auf fröhliches Schmuckstern!
 
-.. |3895744426_36f45d70c0_b| image:: http://shackspace.de/wp-content/uploads/2014/07/3895744426_36f45d70c0_b-206x300.jpg
+.. |3895744426_36f45d70c0_b| image:: /static/images/3895744426_36f45d70c0_b-206x300.jpg
    :target: http://shackspace.de/wp-content/uploads/2014/07/3895744426_36f45d70c0_b.jpg
 
 

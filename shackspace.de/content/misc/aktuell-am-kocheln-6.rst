@@ -24,7 +24,7 @@ news - kw 17/2010
 |  *Nichts kann mehr zu einer Seelenruhe beitragen, als wenn man gar keine Meinung hat.*
 |  G.C. Lichtenberg
 
-.. |mate-o-mat-arriving| image:: /gallery/var/resizes/innenaustattung/mate-o-mat-arriving.jpg?m=1272037326
+.. |mate-o-mat-arriving| image:: /static/images/mate-o-mat-arriving.jpg?m=1272037326
    :target: http://shackspace.de/gallery/index.php/innenaustattung/mate-o-mat-arriving
 
 

@@ -26,7 +26,7 @@ Dieses Thema ist für jeden interessant, insbesondere für:
 -  Hacker, die ein tieferes Verständnis für die Statistik des Passworts
    gewinnen möchten.
 
-.. |shack| image:: http://shackspace.de/wp-content/uploads/2012/06/shack-150x150.png
+.. |shack| image:: /static/images/shack-150x150.png
    :target: http://shackspace.de/wp-content/uploads/2012/06/shack.png
 
 

@@ -11,7 +11,7 @@ It took us quite a long time to find a floor that we could cover 100
 square meters with and afford to do so.  Yet, as history has shown,
 things will happen if you just wait long enough :)
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/05/IMG_7811-300x200.jpg
+.. |image0| image:: /static/images/IMG_7811-300x200.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/05/IMG_7811.jpg
 
 

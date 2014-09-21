@@ -29,11 +29,11 @@ GitHub <https://github.com/shackspace/DaliMaster>`__.
 
  
 
-.. |IMG_0306| image:: http://shackspace.de/wp-content/uploads/2013/05/IMG_0306-150x150.jpg
+.. |IMG_0306| image:: /static/images/IMG_0306-150x150.jpg
    :target: http://shackspace.de/wp-content/uploads/2013/05/IMG_0306.jpg
-.. |IMG_0304| image:: http://shackspace.de/wp-content/uploads/2013/05/IMG_0304-150x150.jpg
+.. |IMG_0304| image:: /static/images/IMG_0304-150x150.jpg
    :target: http://shackspace.de/wp-content/uploads/2013/05/IMG_0304.jpg
-.. |Platine_ver4| image:: http://shackspace.de/wp-content/uploads/2013/05/Platine_ver4-150x150.png
+.. |Platine_ver4| image:: /static/images/Platine_ver4-150x150.png
    :target: http://shackspace.de/wp-content/uploads/2013/05/Platine_ver4.png
 
 

@@ -15,7 +15,7 @@ Renée Bäcker ist eines der aktivsten Mitglieder der deutschen Community
 um die `Programmiersprache Perl <http://www.perl.org/>`__ und
 Herausgeber des `Perl Magazins <http://www.perl-magazin.de/>`__.
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2010/12/DeimHart_200.serendipityThumb.png
+.. |image0| image:: /static/images/DeimHart_200.serendipityThumb.png
    :target: http://www.deimeke.net/dirk/blog/index.php?/categories/41-deimhart
 
 

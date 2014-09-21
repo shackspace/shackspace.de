@@ -40,9 +40,9 @@ Next up:
 -  Illustrated build instructions
 -  Fablab @shackspace
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2012/07/DSC_5592-300x200.jpg
+.. |image0| image:: /static/images/DSC_5592-300x200.jpg
    :target: http://shackspace.de/wp-content/uploads/2012/07/DSC_5592.jpg
-.. |image1| image:: http://shackspace.de/wp-content/uploads/2012/07/DSC_5596-300x200.jpg
+.. |image1| image:: /static/images/DSC_5596-300x200.jpg
    :target: http://shackspace.de/wp-content/uploads/2012/07/DSC_5596.jpg
 
 

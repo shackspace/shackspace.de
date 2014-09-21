@@ -19,7 +19,7 @@ tools and violence.
 Check out the gallery for `some more
 photos <http://shackspace.de/gallery/index.php/Umzug-nach-0xff/>`__.
 
-.. |image0| image:: http://shackspace.de/gallery/var/thumbs/Umzug-nach-0xff/IMG_1127.JPG
+.. |image0| image:: /static/images/IMG_1127.JPG
    :target: http://shackspace.de/gallery/index.php/Umzug-nach-0xff/IMG_1127
 
 

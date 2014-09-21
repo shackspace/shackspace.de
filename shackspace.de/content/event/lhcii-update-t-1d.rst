@@ -55,7 +55,7 @@ available at
 If you get lost on your way to shackspace, give us a call at the new
 shack-o-phon: **+49 (0)711 21729823**
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/08/IMG_20110825_093643-150x150.jpg
+.. |image0| image:: /static/images/IMG_20110825_093643-150x150.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/08/IMG_20110825_093643.jpg
 
 

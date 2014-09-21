@@ -18,7 +18,7 @@ Hackathon: International Space Apps Challenge
 |  Also make sure to check out the official `Frequently Asked Questions (FAQ) <http://spaceappschallenge.org/faq/>`__.
 
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2012/03/brandingguidelines.jpg
+.. |image0| image:: /static/images/brandingguidelines.jpg
    :target: http://shackspace.de/wp-content/uploads/2012/03/brandingguidelines.jpg
 
 

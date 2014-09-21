@@ -94,9 +94,9 @@ Meanwhile, here's a video of the breadboard prototype.
 -  `Project
    gallery <http://shackspace.de/gallery/index.php/Projekte/LED-Plasma>`__
 
-.. |image0| image:: http://shackspace.de/gallery/var/thumbs/Projekte/LED-Plasma/action.jpg?m=1297895084
+.. |image0| image:: /static/images/action.jpg?m=1297895084
    :target: http://shackspace.de/gallery/index.php/Projekte/LED-Plasma/action
-.. |image1| image:: http://shackspace.de/gallery/var/thumbs/Projekte/LED-Plasma/board.jpg?m=1297895033
+.. |image1| image:: /static/images/board.jpg?m=1297895033
    :target: http://shackspace.de/gallery/index.php/Projekte/LED-Plasma/board
 
 

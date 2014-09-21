@@ -57,7 +57,7 @@ http:/www.flickr.com/photos/layer1gfx/
 
    </div>
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/11/IMG_20111026_233454-e1320956680906-150x150.jpg
+.. |image0| image:: /static/images/IMG_20111026_233454-e1320956680906-150x150.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/11/IMG_20111026_233454.jpg
 
 

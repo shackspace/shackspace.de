@@ -22,7 +22,7 @@ Treffen: Linux User Group Stuttgart (LUGS)
 -  Pinguine knuddeln
 -  Spaß haben
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/12/pllogo.gif
+.. |image0| image:: /static/images/pllogo.gif
    :target: http://shackspace.de/wp-content/uploads/2011/12/pllogo.gif
 
 

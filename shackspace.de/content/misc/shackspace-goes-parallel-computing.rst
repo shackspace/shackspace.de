@@ -24,7 +24,7 @@ if you ever wanted to try your parallel algorithm or software across 14
 machines with a total of 28 cores, we've got the means for that now ;) 
 Just drop by and talk to one of the hackers involved in the project.
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/09/bladeshot.png
+.. |image0| image:: /static/images/bladeshot.png
    :target: http://shackspace.de/wp-content/uploads/2011/09/bladeshot.png
 
 

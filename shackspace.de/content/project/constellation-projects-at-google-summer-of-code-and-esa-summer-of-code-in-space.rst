@@ -52,10 +52,10 @@ a small scale!
 
  
 
-.. |logo4w| image:: http://shackspace.de/wp-content/uploads/2013/08/logo4w-300x103.png
+.. |logo4w| image:: /static/images/logo4w-300x103.png
    :target: http://shackspace.de/wp-content/uploads/2013/08/logo4w.png
-.. |esalogo| image:: http://shackspace.de/wp-content/uploads/2013/08/esalogo.png
+.. |esalogo| image:: /static/images/esalogo.png
    :target: http://shackspace.de/wp-content/uploads/2013/08/esalogo.png
-.. |Constellation| image:: http://shackspace.de/wp-content/uploads/2011/09/constellation2-300x46.png
+.. |Constellation| image:: /static/images/constellation2-300x46.png
 
 

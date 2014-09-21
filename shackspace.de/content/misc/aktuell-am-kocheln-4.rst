@@ -26,7 +26,7 @@ news- kw14/2010
 |  *Der Esel kommt mit vor wie ein Pferd, ins Holländische übersetzt.*
 |  Lichtenberg
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2010/04/shack_snack_etc_mrz2010.jpg
+.. |image0| image:: /static/images/shack_snack_etc_mrz2010.jpg
    :target: http://shackspace.de/wp-content/uploads/2010/04/shack_snack_etc_mrz2010.jpg
 
 

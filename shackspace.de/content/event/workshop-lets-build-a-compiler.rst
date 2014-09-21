@@ -27,6 +27,6 @@ Mitbringen sollte man:
 -  Einen Computer mit installiertem `Java Development Kit
    7 <http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html>`__
 
-.. |shack| image:: http://shackspace.de/wp-content/uploads/2012/06/shack-150x150.png
+.. |shack| image:: /static/images/shack-150x150.png
 
 

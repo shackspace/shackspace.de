@@ -11,7 +11,7 @@ shackspace 2.0: the server room
 |  Now that the server room now is nearly ready for the racks we will start to bring in 2 40RU racks for the servers and 1 smaller rack for the network infrastructure.
 |  Thanks to all the helpers who made it possible to get so far within a few days.
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/03/srv-300x204.jpg
+.. |image0| image:: /static/images/srv-300x204.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/03/srv.jpg
 
 

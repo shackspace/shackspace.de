@@ -22,7 +22,7 @@ OWASP Treffen & Vortrag: Memory Forensic
 -  `Wikiseite zum Stuttgarter
    Stammtisch <https://www.owasp.org/index.php/OWASP_German_Chapter_Stammtisch_Initiative/Stuttgart>`__
 
-.. |owasp_logo| image:: http://shackspace.de/wp-content/uploads/2014/04/owasp_logo-291x300.png
+.. |owasp_logo| image:: /static/images/owasp_logo-291x300.png
    :target: http://shackspace.de/wp-content/uploads/2014/04/owasp_logo.png
 
 

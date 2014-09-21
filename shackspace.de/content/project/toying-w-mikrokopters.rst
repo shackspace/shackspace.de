@@ -24,7 +24,7 @@ or diving toys of any kind come join the fun at shackspace!
 / shackspace (`CC
 BY-NC-SA <http://creativecommons.org/licenses/by-nc-sa/2.0/>`__)*
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/02/IMG_20110202_212819-150x150.jpg
+.. |image0| image:: /static/images/IMG_20110202_212819-150x150.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/02/IMG_20110202_212819.jpg
 
 

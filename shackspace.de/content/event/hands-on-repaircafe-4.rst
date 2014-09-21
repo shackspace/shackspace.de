@@ -13,7 +13,7 @@ Uhr.
 Mehr Informationen zum Event und Kontakt zum Team gibt es auf
 `repaircafe.winningindustries.de <http://repaircafe.winningindustries.de/>`__.
 
-.. |pic2| image:: http://shackspace.de/wp-content/uploads/2013/12/pic2-300x202.png
+.. |pic2| image:: /static/images/pic2-300x202.png
    :target: http://shackspace.de/wp-content/uploads/2013/12/pic2.png
 
 

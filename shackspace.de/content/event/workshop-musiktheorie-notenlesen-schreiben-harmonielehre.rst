@@ -28,7 +28,7 @@ des Workshops damit weiter zu spielen oder nicht.
 | Der Schwerpunkt liegt auf dem Lesen von Noten.
 |  Dauer: Maximal zwei Stunden.
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2012/06/Music_Midlle_Do_OnSol.jpg
+.. |image0| image:: /static/images/Music_Midlle_Do_OnSol.jpg
    :target: http://shackspace.de/wp-content/uploads/2012/06/Music_Midlle_Do_OnSol.jpg
 
 

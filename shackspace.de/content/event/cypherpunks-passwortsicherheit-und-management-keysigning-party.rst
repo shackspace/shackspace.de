@@ -20,6 +20,6 @@ vorhanden) GPG-Visitenkarte mitbringen.
 Mehr Informationen zur `CypherPunks Gruppe findet sich im shackspace
 Wiki <http://shackspace.de/wiki/doku.php?id=project:cypherpunks>`__.
 
-.. |2686824354_be3bc399cc_z| image:: http://shackspace.de/wp-content/uploads/2013/06/2686824354_be3bc399cc_z-300x168.jpg
+.. |2686824354_be3bc399cc_z| image:: /static/images/2686824354_be3bc399cc_z-300x168.jpg
 
 

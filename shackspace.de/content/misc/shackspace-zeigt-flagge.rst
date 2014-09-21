@@ -33,7 +33,7 @@ geben.
 An dieser Stelle noch einmal Lob und Anerkennung für layer.1.gfx für den
 Klasse Entwurf, die Umsetzung und das epische Ergebnis!
 
-.. |image0| image:: http://shackspace.de/gallery/var/thumbs/Projekte/shack-front/IMG_20101003_230727.jpg?m=1286180916
+.. |image0| image:: /static/images/IMG_20101003_230727.jpg?m=1286180916
    :target: http://shackspace.de/gallery/index.php/Projekte/shack-front/IMG_20101003_230727
 
 

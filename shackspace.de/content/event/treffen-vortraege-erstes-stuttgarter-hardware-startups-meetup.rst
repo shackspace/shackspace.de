@@ -42,7 +42,7 @@ anhand der Werbeartikelfirma Neon-Online*\ ".
 Im Anschluss an den Event wird Interessierten eine Führung durch den
 shackspace geboten.
 
-.. |600_395679172| image:: http://shackspace.de/wp-content/uploads/2014/08/600_395679172-300x161.jpeg
+.. |600_395679172| image:: /static/images/600_395679172-300x161.jpeg
    :target: http://shackspace.de/wp-content/uploads/2014/08/600_395679172.jpeg
 
 

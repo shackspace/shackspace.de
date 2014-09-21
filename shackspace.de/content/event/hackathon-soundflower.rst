@@ -54,7 +54,7 @@ v1 <http://shackspace.de/wiki/doku.php?id=project:soundflower>`__.
 oder kleine Lauptsprecher habt dürft ihr diese gerne mitbringen und in
 die Installation einarbeiten.
 
-.. |http://risigma.deviantart.com/art/Sound-flower-260972077| image:: http://shackspace.de/wp-content/uploads/2013/07/sound_flower_by_risigma-d4bdjcd-300x198.jpg
+.. |http://risigma.deviantart.com/art/Sound-flower-260972077| image:: /static/images/sound_flower_by_risigma-d4bdjcd-300x198.jpg
    :target: http://shackspace.de/wp-content/uploads/2013/07/sound_flower_by_risigma-d4bdjcd.jpg
 
 

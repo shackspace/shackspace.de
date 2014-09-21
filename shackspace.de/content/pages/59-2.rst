@@ -56,6 +56,6 @@ werden** <http://shackspace.de/?page_id=3515>`__.
 
 Bis dann also.
 
-.. |plenum shack mrz 2010| image:: http://shackspace.de/wp-content/uploads/2009/11/plenum24032010_superkleinquer.jpg
+.. |plenum shack mrz 2010| image:: /static/images/plenum24032010_superkleinquer.jpg
 
 

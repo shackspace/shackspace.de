@@ -36,7 +36,7 @@ beantwortet!
    (mcf) <https://lists.shackspace.de/mailman/listinfo/mcf>`__. Für
    Fragen zum Workshop und allgemeinen Elektronikthemen.
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/09/img_3920-h400-300x225.jpg
+.. |image0| image:: /static/images/img_3920-h400-300x225.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/09/img_3920-h400.jpg
 
 

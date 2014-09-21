@@ -12,7 +12,7 @@ Diverse Hacks am Rande, u.a. fnording der shack-Members in Berlin.
 | Headcount: ca. 10-15, die Hälfte davon Regulars.
 |  Nom: Tortellini & Gonzosoße
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/01/logo_27c3.png
+.. |image0| image:: /static/images/logo_27c3.png
    :target: http://shackspace.de/wp-content/uploads/2011/01/logo_27c3.png
 
 

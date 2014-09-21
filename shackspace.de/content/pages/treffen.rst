@@ -27,6 +27,6 @@ Treffen # 4 - 17. Januar 2010 - Stgt-City
 
 ...
 
-.. |anfahrt_La_Piazza| image:: http://hs07.eu/wp-content/uploads/2010/01/anfahrt-la_piazza.jpg
+.. |anfahrt_La_Piazza| image:: /static/images/anfahrt-la_piazza.jpg
 
 

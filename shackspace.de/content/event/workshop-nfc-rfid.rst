@@ -30,7 +30,7 @@ Workshop: NFC & RFID
 Eine Bitte an alle Teilnehmer: bringt alles mit, was nach NFC oder RFID
 aussieht.
 
-.. |IMG_20140520_102038| image:: http://shackspace.de/wp-content/uploads/2014/05/IMG_20140520_102038-e1400574405805-300x229.jpg
+.. |IMG_20140520_102038| image:: /static/images/IMG_20140520_102038-e1400574405805-300x229.jpg
    :target: http://shackspace.de/wp-content/uploads/2014/05/IMG_20140520_102038-e1400574405805.jpg
 
 

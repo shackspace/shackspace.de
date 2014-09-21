@@ -32,7 +32,7 @@ Reiskoffer <https://secure.wikimedia.org/wikipedia/commons/wiki/User:Donarreisko
 unter `GNU FDL
 v1.2 <https://secure.wikimedia.org/wikipedia/commons/wiki/Commons:GNU_Free_Documentation_License_1.2>`__*
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/02/Go_board-300x158.jpg
+.. |image0| image:: /static/images/Go_board-300x158.jpg
    :target: https://secure.wikimedia.org/wikipedia/de/w/index.php?title=Datei:Go_board.jpg&filetimestamp=20050602100414
 
 

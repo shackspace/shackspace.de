@@ -46,10 +46,10 @@ folgendes für euch geplant:
    -  Sicherheitsmechanismen (L2 u. L3)
    -  Gateway Redundancy (L3)
 
-.. |94552487_3254218671| image:: http://shackspace.de/wp-content/uploads/2013/02/94552487_3254218671-150x150.jpg
+.. |94552487_3254218671| image:: /static/images/94552487_3254218671-150x150.jpg
    :target: http://www.flickr.com/photos/trevi55/94552487/sizes/m/in/photostream/
-.. |Attribution| image:: http://l.yimg.com/g/images/cc_icon_attribution_small.gif
-.. |Noncommercial| image:: http://l.yimg.com/g/images/cc_icon_noncomm_small.gif
-.. |Share Alike| image:: http://l.yimg.com/g/images/cc_icon_sharealike_small.gif
+.. |Attribution| image:: /static/images/cc_icon_attribution_small.gif
+.. |Noncommercial| image:: /static/images/cc_icon_noncomm_small.gif
+.. |Share Alike| image:: /static/images/cc_icon_sharealike_small.gif
 
 

@@ -25,7 +25,7 @@ Weiterführende Informationen:
    heise.de <http://www.heise.de/newsticker/meldung/Der-GAU-fuer-Verschluesselung-im-Web-Horror-Bug-in-OpenSSL-2165517.html>`__
 -  `Offizielle Infoseite zu Heartbleed <http://heartbleed.com/>`__
 
-.. |heartbleed| image:: http://shackspace.de/wp-content/uploads/2014/04/heartbleed-247x300.png
+.. |heartbleed| image:: /static/images/heartbleed-247x300.png
    :target: http://shackspace.de/wp-content/uploads/2014/04/heartbleed.png
 
 

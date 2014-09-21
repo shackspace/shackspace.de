@@ -42,7 +42,7 @@ zum Remixen ein.
 Fotografen <http://www.flickr.com/photos/30146367@N05/collections/72157624926604299/>`__
 (`CC BY-NC-SA <http://creativecommons.org/licenses/by-nc-sa/2.0/>`__)*
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/02/rbsq1.jpg
+.. |image0| image:: /static/images/rbsq1.jpg
    :target: http://www.flickr.com/photos/30146367@N05/sets/72157624744622676/with/5406867153/
 
 

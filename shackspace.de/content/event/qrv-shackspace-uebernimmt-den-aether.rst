@@ -14,7 +14,7 @@ bestehen der Pruefung noetig ist.
 Mehr Informationen gibt's auf der Wikiseite zum `Projekt
 Amateurfunk <http://shackspace.de/wiki/doku.php?id=project:amateurfunk>`__.
 
-.. |image0| image:: http://shackspace.de/gallery/var/thumbs/shack.media/3rd-party/haarp.jpg
+.. |image0| image:: /static/images/haarp.jpg
    :target: http://shackspace.de/gallery/index.php/shack-media/3rd-party/haarp
 
 

@@ -55,7 +55,7 @@ Fenkes <http://vimeo.com/dop3j0e>`__ on `Vimeo <http://vimeo.com>`__.
 An Atmel ATtiny9 playing chiptunes -- 1KB of flash, 32 bytes of RAM and
 a 16 byte register file is all I have.
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2012/08/evoke.png
+.. |image0| image:: /static/images/evoke.png
    :target: http://shackspace.de/wp-content/uploads/2012/08/evoke.png
 
 

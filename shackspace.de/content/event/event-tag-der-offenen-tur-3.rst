@@ -1461,13 +1461,13 @@ Lounge & DJs
 -  |image3|
     `Flyer (Rückseite) <http://shackspace.de/wp-content/uploads/2012/08/ShackFlyerBack.jpg>`__
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2012/08/ShackFlyerFront-300x213.jpg
+.. |image0| image:: /static/images/ShackFlyerFront-300x213.jpg
    :target: http://shackspace.de/wp-content/uploads/2012/08/ShackFlyerFront.jpg
-.. |image1| image:: http://shackspace.de/wp-content/uploads/2012/08/TDOT_Poster-150x150.jpg
+.. |image1| image:: /static/images/TDOT_Poster-150x150.jpg
    :target: http://shackspace.de/wp-content/uploads/2012/08/TDOT_Poster.jpg
-.. |image2| image:: http://shackspace.de/wp-content/uploads/2012/08/ShackFlyerFront-150x150.jpg
+.. |image2| image:: /static/images/ShackFlyerFront-150x150.jpg
    :target: http://shackspace.de/wp-content/uploads/2012/08/ShackFlyerFront.jpg
-.. |image3| image:: http://shackspace.de/wp-content/uploads/2012/08/ShackFlyerBack-150x150.jpg
+.. |image3| image:: /static/images/ShackFlyerBack-150x150.jpg
    :target: http://shackspace.de/wp-content/uploads/2012/08/ShackFlyerBack.jpg
 
 

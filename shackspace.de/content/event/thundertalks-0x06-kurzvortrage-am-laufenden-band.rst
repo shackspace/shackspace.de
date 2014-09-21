@@ -138,6 +138,6 @@ Der aktuelle Stand der Agenda:
 
       </div>
 
-.. |shack| image:: http://shackspace.de/wp-content/uploads/2012/06/shack-150x150.png
+.. |shack| image:: /static/images/shack-150x150.png
 
 

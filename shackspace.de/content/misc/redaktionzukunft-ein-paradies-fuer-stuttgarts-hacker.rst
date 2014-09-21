@@ -18,7 +18,7 @@ redaktionzukunft: Ein Paradies für Stuttgarts Hacker
 
     `weiterlesen... <https://www.hdm-stuttgart.de/redaktionzukunft/beitrag.html?beitrag_ID=1822&stars=5>`__
 
-.. |1506074_580028572070006_853412249_n| image:: http://shackspace.de/wp-content/uploads/2014/01/1506074_580028572070006_853412249_n-150x150.jpg
+.. |1506074_580028572070006_853412249_n| image:: /static/images/1506074_580028572070006_853412249_n-150x150.jpg
    :target: http://shackspace.de/wp-content/uploads/2014/01/1506074_580028572070006_853412249_n.jpg
 
 

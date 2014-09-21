@@ -15,7 +15,7 @@ Haskel-Workshop: Web-Entwicklung mit Snap-Framework
 |  Natürlich beginnt der Workshop mit einer Grundeinführung in Haskell.
 |  Laptop ist notwendig.
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/12/HaskellLogoStyPreview-1.png
+.. |image0| image:: /static/images/HaskellLogoStyPreview-1.png
    :target: http://shackspace.de/wp-content/uploads/2011/12/HaskellLogoStyPreview-1.png
 
 

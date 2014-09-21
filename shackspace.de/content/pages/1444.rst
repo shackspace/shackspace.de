@@ -64,57 +64,57 @@ Ihr fahrt in nördliche Richtung.
 
 |image25|
 
-.. |image0| image:: ../wp-content/uploads/2010/05/img_3394-h600-label.png
+.. |image0| image:: /static/images/img_3394-h600-label.png
    :target: ../wp-content/uploads/2010/05/img_3394-h600-label.png
-.. |image1| image:: ../wp-content/uploads/2010/05/img_3395-h600-label.png
+.. |image1| image:: /static/images/img_3395-h600-label.png
    :target: ../wp-content/uploads/2010/05/img_3395-h600-label.png
-.. |image2| image:: ../wp-content/uploads/2010/05/img_3396-h600-label.png
+.. |image2| image:: /static/images/img_3396-h600-label.png
    :target: ../wp-content/uploads/2010/05/img_3396-h600-label.png
-.. |image3| image:: ../wp-content/uploads/2010/05/img_3397-h600-label.png
+.. |image3| image:: /static/images/img_3397-h600-label.png
    :target: ../wp-content/uploads/2010/05/img_3397-h600-label.png
-.. |image4| image:: ../wp-content/uploads/2010/05/img_3398-h600-label.png
+.. |image4| image:: /static/images/img_3398-h600-label.png
    :target: ../wp-content/uploads/2010/05/img_3398-h600-label.png
-.. |image5| image:: ../wp-content/uploads/2010/05/img_3399-h600-label.png
+.. |image5| image:: /static/images/img_3399-h600-label.png
    :target: ../wp-content/uploads/2010/05/img_3399-h600-label.png
-.. |image6| image:: ../wp-content/uploads/2010/05/img_3400-h600-label.png
+.. |image6| image:: /static/images/img_3400-h600-label.png
    :target: ../wp-content/uploads/2010/05/img_3400-h600-label.png
-.. |image7| image:: ../wp-content/uploads/2010/05/img_3401-h600-label.png
+.. |image7| image:: /static/images/img_3401-h600-label.png
    :target: ../wp-content/uploads/2010/05/img_3401-h600-label.png
-.. |image8| image:: ../wp-content/uploads/2010/05/img_3402-h600-label.png
+.. |image8| image:: /static/images/img_3402-h600-label.png
    :target: ../wp-content/uploads/2010/05/img_3402-h600-label.png
-.. |image9| image:: ../wp-content/uploads/2010/05/img_3403-h600-label.png
+.. |image9| image:: /static/images/img_3403-h600-label.png
    :target: ../wp-content/uploads/2010/05/img_3403-h600-label.png
-.. |image10| image:: ../wp-content/uploads/2010/05/img_3404-h600-label.png
+.. |image10| image:: /static/images/img_3404-h600-label.png
    :target: ../wp-content/uploads/2010/05/img_3404-h600-label.png
-.. |image11| image:: ../wp-content/uploads/2010/05/img_3406-h600-label.png
+.. |image11| image:: /static/images/img_3406-h600-label.png
    :target: ../wp-content/uploads/2010/05/img_3406-h600-label.png
-.. |image12| image:: ../wp-content/uploads/2010/05/img_3407-h600-label.png
+.. |image12| image:: /static/images/img_3407-h600-label.png
    :target: ../wp-content/uploads/2010/05/img_3407-h600-label.png
-.. |image13| image:: ../wp-content/uploads/2010/05/img_3408-h600-label.png
+.. |image13| image:: /static/images/img_3408-h600-label.png
    :target: ../wp-content/uploads/2010/05/img_3408-h600-label.png
-.. |image14| image:: ../wp-content/uploads/2010/05/img_3409-h600-label.png
+.. |image14| image:: /static/images/img_3409-h600-label.png
    :target: ../wp-content/uploads/2010/05/img_3409-h600-label.png
-.. |image15| image:: ../wp-content/uploads/2010/05/img_3410-h600-label.png
+.. |image15| image:: /static/images/img_3410-h600-label.png
    :target: ../wp-content/uploads/2010/05/img_3410-h600-label.png
-.. |image16| image:: ../wp-content/uploads/2010/05/img_3411-h600-label.png
+.. |image16| image:: /static/images/img_3411-h600-label.png
    :target: ../wp-content/uploads/2010/05/img_3411-h600-label.png
-.. |image17| image:: ../wp-content/uploads/2010/05/img_3412-h600-label.png
+.. |image17| image:: /static/images/img_3412-h600-label.png
    :target: ../wp-content/uploads/2010/05/img_3412-h600-label.png
-.. |image18| image:: ../wp-content/uploads/2010/05/img_3413-h600-label.png
+.. |image18| image:: /static/images/img_3413-h600-label.png
    :target: ../wp-content/uploads/2010/05/img_3413-h600-label.png
-.. |image19| image:: ../wp-content/uploads/2010/05/img_3414-h600-label.png
+.. |image19| image:: /static/images/img_3414-h600-label.png
    :target: ../wp-content/uploads/2010/05/img_3414-h600-label.png
-.. |image20| image:: ../wp-content/uploads/2010/05/img_3415-h600-label.png
+.. |image20| image:: /static/images/img_3415-h600-label.png
    :target: ../wp-content/uploads/2010/05/img_3415-h600-label.png
-.. |image21| image:: ../wp-content/uploads/2010/05/img_3416-h600-label.png
+.. |image21| image:: /static/images/img_3416-h600-label.png
    :target: ../wp-content/uploads/2010/05/img_3416-h600-label.png
-.. |image22| image:: ../wp-content/uploads/2010/05/img_3417-h600-label.png
+.. |image22| image:: /static/images/img_3417-h600-label.png
    :target: ../wp-content/uploads/2010/05/img_3417-h600-label.png
-.. |image23| image:: ../wp-content/uploads/2010/05/img_3418-h600-label.png
+.. |image23| image:: /static/images/img_3418-h600-label.png
    :target: ../wp-content/uploads/2010/05/img_3418-h600-label.png
-.. |image24| image:: ../wp-content/uploads/2010/05/img_3419-h600-label.png
+.. |image24| image:: /static/images/img_3419-h600-label.png
    :target: ../wp-content/uploads/2010/05/img_3419-h600-label.png
-.. |image25| image:: ../wp-content/uploads/2010/05/img_3420-h600-label.png
+.. |image25| image:: /static/images/img_3420-h600-label.png
    :target: ../wp-content/uploads/2010/05/img_3420-h600-label.png
 
 

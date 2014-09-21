@@ -95,13 +95,13 @@ http://www.shackspace.de/gallery/index.php/Projekte/Festplattenpasswort-sniffen
 
    </div>
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/04/DSC_2881-150x150.jpg
+.. |image0| image:: /static/images/DSC_2881-150x150.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/04/DSC_2881.jpg
-.. |image1| image:: http://shackspace.de/wp-content/uploads/2011/04/101721653-150x150.jpg
+.. |image1| image:: /static/images/101721653-150x150.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/04/101721653.jpg
-.. |image2| image:: http://shackspace.de/wp-content/uploads/2011/04/DSC_2883-150x150.jpg
+.. |image2| image:: /static/images/DSC_2883-150x150.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/04/DSC_2883.jpg
-.. |image3| image:: http://shackspace.de/wp-content/uploads/2011/04/sump_trigger-300x115.png
+.. |image3| image:: /static/images/sump_trigger-300x115.png
    :target: http://shackspace.de/wp-content/uploads/2011/04/sump_trigger.png
 
 

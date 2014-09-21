@@ -18,9 +18,9 @@ Wer dabei sein möchte, bringe Fleisch/Wurst/Tofu ... seiner Wahl.
 Anmeldung zum Nachtisch und Salatkoordination unter
 http://www.doodle.com/um8ffnfmbgiz3yuh
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2012/06/shack.png
+.. |image0| image:: /static/images/shack.png
    :target: http://shackspace.de/wp-content/uploads/2012/06/shack.png
-.. |image1| image:: http://shackspace.de/wp-content/uploads/2012/03/logo.png
+.. |image1| image:: /static/images/logo.png
    :target: http://shackspace.de/wp-content/uploads/2012/03/logo.png
 
 

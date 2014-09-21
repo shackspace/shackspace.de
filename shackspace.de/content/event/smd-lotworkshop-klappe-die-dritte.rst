@@ -71,6 +71,6 @@ wieder einen Workshop gibt.
 -  **Anfahrt:** U4/U9 Haltestelle “Im Degen”, Ulmer Straße 255,
    Stuttgart Wangen (gegenüber Kulturhaus Arena)
 
-.. |Symbolfoto| image:: http://shackspace.de/wp-content/uploads/2012/11/IMG_0102-300x200.jpg
+.. |Symbolfoto| image:: /static/images/IMG_0102-300x200.jpg
 
 

@@ -15,7 +15,7 @@ design <http://armageddon421.de/?p=319>`__. The whole thing only weighs
 in at 167 gramms and - despite being assembled without a single drop of
 glue - is very sturdy.
 
-.. |67T6kJw-Groß| image:: http://shackspace.de/wp-content/uploads/2014/05/67T6kJw-Groß-300x168.jpg
+.. |67T6kJw-Groß| image:: /static/images/67T6kJw-Groß-300x168.jpg
    :target: http://shackspace.de/wp-content/uploads/2014/05/67T6kJw-Groß.jpg
 
 

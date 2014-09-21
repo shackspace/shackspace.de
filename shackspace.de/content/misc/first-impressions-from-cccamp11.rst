@@ -11,7 +11,7 @@ You can find a few first `impressions of the
 campsite <http://shackspace.de/gallery/index.php/Menschen-Daten-Sensationen/Chaos-Communication-Camp-2011>`__
 in our gallery.
 
-.. |image0| image:: http://shackspace.de/gallery/var/thumbs/Menschen%2C-Daten%2C-Sensationen/Chaos-Communication-Camp-2011/IMG_0209.JPG
+.. |image0| image:: /static/images/IMG_0209.JPG
    :target: http://shackspace.de/gallery/index.php/Menschen-Daten-Sensationen/Chaos-Communication-Camp-2011
 
 

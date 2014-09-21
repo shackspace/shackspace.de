@@ -24,7 +24,7 @@ heap of rubble and many good memories.  Time to move on!
 
 *Photo courtesy of Claus Wilcke*.
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2012/05/old_shackspace-1024x649.jpg
+.. |image0| image:: /static/images/old_shackspace-1024x649.jpg
    :target: http://shackspace.de/wp-content/uploads/2012/05/old_shackspace.jpg
 
 

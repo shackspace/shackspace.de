@@ -31,7 +31,7 @@ Easterhegg 2014: Call for Papers
 |  Bitte reicht eure Talk- und Workshop-Vorschläge bis 01.03.2014 \ `direkt im frab <https://frab.cccv.de/en/EH2014/cfp/session/new>`__ ein.
 |  Wir freuen uns auf eure Einreichungen!
 
-.. |Easterhegg-Logo| image:: http://shackspace.de/wp-content/uploads/2014/01/Easterhegg-Logo-300x181.png
+.. |Easterhegg-Logo| image:: /static/images/Easterhegg-Logo-300x181.png
    :target: http://shackspace.de/wp-content/uploads/2014/01/Easterhegg-Logo.png
 
 

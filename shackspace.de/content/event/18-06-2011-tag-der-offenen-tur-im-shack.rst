@@ -33,7 +33,7 @@ U-Bahn Haltestelle "Im Degen" -
 Zusagen &  bestätigen `beim shack
 Facebook-Eintrag <http://www.facebook.com/shackspace?ref=ts#!/event.php?eid=210298582333806>`__
 
-.. |image0| image:: http://shackspace.de/wp-content/uploads/2011/05/ankuendigungtdot04.jpg
+.. |image0| image:: /static/images/ankuendigungtdot04.jpg
    :target: http://shackspace.de/wp-content/uploads/2011/05/ankuendigungtdot04.jpg
 
 

@@ -45,7 +45,7 @@ gesehen.
 Bei Fragen einfach eine kurze Mail an: repcafe (at) winningindustries
 (dot) de
 
-.. |IMG_20130302_034831__| image:: http://shackspace.de/wp-content/uploads/2013/05/IMG_20130302_034831__-300x159.jpg
+.. |IMG_20130302_034831__| image:: /static/images/IMG_20130302_034831__-300x159.jpg
    :target: http://shackspace.de/wp-content/uploads/2013/05/IMG_20130302_034831__.jpg
 
 

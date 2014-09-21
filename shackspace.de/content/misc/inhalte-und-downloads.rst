@@ -18,6 +18,6 @@ unter die Leute (Bäckerei, Schwarzes Brett, Kiosk, Laden, Unterführung,
 |  +
 |  Fragen, Anregungen oder Hinweise an mitmachen@hackspacestuttgart.de. schankedöhn.
 
-.. |pdf| image:: http://hs07.eu/wp-content/uploads/2009/11/pdf.png
+.. |pdf| image:: /static/images/pdf.png
 
 
