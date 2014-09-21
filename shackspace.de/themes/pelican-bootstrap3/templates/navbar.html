@@ -3,6 +3,8 @@
   <div class="navbar-inner">
     <div class="container">
       <ul class="nav">
+        <li style="background-image: url('{{SITEURL}}/theme/img/logo_brand.png'); background-repeat: no-repeat; background-position: center center;">
+        <div style="width: 80px;"><a href="{{SITEURL}}/">&nbsp;</a></div></li>
         {% for item in MKNAVBAR(SITEURL,output_file) %}
         <li class="{{ item.cssclass }}"><a href="{{ item.link }}">{{ item.name }}</a></li>
         {% endfor %}
