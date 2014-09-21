@@ -12,7 +12,8 @@ SHOW_ARTICLE_AUTHOR = True
 #RELATIVE_URLS = True
 
 PATH = 'content'
-
+STATIC_PATHS = ['static', ]
+IGNORE_FILES = ['.*.swp', ]
 TIMEZONE = 'Europe/Berlin'
 
 TYPOGRIFY = True
