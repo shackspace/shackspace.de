@@ -15,6 +15,8 @@ PATH = 'content'
 
 TIMEZONE = 'Europe/Berlin'
 
+TYPOGRIFY = True
+
 DEFAULT_LANG = u'de'
 DATE_FORMAT = {
     'de': '%A, %d.%m.%Y',
