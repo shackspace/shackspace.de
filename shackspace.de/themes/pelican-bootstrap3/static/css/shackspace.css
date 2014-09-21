@@ -1,13 +1,36 @@
 body {
-    padding-top: 20px;
+    padding-top: 0px;
     padding-bottom: 60px;
+
 }
 
 /* Custom container */
-.container {
+body > .background-container > #bastelbert > .container {
     margin: 0 auto;
     max-width: 1000px;
+
 }
+
+body > .background-container {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1200px;
+
+
+    background-image: url('/theme/img/shack_topdunkel.png');
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+body > .background-container > #bastelbert {
+    background-image: url('/theme/img/shack_bastelbert_0711.png');
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+
+#bastelbert > .container {
+    padding-top: 70px;
+}
+
 .container > hr {
     margin: 60px 0;
 }
