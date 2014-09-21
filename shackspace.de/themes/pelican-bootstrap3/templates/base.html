@@ -47,36 +47,9 @@
 
       <div class="masthead">
         <h3 class="muted"><a href="/">shackspace - Der Hackerspace in Stuttgart</a></h3>
-        <div class="navbar-outer">
-        <div class="navbar navbar-nav" role="navigation">
-          <div class="navbar-inner">
-            <div class="container">
-              <ul class="nav">
-                <!-- <li class="active"><a href="#">Home</a></li> -->
-                <li class="active"><a href="{{ SITEURL }}/b/">Blog</a></li>
-                <li><a href="//log.shackspace.de/">Logbuch</a></li>
-                <li><a href="{{ SITEURL }}/p/projects/">Projekte</a></li>
-                <li><a href="//shackspace.de/wiki">Wiki</a></li>
-                <li><a href="//shackspace.de/gallery">Bilder</a></li>
-                <li><a href="{{ SITEURL }}/p/about/">shackspace</a></li>
-                <li><a href="{{ SITEURL }}/p/verein/">Verein</a></li>
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Kontakt <span class="caret"></span></a>
-                    <ul class="dropdown-menu" role="menu">
-                      <li><a href="#">Anfahrt</a></li>
-                      <li><a href="#">Öffentliche Mailingliste</a></li>
-                      <li><a href="#">Presse</a></li>
-                      <li><a href="#">Events</a></li>
-                      <li><a href="#">Vorstand</a></li>
-                    </ul>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div><!-- /.navbar -->
-        </div>
+        {% include "navbar.html" %}
       </div>
-
+    
       {% block content %}
       {% endblock %}
 

@@ -1,45 +1,77 @@
-{% extends "base.html" %}
+{% extends "landingpage.html" %}
 
-{% block content %}
-
-<h2>Tag der offenen Tür 2014!</h2>
+{% block announcement %}
+<h2 class="alert alert-error">Tag der offenen Tür 2014!</h2>
 <div class="row-fluid">
-    <div class="span4">
+    <div class="span3 alert alert-error">
         <h3>Notieren!</h3>
+        <ul>
+            <li><strong>Sa. 27.09.</strong> ab <strong>13 Uhr</strong></li>
+            <li>&nbsp;</li>
+            <li>Ulmer Straße 255</li>
+            <li>70327 Stuttgart-Wangen</li>
+            <li>ggü. Kulturhaus Arena</li>
+            <li>U4/U9 "Im Degen"</li>
+        </ul>
     </div>
-    <div class="span4">
-        <h3>Zu sehen</h3>
+    <div class="span3 alert alert-error">
+        <h3>Geboten</h3>
+        <ul>
+            <li>Vorträge</li>
+            <li>Führungen</li>
+            <li>&nbsp;</li>
+            <li>Getränke</li>
+            <li>Chili, Waffeln &amp; Crepes</li>
+            <li>Abends: Cocktaillounge</li>
+        </ul>
     </div>
-    <div class="span4">
+    <div class="span6 alert alert-error">
         <h3>Kurzvorträge</h3>
+        <ul>
+            <li>RZ Umbau: was war, was wurde und was wird?</li>
+            <li>Spendenbescheinigungen und geometrische Reihen</li>
+            <li>Physical Computing am IKG Leinfelden</li>
+            <li>Stromzaehler ablesen mit RaspberryPi</li>
+            <li>Elektrolyse - 20 Graphitelektroden später</li>
+            <li>Homeserver Monitoring Display</li>
+        </ul>
     </div>
 </div>
+{% endblock announcement %}
 
-<div class="row-fluid">
-    <div class="span4">
-        <h3>Nächste Events</h3>
-    </div>
-    <div class="span4">
-        <h3>Project Showcase</h3>
-    </div>
-    <div class="span4">
-        <h3>Mehr shackspace</h3>
-    </div>
-</div>
+{% block events %}
+<h3>Nächste Events</h3>
+{% endblock events %}
 
-<div class="row-fluid">
-    <div class="span4">
-        <h3>Blog</h3>
-    </div>
-    <div class="span4">
-        <h3>Logbuch</h3>
-    </div>
-    <div class="span4">
-        <h3>Wiki</h3>
-    </div>
-</div>
+{% block showcase %}
+<h3>Project Showcase</h3>
+{% endblock showcase %}
 
-{% endblock content %}
+{% block moreshack %}
+<h3>Mehr shackspace</h3>
+{% endblock moreshack %}
 
-{% block canonical_rel %}<link rel="canonical" href="{{ SITEURL }}">{% endblock %}
+{% block blog %}
+<h3>Blog</h3>
+{% if articles %}
+    <div class="article_headers">
+    <ul>
+    {% for article in (articles_page.object_list if articles_page else articles) %}
+        <li>
+        <article>
+        <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+        </article>
+        </li>
+    {% endfor %}
+    </ul>
+    </div>
+{% endif %}
+{% endblock blog %}
 
+{% block log %}
+<h3>Logbuch</h3>
+{% endblock log %}
+
+{% block wiki %}
+<h3>Wiki</h3>
+{% endblock wiki %}

@@ -58,16 +58,24 @@ article img {
     margin: 0 20px 3px 0;
 }
 
-.article_meta ul {
+.article_meta ul,
+.no-bullets ul,
+.announcement-block ul {
     list-style-type: none;
     margin: 0 0 20px 0;
     padding: 0;
 }
-.article_meta li {
-    margin: 0 0 3px 0;
+.article_meta li,
+.spaced-li li {
+    margin: 0 0 6px 0;
     padding: 0;
 }
 
 .article_meta h5 {
     margin: 0;
+}
+
+.compact,
+.compact li {
+    line-height: 93%;    
 }

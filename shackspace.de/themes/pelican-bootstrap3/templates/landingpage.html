@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="announcement-block">
+{% block announcement %}
+{% endblock announcement %}
+</div>
+
+<div class="row-fluid">
+    <div class="span4 events-block no-bullets spaced-li compact">
+        {% block events %}
+        {% endblock events %}
+    </div>
+    <div class="span4 showcase-block">
+        {% block showcase %}
+        {% endblock showcase %}
+    </div>
+    <div class="span4 moreshack-block">
+        {% block moreshack %}
+        {% endblock moreshack %}
+    </div>
+</div>
+
+<div class="row-fluid">
+    <div class="span4 blog-block no-bullets spaced-li compact">
+        {% block blog %}
+        {% endblock blog %}
+    </div>
+    <div class="span4 log-block no-bullets space-li compact">
+        {% block log %}
+        {% endblock log %}
+    </div>
+    <div class="span4 wiki-block no-bullets spaced-li compact">
+        {% block wiki %}
+        {% endblock wiki %}
+    </div>
+</div>
+
+{% endblock content %}
+
+{% block canonical_rel %}<link rel="canonical" href="{{ SITEURL }}">{% endblock %}
+

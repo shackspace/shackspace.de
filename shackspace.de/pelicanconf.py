@@ -3,6 +3,7 @@
 from __future__ import unicode_literals
 import collections
 import datetime
+import re
 
 AUTHOR = 'shack e.V.'
 SITENAME = 'shackspace - Der Hackerspace in Stuttgart'
@@ -34,6 +35,34 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
+
+NavEntry = collections.namedtuple("NavEntry", ['name','link','cssclass' ])
+
+RawNavEntry = collections.namedtuple("RawNavEntry", ['name','link','local'])
+
+navbar = [RawNavEntry('Blog', "b/", True),
+          RawNavEntry('Logbuch', "//log.shackspace.de/", False),
+          RawNavEntry('Projekte', "p/projects/", True),
+          RawNavEntry('Wiki', "//shackspace.de/wiki", False),
+          RawNavEntry('Bilder', "//shackspace.de/gallery", False),
+          RawNavEntry('shackspace', "p/about/", True),
+          RawNavEntry('Verein', "p/verein/", True) ]
+
+def MKNAVBAR(siteurl, url):
+    nb = []
+    for item in navbar:
+        name = item.name
+        link = '/'+item.link
+        cssclass = ''
+
+        if item.local:
+            link = siteurl+link
+        
+        if re.match(re.compile(r'^{}'.format(item.link)), url):
+            cssclass = 'active'
+
+        nb.append(NavEntry(name,link,cssclass))
+    return nb 
 
 DEFAULT_PAGINATION = 6
 

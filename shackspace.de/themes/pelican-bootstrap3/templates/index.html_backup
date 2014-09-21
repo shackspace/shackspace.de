@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h2>Tag der offenen Tür 2014!</h2>
+<div class="row-fluid">
+    {% block announcement %}
+    <div class="span4">
+        <h3>Notieren!</h3>
+    </div>
+    <div class="span4">
+        <h3>Zu sehen</h3>
+    </div>
+    <div class="span4">
+        <h3>Kurzvorträge</h3>
+    </div>
+    {% endblock announcement %}
+</div>
+
+<div class="row-fluid">
+    <div class="span4">
+        {% block events %}
+        <h3>Nächste Events</h3>
+        {% endblock events %}
+    </div>
+    <div class="span4">
+        {% block showcase %}
+        <h3>Project Showcase</h3>
+        {% endblock showcase %}
+    </div>
+    <div class="span4">
+        <h3>Mehr shackspace</h3>
+    </div>
+</div>
+
+<div class="row-fluid">
+    <div class="span4">
+        {% block blog %}
+        <h3>Blog</h3>
+        {% block blog %}
+    </div>
+    <div class="span4">
+        {% block log %}
+        <h3>Logbuch</h3>
+        {% block log %}
+    </div>
+    <div class="span4">
+        {% block wiki %}
+        <h3>Wiki</h3>
+        {% block wiki %}
+    </div>
+</div>
+
+{% endblock content %}
+
+{% block canonical_rel %}<link rel="canonical" href="{{ SITEURL }}">{% endblock %}
+
