@@ -1,25 +1,17 @@
-# shackspace.de website vNEXT
+# shackspace-landing
 
-# Gründe
-- "Weil die alte Scheiße ist" - Loungepersonal
-- Wordpress
+shackspace landing page
 
-# Anforderungen
-1. Landing Page mehr landiger machen
+### Setup
 
-## Vorhandene Komponenten
-- Blog
-- Kalender
-- Events
-- Log
-- Wiki
-- Mailingliste
-- All the Social websites
-- Türstatus
+- make sure [node.js](http://nodejs.org) and [roots](http://roots.cx) are installed
+- clone this repo down and `cd` into the folder
+- run `npm install`
+- run `roots watch`
+- ???
+- get money
 
-- Hackspaceinfos
-	- Location
-  - Mitglied werden
-  - Plenum
-  - Träger und Zweck
-  - Spenden
+### Deploying
+
+- If you just want to compile the production build, run `roots compile -e production` and it will build to public.
+- To deploy your site with a single command, run `roots deploy -to XXX` with `XXX` being whichever [ship](https://github.com/carrot/ship#usage) deployer you want to use.
