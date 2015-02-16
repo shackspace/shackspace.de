@@ -1,24 +1,24 @@
 extends layout
 
 block content
-	nav.top
-		ul
-			li: a(href='#') Blog
-			li: a(href='#') Kalender
-			li: a(href='#') Events
-			li: a(href='#') Log
-			li: a(href='#') Wiki
-			li: a(href='#') Mailingliste
-			li: a(href='#') All the Social websites
-			li: a(href='#') Türstatus
+	//- nav.top
+	//- 	ul
+	//- 		li: a(href='#') Blog
+	//- 		li: a(href='#') Kalender
+	//- 		li: a(href='#') Events
+	//- 		li: a(href='#') Log
+	//- 		li: a(href='#') Wiki
+	//- 		li: a(href='#') Mailingliste
+	//- 		li: a(href='#') All the Social websites
+	//- 		li: a(href='#') Türstatus
 
-			li: a(href='#') Hackspaceinfos
+	//- 		li: a(href='#') Hackspaceinfos
 				//- - Location
 				//- - Mitglied werden
 				//- - Plenum
 				//- - Träger und Zweck
 				//- - Spenden
-	img(src='/img/logo-white-bg.svg')
+	img.logo(src='/img/logo-white-bg.svg')
 
 
 	nav.grid
@@ -43,10 +43,13 @@ block content
 				| Mailingliste
 			//- li: a(href='#') All the Social websites
 			li: a(href='#') 
-				.fa.fa-book
-				| Türstatus
+				.fa.fa-map-marker
+				| Location
 
 			li: a(href='#') 
 				.fa.fa-book
 				| Hackerspace
 
+	h3 The Space is OPEN
+
+	#log
