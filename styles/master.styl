@@ -7,39 +7,41 @@ base()
 body, html
 	margin 0
 	padding 0
+	max-width 100%
 	// padding 50px
 	// background-color shack-green
 		
 
 .logo
-	margin 5vh 30vw
-	width 40vw
+	margin 5vh 0
+	width 100%
+	height 40vh
+	max-width 100%
+	display block
 	
-nav.top
-	height 63px
-	background-color #F9F9F9
-	border-bottom 3px solid shack-green
-	ul
-		margin 0
-		padding 0
-		text-align center
-		li
-			// font-size 0.8em
-			padding 22px
-			display inline-block
-	
-		a
-			reset-link()
-			color #333
-			
-		li:hover a
-			color white
-		
-		li:hover
-			background-color shack-green
+#log
+	max-width 100%
+	margin 0
+	position absolute
+	opacity 0.4
+	top 0
+	height 50vh
+	width 100vw
+	z-index -999
+	.slide
+		height 50vh
+		overflow hidden
+		.img
+			background-position center
+			background-size 40vw
+			height 100%
+			width 100%
+			// border-left 3px solid shack-green
 
 nav.grid
+	max-width 100%
 	border-top 5px solid shack-green
+
 	padding 5vh 20vw 0
 	width 60vw
 	ul
@@ -72,8 +74,8 @@ nav.grid
 			
 			.fa
 				color shack-green
+				
+#door-status
+	&.status-open h3::after
+		content 'open'
 			
-#log
-	.tumblr-photo
-		height 100px
-	// 	width 100px
