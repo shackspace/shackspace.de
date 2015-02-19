@@ -6,12 +6,13 @@ $('#log').slick
 	slidesToScroll: 2
 	centerMode: true
 	autoplay: true
-	autoplaySpeed: 2000
+	autoplaySpeed: 1750
 	pauseOnHover: false
 	arrows: false
 
 
-$.get 'http://api.tumblr.com/v2/blog/log.shackspace.de/posts/photo?api_key=fuiKNFp9vQFvjLNvx4sUwti4Yb5yGutBN4Xh10LXZhhRKjWlV4', {}, (res) ->
+$.getJSON 'http://api.tumblr.com/v2/blog/log.shackspace.de/posts/photo?api_key=fuiKNFp9vQFvjLNvx4sUwti4Yb5yGutBN4Xh10LXZhhRKjWlV4&callback=?', {}, (res) ->
+	# TODO: shuffle
 	for post in res.response.posts
 		for photo in post.photos
 			$('#log').slick 'slickAdd', "<div class='slide'><div class='img' style='background-image:url(#{photo.original_size.url})'></div></div>"
