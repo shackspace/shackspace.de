@@ -16,6 +16,13 @@ body, html
 	margin 5vh auto
 	height 40vh
 	display block
+
+a.log
+	position absolute
+	top 0
+	height 50vh
+	width 100vw
+	z-index 99
 	
 #log
 	max-width 100%
@@ -74,6 +81,22 @@ nav.grid
 				color shack-green
 				
 #door-status
-	&.status-open h3::after
-		content 'open'
+	&.status-open
+		a::after
+			content 'open'
+		.fa::before
+			content '\f00c'
+			color green
+	&.status-closed
+		a::after
+			content 'closed'
+		.fa::before
+			content '\f00d'
+			color red
+	&.status-undefined
+		a::after
+			content 'broken'
+		.fa::before
+			content '\f128'
+			color yellow
 			

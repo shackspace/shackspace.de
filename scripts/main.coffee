@@ -18,14 +18,17 @@ $.getJSON 'http://api.tumblr.com/v2/blog/log.shackspace.de/posts/photo?api_key=f
 			$('#log').slick 'slickAdd', "<div class='slide'><div class='img' style='background-image:url(#{photo.original_size.url})'></div></div>"
 	$('#log').slick 'slickPlay'
 
-$.get 'http://shackspace.de/sopen/text/en', {}, (res) ->
-	console.log 'the shackspace is ' + res
+window.setDoorStatus = (status) ->
 	$status = $('#door-status')
 	$status.removeClass()
-	switch res.trim()
+	switch status
 		when 'open'
 			$status.addClass 'status-open'
 		when 'closed'
 			$status.addClass 'status-closed'
-		when 'no data'
+		else
 			$status.addClass 'status-undefined'
+
+$.get 'http://shackspace.de/sopen/text/en', {}, (res) ->
+	console.log 'the shackspace is ' + res
+	window.setDoorStatus res.trim()

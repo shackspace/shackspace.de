@@ -19,24 +19,25 @@ block content
 				//- - Träger und Zweck
 				//- - Spenden
 
-	#log
+	a.log(href='http://log.shackspace.de'): #log
 	img.logo(src='img/logo-white-bg.svg')
 
 
 	nav.grid
 		ul
-			li: a(href='#')
+			li: a(href='http://shackspace.de')
 				.fa.fa-book
 				| Blog
-			li: a(href='#') 
+			li: a(href='http://shackspace.de/wiki') 
 				.fa.fa-calendar
 				| Kalender
 			li: a(href='#') 
 				.fa.fa-calendar
 				| Events
-			li: a(href='#') 
-				.fa.fa-book
-				| Log
+			li#door-status: a(href='#') 
+				.fa
+				| space is 
+
 			li: a(href='#') 
 				.fa.fa-book
 				| Wiki
@@ -44,7 +45,7 @@ block content
 				.fa.fa-envelope
 				| Mailingliste
 			//- li: a(href='#') All the Social websites
-			li: a(href='#') 
+			li: a(href='http://shackspace.de/?page_id=713') 
 				.fa.fa-map-marker
 				| Location
 
@@ -54,5 +55,5 @@ block content
 
 	//- h3 The Space is OPEN
 
-	#door-status
-		h3 the shackspace is 
+	//- #door-status
+	//- 	h3 the shackspace is 
