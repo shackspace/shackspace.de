@@ -2,13 +2,14 @@
 $('#log').slick
 	infinite: true
 	slidesToShow: 4
-	speed: 300
+	speed: 5000
 	slidesToScroll: 2
-	centerMode: true
+	# centerMode: true
 	autoplay: true
-	autoplaySpeed: 1750
+	autoplaySpeed: 0
 	pauseOnHover: false
 	arrows: false
+	cssEase: 'linear'
 
 
 $.getJSON 'http://api.tumblr.com/v2/blog/log.shackspace.de/posts/photo?api_key=fuiKNFp9vQFvjLNvx4sUwti4Yb5yGutBN4Xh10LXZhhRKjWlV4&callback=?', {}, (res) ->
