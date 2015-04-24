@@ -1,3 +1,6 @@
+* {
+  margin: 0;
+}
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -188,21 +191,46 @@ body {
 }
 body,
 html {
+  height: 100%;
   margin: 0;
   padding: 0;
   max-width: 100%;
+  overflow-x: hidden;
+}
+.container {
+  min-height: 100%;
+  margin-bottom: -1.5em;
 }
 .logo {
-  margin: 5vh auto;
-  height: 40vh;
   display: block;
+  margin: 0 auto;
 }
-a.log {
-  position: absolute;
-  top: 0;
-  height: 50vh;
-  width: 100vw;
-  z-index: 99;
+@media only screen and (min-width: 768px) {
+  .logo {
+    padding: 5vh 0;
+    height: 40vh;
+  }
+}
+@media only screen and (max-width: 992px) {
+  .logo {
+    width: 90%;
+    width: 90vw;
+    padding: 0;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .log {
+    position: absolute;
+    top: 0;
+    height: 50vh;
+    width: 100vw;
+    z-index: 99;
+  }
+}
+@media only screen and (max-width: 992px) {
+  .log {
+    display: none;
+  }
 }
 #log {
   max-width: 100%;
@@ -227,41 +255,63 @@ a.log {
 nav.grid {
   max-width: 100%;
   border-top: 5px solid #00be00;
-  padding: 5vh 20vw 0;
-  width: 60vw;
+}
+@media only screen and (min-width: 1200px) {
+  nav.grid {
+    padding: 5vh 20vw 0;
+    width: 60vw;
+  }
+}
+@media only screen and (max-width: 1800px) {
+  nav.grid {
+    padding: 5vh 15vw 0;
+    width: 70vw;
+  }
+}
+@media only screen and (max-width: 1200px) {
+  nav.grid {
+    padding: 5% 5% 0;
+    padding: 5vh 5vw 0;
+    width: 90%;
+    width: 90vw;
+  }
 }
 nav.grid ul {
   margin: 0;
   padding: 0;
 }
 nav.grid ul li {
-  *zoom: 1;
-  float: left;
-  clear: none;
-  text-align: inherit;
-  width: 22.75%;
-  margin-left: 0%;
-  margin-right: 3%;
   border: 1px solid #ddd;
   border-left: 5px solid #00be00;
   list-style-type: none;
   box-sizing: border-box;
   margin-bottom: 1em;
 }
-nav.grid ul li:before,
-nav.grid ul li:after {
-  content: '';
-  display: table;
-}
-nav.grid ul li:after {
-  clear: both;
-}
-nav.grid ul li:nth-child(4n) {
-  margin-right: 0%;
-  float: right;
-}
-nav.grid ul li:nth-child(4n+1) {
-  clear: both;
+@media only screen and (min-width: 992px) {
+  nav.grid ul li {
+    *zoom: 1;
+    float: left;
+    clear: none;
+    text-align: inherit;
+    width: 22.75%;
+    margin-left: 0%;
+    margin-right: 3%;
+  }
+  nav.grid ul li:before,
+  nav.grid ul li:after {
+    content: '';
+    display: table;
+  }
+  nav.grid ul li:after {
+    clear: both;
+  }
+  nav.grid ul li:nth-child(4n) {
+    margin-right: 0%;
+    float: right;
+  }
+  nav.grid ul li:nth-child(4n+1) {
+    clear: both;
+  }
 }
 nav.grid ul li .fa {
   font-size: 3em;
@@ -311,6 +361,39 @@ nav.grid ul li:hover .fa {
 #door-status.status-undefined .fa::before {
   content: '\f128';
   color: #ffdc00;
+}
+.container:after {
+  content: "";
+  display: block;
+}
+.footer,
+.container:after {
+  height: 1.5em;
+}
+footer {
+  box-sizing: border-box;
+  border-top: 2px solid #00be00;
+  width: 100%;
+  clear: both;
+  height: 1.5em;
+  text-align: center;
+  font-size: 0.75em;
+  font-family: "Helvetica Neue", HelveticaNeue, Helvetica, Arial, sans-serif;
+}
+footer a {
+  border: none;
+  text-decoration: none;
+  color: initial;
+  color: #555;
+  vertical-align: sub;
+}
+footer a:hover {
+  border: none;
+  text-decoration: none;
+  color: initial;
+}
+footer a:visited {
+  opacity: 1;
 }
 
  /*# sourceMappingURL=master.css.map */
