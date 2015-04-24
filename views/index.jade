@@ -18,41 +18,45 @@ block content
 				//- - Plenum
 				//- - Träger und Zweck
 				//- - Spenden
+	
+	.container
+		.hero
+			.log: #log
+			img.logo(src='img/logo-white-bg.svg')
 
-	a.log(href='http://log.shackspace.de'): #log
-	img.logo(src='img/logo-white-bg.svg')
 
+		nav.grid
+			ul
+				li#door-status: a(href='#') 
+					.fa
+					| space is 
+				li: a(href='http://shackspace.de')
+					.fa.fa-book
+					| Blog
+				li: a(href='http://shackspace.de/wiki') 
+					.fa.fa-book
+					| Wiki
+				li: a(href='http://shackspace.de/?cat=12') 
+					.fa.fa-calendar
+					| Events
+				li: a(href='http://shackspace.de/wiki/doku.php#mitmachen_kontaktieren') 
+					.fa.fa-users
+					| Mitmachen
+				//- li: a(href='#') All the Social websites
+				li: a(href='http://shackspace.de/?page_id=713') 
+					.fa.fa-map-marker
+					| Location
 
-	nav.grid
-		ul
-			li: a(href='http://shackspace.de')
-				.fa.fa-book
-				| Blog
-			li: a(href='http://shackspace.de/wiki') 
-				.fa.fa-calendar
-				| Kalender
-			li: a(href='#') 
-				.fa.fa-calendar
-				| Events
-			li#door-status: a(href='#') 
-				.fa
-				| space is 
+				li: a(href='#') 
+					.fa.fa-book
+					| Hackerspace
 
-			li: a(href='#') 
-				.fa.fa-book
-				| Wiki
-			li: a(href='#') 
-				.fa.fa-envelope
-				| Mailingliste
-			//- li: a(href='#') All the Social websites
-			li: a(href='http://shackspace.de/?page_id=713') 
-				.fa.fa-map-marker
-				| Location
+				li: a(href='http://shackspace.de')
+					.fa.fa-picture-o
+					| Projekte
 
-			li: a(href='#') 
-				.fa.fa-book
-				| Hackerspace
-
+	footer.footer
+		a(href='http://shackspace.de/?s=impressum') Impressum
 	//- h3 The Space is OPEN
 
 	//- #door-status

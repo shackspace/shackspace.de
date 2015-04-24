@@ -1,28 +1,48 @@
 @import '_settings'
 @import 'jeet'
 
+*
+	margin 0
+
+
 normalize-css()
 base()
 
 body, html
+	height 100%
 	margin 0
 	padding 0
 	max-width 100%
 	// padding 50px
 	// background-color shack-green
-		
+	overflow-x hidden
+
+.container
+	min-height 100%
+	margin-bottom -1*footer-height
 
 .logo
-	margin 5vh auto
-	height 40vh
 	display block
+	margin 0 auto
+	
+	+above('m')
+		padding 5vh 0
+		height 40vh
+		
+	+below('m')
+		width 90%
+		width 90vw
+		padding 0
 
-a.log
-	position absolute
-	top 0
-	height 50vh
-	width 100vw
-	z-index 99
+.log
+	+above('m')
+		position absolute
+		top 0
+		height 50vh
+		width 100vw
+		z-index 99
+	+below('m')
+		display none
 	
 #log
 	max-width 100%
@@ -47,13 +67,23 @@ nav.grid
 	max-width 100%
 	border-top 5px solid shack-green
 
-	padding 5vh 20vw 0
-	width 60vw
+	+above('xl')
+		padding 5vh 20vw 0
+		width 60vw
+	+below('xl')
+		padding 5vh 15vw 0
+		width 70vw
+	+below('l')
+		padding 5% 5% 0
+		padding 5vh 5vw 0
+		width 90%
+		width 90vw
 	ul
 		margin 0
 		padding 0
 		li
-			col(1/4, cycle:4)
+			+above('l')
+				col(1/4, cycle:4)
 			border 1px solid #DDD
 			border-left 5px solid shack-green
 			list-style-type none
@@ -99,4 +129,12 @@ nav.grid
 		.fa::before
 			content '\f128'
 			color yellow
-			
+
+.container:after
+	content ""
+	display block
+
+.footer, .container:after
+	height footer-height
+
+@import 'footer'
