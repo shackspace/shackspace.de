@@ -1,5 +1,5 @@
 (function() {
-  var mq;
+  var mq, setDoorStatus;
 
   mq = window.matchMedia('(min-width: 992px)');
 
@@ -30,7 +30,7 @@
     });
   }
 
-  window.setDoorStatus = function(status) {
+  setDoorStatus = function(status) {
     var $status;
     $status = $('#door-status');
     $status.removeClass();
@@ -44,9 +44,15 @@
     }
   };
 
-  $.get('http://shackspace.de/sopen/text/en', {}, function(res) {
-    console.log('the shackspace is ' + res);
-    return window.setDoorStatus(res.trim());
+  $.ajax({
+    url: 'http://shackspace.de/sopen/text/en',
+    success: function(res) {
+      console.log('the shackspace is ', res);
+      return setDoorStatus(res.trim());
+    },
+    error: function() {
+      return setDoorStatus('nope');
+    }
   });
 
 }).call(this);
