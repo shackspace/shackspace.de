@@ -23,7 +23,7 @@ if mq.matches
 				$('#log').slick 'slickAdd', "<div class='slide'><div class='img' style='background-image:url(#{photo.original_size.url})'></div></div>"
 		$('#log').slick 'slickPlay'
 
-window.setDoorStatus = (status) ->
+setDoorStatus = (status) ->
 	$status = $('#door-status')
 	$status.removeClass()
 	switch status
@@ -34,6 +34,10 @@ window.setDoorStatus = (status) ->
 		else
 			$status.addClass 'status-undefined'
 
-$.get 'http://shackspace.de/sopen/text/en', {}, (res) ->
-	console.log 'the shackspace is ' + res
-	window.setDoorStatus res.trim()
+$.ajax
+	url: 'http://shackspace.de/sopen/text/en'
+	success: (res) ->
+		console.log 'the shackspace is ', res
+		setDoorStatus res.trim()
+	error: ->
+		setDoorStatus 'nope'
