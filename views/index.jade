@@ -1,33 +1,14 @@
 extends layout
 
 block content
-	//- nav.top
-	//- 	ul
-	//- 		li: a(href='#') Blog
-	//- 		li: a(href='#') Kalender
-	//- 		li: a(href='#') Events
-	//- 		li: a(href='#') Log
-	//- 		li: a(href='#') Wiki
-	//- 		li: a(href='#') Mailingliste
-	//- 		li: a(href='#') All the Social websites
-	//- 		li: a(href='#') Türstatus
-
-	//- 		li: a(href='#') Hackspaceinfos
-				//- - Location
-				//- - Mitglied werden
-				//- - Plenum
-				//- - Träger und Zweck
-				//- - Spenden
-	
 	.container
 		.hero
 			.log: #log
 			img.logo(src='img/logo-white-bg.svg', alt='shackspace')
 
-
 		nav.grid
 			ul
-				li#door-status: a(href='#') 
+				li#door-status: a(href='http://shackspace.de/wiki/doku.php?id=sopenstats') 
 					.fa
 					| space is 
 				li: a(href='http://shackspace.de')
@@ -39,25 +20,22 @@ block content
 				li: a(href='http://shackspace.de/?cat=12') 
 					.fa.fa-calendar
 					| Events
+
 				li: a(href='http://shackspace.de/wiki/doku.php#mitmachen_kontaktieren') 
 					.fa.fa-users
 					| Mitmachen
-				//- li: a(href='#') All the Social websites
-				li: a(href='http://shackspace.de/?page_id=713') 
-					.fa.fa-map-marker
-					| Location
+				
+				li: a(href='http://log.shackspace.de')
+					.fa.fa-picture-o
+					| Projekte
 
 				li: a(href='#') 
 					.fa.fa-book
 					| Hackerspace
 
-				li: a(href='http://log.shackspace.de')
-					.fa.fa-picture-o
-					| Projekte
+				li: a(href='http://shackspace.de/?page_id=713') 
+					.fa.fa-map-marker
+					| Location
 
 	footer.footer
 		a(href='http://shackspace.de/?s=impressum') Impressum
-	//- h3 The Space is OPEN
-
-	//- #door-status
-	//- 	h3 the shackspace is 
