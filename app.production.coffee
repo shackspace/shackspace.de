@@ -9,8 +9,8 @@ module.exports =
   ignores: ['README.md', '**/docs/*', '**/layout.*', '**/_*', '.gitignore', 'ship.*conf']
 
   extensions: [
-    js_pipeline(files: 'scripts/*.coffee', out: 'js/build.js', minify: true, hash: true),
-    css_pipeline(files: 'styles/*.styl', out: 'css/build.css', minify: true, hash: true)
+    js_pipeline(files: ['assets/js/*.js', 'scripts/*.coffee'], out: 'js/build.js', minify: true),
+    css_pipeline(files: ['assets/css/*.css', 'styles/*.styl'], out: 'css/build.css', minify: true)
   ]
 
   stylus:

@@ -8,10 +8,10 @@ block content
 
 		nav.grid
 			ul
-				li#door-status: a(href='http://shackspace.de/wiki/doku.php?id=sopenstats') 
+				li#door-status(class!="<?php echo $door_status_class ?>"): a(href='http://shackspace.de/wiki/doku.php?id=sopenstats') 
 					.fa
-					| space is 
-				li: a(href='http://shackspace.de')
+					| space is <?php echo $door_status ?>
+				li: a(href='http://shackspace.de/wp-run.php')
 					.fa.fa-book
 					| Blog
 				li: a(href='http://shackspace.de/wiki') 
@@ -29,7 +29,7 @@ block content
 					.fa.fa-picture-o
 					| Projekte
 
-				li: a(href='#') 
+				li: a(href='http://shackspace.de/wiki/doku.php?id=hackerspace-ov') 
 					.fa.fa-book
 					| Hackerspace
 

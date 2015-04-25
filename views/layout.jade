@@ -1,3 +1,5 @@
+include magic.php
+
 doctype html
 html
 
@@ -7,18 +9,9 @@ html
 		meta(name='description', content='description of your site')
 		meta(name='author', content= "author of the site")
 		meta(name="viewport" content="width=device-width, initial-scale=1")
-		//- uncomment if your site is responsive!
-		//- meta(name="viewport" content="width=device-width, initial-scale=1")
 		title shackspace = der hackerspace in stuttgart &raquo; Werkstatt, Treffpunkt, Vereinsheim für Nerds &amp; freundliche Digitalkultur
 		!= css()
-		link(rel='stylesheet', href='css/font-awesome.min.css')
-		link(rel='stylesheet', href='//cdn.jsdelivr.net/jquery.slick/1.4.1/slick.css')
-		link(rel='stylesheet', href='//cdn.jsdelivr.net/jquery.slick/1.4.1/slick-theme.css')
 
 	body
 		block content
-
-		script(src='js/jquery.min.js')
-		script(src='//cdn.jsdelivr.net/jquery.slick/1.4.1/slick.min.js')
 		!= js()
-
