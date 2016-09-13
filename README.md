@@ -9,7 +9,7 @@ shackspace landing page
 - run `npm install`
 - run `roots watch`
 - ???
-- get money
+- Profit
 
 ### Deploying
 
