@@ -1,0 +1,27 @@
+footer {
+  box-sizing: border-box;
+  border-top: 2px solid #00be00;
+  width: 100%;
+  clear: both;
+  height: 1.5em;
+  text-align: center;
+  font-size: 0.75em;
+  font-family: "Helvetica Neue", HelveticaNeue, Helvetica, Arial, sans-serif;
+}
+footer a {
+  border: none;
+  text-decoration: none;
+  color: initial;
+  color: #555;
+  vertical-align: sub;
+}
+footer a:hover {
+  border: none;
+  text-decoration: none;
+  color: initial;
+}
+footer a:visited {
+  opacity: 1;
+}
+
+ /*# sourceMappingURL=footer.css.map */
