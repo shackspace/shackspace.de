@@ -1,16 +1,27 @@
 {
   "name": "shackspace-landing",
+  "version": "0.1.0",
+  "description": "",
+  "private": true,
   "description": "shackspace landing page",
+  "scripts": {
+    "start": "roots watch",
+    "build": "roots compile",
+    "publish": "gulp publish"
+  },
   "dependencies": {
-    "autoprefixer-stylus": "0.5.x",
-    "axis": "0.3.x",
-    "coffee-script": "1.8.x",
-    "css-pipeline": "0.2.x",
+    "autoprefixer-stylus": "0.11.x",
+    "axis": "0.6.x",
+    "coffee-script": "1.11.x",
+    "css-pipeline": "^0.3.1",
+    "gulp": "^3.9.1",
+    "gulp-gh-pages": "^0.5.4",
     "jade": "1.x",
     "jeet": "^6.1.2",
-    "js-pipeline": "0.2.x",
+    "js-pipeline": "^0.2.2",
     "marked": "0.3.x",
+    "roots": "^5.0",
     "rupture": "0.6.x",
-    "stylus": "0.49.x"
+    "stylus": "0.54.x"
   }
 }

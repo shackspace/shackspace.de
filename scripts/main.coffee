@@ -22,26 +22,25 @@ if mq.matches
 				$('#log').slick 'slickAdd', "<div class='slide'><div class='img' style='background-image:url(#{photo.original_size.url})'></div></div>"
 		$('#log').slick 'slickPlay'
 
-# uncomment for local development sans php
+setDoorStatus = (status) ->
+	$status = $('#door-status')
+	$status.removeClass()
+	$status.find('a').append('space is ')
+	switch status
+		when 'open'
+			$status.addClass 'status-open'
+			$status.find('a').append('open')
+		when 'closed'
+			$status.addClass 'status-closed'
+			$status.find('a').append('closed')
+		else
+			$status.addClass 'status-undefined'
+			$status.find('a').append('broken')
 
-# setDoorStatus = (status) ->
-# 	$status = $('#door-status')
-# 	$status.removeClass()
-# 	switch status
-# 		when 'open'
-# 			$status.addClass 'status-open'
-# 			$status.find('a').append('open')
-# 		when 'closed'
-# 			$status.addClass 'status-closed'
-# 			$status.find('a').append('closed')
-# 		else
-# 			$status.addClass 'status-undefined'
-# 			$status.find('a').append('broken')
-
-# $.ajax
-# 	url: 'http://shackspace.de/sopen/text/en'
-# 	success: (res) ->
-# 		console.log 'the shackspace is ', res
-# 		setDoorStatus res.trim()
-# 	error: ->
-# 		setDoorStatus 'nope'
+$.ajax
+	url: 'http://shackspace.de/sopen/text/en'
+	success: (res) ->
+		console.log 'the shackspace is ', res
+		setDoorStatus res.trim()
+	error: ->
+		setDoorStatus 'nope'

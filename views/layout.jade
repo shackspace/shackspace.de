@@ -1,5 +1,3 @@
-include magic.php
-
 doctype html
 html
 
@@ -9,8 +7,10 @@ html
 		meta(name='description', content='shackspace = der hackerspace in stuttgart &raquo; Werkstatt, Treffpunkt, Vereinsheim für Nerds &amp; freundliche Digitalkultur')
 		meta(name="viewport" content="width=device-width, initial-scale=1")
 		title shackspace = der hackerspace in stuttgart &raquo; Werkstatt, Treffpunkt, Vereinsheim für Nerds &amp; freundliche Digitalkultur
-		!= css()
+		link(rel="stylesheet", href="/css/vendor.css")
+		link(rel="stylesheet", href="/css/default.css")
 
 	body
 		block content
-		!= js()
+		script(src="/js/vendor.js")
+		script(src="/js/script.js")
