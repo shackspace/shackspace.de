@@ -6,7 +6,7 @@
   "description": "shackspace landing page",
   "scripts": {
     "start": "roots watch",
-    "build": "roots compile",
+    "build": "roots compile -e production",
     "publish": "gulp publish"
   },
   "dependencies": {

@@ -6,10 +6,10 @@ js_pipeline  = require 'js-pipeline'
 css_pipeline = require 'css-pipeline'
 
 module.exports =
-	ignores: ['README.md', '**/docs/*', '**/layout.*', '**/_*', '.gitignore']
+	ignores: ['README.md', 'docs/*', '**/layout.*', '**/_*', '.gitignore', 'gulpfile.*']
 
 	extensions: [
-		js_pipeline(files: ['assets/js/*.js'], out: 'js/vendor.js'),
+		js_pipeline(files: ['assets/js/jquery.min.js', 'assets/js/slick.min.js'], out: 'js/vendor.js'),
 		js_pipeline(files: ['scripts/*.coffee'], out: 'js/script.js'),
 		css_pipeline(files: ['assets/css/*.css'], out: 'css/vendor.css'),
 		css_pipeline(files: ['styles/*.styl'], out: 'css/default.css')
