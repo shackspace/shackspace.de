@@ -15,7 +15,7 @@ if mq.matches
 		cssEase: 'linear'
 
 
-	$.getJSON 'http://api.tumblr.com/v2/blog/log.shackspace.de/posts/photo?api_key=fuiKNFp9vQFvjLNvx4sUwti4Yb5yGutBN4Xh10LXZhhRKjWlV4&callback=?', {}, (res) ->
+	$.getJSON 'https://api.tumblr.com/v2/blog/log.shackspace.de/posts/photo?api_key=fuiKNFp9vQFvjLNvx4sUwti4Yb5yGutBN4Xh10LXZhhRKjWlV4&callback=?', {}, (res) ->
 		# TODO: shuffle
 		for post in res.response.posts
 			for photo in post.photos
@@ -38,7 +38,7 @@ setDoorStatus = (status) ->
 			$status.find('a').append('broken')
 
 $.ajax
-	url: 'http://shackspace.de/sopen/text/en'
+	url: 'https://shackspace.de/sopen/text/en'
 	success: (res) ->
 		console.log 'the shackspace is ', res
 		setDoorStatus res.trim()
