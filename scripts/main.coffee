@@ -41,6 +41,6 @@ $.ajax
 	dataType: 'json'
 	url: 'https://api.shack.space/v1/space'
 	success: (res) ->
-		setDoorStatus res.doorStatus
+		setDoorStatus res.doorState
 	error: ->
 		setDoorStatus null
