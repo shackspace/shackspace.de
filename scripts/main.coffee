@@ -27,10 +27,10 @@ setDoorStatus = (status) ->
 	$status.removeClass()
 	$status.find('a').append('space is ')
 	switch status
-		when 'open'
+		when true
 			$status.addClass 'status-open'
 			$status.find('a').append('open')
-		when 'closed'
+		when false
 			$status.addClass 'status-closed'
 			$status.find('a').append('closed')
 		else
@@ -38,9 +38,9 @@ setDoorStatus = (status) ->
 			$status.find('a').append('broken')
 
 $.ajax
-	url: 'https://shackspace.de/sopen/text/en'
+	dataType: 'json'
+	url: 'https://api.shack.space/v1/space'
 	success: (res) ->
-		console.log 'the shackspace is ', res
-		setDoorStatus res.trim()
+		setDoorStatus res.doorStatus
 	error: ->
-		setDoorStatus 'nope'
+		setDoorStatus null
