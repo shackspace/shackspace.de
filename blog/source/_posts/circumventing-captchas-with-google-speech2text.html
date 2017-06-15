@@ -1,0 +1,20 @@
+<hr>
+<p>title: Circumventing CAPTCHAs with Google speech2text
+url: 3765.html
+id: 3765
+categories:</p>
+<ul>
+<li>Allgemein
+date: 2013-01-13 02:37:26
+tags:</li>
+</ul>
+<hr>
+<p>shackspace hacker <a href="http://smrrd.de/">samuirai</a> is always on the prowl for something to break^W fix.</p>
+<p>The latest thing he fixed is the <a href="http://www.minteye.com/Products.aspx">minteye CAPTCHA</a> system.  The <a href="http://en.wikipedia.org/wiki/Captcha">CAPTCHA</a> works by having the user move a slider left and right which directy affects a distorted image.  There&#39;s one setting of the slider where the image is no longer distorted which is the correct solution to the CAPTCHA.</p>
+<p>This works quite well if you can see but not if you&#39;re blind.  To ensure accessibility there&#39;s also a voice output feature which comes with three handy messages allowing you to solve the test and identify yourself as a human: 1) move slider to the left, 2) move slider to the right, 3) slider is in correct position.</p>
+<p>The thing that was missing (and is now fixed) was an easy way to do this annoying task automatically so your friendly computer can login in your stead ;)</p>
+<p>To solve this samuirai didn&#39;t actually attack the system via the images it displays but instead used Google&#39;s speech2text API to have the messages for blind users translated into text which can then easily be evaluated automatically by a script that tries to find the right position for the slider iteratively.</p>
+<p>He&#39;s got a <a href="https://gist.github.com/4520930">write-up of his hack available online on Github</a> and there&#39;s also a short YouTube <a href="http://www.youtube.com/watch?v=u0M7gmS5Eg0">video showing the automatic CAPTCHA solver script doing its magic</a>.</p>
+<iframe src="http://www.youtube.com/embed/u0M7gmS5Eg0?feature=player_detailpage" height="360" width="640" allowfullscreen="" frameborder="0"></iframe>
+
+<p>&nbsp;</p>

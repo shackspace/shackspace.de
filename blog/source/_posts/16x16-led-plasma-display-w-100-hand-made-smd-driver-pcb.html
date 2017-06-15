@@ -1,0 +1,30 @@
+<hr>
+<p>title: 16x16 LED Plasma Display w/ 100% hand-made SMD Driver PCB
+url: 1815.html
+id: 1815
+categories:</p>
+<ul>
+<li>Allgemein
+date: 2011-02-25 15:11:23
+tags:</li>
+</ul>
+<hr>
+<p><a href="https://blog.shackspace.de/gallery/index.php/Projekte/LED-Plasma/action"><img src="https://blog.shackspace.de/gallery/var/thumbs/Projekte/LED-Plasma/action.jpg?m=1297895084" alt=""></a>Everyone has dreams. At hackerspaces dreams usually involve some kind of technology and only the tiniest amount of sanity required to get it done.  shackspace member @<a href="https://twitter.com/dop3j0e">dop3j0e</a> spent may hours and valuable amounts of his sanity on this little gem.  It&#39;s a fully hand-made (design, layout, etching, soldering) 16x16px LED display.  The dream in this case is to make this thing bigger. Way bigger and RGB.</p>
+<h3 id="rapid-prototyping">Rapid Prototyping</h3>
+<p>To check if the idea is feasible at all, a prototype was called for.  Someone had a couple of spare 8x8 mono-color LED matrix displays which promptly found their place on a breadbord where the pinout was reverse engineered.  After that, a single matrix was connected to an <a href="http://arduino.cc/">Arduino</a> and first tests showed everything worked as planned. A lot more serious breadboarding involving a <a href="https://blog.shackspace.de/wiki/doku.php?id=project:shackuino">shackuino</a> and four of the 8x8px displays followed.</p>
+<p>Holding four such displays together and ensuring there&#39;s good contact on all pins without soldering anything together turned out to be impossible.  The prototype was full of row and column defects.  However, the hardware worked in principle and the firmware was stable.</p>
+<p>At the end of the day prototyping resulted in a _huge _bunch of jumper wires, breadboard, a <a href="https://blog.shackspace.de/wiki/doku.php?id=project:shackuino">shackuino</a> and the displays somehow working most of the time.  This had to become more stable and way more compact.</p>
+<h3 id="-https-blog-shackspace-de-gallery-var-thumbs-projekte-led-plasma-board-jpg-m-1297895033-https-blog-shackspace-de-gallery-index-php-projekte-led-plasma-board-shrinking-it-down"><a href="https://blog.shackspace.de/gallery/index.php/Projekte/LED-Plasma/board"><img src="https://blog.shackspace.de/gallery/var/thumbs/Projekte/LED-Plasma/board.jpg?m=1297895033" alt=""></a>Shrinking it Down</h3>
+<p>In a continued effort to ramp up our skill set and manufacturing capabilities we&#39;ve gone from breadboarding to perfboard to etched through-hole PCBs and double-sided PCBs to now briefly pause at this new peak. A SMD PCB with 0.5mm pitch made using the toner transfer method. The PCB itself smaller than the four 8x8px displays.</p>
+<p>At the heart of the controller is a <a href="http://www.atmel.com/dyn/products/product_card.asp?part_id=3303">Atmega168</a>, the same microcontroller used on the Arduino and shackuino but in it&#39;s smaller footprint TQFP version (0.8mm pitch).  Columns are controlled using two <a href="http://focus.ti.com/docs/prod/folders/print/sn74hc164.html">74HC164</a> shift registers (SOIC package, 1.27mm pitch). A <a href="http://focus.ti.com/docs/prod/folders/print/tlc5940.html">TLC5940</a> chip (QFN package, 0.5mm pitch) is used to generate 16 12bit PWM signals to drive the rows.  This last chip was the biggest challenge because of the very fine pitch traces which were tricky to print using toner transfer and even trickier to solder since there&#39;s no leads, just contact pads.  This was done using a hot-air soldering station and a needle point SMD soldering tip combined with what felt like liters of flux.</p>
+<p>The displays are mounted to a piece of stripboard which is used to<a href="https://blog.shackspace.de/gallery/index.php/Projekte/LED-Plasma/layer2"> juggle around their slightly unfavorable pinout</a> and to accommodate for the fact that the free version of Eagle does not allow the size of PCB required to mount the displays directly (by a mere centimeter).</p>
+<p>The <a href="https://blog.shackspace.de/gallery/index.php/Projekte/LED-Plasma/panel">frontpanel</a> is equipped with a bunch of control buttons to switch through the various display modes.</p>
+<h3 id="next-stop-awesome">Next Stop: Awesome</h3>
+<p>To make this even more awesome the next version will be RGB, required parts are already ordered and epic win is to be expected.</p>
+<p>Meanwhile, here&#39;s a video of the breadboard prototype.</p>
+<embed src="http://img708.imageshack.us/flvplayer.swf?f=Ptwr" width="320" height="260" allowFullScreen="true" wmode="transparent" type="application/x-shockwave-flash"/>
+
+<ul>
+<li>@<a href="https://twitter.com/dop3j0e">dop3j0e</a> on twitter</li>
+<li><a href="https://blog.shackspace.de/gallery/index.php/Projekte/LED-Plasma">Project gallery</a></li>
+</ul>

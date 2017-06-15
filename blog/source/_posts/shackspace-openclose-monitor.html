@@ -1,0 +1,32 @@
+<hr>
+<p>title: shackspace open/close monitor
+url: 2092.html
+id: 2092
+categories:</p>
+<ul>
+<li>Allgemein
+date: 2011-05-22 08:22:51
+tags:</li>
+</ul>
+<hr>
+<p>Last night chris worked hard to put the final touches to the <a href="https://blog.shackspace.de/wiki/doku.php#status">new and improved open/close monitor</a>.</p>
+<h3 id="back-in-the-days">Back in the Days</h3>
+<p>The previous system was a very basic.  Since we performed a full shutdown when the space was closed (the servers were switched off) at the old space, the server there would simply start polling a file hosted on the shackspace.de website while it was on.  The server running the website would check whether someone polled the site or not and use this to decide whether the space is open or not.  This worked (almost) flawlessly for a year.</p>
+<h3 id="bigger-better-reed-contact">Bigger, Better, Reed Contact</h3>
+<p>Now we&#39;ve moved and the server room will no longer be part of a shutdown.  It&#39;ll keep running.  This slightly complicated things.</p>
+<p>A router was used to create a cavity in the lock.  This cavity was then used to house a rare earth magnet, held in place with epoxy glue.  The door frame was then equipped with a reed  contact which gets triggered when the door is actually locked.</p>
+<h3 id="40-meters-of-not-really-rs232">40 Meters of (not really) RS232</h3>
+<p>The signal of this reed contact is directly used to toggle the control line of a serial port.  But since this port is in the server room at the other end of the space (read: 40 meters away) and ingenious contraption was designed.</p>
+<ul>
+<li>The contact&#39;s cable is directly connected to a Cisco console cable (DSUB-15 to Ethernet)</li>
+<li>The Cisco cable is patched into one of the Ethernet sockets in the cable duct that runs all the way around the space</li>
+<li>The port used for this terminates in the server room&#39;s patch field with all the other Ethernet wall sockets</li>
+<li>From the patch panel it&#39;s off to one of the racks where the cable is connected to yet another Cisco console cable by way of an Ethernet&lt;&gt;Ethernet adapter plug</li>
+<li>The Cisco cable is connected to a USB&lt;&gt;RS232 adapter</li>
+<li>The adapter is connected to one of the servers</li>
+</ul>
+<h3 id="the-result">The Result</h3>
+<p>Now we&#39;re only missing a couple of weeks of  <a href="https://blog.shackspace.de/wiki/doku.php?id=sopenstats">data in the graph</a>.  Doesn&#39;t really matter, since the space was pretty much open 24/7 for the whole time and it will likely continue that way.</p>
+<p>By the way, you can poll the text-only open status in <a href="https://blog.shackspace.de/sopen/text/en">English</a> and <a href="https://blog.shackspace.de/sopen/text/de">German</a> or get the <a href="https://blog.shackspace.de/sopen.gif">1x1px GIF</a> which is either red or green.  You can get some more info about the software behind this hack by looking at the <a href="https://blog.shackspace.de/wiki/doku.php?id=shack_open_close_monitor">project documentation (German)</a>.</p>
+<p>[gallery link=&quot;file&quot;]</p>
+<p><img src="../wp-includes/js/tinymce/plugins/wpgallery/img/t.gif" alt="" title="gallery link=&quot;file&quot;"></p>

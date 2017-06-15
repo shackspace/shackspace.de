@@ -1,0 +1,43 @@
+<hr>
+<p>title: Why the Baduk online Go test is not a good estimate of your skill
+url: 1772.html
+id: 1772
+categories:</p>
+<ul>
+<li>Allgemein
+date: 2011-02-19 19:46:35
+tags:</li>
+</ul>
+<hr>
+<p>A couple of folks started playing <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Go_(game">Go</a>) at shackspace during the last weeks and the number of Go boards have been growing ever since.</p>
+<p>Even though we have a lot of fun at shackspace, you can&#39;t be there all the time so you start looking at online Go servers. One especially nice one for casual slow-play during the day is <a href="http://dragongoserver.net/">Dragon Go Server</a> (DGS). One of the questions that come up right away if you&#39;re a novice player who just signed up for an online Go service is &quot;What rank am I?&quot;. <a href="http://www.dragongoserver.net/faq.php?read=t&amp;cat=48#Entry50">DGS answers this</a> by referring to a <a href="http://play.baduk.org/">Baduk Go online test</a>.</p>
+<h3 id="the-problem">The Problem</h3>
+<p>@<a href="https://twitter.com/hdznrrd">hdznrrd</a> took the test and scored a whopping 3-kyu while @<a href="https://twitter.com/SaijSaij">SaijSaij</a> who&#39;s definitely a stronger player scored 16-kyu. Another one who never played Go and hardly knew the rules managed to get a 3-kyu rating as well. Given that beginners in Europe are usually rated at something between <a href="http://senseis.xmp.net/?RankWorldwideComparison">25 and 30-kyu</a>. This got hdznrrd thinking and one night spent at shackspace later the results are in.</p>
+<h3 id="-more-"><!--more--></h3>
+<h3 id="collecting-data">Collecting Data</h3>
+<p>How do you test if a test makes sense? Hire a million monkeys and let them write Shakespeare. Alternatively, write a Perl script and let it take the test for you.</p>
+<p>The brute-force approach to play all possible games (20 questions with 5 possible answers each, 3200000 possible games) would have taken about 370 days with a single process polling the server. Not an option. So hdznrrd chose to create random answer sequences, let the script play them out and log the final score. Repeat this about 8500 times to get into a range where you can run statistics assuming the rule of large numbers and you can do fun stuff.</p>
+<p>Some of the data that was <a href="https://github.com/shackspace/PlayBaduk/blob/master/collect.pl">collected</a> can be found in the <a href="https://github.com/shackspace/PlayBaduk/tree/master/data">PlayBaduk repository on Github</a>.</p>
+<h3 id="running-statistics">Running Statistics</h3>
+<p>The following stats were calculated from around 8500 random test paths played aganist play.baduk.org. <a href="https://github.com/shackspace/PlayBaduk/blob/master/stats.pl">stats.pl</a> generates a simple histogram of all kyu results taken from the random games.</p>
+<p><a href="https://blog.shackspace.de/wp-content/uploads/2011/02/badukhistogram.png"><img src="https://blog.shackspace.de/wp-content/uploads/2011/02/badukhistogram-300x130.png" alt="" title="Histogram of kyu results of random test games against play.baduk.org"></a></p>
+<p>What&#39;s remarkable is the following:</p>
+<ul>
+<li>Test results only cover 16-kyu up to 1-kyu. Meaning you cannot get any results worse than &quot;<a href="https://secure.wikimedia.org/wikipedia/en/w/index.php?title=Go_ranks_and_ratings&amp;oldid=407086537#Kyu_and_Dan_ranks" title="Go_ranks_and_ratings&amp;oldid=407086537#Kyu_and_Dan_ranks">average skilled casual player</a>&quot;. &quot;Beginner&quot; levels are not covered at all by this test.</li>
+<li>A random selection of answers on average gives you a kyu rating of 11 to 12; <a href="https://secure.wikimedia.org/wikipedia/en/w/index.php?title=GNU_Go&amp;oldid=404231209" title="GNU_Go&amp;oldid=404231209">GNU go plays at around 7 to 5-kyu</a> using elaborate algorithms.</li>
+<li>There seems to be a strong bias towards odd kyu results compared to even kyu.
+<a href="https://blog.shackspace.de/wp-content/uploads/2011/02/answerestimation.png"><img src="https://blog.shackspace.de/wp-content/uploads/2011/02/answerestimation-300x59.png" alt="" title="Estimation of best answer for each round of the test"></a></li>
+</ul>
+<p>A nice side-effect of collecting a lot of random but rated test runs: you can try to estimate which of the answer for each step is actually correct. <a href="https://github.com/shackspace/PlayBaduk/blob/master/bestpath.pl">bestpath.pl</a> does exactly that. A cutoff is defined to only rate the top 10% of random games. Based on the score of the game each answer given in the game is weighted and accumulated over all games, then scaled to a range of [0, 1] with 1 being the most likely to be correct answer.</p>
+<p>The above screenshot estimates cddbd-bcdda-adaeb-dccec as being a close to perfect game. Let&#39;s try!</p>
+<p><a href="https://blog.shackspace.de/wp-content/uploads/2011/02/top10.png"><img src="https://blog.shackspace.de/wp-content/uploads/2011/02/top10-300x212.png" alt="" title="Playing the algorithm estimated perfect game, taking the high score"></a></p>
+<p>Guess the algorithm was right ;)</p>
+<h3 id="conclusion">Conclusion</h3>
+<p>The Baduk test doesn&#39;t seem to be suitable for estimating your strength in Go at all. Totally unskilled players manage to score high single-digit ranks while lower kyu ranks are not even covered. Either way beginners will end up with a probably grossly overestimated skill level estimate should they believe in the test results.</p>
+<p>Solution: go play against real people. More fun anyway :)</p>
+<h3 id="more-information">More Information</h3>
+<ul>
+<li>@<a href="https://twitter.com/hdznrrd">hdznrrd</a> on Twitter</li>
+<li><a href="http://play.baduk.org/">play.baduk.org</a> - the online Go test</li>
+<li><a href="https://github.com/shackspace/PlayBaduk">PlayBaduk on Github</a><div id="_mcePaste" style="position: absolute; left: -10000px; top: 143px; width: 1px; height: 1px; overflow: hidden;"><strong>Shakespeare</strong></div></li>
+</ul>

@@ -1,0 +1,48 @@
+<hr>
+<p>title: &gt;-
+  Project minikrebs: Tiny TP-Link WiFi AP Goes Big with Webcam, NFC, USB/IP,
+  Automagic Internets and Rick-Rolling
+url: 3772.html
+id: 3772
+categories:</p>
+<ul>
+<li>Allgemein
+date: 2013-01-14 21:23:10
+tags:</li>
+</ul>
+<hr>
+<h3 id="the-hardware">The Hardware</h3>
+<p><img src="https://blog.shackspace.de/wp-content/uploads/2013/01/IMG_20130114_003939-e1358189039734-150x144.jpg" alt="TP-Link NFC Terminal">The TP-Link WR703N is a quite amazing and affordable piece of hardware and has received a lot of love from the hacking community.  Once you take a look at the price tag and feature set you quickly notice why it&#39;s so well received: it crosses the counter for just <a href="https://www.amazon.de/dp/B008UNA6FS/?tag=krebsco-21">25 EUR on Amazon</a> or as low as <a href="http://www.amazon.com/dp/B007PTCFFW/?tag=krebsco-20">16 EUR</a> if you look abroad!  It&#39;s been used as a <a href="http://hackaday.com/2012/01/12/cheap-wifi-bridge-for-pen-testing-or-otherwise/">pentesting aid</a>, <a href="http://hackaday.com/2012/06/24/io-extender-board-and-case-for-a-cheap-wifi-router/">made even more hacker friendly</a>, got turned into a <a href="http://hackaday.com/2013/01/08/turning-a-tiny-router-into-a-webradio/">webradio player</a>, and made more awesome by <a href="http://hackaday.com/2013/01/07/adding-an-lcd-screen-terminal-for-tp-link-routers/">adding a display</a>.</p>
+<p>So you think all that can be done has already been done.  But no: <a href="https://blog.shackspace.de">shackspace</a> hackers <a href="https://twitter.com/makefoo">makefu</a> and <a href="https://twitter.com/excogitation">exco</a> came up with another idea.  And that idea was followed by another, and another, and they simply kept going.  The project is called <a href="https://blog.shackspace.de/wiki/doku.php?id=project:minikrebs">minikrebs</a> and is part of the bigger experimental coding platform <a href="https://github.com/krebscode/painload">krebscode</a>.</p>
+<p>Here&#39;s what they came up with so far.</p>
+<!--more-->
+<h3 id="nfc-rfid-login-terminal">NFC / RFID Login Terminal</h3>
+<p><img src="https://blog.shackspace.de/wp-content/uploads/2013/01/IMG_20130114_003939-e1358188922575.jpg" alt="TP-Link NFC Terminal"></p>
+<p>The NFC-Gate is part of the <a href="https://github.com/shackspace/user_suppository" title="https://github.com/shackspace/user_suppository">User Suppository</a> (sic) infrastructure.  It polls the attached NFC-connector for new cards and uses the UID of the card for trying to either log in or log out the user at the shack-infrastructure.</p>
+<p>The NFC-gate is a build for the MR3020, not the WR703 as it uses all the available LEDs to display the status of the login. The NFC-Reader used is the SCM SCL3711 as it is supported pretty well by <a href="http://www.libnfc.org/documentation/introduction">libnfc</a> and is quite small.</p>
+<p>For more information check out the <a href="https://github.com/shackspace/user_suppository" title="https://github.com/shackspace/user_suppository">Github repository</a> and the source code of this profile.</p>
+<h3 id="instacam-automatic-webcam-streaming">Instacam: Automatic Webcam Streaming</h3>
+<p><img src="https://blog.shackspace.de/wp-content/uploads/2013/01/IMG_20130113_225119-e1358189326256-300x106.jpg" alt="TP-Link Instacam"></p>
+<p>The aim of this little project is to reliably push a video stream directly out to the internets for everyone to see at a very low price.
+It combines a webcam (could be a cheap China model or one of Logitech&#39;s HD cams, as long as its supported by <a href="http://www.ideasonboard.org/uvc/">uvc</a> or <a href="http://linuxtv.org/wiki/index.php/Gspca_devices">Gspca</a>) with a TP-Link 703N.  It automatically boots up and starts streaming.  Use a battery pack and USB 3G stick for field connectivity.  Drop to deploy!</p>
+<p>This project is already in use in two places at shackspace.  One is built into our <a href="https://blog.shackspace.de/wiki/doku.php?id=lasercutter">lasercutter</a> to allow safe monitoring and recordings of the cutting process.  The AP can manage multiple clients at the same time and even stream HD video at acceptable frame rates.</p>
+<h3 id="automatic-rick-rolling">Automatic Rick-Rolling</h3>
+<p><img src="https://blog.shackspace.de/wp-content/uploads/2013/01/IMG_20130113_231711-e1358189552103-300x127.jpg" alt="TP-Link Automatic Rick-Roll"></p>
+<p>The purpose of the profile is to create an access point where every connection is rewritten to instead deliver a <a href="http://www.youtube.com/watch?v=oHg5SJYRHA0">rick-roll</a>.  If you carry it with you when riding the train (remembert to get a battery pack!) you will have great fun giggling each time the LED blinks indicating another victim was served a piece of the 80&#39;s.</p>
+<p>Having videos autostart on a victim&#39;s mobile brower is quite difficult and unreliable, so instead of an actual video, a short animated GIF with Rick dancing plus the first minute of its famous song will be served by the httpd.
+Laptops and other clients with phat-browsers will probably honor both autostart loop tags in the new HTML5 standard.</p>
+<h3 id="forwarding-usb-interfaces-over-wifi-using-usb-ip">Forwarding USB Interfaces over WiFi using USB/IP</h3>
+<p><img src="https://blog.shackspace.de/wp-content/uploads/2013/01/IMG_20130114_000208-e1358189233155-300x93.jpg" alt="TP-Link usbip"></p>
+<p>In this configuration minikrebs will start up as USB-bridge with the <a href="http://usbip.sourceforge.net/">USB/IP</a>-stack. It will run usbipd and grab an IP-address via DHCP from the <acronym title="Local Area Network">LAN</acronym> interface.</p>
+<h3 id="krebs-integration-and-heckenkrebs">Krebs Integration and Heckenkrebs</h3>
+<h3 id="-krebs-v2-https-blog-shackspace-de-wp-content-uploads-2013-01-krebs-v2-300x300-png-"><img src="https://blog.shackspace.de/wp-content/uploads/2013/01/krebs-v2-300x300.png" alt="krebs-v2"></h3>
+<p>Of course minikrebs integrates seamlessly into the pile of code called <a href="https://github.com/krebscode/painload">krebscode/painload</a>.</p>
+<p>The krebs base profile for krebs nodes includes all the core feature to automatically connect to the <a href="https://blog.shackspace.de/wiki/doku.php?id=project:krebs#krebs_darknet_retiolum_prefix">retiolum darknet</a>.</p>
+<p>Adding Heckenkrebs functionality will give you an automatic internet-establish and gateway provider for the retiolum darknet (or any darknet that you want to set up).  The Heckenkrebs will use a patched aap tool to connect randomly to wireless networks which are &quot;unprotected in some ways&quot;, meaning that it can also do slightly more advanced stuff like calculating default keys for EasyBox home-routers which are quite common in Germany (in case you forgot your default key that is).  It also provides a blacklist feature and access-point password list for known networks.</p>
+<p><em>Meta:</em></p>
+<ul>
+<li><a href="https://twitter.com/makefoo">makefu</a> on twitter</li>
+<li><a href="https://twitter.com/excogitation">exco</a> on twitter</li>
+<li><a href="https://github.com/krebscode/painload"><span style="line-height: 13px;">krebscode/painload on GitHub</span></a></li>
+<li><a href="https://blog.shackspace.de/wiki/doku.php?id=project:minikrebs">Project minikrebs documentation on the shackspace wiki</a></li>
+</ul>

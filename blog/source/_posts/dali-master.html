@@ -1,0 +1,18 @@
+<hr>
+<p>title: &#39;Tiny TP-Link goes to town, becomes DALI controller&#39;
+url: 4099.html
+id: 4099
+categories:</p>
+<ul>
+<li>Allgemein
+date: 2013-05-25 19:37:09
+tags:</li>
+</ul>
+<hr>
+<p><a href="http://de.wikipedia.org/wiki/Digital_Addressable_Lighting_Interface">DALI (Digital Addressable Lighting Interface Wikipedia-Artikel)</a> is an open standard for controlling lighting in buildings. shackspace hacker Timm (@<a href="https://twitter.com/timmedia">timmedia</a>) has built a bus master for DALI based on a TP-Link TLMR3020 mini-router which is the same model that has been <a href="https://blog.shackspace.de/?p=3772">targeted previously</a> by <a href="https://github.com/krebscode/minikrebs">project minikrebs</a>. This mini-rounter was combined with some custom electronics and firmware and you can find <a href="https://github.com/shackspace/DaliMaster">full schematics and sourcecode  on GitHub</a>.</p>
+<p><a href="https://blog.shackspace.de/wp-content/uploads/2013/05/IMG_0306.jpg"><img src="https://blog.shackspace.de/wp-content/uploads/2013/05/IMG_0306-150x150.jpg" alt="IMG_0306"></a> The system consists of a self designed circuit board with a  microcontroller, switching voltage regulator, constant current source and the bus interface connected with the router. The circuit board is designed to fit into the housing of the TP-Link router. The router runs a <a href="https://openwrt.org/">OpenWRT</a> distribution and a webserver with a custom cgi-script. Using UART the router sends commands to the DALI master circuit board.</p>
+<p><a href="https://blog.shackspace.de/wp-content/uploads/2013/05/IMG_0304.jpg"><img src="https://blog.shackspace.de/wp-content/uploads/2013/05/IMG_0304-150x150.jpg" alt="IMG_0304"></a> The main part of the DALI master circuit board is a Atmel <a href="http://www.atmel.com/devices/at90pwm316.aspx">AT90PWM316</a> which has a on-board peripheral to talk DALI frames in hardware. The frames are manchaster encoded with a length of 16 bits in forward direction and 8 bits in backward direction. Because the AT90PWM316 has only one UART interface the connection to the router is handled by an emulated software UART-interface.</p>
+<p><a href="https://blog.shackspace.de/wp-content/uploads/2013/05/Platine_ver4.png"><img src="https://blog.shackspace.de/wp-content/uploads/2013/05/Platine_ver4-150x150.png" alt="Platine_ver4"></a> The interface will be used to control the beautiful new ceiling lights in shackspace&#39;s recent room addition. As an added bonus, the ceiling lights in one of the rooms also come with built-in RGB LED mood-lights which can be accessed via an easy to use web interface.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>

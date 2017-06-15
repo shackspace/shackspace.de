@@ -1,0 +1,29 @@
+<hr>
+<p>title: &#39;Project: one button&#39;
+url: 4531.html
+id: 4531
+categories:</p>
+<ul>
+<li>Allgemein
+date: 2014-02-06 19:05:12
+tags:</li>
+</ul>
+<hr>
+<p><a href="https://blog.shackspace.de/wp-content/uploads/2014/02/onebutton.jpg"><img src="https://blog.shackspace.de/wp-content/uploads/2014/02/onebutton.jpg" alt="onebutton"></a>The one button project was born in yet another attempt to fix social problems through technology. Though this doesn’t work most of the time – in this case it might actually work – be it only as yet another social experiment.</p>
+<p><a href="https://euer.krebsco.de/About.html">Makefu</a> was annoyed by bad music playing in the shack’s lounge one too many times and decided he had to do something about it. He came up with the idea to use a pushbutton to just delete that annoying song which is currently running. As electronics is not his core competency <a href="http://excogitation.de/">exco</a> aggreed to partner up in this project.</p>
+<h3 id="history-lane-detour">History lane detour</h3>
+<p>Since the internet – yes, this is a reference to the “internet” from popular TV show <em>The IT Crowd</em> and it was a big red button, lit by an LED, making an awful lot of noise when pressed – was in bad shape and the red glowy button caught their eye. Therefore they decided to re-use it in this new project.</p>
+<p>So the quest began to improve the old internet with some additional features.</p>
+<h3 id="re-using-old-hardware">Re-using old hardware</h3>
+<p>Wookie tried hooking up the electronics – but failed miserably – and has not been seen since. The exco and makefu hacked some <a href="http://en.wikipedia.org/wiki/MOSFET">mosfets</a> that fell out of an old motherboard (those are good sources for N-Channel hexfets) and they’ve also learned about how to use mosfets to begin with, which type goes along well with a „weak“ source like a raspberry pi pin (50mA max!), etc. The used N-Channel mosfets are <a href="http://www.irf.com/product-info/datasheets/data/irlr7821.pdf">IRLR7821</a> (PDF) and can be directly driven by a RaspberryPi pin. Bonus: they can be triggered really really fast (like &gt; 9000 times per second).</p>
+<h3 id="solving-social-problems-with-pain">Solving social problems – with pain</h3>
+<p>Our fellow hackers came up with the idea that there needed to be pain involved in deleting music because otherwise we would end up with no music left. This is similar to the proof of work inside the <a href="http://en.wikipedia.org/wiki/Bitcoin">Bitcoin</a> protocol (and everybody loves <strong>Bitcoins</strong>, right?). Exco scavenged the – really loud – sirens out of the ‘internet’ and attached them to the RaspberryPi, driven by mosfets.</p>
+<p>Basically you have to find a trade-off between the music sucking hard and you – and everyone around you – enduring the sirens. Since they turned out to be too loud(!) running at 12 V exco reduced the voltage to 5V.</p>
+<p>The button was also rigged up with an LED to have is pulse in a warm red light, just like <a href="http://en.wikipedia.org/wiki/HAL9000">HAL</a>.</p>
+<h3 id="more-features">More features</h3>
+<p>Some time later the <em>one button</em> received more awesome features:</p>
+<ul>
+<li>If there is no music playing a short push will start makefu’s favorite radio stream. All <a href="https://github.com/shackspace/one_button">GitHub</a> pull requests regarding default radio streams may be rejected, deal with it.</li>
+<li>If you give it a short press while music is playing you will skip to the next song in the playlist.
+Check out <a href="https://github.com/shackspace/one_button">the code on GitHub</a>!</li>
+</ul>
