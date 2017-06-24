@@ -20,7 +20,7 @@ nav.primary
 	box-sizing: border-box
 	border-bottom: 4px solid $clr-shack
 	background-color: $clr-white
-	
+	z-index: 100
 	.logo
 		a:hover
 			text-decoration: none
@@ -83,6 +83,17 @@ nav.primary
 	.transition-out
 		z-index: 2
 		transform: translateX(180px)
+		
+.intro
+	display: flex
+	flex-direction: column
+	align-items: center
+	justify-content: center
+	height: 400px
+	
+	&:nth-child(even)
+		background-color: $clr-blue-grey-800
+		color: $clr-primary-text-dark
 .posts
 	display: flex
 	flex-direction: column
