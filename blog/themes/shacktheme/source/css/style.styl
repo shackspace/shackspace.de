@@ -55,7 +55,34 @@ nav.primary
 			font-weight: 500
 			font-family: 'Quicksand'
 			margin: 0 32px
-
+#activites-slider
+	display: flex
+	align-items: center
+	margin: 0 0 32px 0
+	h2
+		margin: 0 32px
+		color: $clr-primary-text-dark
+		font-weight: 300
+#activities
+	width: 160px
+	overflow: hidden
+	height: 36px
+	position: relative
+	border-bottom: 2px solid $clr-shack-dark
+	div
+		width: 160px
+		height: 36px
+		line-height: 36px
+		font-size: 24px
+		text-align: center
+		color: $clr-secondary-text-light
+		transition: transform ease .5s
+		position: absolute
+		background-color: $clr-blue-grey-900
+		color: $clr-primary-text-dark
+	.transition-out
+		z-index: 2
+		transform: translateX(180px)
 .posts
 	display: flex
 	flex-direction: column

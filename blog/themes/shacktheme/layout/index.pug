@@ -3,6 +3,10 @@ extends _base
 block content
 	.hero
 		img.logo(src='/img/logo-dark-bg.svg', alt='shackspace')
+		#activites-slider
+			h2 a space to
+			#activities
+				div BE
 		nav.links
 			a(href=url_for(config.archive_dir)) Announcements
 			a(href="#") Upcoming Events
@@ -10,4 +14,6 @@ block content
 			a(href="https://wiki.shackspace.de") All the Info
 			a(href="#") Location
 	.intro
-		h2 Coden. Basteln. Werkeln. Löten. Sägen.
+		
+		
+	script(src="js/frontpage.js")
