@@ -1,0 +1,68 @@
+@import '_variables'
+
+normalize-css()
+base()
+typography()
+
+$navbar-height = 62px
+body
+	margin-top: $navbar-height
+
+nav.primary
+	height: $navbar-height
+	display: flex
+	align-items: center
+	padding: 0 64px
+	position: fixed
+	top: 0
+	left: 0
+	width: 100%
+	box-sizing: border-box
+	border-bottom: 4px solid $clr-shack
+	background-color: $clr-white
+	
+	.logo
+		a:hover
+			text-decoration: none
+	img
+		height: $navbar-height - 16px
+
+	.links
+		padding: 0 64px
+		font-size: 18px
+		a
+			margin-right: 32px
+			font-family: 'Quicksand'
+.hero
+	background-color: $clr-blue-grey-900
+	display: flex
+	flex-direction: column
+	padding-top: 32px
+	align-items: center
+	img
+		margin: 32px
+	
+	nav.links
+		align-self: stretch
+		display: flex
+		flex: 1 0
+		justify-content: center
+		padding: 32px 0
+		background-color: $clr-blue-grey-800
+		a
+			link($clr-shack)
+			font-size: 18px
+			font-weight: 500
+			font-family: 'Quicksand'
+			margin: 0 32px
+
+.posts
+	display: flex
+	flex-direction: column
+	align-items: center
+	
+	article
+		max-width: 900px
+		
+		img
+			max-width: 500px

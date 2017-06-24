@@ -1,0 +1,30 @@
+doctype html
+html
+	head
+		meta(charset='utf8')
+		meta(http-equiv='X-UA-Compatible', content='IE=edge, chrome=1')
+		meta(name="viewport" content="width=device-width, initial-scale=1")
+		link(rel="stylesheet", href="/css/vendor.css")
+		link(rel="stylesheet", href="/css/style.css")
+		link(rel="stylesheet", href="https://fonts.googleapis.com/css?family=Maven+Pro|Muli|Play|Quattrocento+Sans|Quicksand|Ropa+Sans|Source+Code+Pro|Ubuntu")
+		if config.author
+			meta(name="author", content=config.author)
+
+		block page_description
+			meta(name="description", content=config.description)
+
+		title
+			block site_title
+				= config.title
+	body
+		nav.primary
+			a.logo(href="/"): img.logo(src='/img/logo-white-bg-no-tagline.svg', alt='shackspace')
+			.links
+				a(href="#") Announcements
+				a(href="/posts") Events
+				a(href="#") Projects
+				a(href="https://wiki.shackspace.de") Wiki
+				a(href="#") Location
+		block content
+		//- script(src="/js/vendor.js")
+		//- script(src="/js/script.js")

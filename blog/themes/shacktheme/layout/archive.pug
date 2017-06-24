@@ -1,0 +1,14 @@
+extends _base
+
+block content
+	.posts
+		for post in page.posts.toArray()
+			article.post.post-compact
+				h2.post-title
+					a(href=url_for(post.path))= post.title
+				if(post.exerpt)
+					.post-excerpt!= post.excerpt
+				else
+					.post-excerpt!= post.content
+
+	include _partial/post/list_pagination.pug

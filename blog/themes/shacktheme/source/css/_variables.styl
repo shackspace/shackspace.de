@@ -1,0 +1,36 @@
+@import '_colors'
+// font stack (add your own!)
+helvetica-neue = "Helvetica Neue", HelveticaNeue, Helvetica, Arial, sans-serif
+
+// default font stack
+$font-stack = helvetica-neue
+$font-size = 16
+$font-color = $clr-primary-text-light
+
+$clr-shack = #00BE00
+$clr-shack-dark = darken($clr-shack, 30%)
+$default-color = $clr-shack-dark
+
+// rupture.scale = 0 480px 768px 992px 1280px 1800px
+// rupture.scale-names = 'xs' 's' 'm' 'l' 'xl' 'hd'
+
+typography()
+	bold-italic()
+	headers()
+	lists()
+	text-selection()
+
+	p
+		paragraph()
+
+	small
+		small()
+
+	a
+		link($default-color)
+
+	blockquote
+		blockquo()
+
+	.hyphenation
+		hyphenation()
