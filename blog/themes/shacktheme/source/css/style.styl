@@ -5,8 +5,6 @@ base()
 typography()
 
 $navbar-height = 62px
-body
-	margin-top: $navbar-height
 
 nav.primary
 	height: $navbar-height
@@ -21,6 +19,13 @@ nav.primary
 	border-bottom: 4px solid $clr-shack
 	background-color: $clr-white
 	z-index: 100
+	
+	&:not(.hidden)
+		transition: transform ease .3s
+	
+	&.hidden
+		transform: translateY(-1*$navbar-height)
+		
 	.logo
 		a:hover
 			text-decoration: none
@@ -39,8 +44,9 @@ nav.primary
 	flex-direction: column
 	padding-top: 32px
 	align-items: center
+	
 	img
-		margin: 32px
+		margin: 64px
 	
 	nav.links
 		align-self: stretch
@@ -58,7 +64,7 @@ nav.primary
 #activites-slider
 	display: flex
 	align-items: center
-	margin: 0 0 32px 0
+	margin: 0 0 64px 0
 	h2
 		margin: 0 32px
 		color: $clr-primary-text-dark
@@ -89,11 +95,23 @@ nav.primary
 	flex-direction: column
 	align-items: center
 	justify-content: center
-	height: 400px
-	
+	min-height: 400px
+	padding: 64px
 	&:nth-child(even)
 		background-color: $clr-blue-grey-800
 		color: $clr-primary-text-dark
+		
+#log-container
+	max-width: 1030px
+	display: flex
+	flex-wrap: wrap
+	.log-image
+		height: 240px
+		width: @height
+		flex: 0 0 @height
+		margin: 8px
+		background-size: cover
+		background-position: 50%
 .posts
 	display: flex
 	flex-direction: column
@@ -104,3 +122,31 @@ nav.primary
 		
 		img
 			max-width: 500px
+
+#status
+	position: fixed
+	bottom: 0
+	width: 100%
+	height: 64px
+	background-color: $clr-blue-grey-900
+	text-align: center
+	line-height: @height
+	font-size: 24px
+	color: $clr-primary-text-dark
+	font-weight: 300
+	border-top: 4px solid $clr-amber
+	&::after
+		font-weight: 500
+		content: ' unobserved'
+		color: $clr-amber
+		
+	&.open
+		border-top: 4px solid $clr-shack
+		&::after
+			content: ' open'
+			color: $clr-shack
+	&.closed
+		border-top: 4px solid $clr-red
+		&::after
+			content: ' closed'
+			color: $clr-red
