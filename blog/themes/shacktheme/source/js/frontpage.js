@@ -25,23 +25,76 @@ function jsonP (url) {
 	})
 }
 
+/**
+ * Shuffles array in place. ES6 version
+ * @param {Array} a items The array containing the items.
+ */
+function shuffle(a) {
+	for (let i = a.length; i; i--) {
+		let j = Math.floor(Math.random() * i)
+		;[a[i - 1], a[j]] = [a[j], a[i - 1]]
+	}
+}
+
 const SPACE_ACTIVITIES = [
 	'code',
 	'hack',
+	'program',
 	'löt',
-	'holz',
+	'solder',
+	'woodwork',
+	'saw',
+	'drill',
 	'party',
-	'discuss'
+	'discuss',
+	'blink',
+	'be',
+	'SCIENCE!',
+	'socialize',
+	'create',
+	'write',
+	'read',
+	'plan',
+	'print',
+	'laser',
+	'grow',
+	'meet',
+	'jam',
+	'overengineer',
+	'improve',
+	'repair',
+	'kress',
+	'radio',
+	'funk',
+	'SPAAAAACE',
+	'knit',
+	'talk',
+	'listen',
+	'learn',
+	'teach',
+	'workshop',
+	'admin',
+	'team up',
+	'be exellent',
+	'arcade',
+	'help',
+	'ask',
+	'exchange'
 ]
 
-let activityCounter = 0
+// pop from a shuffled array, when empty copy all activities and shuffle again
+
+let shuffledActivities = []
 const transition = function () {
 	const container = document.querySelector('#activities')
 	container.children[0].classList.add('transition-out')
 	const newActivity = document.createElement('div')
-	activityCounter++
-	if (activityCounter >= SPACE_ACTIVITIES.length) activityCounter = 0
-	newActivity.textContent = SPACE_ACTIVITIES[activityCounter]
+	
+	if (shuffledActivities.length === 0) {
+		shuffledActivities = SPACE_ACTIVITIES.slice()
+		shuffle(shuffledActivities)
+	}
+	newActivity.textContent = shuffledActivities.pop()
 	container.appendChild(newActivity)
 	setTimeout(function () {
 		container.removeChild(container.children[0])
@@ -68,9 +121,7 @@ const loadLogImages = function () {
 	const container = document.querySelector('#log-container')
 	jsonP('https://api.tumblr.com/v2/blog/log.shackspace.de/posts/photo?api_key=fuiKNFp9vQFvjLNvx4sUwti4Yb5yGutBN4Xh10LXZhhRKjWlV4').then((response) => {
 		for (const post of response.response.posts) {
-			console.log(post)
 			for (const photo of post.photos) {
-				console.log(photo)
 				for (const size of photo.alt_sizes) {
 					if (size.width <= 250) {
 						const img = document.createElement('a')
