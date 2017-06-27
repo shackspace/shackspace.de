@@ -6,6 +6,25 @@ function ready(fn) {
 	}
 }
 
+let unique = 0
+function jsonP (url) {
+	const name = "_jsonp_" + unique++
+	url += "&callback=" + name
+	
+	const script = document.createElement('script')
+	script.type = 'text/javascript'
+	script.src = url
+	
+	return new Promise((resolve, reject) => {
+		window[name] = function (data) {
+			resolve(data)
+			document.getElementsByTagName('head')[0].removeChild(script)
+			delete window[name]
+		}
+		document.getElementsByTagName('head')[0].appendChild(script)
+	})
+}
+
 const SPACE_ACTIVITIES = [
 	'code',
 	'hack',
@@ -47,9 +66,7 @@ const setDoorStatus = function () {
 
 const loadLogImages = function () {
 	const container = document.querySelector('#log-container')
-	fetch('https://api.tumblr.com/v2/blog/log.shackspace.de/posts/photo?api_key=fuiKNFp9vQFvjLNvx4sUwti4Yb5yGutBN4Xh10LXZhhRKjWlV4').then((response) => {
-		return response.json()
-	}).then((response) => {
+	jsonP('https://api.tumblr.com/v2/blog/log.shackspace.de/posts/photo?api_key=fuiKNFp9vQFvjLNvx4sUwti4Yb5yGutBN4Xh10LXZhhRKjWlV4').then((response) => {
 		for (const post of response.response.posts) {
 			for (const photo of post.photos) {
 				for (const size of photo.alt_sizes) {
