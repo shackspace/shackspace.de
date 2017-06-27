@@ -68,11 +68,13 @@ const loadLogImages = function () {
 	const container = document.querySelector('#log-container')
 	jsonP('https://api.tumblr.com/v2/blog/log.shackspace.de/posts/photo?api_key=fuiKNFp9vQFvjLNvx4sUwti4Yb5yGutBN4Xh10LXZhhRKjWlV4').then((response) => {
 		for (const post of response.response.posts) {
+			console.log(post)
 			for (const photo of post.photos) {
+				console.log(photo)
 				for (const size of photo.alt_sizes) {
-					if (size.width <= 540) {
-						console.log(size)
-						const img = document.createElement('div')
+					if (size.width <= 250) {
+						const img = document.createElement('a')
+						img.href = post.post_url
 						img.classList.add('log-image')
 						img.style['background-image'] = `url(${size.url})`
 						container.appendChild(img)

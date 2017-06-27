@@ -96,20 +96,25 @@ nav.primary
 	align-items: center
 	justify-content: center
 	min-height: 400px
-	padding: 64px
+	padding: 64px 0 0 0
 	&:nth-child(even)
 		background-color: $clr-blue-grey-800
 		color: $clr-primary-text-dark
-		
+$thumbsize = 177px
+#log-container-wrapper
+	padding-top: 64px
+	overflow: hidden
+	height: $thumbsize * 2
+	max-width: 100%
 #log-container
-	max-width: 1030px
 	display: flex
 	flex-wrap: wrap
+	width: $thumbsize * 20
 	.log-image
-		height: 240px
-		width: @height
-		flex: 0 0 @height
-		margin: 8px
+		display: block
+		height: $thumbsize
+		width: $thumbsize
+		flex: 0 0 $thumbsize
 		background-size: cover
 		background-position: 50%
 .posts
