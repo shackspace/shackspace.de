@@ -8,7 +8,8 @@
   "scripts": {
     "start": "hexo server",
     "build": "hexo generate",
-    "deploy": "hexo deploy"
+    "deploy": "hexo deploy",
+    "generate-events": "node generate-events.js"
   },
   "dependencies": {
     "autoprefixer-stylus": "^0.14.0",
@@ -25,6 +26,7 @@
     "hexo-renderer-pug": "0.0.5",
     "hexo-server": "^0.2.0",
     "nib": "^1.1.2",
+    "request": "^2.81.0",
     "rupture": "^0.6.2",
     "stylus": "^0.54.5"
   }
