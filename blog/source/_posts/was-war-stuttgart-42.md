@@ -3,7 +3,7 @@ title: 'Was war: Stuttgart 42'
 url: 1482.html
 id: 1482
 categories:
-  - Allgemein
+  - announcements
 date: 2010-10-12 23:15:50
 tags:
 ---

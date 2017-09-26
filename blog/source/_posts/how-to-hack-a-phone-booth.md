@@ -3,7 +3,7 @@ title: How to Hack a Phone Booth
 url: 1925.html
 id: 1925
 categories:
-  - Allgemein
+  - announcements
 date: 2011-04-14 11:39:16
 tags:
 ---

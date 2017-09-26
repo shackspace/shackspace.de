@@ -3,7 +3,7 @@ title: 'Workshop/Meeting: Reverse Engineering'
 url: 3371.html
 id: 3371
 categories:
-  - Termine
+  - events
 date: 2012-08-24 09:26:32
 tags:
 ---

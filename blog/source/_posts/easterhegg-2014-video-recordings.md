@@ -3,7 +3,7 @@ title: 'Easterhegg 2014: Video Recordings'
 url: 4611.html
 id: 4611
 categories:
-  - Allgemein
+  - announcements
 date: 2014-04-25 14:14:16
 tags:
 ---

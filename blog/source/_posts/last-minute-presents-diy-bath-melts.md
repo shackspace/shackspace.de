@@ -3,7 +3,7 @@ title: 'Last Minute Presents: DIY Bath Melts'
 url: 3666.html
 id: 3666
 categories:
-  - Allgemein
+  - announcements
 date: 2012-12-21 20:25:03
 tags:
 ---

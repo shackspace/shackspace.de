@@ -3,7 +3,7 @@ title: 'Video: Grundlagen der Netzwerktechnik'
 url: 4034.html
 id: 4034
 categories:
-  - Allgemein
+  - announcements
 date: 2013-05-03 08:55:43
 tags:
 ---

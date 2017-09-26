@@ -6,7 +6,7 @@ tags:
 url: 325.html
 id: 325
 categories:
-  - Allgemein
+  - announcements
 date: 2010-01-12 15:48:49
 ---
 

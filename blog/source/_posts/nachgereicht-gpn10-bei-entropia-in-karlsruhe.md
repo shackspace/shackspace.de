@@ -3,7 +3,7 @@ title: 'Nachgereicht: GPN10 bei Entropia in Karlsruhe'
 url: 1263.html
 id: 1263
 categories:
-  - Allgemein
+  - announcements
 date: 2010-08-26 18:17:32
 tags:
 ---

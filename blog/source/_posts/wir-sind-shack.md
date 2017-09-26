@@ -5,14 +5,14 @@ tags:
   - hackspace
   - Mitmachen
   - shack
-  - Termine
+  - events
   - Treffen
   - verein
   - weltherrschaft
 url: 485.html
 id: 485
 categories:
-  - Allgemein
+  - announcements
   - Mitmachen
   - Treffen
 date: 2010-02-20 21:00:20

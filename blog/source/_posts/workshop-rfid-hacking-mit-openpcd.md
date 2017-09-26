@@ -3,8 +3,8 @@ title: 'Workshop: RFID Hacking mit OpenPCD'
 url: 4066.html
 id: 4066
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2013-05-10 18:15:17
 tags:
 ---

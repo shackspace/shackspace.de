@@ -3,7 +3,7 @@ title: 'Treffen: Blender User Group Stuttgart'
 url: 4803.html
 id: 4803
 categories:
-  - Termine
+  - events
 date: 2014-11-14 22:35:12
 tags:
 ---

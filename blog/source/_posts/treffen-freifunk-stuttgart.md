@@ -3,7 +3,7 @@ title: 'Treffen: Freifunk Stuttgart'
 url: 2805.html
 id: 2805
 categories:
-  - Termine
+  - events
 date: 2012-02-01 09:15:43
 tags:
 ---

@@ -3,7 +3,7 @@ title: 'Projekt: RGB Wall Plasma'
 url: 4060.html
 id: 4060
 categories:
-  - Allgemein
+  - announcements
 date: 2013-05-12 10:00:24
 tags:
 ---

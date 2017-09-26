@@ -3,7 +3,7 @@ title: 'Constellation/hgg: Stable DCF77 Signal Parsing'
 url: 2506.html
 id: 2506
 categories:
-  - Allgemein
+  - announcements
 tags:
 ---
 

@@ -3,8 +3,8 @@ title: 'Vortrag und Anfängerkurs: Go'
 url: 1726.html
 id: 1726
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2011-02-04 11:23:16
 tags:
 ---

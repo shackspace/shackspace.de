@@ -3,7 +3,7 @@ title: 'Review: Power consumption Kesselvillage #cccamp15'
 url: 5151.html
 id: 5151
 categories:
-  - Allgemein
+  - announcements
 date: 2015-09-16 23:00:33
 tags:
 ---

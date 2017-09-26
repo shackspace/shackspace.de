@@ -3,7 +3,7 @@ title: 'Softwerkskammer Workshop: CodeKata'
 url: 5114.html
 id: 5114
 categories:
-  - Termine
+  - events
 date: 2015-09-10 13:12:17
 tags:
 ---

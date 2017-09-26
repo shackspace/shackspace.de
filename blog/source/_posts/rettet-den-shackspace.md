@@ -3,7 +3,7 @@ title: Willkommen
 url: 1591.html
 id: 1591
 categories:
-  - Allgemein
+  - announcements
 date: 2010-12-29 13:25:19
 tags:
 ---

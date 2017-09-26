@@ -5,7 +5,7 @@ title: >-
 url: 3772.html
 id: 3772
 categories:
-  - Allgemein
+  - announcements
 date: 2013-01-14 21:23:10
 tags:
 ---

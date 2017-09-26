@@ -3,7 +3,7 @@ title: news - kw 16/2010
 url: 837.html
 id: 837
 categories:
-  - Allgemein
+  - announcements
 date: 2010-04-09 06:26:14
 tags:
 ---

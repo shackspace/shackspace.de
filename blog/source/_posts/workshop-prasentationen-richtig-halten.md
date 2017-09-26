@@ -3,7 +3,7 @@ title: 'Workshop: Präsentationen richtig halten'
 url: 3030.html
 id: 3030
 categories:
-  - Allgemein
+  - announcements
 date: 2012-04-04 18:47:32
 tags:
 ---

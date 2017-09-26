@@ -3,7 +3,7 @@ title: 'Treffen: 15 Jahre Wikipedia'
 url: 5319.html
 id: 5319
 categories:
-  - Termine
+  - events
 date: 2016-01-13 16:06:51
 tags:
 ---

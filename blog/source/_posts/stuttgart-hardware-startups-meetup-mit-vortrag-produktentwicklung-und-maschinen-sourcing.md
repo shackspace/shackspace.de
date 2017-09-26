@@ -3,7 +3,7 @@ title: Stuttgart Hardware Startups Meetup
 url: 4865.html
 id: 4865
 categories:
-  - Termine
+  - events
 date: 2015-02-02 11:14:10
 tags:
 ---

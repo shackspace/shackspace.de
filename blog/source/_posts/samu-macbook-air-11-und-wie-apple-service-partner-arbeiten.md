@@ -3,7 +3,7 @@ title: MacBook Air 11" und wie Apple Service Partner arbeiten
 url: 2275.html
 id: 2275
 categories:
-  - Allgemein
+  - announcements
 date: 2011-08-08 02:20:15
 tags:
 ---

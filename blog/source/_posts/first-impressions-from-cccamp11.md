@@ -3,7 +3,7 @@ title: 'First Impressions from #cccamp11'
 url: 2315.html
 id: 2315
 categories:
-  - Allgemein
+  - announcements
 date: 2011-08-10 09:40:00
 tags:
 ---

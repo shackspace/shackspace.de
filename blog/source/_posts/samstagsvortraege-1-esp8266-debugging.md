@@ -3,8 +3,8 @@ title: 'Samstagsvorträge #1: ESP8266 Debugging'
 url: 5358.html
 id: 5358
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2016-02-03 23:38:34
 tags:
 ---

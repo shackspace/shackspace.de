@@ -3,7 +3,7 @@ title: 'Vortrag: Elektromobilität'
 url: 2831.html
 id: 2831
 categories:
-  - Termine
+  - events
 date: 2012-02-06 09:51:38
 tags:
 ---

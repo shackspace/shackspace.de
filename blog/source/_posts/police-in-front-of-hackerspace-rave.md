@@ -3,7 +3,7 @@ title: Police in front of hackerspace? RAVE!
 url: 2542.html
 id: 2542
 categories:
-  - Allgemein
+  - announcements
 date: 2011-11-06 02:12:06
 tags:
 ---

@@ -3,7 +3,7 @@ title: 'Treffen: Linux User Group Stuttgart (LUGS)'
 url: 2870.html
 id: 2870
 categories:
-  - Termine
+  - events
 date: 2012-02-23 20:20:56
 tags:
 ---

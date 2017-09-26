@@ -3,7 +3,7 @@ title: 'Krypto-Workshop 1: Grundlagen'
 url: 3069.html
 id: 3069
 categories:
-  - Termine
+  - events
 date: 2012-04-25 08:47:31
 tags:
 ---

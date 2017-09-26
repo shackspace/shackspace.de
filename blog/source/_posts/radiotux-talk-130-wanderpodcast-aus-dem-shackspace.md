@@ -3,7 +3,7 @@ title: 'RadioTux Talk #130: Wanderpodcast aus dem shackspace'
 url: 2084.html
 id: 2084
 categories:
-  - Allgemein
+  - announcements
 date: 2011-05-20 11:07:58
 tags:
 ---

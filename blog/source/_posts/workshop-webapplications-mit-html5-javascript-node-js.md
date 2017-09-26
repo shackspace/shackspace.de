@@ -3,8 +3,8 @@ title: 'Workshop: Webapplications mit HTML5, JavaScript & node.js'
 url: 3448.html
 id: 3448
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2012-09-17 09:06:17
 tags:
 ---

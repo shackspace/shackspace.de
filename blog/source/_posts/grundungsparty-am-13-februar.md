@@ -2,13 +2,13 @@
 title: Gründungsparty am 20. Februar
 tags:
   - Mitmachen
-  - Termine
+  - events
   - Treffen
 url: 413.html
 id: 413
 categories:
   - Grundsätzliches
-  - Termine
+  - events
   - Treffen
 date: 2010-02-10 12:00:41
 ---

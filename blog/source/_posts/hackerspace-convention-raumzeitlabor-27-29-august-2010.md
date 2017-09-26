@@ -3,8 +3,8 @@ title: Hackerspace-Convention RaumZeitLabor 27.-29. August 2010
 url: 1178.html
 id: 1178
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2010-07-20 17:13:51
 tags:
 ---

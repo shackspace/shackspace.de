@@ -3,7 +3,7 @@ title: 'Workshop: Chainmail'
 url: 4969.html
 id: 4969
 categories:
-  - Termine
+  - events
 date: 2015-04-22 11:35:32
 tags:
 ---

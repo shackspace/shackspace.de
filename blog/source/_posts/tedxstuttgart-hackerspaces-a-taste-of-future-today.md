@@ -3,7 +3,7 @@ title: 'TEDxStuttgart: Hackerspaces, A Taste of Future, Today'
 url: 3924.html
 id: 3924
 categories:
-  - Allgemein
+  - announcements
 date: 2013-03-12 20:19:41
 tags:
 ---

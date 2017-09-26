@@ -3,7 +3,7 @@ title: 'Insiderwissen: Wann ist der shackspace offen?'
 url: 1404.html
 id: 1404
 categories:
-  - Allgemein
+  - announcements
 date: 2010-09-24 12:45:18
 tags:
 ---

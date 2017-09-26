@@ -3,8 +3,8 @@ title: 'CypherPunks: Passwortsicherheit und -management / Keysigning Party'
 url: 4266.html
 id: 4266
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2013-08-01 10:55:04
 tags:
 ---

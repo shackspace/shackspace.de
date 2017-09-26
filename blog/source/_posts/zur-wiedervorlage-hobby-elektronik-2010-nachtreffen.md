@@ -3,7 +3,7 @@ title: 'Zur Wiedervorlage: Hobby & Elektronik 2010 - Nachtreffen'
 url: 1547.html
 id: 1547
 categories:
-  - Allgemein
+  - announcements
 date: 2010-11-23 17:04:14
 tags:
 ---

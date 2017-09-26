@@ -3,7 +3,7 @@ title: Einweihung des Weltenraum und Vortrag mit Hands-on Workshop zum Amateurfu
 url: 5482.html
 id: 5482
 categories:
-  - Allgemein
+  - announcements
 date: 2017-02-01 18:13:50
 tags:
 ---

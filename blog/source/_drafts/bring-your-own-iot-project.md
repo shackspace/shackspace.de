@@ -3,8 +3,8 @@ title: Bring Your Own IOT project
 url: 5593.html
 id: 5593
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 tags:
 ---
 

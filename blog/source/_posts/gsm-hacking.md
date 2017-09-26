@@ -3,7 +3,7 @@ title: GSM Hacking
 url: 1716.html
 id: 1716
 categories:
-  - Allgemein
+  - announcements
 date: 2011-02-04 11:22:02
 tags:
 ---

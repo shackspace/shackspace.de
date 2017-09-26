@@ -3,7 +3,7 @@ title: news kw 21_10
 url: 1111.html
 id: 1111
 categories:
-  - Allgemein
+  - announcements
 date: 2010-07-21 09:39:13
 tags:
 ---
@@ -13,7 +13,7 @@ tags:
 **Extrem ungefährer Wochenkalender des shack:**
 _Montags:_ hack-monday für Software & Gerät. Start ab 20:00 am Tisch. Pizza wird geordert.
 _Mittwoch/Donnerstag_: ist jew. abwechselnd Plenum (s.o.)
-_Freitag und Wochenende_: Basteln, Treffen, Parties - allgemein und ohne zeitliche limits, offen meist ab abends - Status [im Wiki ansehen](http://shackspace/wiki/).
+_Freitag und Wochenende_: Basteln, Treffen, Parties - announcements und ohne zeitliche limits, offen meist ab abends - Status [im Wiki ansehen](http://shackspace/wiki/).
 
 +
 **Der NoSQL-Summer** bespricht offene Technik-Fragen bei Datenspeicherung und -organisation. Termin wird derzeit noch besprochen,  Lesestoff ist <a>"Google's MapReduce"</a> und

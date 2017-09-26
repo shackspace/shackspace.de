@@ -2,12 +2,12 @@
 title: Naechstes Treffen im Forum 3 S-City
 tags:
   - Mitmachen
-  - Termine
+  - events
   - Treffen
 url: 452.html
 id: 452
 categories:
-  - Termine
+  - events
   - Treffen
 date: 2010-02-04 13:01:06
 ---

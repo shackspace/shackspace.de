@@ -3,7 +3,7 @@ title: Augmented Reality Ultrasound
 url: 5339.html
 id: 5339
 categories:
-  - Allgemein
+  - announcements
 date: 2016-01-24 15:48:34
 tags:
 ---

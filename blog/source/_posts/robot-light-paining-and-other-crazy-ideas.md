@@ -3,7 +3,7 @@ title: Robot Light Painting and Other Crazy Ideas
 url: 3284.html
 id: 3284
 categories:
-  - Allgemein
+  - announcements
 date: 2012-06-25 20:51:09
 tags:
 ---

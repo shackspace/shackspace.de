@@ -3,7 +3,7 @@ title: 'Diesen Sommer: Nerdig Talking im shackspace'
 url: 2249.html
 id: 2249
 categories:
-  - Allgemein
+  - announcements
 date: 2011-07-21 11:36:46
 tags:
 ---

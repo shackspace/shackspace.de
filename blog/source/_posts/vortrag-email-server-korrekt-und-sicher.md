@@ -3,7 +3,7 @@ title: 'Vortrag: Email Server - korrekt und sicher'
 url: 5399.html
 id: 5399
 categories:
-  - Termine
+  - events
 date: 2016-04-27 10:07:34
 tags:
 ---

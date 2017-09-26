@@ -3,8 +3,8 @@ title: SHS - Saturday Hack Sessions
 url: 2034.html
 id: 2034
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2011-05-04 09:25:09
 tags:
 ---

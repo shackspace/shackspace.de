@@ -3,7 +3,7 @@ title: Single-sided through-hole USBasp
 url: 1765.html
 id: 1765
 categories:
-  - Allgemein
+  - announcements
 date: 2011-02-15 11:20:26
 tags:
 ---

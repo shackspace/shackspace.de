@@ -3,7 +3,7 @@ title: 'Project: ResCan - Resistor Value Scanner'
 url: 4576.html
 id: 4576
 categories:
-  - Allgemein
+  - announcements
 date: 2014-05-24 10:48:33
 tags:
 ---

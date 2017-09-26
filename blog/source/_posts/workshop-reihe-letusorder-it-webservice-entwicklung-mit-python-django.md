@@ -3,7 +3,7 @@ title: 'Workshop Reihe: LetUsOrder.it - Webservice Entwicklung mit Python & Djan
 url: 4791.html
 id: 4791
 categories:
-  - Termine
+  - events
 date: 2014-10-22 10:28:36
 tags:
 ---

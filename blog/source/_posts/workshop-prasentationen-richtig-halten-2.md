@@ -3,7 +3,7 @@ title: 'Workshop: Präsentationen richtig halten'
 url: 3148.html
 id: 3148
 categories:
-  - Allgemein
+  - announcements
 date: 2012-06-11 10:51:19
 tags:
 ---

@@ -20,8 +20,8 @@ html
 		nav.primary
 			a.logo(href="/"): img.logo(src='/img/logo-white-bg-no-tagline.svg', alt='shackspace')
 			.links
-				a(href="#") Announcements
-				a(href="/posts") Events
+				a(href=url_for('/announcements')) Announcements
+				a(href=url_for('/events')) Events
 				a(href="#") Projects
 				a(href="https://wiki.shackspace.de") Wiki
 				a(href="#") Location

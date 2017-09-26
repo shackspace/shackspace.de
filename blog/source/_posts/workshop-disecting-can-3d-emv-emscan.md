@@ -3,7 +3,7 @@ title: 'Workshop: Disecting CAN & 3D EMV EMScan'
 url: 5035.html
 id: 5035
 categories:
-  - Termine
+  - events
 date: 2015-06-09 13:21:58
 tags:
 ---

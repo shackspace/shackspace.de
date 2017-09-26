@@ -3,8 +3,8 @@ title: 'Treffen & Vortäge: Stuttgart Virtual Reality Meetup'
 url: 4999.html
 id: 4999
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2015-05-18 12:02:39
 tags:
 ---

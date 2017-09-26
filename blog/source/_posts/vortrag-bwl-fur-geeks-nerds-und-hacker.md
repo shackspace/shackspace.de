@@ -3,7 +3,7 @@ title: 'Vortrag: BWL für Geeks, Nerds und Hacker'
 url: 2924.html
 id: 2924
 categories:
-  - Termine
+  - events
 date: 2012-03-12 09:26:35
 tags:
 ---

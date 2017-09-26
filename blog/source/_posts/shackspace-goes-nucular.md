@@ -3,7 +3,7 @@ title: shackspace goes nucular
 url: 5323.html
 id: 5323
 categories:
-  - Allgemein
+  - announcements
 date: 2016-01-18 21:15:16
 tags:
 ---

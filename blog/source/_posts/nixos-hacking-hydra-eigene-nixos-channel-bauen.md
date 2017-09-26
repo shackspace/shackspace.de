@@ -3,8 +3,8 @@ title: 'NixOS Hacking: Hydra - eigene NixOS Channel bauen'
 url: 5051.html
 id: 5051
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2015-06-17 08:06:16
 tags:
 ---

@@ -3,7 +3,7 @@ title: Getönt und geschlagen
 url: 1583.html
 id: 1583
 categories:
-  - Allgemein
+  - announcements
 date: 2010-12-15 11:17:27
 tags:
 ---

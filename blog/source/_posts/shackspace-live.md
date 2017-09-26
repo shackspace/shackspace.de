@@ -3,7 +3,7 @@ title: shackspace live!
 url: 2198.html
 id: 2198
 categories:
-  - Allgemein
+  - announcements
 date: 2011-06-18 03:00:34
 tags:
 ---

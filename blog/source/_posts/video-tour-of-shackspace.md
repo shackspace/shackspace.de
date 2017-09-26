@@ -3,7 +3,7 @@ title: Video-Tour of shackspace
 url: 2190.html
 id: 2190
 categories:
-  - Allgemein
+  - announcements
 date: 2011-06-12 10:51:56
 tags:
 ---

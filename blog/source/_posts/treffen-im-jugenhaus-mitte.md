@@ -3,7 +3,7 @@ title: 10.03. 2010 Treffen Jugendhaus Mitte
 url: 628.html
 id: 628
 categories:
-  - Termine
+  - events
 date: 2010-03-09 20:34:19
 tags:
 ---

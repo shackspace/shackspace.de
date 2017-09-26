@@ -3,7 +3,7 @@ title: 16x16 LED Plasma Display w/ 100% hand-made SMD Driver PCB
 url: 1815.html
 id: 1815
 categories:
-  - Allgemein
+  - announcements
 date: 2011-02-25 15:11:23
 tags:
 ---

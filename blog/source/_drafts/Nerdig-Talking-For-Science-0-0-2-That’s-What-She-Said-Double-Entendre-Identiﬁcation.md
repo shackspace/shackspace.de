@@ -5,6 +5,6 @@ title: >-
 url: 2273.html
 id: 2273
 categories:
-  - Allgemein
+  - announcements
 tags:
 ---

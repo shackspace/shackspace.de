@@ -3,7 +3,7 @@ title: Global Game Jam 2013 - Review
 url: 3841.html
 id: 3841
 categories:
-  - Allgemein
+  - announcements
 date: 2013-01-30 14:36:26
 tags:
 ---

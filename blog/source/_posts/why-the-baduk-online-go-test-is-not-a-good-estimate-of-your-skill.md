@@ -3,7 +3,7 @@ title: Why the Baduk online Go test is not a good estimate of your skill
 url: 1772.html
 id: 1772
 categories:
-  - Allgemein
+  - announcements
 date: 2011-02-19 19:46:35
 tags:
 ---

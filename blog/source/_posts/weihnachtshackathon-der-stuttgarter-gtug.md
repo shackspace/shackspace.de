@@ -3,7 +3,7 @@ title: Weihnachtshackathon der Stuttgarter GTUG
 url: 2545.html
 id: 2545
 categories:
-  - Termine
+  - events
 date: 2011-12-01 18:00:14
 tags:
 ---

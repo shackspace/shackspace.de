@@ -3,7 +3,7 @@ title: 'Workshop: 3D-Modellierung in Blender #2'
 url: 3746.html
 id: 3746
 categories:
-  - Termine
+  - events
 date: 2013-01-10 10:40:27
 tags:
 ---

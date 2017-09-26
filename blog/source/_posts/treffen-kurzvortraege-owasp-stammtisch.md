@@ -3,7 +3,7 @@ title: 'Treffen & Kurzvorträge: OWASP Stammtisch'
 url: 4715.html
 id: 4715
 categories:
-  - Termine
+  - events
 date: 2014-08-27 12:04:14
 tags:
 ---

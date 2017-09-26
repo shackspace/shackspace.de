@@ -3,7 +3,7 @@ title: shackspace open/close monitor
 url: 2092.html
 id: 2092
 categories:
-  - Allgemein
+  - announcements
 date: 2011-05-22 08:22:51
 tags:
 ---

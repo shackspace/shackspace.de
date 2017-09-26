@@ -3,7 +3,7 @@ title: 'SMD Workshop: Success!'
 url: 2555.html
 id: 2555
 categories:
-  - Allgemein
+  - announcements
 date: 2011-11-17 11:33:36
 tags:
 ---

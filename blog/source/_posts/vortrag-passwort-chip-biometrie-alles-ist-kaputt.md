@@ -3,8 +3,8 @@ title: 'Vortrag: Passwort, Chip, Biometrie - Alles ist kaputt.'
 url: 5385.html
 id: 5385
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2016-04-06 14:57:06
 tags:
 ---

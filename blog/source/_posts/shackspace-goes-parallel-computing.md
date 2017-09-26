@@ -3,7 +3,7 @@ title: shackspace goes parallel computing!
 url: 2381.html
 id: 2381
 categories:
-  - Allgemein
+  - announcements
 date: 2011-09-12 13:17:54
 tags:
 ---

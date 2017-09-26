@@ -3,7 +3,7 @@ title: 'CypherPunks: SSL / TLS Workshop'
 url: 4409.html
 id: 4409
 categories:
-  - Termine
+  - events
 date: 2013-12-02 15:41:57
 tags:
 ---

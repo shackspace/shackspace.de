@@ -3,7 +3,7 @@ title: 'Aufzeichnung: Thundertalks 0x06 - emscripten'
 url: 4052.html
 id: 4052
 categories:
-  - Allgemein
+  - announcements
 date: 2013-05-10 09:02:38
 tags:
 ---

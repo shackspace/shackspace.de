@@ -3,8 +3,8 @@ title: 'Workshop: Pen & Paper Rollenspiel: Das Schwarze Auge (DSA)'
 url: 3506.html
 id: 3506
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2012-10-22 23:47:53
 tags:
 ---

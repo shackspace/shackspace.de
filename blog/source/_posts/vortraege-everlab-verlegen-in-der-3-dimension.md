@@ -3,7 +3,7 @@ title: 'Vorträge: everlab: Verlegen in der 3. Dimension'
 url: 4989.html
 id: 4989
 categories:
-  - Termine
+  - events
 date: 2015-05-04 14:09:10
 tags:
 ---

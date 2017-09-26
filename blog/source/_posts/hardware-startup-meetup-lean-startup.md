@@ -3,7 +3,7 @@ title: 'Hardware Startup Meetup: Lean Startup'
 url: 4921.html
 id: 4921
 categories:
-  - Termine
+  - events
 date: 2015-03-02 08:30:45
 tags:
 ---

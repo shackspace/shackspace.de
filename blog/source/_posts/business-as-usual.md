@@ -3,7 +3,7 @@ title: Business as Usual
 url: 2240.html
 id: 2240
 categories:
-  - Allgemein
+  - announcements
 date: 2011-07-18 10:38:35
 tags:
 ---

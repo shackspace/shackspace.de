@@ -3,7 +3,7 @@ title: news- kw14/2010
 url: 778.html
 id: 778
 categories:
-  - Allgemein
+  - announcements
 date: 2010-04-04 12:54:59
 tags:
 ---

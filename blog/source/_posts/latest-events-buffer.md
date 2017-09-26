@@ -3,7 +3,7 @@ title: latest events buffer
 url: 4222.html
 id: 4222
 categories:
-  - Allgemein
+  - announcements
 date: 2013-07-05 09:17:10
 tags:
 ---

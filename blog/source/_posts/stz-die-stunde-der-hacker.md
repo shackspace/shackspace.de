@@ -3,7 +3,7 @@ title: 'StZ: Die Stunde der Hacker'
 url: 4385.html
 id: 4385
 categories:
-  - Allgemein
+  - announcements
 date: 2013-10-07 12:47:26
 tags:
 ---

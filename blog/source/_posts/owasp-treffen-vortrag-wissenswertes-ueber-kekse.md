@@ -3,7 +3,7 @@ title: 'OWASP Treffen & Vortrag: Wissenswertes über Kekse'
 url: 4796.html
 id: 4796
 categories:
-  - Termine
+  - events
 date: 2014-10-22 10:41:26
 tags:
 ---

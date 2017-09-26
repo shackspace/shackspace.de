@@ -3,7 +3,7 @@ title: 'Treffen: OpenStreetMap'
 url: 3501.html
 id: 3501
 categories:
-  - Termine
+  - events
 date: 2012-10-22 23:36:11
 tags:
 ---

@@ -3,7 +3,7 @@ title: Chaos Communication Camp 2015
 url: 5080.html
 id: 5080
 categories:
-  - Allgemein
+  - announcements
 date: 2015-08-06 10:04:16
 tags:
 ---

@@ -3,7 +3,7 @@ title: 'shackspace 2.0: The Great Move'
 url: 1894.html
 id: 1894
 categories:
-  - Allgemein
+  - announcements
 date: 2011-03-24 10:32:51
 tags:
 ---

@@ -3,10 +3,10 @@ title: World Create Day 2017 im shackspace am 22. April
 url: 5548.html
 id: 5548
 categories:
-  - Allgemein
+  - announcements
   - Mitmachen
   - Projekte
-  - Termine
+  - events
   - Treffen
 date: 2017-04-19 15:54:11
 tags:

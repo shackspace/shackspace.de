@@ -3,7 +3,7 @@ title: Frickelwochen 2013 im Januar
 url: 3622.html
 id: 3622
 categories:
-  - Termine
+  - events
 date: 2012-12-18 12:00:03
 tags:
 ---

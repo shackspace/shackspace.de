@@ -3,7 +3,7 @@ title: 'LHC II is over, long live LHC!'
 url: 2338.html
 id: 2338
 categories:
-  - Allgemein
+  - announcements
 date: 2011-08-29 11:07:09
 tags:
 ---

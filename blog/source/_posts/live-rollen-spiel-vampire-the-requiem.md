@@ -3,8 +3,8 @@ title: 'Live-Rollen-Spiel: Vampire The Requiem'
 url: 4108.html
 id: 4108
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2013-05-27 22:28:16
 tags:
 ---

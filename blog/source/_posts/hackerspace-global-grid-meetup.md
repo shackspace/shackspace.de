@@ -3,7 +3,7 @@ title: Hackerspace Global Grid Meetup
 url: 2722.html
 id: 2722
 categories:
-  - Termine
+  - events
 date: 2012-01-01 19:16:27
 tags:
 ---

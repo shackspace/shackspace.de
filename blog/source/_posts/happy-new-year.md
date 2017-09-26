@@ -3,7 +3,7 @@ title: Happy New Year!
 url: 3699.html
 id: 3699
 categories:
-  - Allgemein
+  - announcements
 date: 2013-01-01 20:40:22
 tags:
 ---

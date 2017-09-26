@@ -3,7 +3,7 @@ title: We've got a Floor!
 url: 2049.html
 id: 2049
 categories:
-  - Allgemein
+  - announcements
 date: 2011-05-07 15:09:36
 tags:
 ---

@@ -3,7 +3,7 @@ title: QRV - shackspace uebernimmt den Aether
 url: 1399.html
 id: 1399
 categories:
-  - Termine
+  - events
 date: 2010-09-22 14:51:57
 tags:
 ---

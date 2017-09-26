@@ -3,7 +3,7 @@ title: 'Projects: Hexacopter FPV'
 url: 4574.html
 id: 4574
 categories:
-  - Allgemein
+  - announcements
 date: 2014-03-24 10:40:10
 tags:
 ---

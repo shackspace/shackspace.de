@@ -3,7 +3,7 @@ title: shackspace at 30c3
 url: 4427.html
 id: 4427
 categories:
-  - Allgemein
+  - announcements
 date: 2013-12-26 10:59:28
 tags:
 ---

@@ -6,10 +6,10 @@ block content
 		#activites-slider
 			h2 a place to
 			#activities
-				div
+				.text
 		nav.links
-			a(href=url_for(config.archive_dir)) Announcements
-			a(href="#") Upcoming Events
+			a(href=url_for('/announcements')) Announcements
+			a(href=url_for('/events')) Upcoming Events
 			a(href="#") Projects
 			a(href="https://wiki.shackspace.de") Wiki
 			a(href="#") Location

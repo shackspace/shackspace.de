@@ -3,8 +3,8 @@ title: 'Workshop: Upgrade your WR703 (minikrebs) and others'
 url: 4479.html
 id: 4479
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2014-01-14 19:12:17
 tags:
 ---

@@ -3,7 +3,7 @@ title: 'Rückblick: RepairCafe'
 url: 4147.html
 id: 4147
 categories:
-  - Allgemein
+  - announcements
 tags:
 ---
 

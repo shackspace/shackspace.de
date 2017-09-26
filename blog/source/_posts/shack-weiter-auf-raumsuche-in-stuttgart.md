@@ -6,7 +6,7 @@ tags:
 url: 497.html
 id: 497
 categories:
-  - Allgemein
+  - announcements
   - Grundsätzliches
 date: 2010-02-24 10:56:28
 ---

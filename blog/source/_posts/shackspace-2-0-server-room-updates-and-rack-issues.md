@@ -3,7 +3,7 @@ title: 'shackspace 2.0: server room updates and rack issues'
 url: 1880.html
 id: 1880
 categories:
-  - Allgemein
+  - announcements
 date: 2011-03-11 11:40:18
 tags:
 ---

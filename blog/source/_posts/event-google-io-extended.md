@@ -3,7 +3,7 @@ title: 'Event: Google I/O Extended'
 url: 3256.html
 id: 3256
 categories:
-  - Termine
+  - events
 date: 2012-06-20 12:00:14
 tags:
 ---

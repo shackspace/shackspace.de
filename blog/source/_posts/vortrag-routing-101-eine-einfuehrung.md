@@ -3,8 +3,8 @@ title: 'Vortrag: Routing 101 - Eine Einführung'
 url: 4883.html
 id: 4883
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2015-02-10 20:13:50
 tags:
 ---

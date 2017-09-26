@@ -3,7 +3,7 @@ title: CCCS Vortrag zum Turing-Jahr 2012 in der Stadtbibliothek
 url: 3321.html
 id: 3321
 categories:
-  - Termine
+  - events
 date: 2012-07-11 15:04:06
 tags:
 ---

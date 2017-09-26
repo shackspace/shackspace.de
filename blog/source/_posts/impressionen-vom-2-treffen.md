@@ -3,7 +3,7 @@ title: 'Impressionen vom 2.Treffen '
 url: 105.html
 id: 105
 categories:
-  - Allgemein
+  - announcements
   - Treffen
 date: 2009-11-09 22:47:22
 tags:

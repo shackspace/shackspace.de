@@ -3,7 +3,7 @@ title: Projectmovie 2010
 url: 1651.html
 id: 1651
 categories:
-  - Allgemein
+  - announcements
 date: 2011-01-10 13:50:50
 tags:
 ---

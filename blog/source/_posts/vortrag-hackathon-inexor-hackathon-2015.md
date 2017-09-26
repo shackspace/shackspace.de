@@ -3,8 +3,8 @@ title: 'Vortrag & Hackathon: Inexor Hackathon 2015'
 url: 5228.html
 id: 5228
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2015-11-28 15:43:42
 tags:
 ---

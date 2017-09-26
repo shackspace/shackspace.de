@@ -3,7 +3,7 @@ title: Callin Treffen
 url: 255.html
 id: 255
 categories:
-  - Termine
+  - events
   - Treffen
 date: 2009-11-30 10:16:27
 tags:

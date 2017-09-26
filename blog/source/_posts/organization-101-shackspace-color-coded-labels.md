@@ -3,7 +3,7 @@ title: 'Organization 101: shackspace Color-Coded Labels'
 url: 3565.html
 id: 3565
 categories:
-  - Allgemein
+  - announcements
 date: 2012-11-16 23:14:22
 tags:
 ---

@@ -3,7 +3,7 @@ title: 'shackspace 2.0: progress and set-backs'
 url: 1846.html
 id: 1846
 categories:
-  - Allgemein
+  - announcements
 date: 2011-03-06 12:58:20
 tags:
 ---

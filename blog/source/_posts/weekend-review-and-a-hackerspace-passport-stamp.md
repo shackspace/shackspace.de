@@ -3,7 +3,7 @@ title: Weekend Review and a Hackerspace Passport Stamp
 url: 2322.html
 id: 2322
 categories:
-  - Allgemein
+  - announcements
 date: 2011-08-22 10:26:31
 tags:
 ---

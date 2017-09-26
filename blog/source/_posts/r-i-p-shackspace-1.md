@@ -3,7 +3,7 @@ title: 'R.I.P. shackspace #1'
 url: 3126.html
 id: 3126
 categories:
-  - Allgemein
+  - announcements
 date: 2012-05-23 09:23:38
 tags:
 ---

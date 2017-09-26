@@ -3,7 +3,7 @@ title: 'Hobby & Elektronik Messe: Kostenlose Lötworkshops für Kinder'
 url: 4805.html
 id: 4805
 categories:
-  - Termine
+  - events
 date: 2014-11-16 15:41:59
 tags:
 ---

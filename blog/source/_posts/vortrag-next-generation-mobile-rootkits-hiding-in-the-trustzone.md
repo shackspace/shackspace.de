@@ -3,7 +3,7 @@ title: 'Vortrag: Next generation mobile rootkits: Hiding in the TrustZone.'
 url: 4046.html
 id: 4046
 categories:
-  - Termine
+  - events
 date: 2013-05-08 09:46:52
 tags:
 ---

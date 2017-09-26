@@ -3,7 +3,7 @@ title: 'Workshop: Programmieren in Python'
 url: 2866.html
 id: 2866
 categories:
-  - Termine
+  - events
 date: 2012-02-21 08:50:31
 tags:
 ---

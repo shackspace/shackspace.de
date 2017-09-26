@@ -3,7 +3,7 @@ title: 'Internationaler Besuch: Ruiwen von hackerspacesg in Singapur'
 url: 1558.html
 id: 1558
 categories:
-  - Allgemein
+  - announcements
 date: 2010-12-06 10:30:01
 tags:
 ---

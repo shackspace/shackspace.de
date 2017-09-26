@@ -3,7 +3,7 @@ title: 'Treffen: Constellation'
 url: 2420.html
 id: 2420
 categories:
-  - Termine
+  - events
   - Treffen
 date: 2011-09-23 13:07:50
 tags:

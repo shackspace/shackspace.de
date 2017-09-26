@@ -3,7 +3,7 @@ title: News - kw 28/2010
 url: 1101.html
 id: 1101
 categories:
-  - Allgemein
+  - announcements
 date: 2010-06-24 17:54:02
 tags:
 ---

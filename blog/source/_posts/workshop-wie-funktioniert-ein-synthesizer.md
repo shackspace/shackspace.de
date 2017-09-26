@@ -3,8 +3,8 @@ title: 'Workshop: Wie funktioniert ein Synthesizer'
 url: 3758.html
 id: 3758
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2013-01-21 13:00:22
 tags:
 ---

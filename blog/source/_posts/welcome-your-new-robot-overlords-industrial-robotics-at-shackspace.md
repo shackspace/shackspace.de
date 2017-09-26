@@ -3,7 +3,7 @@ title: Welcome your new Robot Overlords! Industrial Robotics at shackspace
 url: 4287.html
 id: 4287
 categories:
-  - Allgemein
+  - announcements
 date: 2013-08-06 20:11:04
 tags:
 ---

@@ -3,7 +3,7 @@ title: news - kw 18/2010
 url: 902.html
 id: 902
 categories:
-  - Allgemein
+  - announcements
 date: 2010-05-02 12:08:36
 tags:
 ---

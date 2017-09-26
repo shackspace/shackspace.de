@@ -3,7 +3,7 @@ title: 'Workshop: PE-Design Next Stickmaschinensoftware'
 url: 3846.html
 id: 3846
 categories:
-  - Termine
+  - events
 date: 2013-01-30 22:01:06
 tags:
 ---

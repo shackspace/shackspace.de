@@ -3,7 +3,7 @@ title: 'Doppelt Härter Zocken: LAN Party Doppel-Wochenende im shackspace'
 url: 2874.html
 id: 2874
 categories:
-  - Termine
+  - events
 date: 2012-02-25 20:50:59
 tags:
 ---

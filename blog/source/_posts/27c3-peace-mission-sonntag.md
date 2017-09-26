@@ -3,7 +3,7 @@ title: '27c3 Peace Mission: Sonntag'
 url: 1613.html
 id: 1613
 categories:
-  - Allgemein
+  - announcements
 date: 2010-12-26 22:00:27
 tags:
 ---

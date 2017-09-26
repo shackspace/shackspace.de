@@ -3,7 +3,7 @@ title: 'Sysadmin Day 2012: GUUG & shackspace laden zum gemeinsamen Grillabend'
 url: 3332.html
 id: 3332
 categories:
-  - Termine
+  - events
 date: 2012-07-12 15:04:51
 tags:
 ---

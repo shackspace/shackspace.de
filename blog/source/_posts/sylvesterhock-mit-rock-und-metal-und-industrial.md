@@ -3,7 +3,7 @@ title: 'Sylvesterhock mit Rock (und Metal, und Industrial)'
 url: 2701.html
 id: 2701
 categories:
-  - Termine
+  - events
 date: 2011-12-21 19:37:05
 tags:
 ---

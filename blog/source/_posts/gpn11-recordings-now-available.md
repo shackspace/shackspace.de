@@ -3,7 +3,7 @@ title: 'GPN11: Recordings now available'
 url: 2376.html
 id: 2376
 categories:
-  - Allgemein
+  - announcements
 date: 2011-09-09 15:43:12
 tags:
 ---

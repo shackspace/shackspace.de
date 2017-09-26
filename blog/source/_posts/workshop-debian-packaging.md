@@ -3,7 +3,7 @@ title: 'Workshop: debian packaging'
 url: 5137.html
 id: 5137
 categories:
-  - Allgemein
+  - announcements
 date: 2015-09-13 14:49:53
 tags:
 ---

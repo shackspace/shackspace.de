@@ -3,7 +3,7 @@ title: 'shackspace 2.0: nerds, tear down that wall!'
 url: 1865.html
 id: 1865
 categories:
-  - Allgemein
+  - announcements
 date: 2011-03-08 11:52:29
 tags:
 ---

@@ -3,8 +3,8 @@ title: 'Event: Tag der offenen Tür #3'
 url: 3348.html
 id: 3348
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2012-08-27 16:01:03
 tags:
 ---

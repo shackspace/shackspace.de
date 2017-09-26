@@ -3,7 +3,7 @@ title: Après-Congress Jahresausklang mit Hack & Lounge im shackspace
 url: 3617.html
 id: 3617
 categories:
-  - Termine
+  - events
 date: 2012-12-16 14:30:04
 tags:
 ---

@@ -3,7 +3,7 @@ title: 'Workshop: NixOS hack session'
 url: 4935.html
 id: 4935
 categories:
-  - Allgemein
+  - announcements
 date: 2015-03-25 19:17:00
 tags:
 ---

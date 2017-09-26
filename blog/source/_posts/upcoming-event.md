@@ -4,8 +4,8 @@ url: 2145.html
 id: 2145
 comments: false
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2011-06-20 10:21:31
 tags:
 ---

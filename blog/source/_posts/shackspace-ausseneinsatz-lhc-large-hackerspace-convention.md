@@ -3,7 +3,7 @@ title: 'shackspace Ausseneinsatz: LHC (Large Hackerspace Convention)'
 url: 1259.html
 id: 1259
 categories:
-  - Allgemein
+  - announcements
 date: 2010-08-26 13:41:40
 tags:
 ---

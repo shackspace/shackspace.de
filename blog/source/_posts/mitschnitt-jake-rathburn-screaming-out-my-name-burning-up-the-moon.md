@@ -3,7 +3,7 @@ title: 'Mitschnitt: Jake Rathburn – Screaming Out My Name / Burning Up The Moo
 url: 4009.html
 id: 4009
 categories:
-  - Allgemein
+  - announcements
 date: 2013-04-13 14:49:59
 tags:
 ---

@@ -3,7 +3,7 @@ title: We have signal
 url: 2491.html
 id: 2491
 categories:
-  - Allgemein
+  - announcements
 date: 2011-10-21 18:53:34
 tags:
 ---

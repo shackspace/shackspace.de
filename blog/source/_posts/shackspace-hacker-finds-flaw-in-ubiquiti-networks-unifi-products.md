@@ -3,7 +3,7 @@ title: shackspace Hacker finds Flaw in Ubiquiti Networks' UniFi Products
 url: 4340.html
 id: 4340
 categories:
-  - Allgemein
+  - announcements
 date: 2013-10-23 10:27:38
 tags:
 ---

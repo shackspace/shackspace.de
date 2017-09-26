@@ -3,7 +3,7 @@ title: 'How to embroider a shirt collar, right to the edge'
 url: 3641.html
 id: 3641
 categories:
-  - Allgemein
+  - announcements
 date: 2012-12-20 12:33:57
 tags:
 ---

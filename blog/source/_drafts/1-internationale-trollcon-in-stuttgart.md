@@ -3,7 +3,7 @@ title: 1. Internationale Trollcon in Stuttgart
 url: 3479.html
 id: 3479
 categories:
-  - Termine
+  - events
 tags:
 ---
 

@@ -3,7 +3,7 @@ title: 'Treffen: Cypherpunks'
 url: 4619.html
 id: 4619
 categories:
-  - Termine
+  - events
   - Treffen
 date: 2017-03-04 16:31:28
 tags:

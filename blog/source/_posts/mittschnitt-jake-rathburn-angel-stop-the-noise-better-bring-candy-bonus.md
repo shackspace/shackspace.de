@@ -3,7 +3,7 @@ title: 'Mittschnitt: Jake Rathburn - Angel Stop The Noise / Better Bring Candy +
 url: 4026.html
 id: 4026
 categories:
-  - Allgemein
+  - announcements
 date: 2013-04-17 09:15:17
 tags:
 ---

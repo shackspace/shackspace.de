@@ -3,7 +3,7 @@ title: shackspace sucks
 url: 3209.html
 id: 3209
 categories:
-  - Allgemein
+  - announcements
 date: 2012-06-19 10:30:36
 tags:
 ---

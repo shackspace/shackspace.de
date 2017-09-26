@@ -5,7 +5,7 @@ title: >-
 url: 5363.html
 id: 5363
 categories:
-  - Termine
+  - events
 date: 2016-02-15 12:00:33
 tags:
 ---

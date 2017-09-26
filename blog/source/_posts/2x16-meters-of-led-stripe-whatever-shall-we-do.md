@@ -3,7 +3,7 @@ title: 2x16 meters of LED-Stripe. Whatever shall we do?
 url: 3944.html
 id: 3944
 categories:
-  - Allgemein
+  - announcements
 date: 2013-03-15 11:03:23
 tags:
 ---

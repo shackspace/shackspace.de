@@ -3,7 +3,7 @@ title: 'Java Workshop #4: Objektorientierte Programmierung'
 url: 3134.html
 id: 3134
 categories:
-  - Termine
+  - events
 date: 2012-05-27 21:38:30
 tags:
 ---

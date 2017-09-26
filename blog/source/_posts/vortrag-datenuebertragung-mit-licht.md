@@ -3,8 +3,8 @@ title: 'Vortrag: Datenübertragung mit Licht'
 url: 4579.html
 id: 4579
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2014-04-13 12:00:10
 tags:
 ---

@@ -3,7 +3,7 @@ title: 'Stuttgarter Zeitung: Ein neuer Freiraum für Stuttgart'
 url: 2372.html
 id: 2372
 categories:
-  - Allgemein
+  - announcements
 date: 2011-09-09 13:37:18
 tags:
 ---

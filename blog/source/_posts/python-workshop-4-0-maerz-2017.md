@@ -3,7 +3,7 @@ title: Python-Workshop 4.0 - März 2017
 url: 5499.html
 id: 5499
 categories:
-  - Termine
+  - events
   - Treffen
 date: 2017-02-25 16:22:59
 tags:

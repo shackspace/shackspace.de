@@ -3,7 +3,7 @@ title: 'TinyMega: ATmega32U4 breadboard-compatible prototyping with tiny footpri
 url: 2959.html
 id: 2959
 categories:
-  - Allgemein
+  - announcements
 date: 2012-03-20 10:00:57
 tags:
 ---

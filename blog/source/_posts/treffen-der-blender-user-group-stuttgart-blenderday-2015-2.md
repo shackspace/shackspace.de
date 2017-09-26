@@ -3,7 +3,7 @@ title: Treffen der Blender User Group Stuttgart
 url: 5225.html
 id: 5225
 categories:
-  - Termine
+  - events
 date: 2015-11-05 17:48:47
 tags:
 ---

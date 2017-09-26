@@ -3,8 +3,8 @@ title: 'Treffen: CypherPunks Meetup - Mehr Sicherheit durch Krypto'
 url: 4186.html
 id: 4186
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2013-06-16 14:41:37
 tags:
 ---

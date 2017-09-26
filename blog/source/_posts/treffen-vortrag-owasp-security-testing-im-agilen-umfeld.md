@@ -3,7 +3,7 @@ title: 'Treffen & Vortrag: OWASP - Security Testing im agilen Umfeld'
 url: 5073.html
 id: 5073
 categories:
-  - Termine
+  - events
 date: 2015-07-27 11:58:38
 tags:
 ---

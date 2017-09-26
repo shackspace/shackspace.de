@@ -3,7 +3,7 @@ title: 'Workshop: VR mit der Unreal Engine'
 url: 5062.html
 id: 5062
 categories:
-  - Termine
+  - events
 date: 2015-06-29 17:03:43
 tags:
 ---

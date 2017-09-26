@@ -3,9 +3,9 @@ title: news - kw 17/2010
 url: 874.html
 id: 874
 categories:
-  - Allgemein
+  - announcements
   - Mitmachen
-  - Termine
+  - events
   - Treffen
 date: 2010-04-23 22:03:33
 tags:

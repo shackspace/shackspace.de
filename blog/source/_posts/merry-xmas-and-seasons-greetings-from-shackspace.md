@@ -3,7 +3,7 @@ title: Merry Xmas and Season's Greetings from shackspace
 url: 2683.html
 id: 2683
 categories:
-  - Allgemein
+  - announcements
 date: 2011-12-16 08:22:25
 tags:
 ---

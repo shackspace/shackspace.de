@@ -3,7 +3,7 @@ title: 'Workshop: NFC & RFID'
 url: 4643.html
 id: 4643
 categories:
-  - Termine
+  - events
 date: 2014-05-20 10:29:24
 tags:
 ---

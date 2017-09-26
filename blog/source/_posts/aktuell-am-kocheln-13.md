@@ -3,7 +3,7 @@ title: Aktuell am köcheln
 url: 1302.html
 id: 1302
 categories:
-  - Allgemein
+  - announcements
 date: 2010-09-01 15:15:55
 tags:
 ---

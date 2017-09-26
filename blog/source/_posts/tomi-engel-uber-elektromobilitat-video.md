@@ -3,7 +3,7 @@ title: Tomi Engel über Elektromobilität (Video)
 url: 2984.html
 id: 2984
 categories:
-  - Allgemein
+  - announcements
 date: 2012-03-19 09:21:20
 tags:
 ---

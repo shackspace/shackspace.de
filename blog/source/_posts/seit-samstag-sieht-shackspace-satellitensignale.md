@@ -3,7 +3,7 @@ title: shackspace empfängt Satellitensignale!
 url: 5087.html
 id: 5087
 categories:
-  - Allgemein
+  - announcements
 date: 2015-08-23 17:47:26
 tags:
 ---

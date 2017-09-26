@@ -3,7 +3,7 @@ title: 8bit adder made from relais
 url: 1750.html
 id: 1750
 categories:
-  - Allgemein
+  - announcements
 date: 2011-02-07 12:38:10
 tags:
 ---

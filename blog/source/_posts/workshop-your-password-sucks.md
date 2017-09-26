@@ -3,8 +3,8 @@ title: 'Workshop: "Your Password Sucks"'
 url: 3965.html
 id: 3965
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2013-03-27 11:41:41
 tags:
 ---

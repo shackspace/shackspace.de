@@ -3,7 +3,7 @@ title: 'Open Sesame: Harddrive Password Hacking with a OpenBench Logic Sniffer '
 url: 1976.html
 id: 1976
 categories:
-  - Allgemein
+  - announcements
   - Projekte
 date: 2011-04-27 19:33:00
 tags:

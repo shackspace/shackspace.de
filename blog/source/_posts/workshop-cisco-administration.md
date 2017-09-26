@@ -3,8 +3,8 @@ title: 'Workshop: Cisco Administration'
 url: 4514.html
 id: 4514
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2014-01-30 15:40:01
 tags:
 ---

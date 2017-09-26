@@ -3,7 +3,7 @@ title: '27c3 Peace Mission: Die Hacks'
 url: 1623.html
 id: 1623
 categories:
-  - Allgemein
+  - announcements
 tags:
 ---
 

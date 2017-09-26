@@ -3,7 +3,7 @@ title: 'Howto: SMD Rework with Dave Jones from EEVblog'
 url: 4835.html
 id: 4835
 categories:
-  - Allgemein
+  - announcements
 date: 2014-12-01 11:41:48
 tags:
 ---

@@ -3,7 +3,7 @@ title: International Open Day 2017 am 25. März
 url: 5516.html
 id: 5516
 categories:
-  - Termine
+  - events
   - Thundertalks
   - Treffen
 date: 2017-03-11 21:02:02

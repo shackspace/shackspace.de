@@ -3,7 +3,7 @@ title: '27c3 Peace Mission: Montag'
 url: 1615.html
 id: 1615
 categories:
-  - Allgemein
+  - announcements
 date: 2010-12-27 22:00:34
 tags:
 ---

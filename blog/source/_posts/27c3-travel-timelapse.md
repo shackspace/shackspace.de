@@ -3,7 +3,7 @@ title: 27c3 Travel Timelapse
 url: 1679.html
 id: 1679
 categories:
-  - Allgemein
+  - announcements
 date: 2011-01-13 23:30:39
 tags:
 ---

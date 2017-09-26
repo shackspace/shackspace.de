@@ -5,7 +5,7 @@ title: >-
 url: 3932.html
 id: 3932
 categories:
-  - Termine
+  - events
 date: 2013-03-14 11:44:52
 tags:
 ---

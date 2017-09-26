@@ -3,7 +3,7 @@ title: 'Sprühling - Urban Art Workshop: Timelapse'
 url: 3326.html
 id: 3326
 categories:
-  - Allgemein
+  - announcements
 date: 2012-07-12 14:54:04
 tags:
 ---

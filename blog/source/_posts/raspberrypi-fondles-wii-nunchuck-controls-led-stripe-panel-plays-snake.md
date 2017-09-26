@@ -3,7 +3,7 @@ title: 'RaspberryPi Fondles Wii-Nunchuck, Controls LED-Stripe Panel, Plays Snake
 url: 3826.html
 id: 3826
 categories:
-  - Allgemein
+  - announcements
 date: 2013-01-22 20:52:05
 tags:
 ---

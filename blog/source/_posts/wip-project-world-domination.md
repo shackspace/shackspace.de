@@ -3,7 +3,7 @@ title: 'WIP: Project World Domination'
 url: 4944.html
 id: 4944
 categories:
-  - Allgemein
+  - announcements
 date: 2015-03-31 12:22:35
 tags:
 ---

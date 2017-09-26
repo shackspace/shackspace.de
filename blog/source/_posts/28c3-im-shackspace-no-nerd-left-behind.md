@@ -3,8 +3,8 @@ title: '28c3 im shackspace: No Nerd Left Behind'
 url: 2710.html
 id: 2710
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2011-12-25 10:40:58
 tags:
 ---

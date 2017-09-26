@@ -3,8 +3,8 @@ title: 'Workshop: Einführung in die Versionskontrolle mit Git'
 url: 4544.html
 id: 4544
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2014-02-16 13:59:10
 tags:
 ---

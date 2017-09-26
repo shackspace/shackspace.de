@@ -3,7 +3,7 @@ title: Arcade-o-mat
 url: 5198.html
 id: 5198
 categories:
-  - Allgemein
+  - announcements
 date: 2016-02-10 01:11:09
 tags:
 ---

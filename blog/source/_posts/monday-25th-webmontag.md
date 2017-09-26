@@ -3,7 +3,7 @@ title: Webmontag
 url: 2252.html
 id: 2252
 categories:
-  - Termine
+  - events
 date: 2011-07-22 19:24:11
 tags:
 ---

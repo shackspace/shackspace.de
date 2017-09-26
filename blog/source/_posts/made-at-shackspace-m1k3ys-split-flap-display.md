@@ -3,7 +3,7 @@ title: 'Made at shackspace: M1k3y''s Split-Flap Display'
 url: 4788.html
 id: 4788
 categories:
-  - Allgemein
+  - announcements
 date: 2014-10-14 10:28:06
 tags:
 ---

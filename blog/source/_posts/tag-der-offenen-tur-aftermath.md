@@ -3,7 +3,7 @@ title: Tag der Offenen Tür - Aftermath
 url: 2209.html
 id: 2209
 categories:
-  - Allgemein
+  - announcements
 date: 2011-06-20 10:47:29
 tags:
 ---

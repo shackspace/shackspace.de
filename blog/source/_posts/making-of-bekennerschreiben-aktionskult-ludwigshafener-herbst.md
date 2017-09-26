@@ -3,7 +3,7 @@ title: 'Making of: Bekennerschreiben Aktionskult Ludwigshafener Herbst'
 url: 3157.html
 id: 3157
 categories:
-  - Allgemein
+  - announcements
 date: 2012-06-16 17:00:38
 tags:
 ---

@@ -3,8 +3,8 @@ title: 'Vortrag/Workshop: Zellbiologie und Biochemische Vorgänge in Zellen'
 url: 3779.html
 id: 3779
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2013-01-14 13:54:37
 tags:
 ---

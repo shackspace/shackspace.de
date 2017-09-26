@@ -3,7 +3,7 @@ title: Bisch dumm oder was? Folge 23
 url: 2680.html
 id: 2680
 categories:
-  - Allgemein
+  - announcements
 date: 2011-12-12 21:34:04
 tags:
 ---

@@ -3,8 +3,8 @@ title: 'Treffen: Python Workshop'
 url: 4617.html
 id: 4617
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2014-04-30 14:31:25
 tags:
 ---

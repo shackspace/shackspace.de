@@ -4,7 +4,7 @@ url: 1472.html
 id: 1472
 categories:
   - Aktuelle Meldungen
-  - Allgemein
+  - announcements
 date: 2010-10-09 02:41:29
 tags:
 ---

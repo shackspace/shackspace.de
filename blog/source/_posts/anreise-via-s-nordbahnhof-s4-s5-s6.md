@@ -3,7 +3,7 @@ title: 'Anreise via S Nordbahnhof (S4, S5, S6)'
 url: 1450.html
 id: 1450
 categories:
-  - Allgemein
+  - announcements
 date: 2010-01-02 11:01:44
 tags:
 ---

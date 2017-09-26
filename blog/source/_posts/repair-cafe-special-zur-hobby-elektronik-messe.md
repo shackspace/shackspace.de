@@ -3,7 +3,7 @@ title: Repair Cafe Special zur Hobby & Elektronik Messe
 url: 4827.html
 id: 4827
 categories:
-  - Termine
+  - events
 date: 2014-11-18 23:08:25
 tags:
 ---

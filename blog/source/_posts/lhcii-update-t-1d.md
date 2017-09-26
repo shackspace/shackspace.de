@@ -3,7 +3,7 @@ title: 'LHC II Update: T-1d'
 url: 2333.html
 id: 2333
 categories:
-  - Allgemein
+  - announcements
 date: 2011-08-25 10:03:46
 tags:
 ---

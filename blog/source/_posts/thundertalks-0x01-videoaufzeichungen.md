@@ -3,7 +3,7 @@ title: 'Thundertalks 0x01: Videoaufzeichungen'
 url: 2737.html
 id: 2737
 categories:
-  - Allgemein
+  - announcements
 date: 2012-01-09 19:47:46
 tags:
 ---

@@ -3,7 +3,7 @@ title: Hobby & Elektronik Messe Nachtreffen
 url: 2611.html
 id: 2611
 categories:
-  - Termine
+  - events
 date: 2011-11-23 21:36:14
 tags:
 ---

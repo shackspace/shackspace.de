@@ -3,8 +3,8 @@ title: Zocker werden zocken LAN Party
 url: 2444.html
 id: 2444
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2011-09-26 13:53:37
 tags:
 ---

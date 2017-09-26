@@ -3,7 +3,7 @@ title: 'Treffen & Workshop: Softwerkskammer Code Kata'
 url: 5458.html
 id: 5458
 categories:
-  - Termine
+  - events
 date: 2017-01-16 10:53:09
 tags:
 ---

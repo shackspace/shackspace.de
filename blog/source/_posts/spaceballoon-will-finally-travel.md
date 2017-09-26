@@ -3,10 +3,10 @@ title: 'Spaceballoon, will finally travel!'
 url: 5471.html
 id: 5471
 categories:
-  - Allgemein
+  - announcements
   - Mitmachen
   - Projekte
-  - Termine
+  - events
   - Treffen
 date: 2017-01-28 20:57:19
 tags:

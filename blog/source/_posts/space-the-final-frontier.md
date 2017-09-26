@@ -3,7 +3,7 @@ title: Space ...  the final frontier
 url: 5527.html
 id: 5527
 categories:
-  - Allgemein
+  - announcements
 date: 2017-03-20 22:18:12
 tags:
 ---

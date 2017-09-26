@@ -3,7 +3,7 @@ title: Pony TV
 url: 2615.html
 id: 2615
 categories:
-  - Termine
+  - events
 date: 2011-11-24 20:12:03
 tags:
 ---

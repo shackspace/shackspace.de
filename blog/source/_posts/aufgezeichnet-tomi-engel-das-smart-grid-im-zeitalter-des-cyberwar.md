@@ -3,7 +3,7 @@ title: 'Aufgezeichnet: Tomi Engel "Das Smart Grid im Zeitalter des Cyberwar"'
 url: 4784.html
 id: 4784
 categories:
-  - Allgemein
+  - announcements
 date: 2014-10-10 23:56:56
 tags:
 ---

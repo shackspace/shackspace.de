@@ -2,13 +2,13 @@
 title: Planungstreffen fuer Gruendungsveranstaltung
 tags:
   - Mitmachen
-  - Termine
+  - events
   - Treffen
 url: 389.html
 id: 389
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
   - Treffen
 date: 2010-01-30 22:54:42
 ---

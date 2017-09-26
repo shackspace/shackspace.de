@@ -3,7 +3,7 @@ title: 'redaktionzukunft: Ein Paradies für Stuttgarts Hacker'
 url: 4507.html
 id: 4507
 categories:
-  - Allgemein
+  - announcements
 date: 2014-01-30 11:30:40
 tags:
 ---

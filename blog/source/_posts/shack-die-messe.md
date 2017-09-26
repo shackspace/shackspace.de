@@ -3,7 +3,7 @@ title: shack die Messe!
 url: 1527.html
 id: 1527
 categories:
-  - Allgemein
+  - announcements
 date: 2010-11-13 14:31:34
 tags:
 ---

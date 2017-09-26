@@ -3,7 +3,7 @@ title: 'Instacam: Watching the S21 building site next to shackspace'
 url: 4055.html
 id: 4055
 categories:
-  - Allgemein
+  - announcements
 date: 2013-05-11 12:00:37
 tags:
 ---

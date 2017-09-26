@@ -3,7 +3,7 @@ title: 'shackspace 2.0: Es geht los!'
 url: 1840.html
 id: 1840
 categories:
-  - Allgemein
+  - announcements
 date: 2011-03-04 23:07:04
 tags:
 ---

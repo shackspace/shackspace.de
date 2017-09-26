@@ -3,7 +3,7 @@ title: Happy Little Campers and Similar Big Decisions
 url: 2268.html
 id: 2268
 categories:
-  - Allgemein
+  - announcements
 date: 2011-08-04 10:35:49
 tags:
 ---

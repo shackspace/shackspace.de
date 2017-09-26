@@ -7,7 +7,7 @@ tags:
 url: 5263.html
 id: 5263
 categories:
-  - Allgemein
+  - announcements
   - Treffen
   - Vortrag
 date: 2015-12-09 11:10:27

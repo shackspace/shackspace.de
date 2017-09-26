@@ -3,8 +3,8 @@ title: 'Event: Early Kickoff for NASA Space Applications Challenge 2015'
 url: 4911.html
 id: 4911
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2015-02-23 18:15:26
 tags:
 ---

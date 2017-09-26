@@ -3,7 +3,7 @@ title: 'Vortrag & Workshop: Digitalmikroskopie'
 url: 5244.html
 id: 5244
 categories:
-  - Termine
+  - events
 date: 2015-11-13 10:15:05
 tags:
 ---

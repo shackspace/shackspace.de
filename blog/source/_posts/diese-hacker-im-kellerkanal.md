@@ -3,7 +3,7 @@ title: Diese Hacker im Kellerkanal
 url: 3571.html
 id: 3571
 categories:
-  - Allgemein
+  - announcements
 date: 2012-11-17 16:20:31
 tags:
 ---

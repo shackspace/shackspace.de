@@ -3,7 +3,7 @@ title: Repair Cafe
 url: 4840.html
 id: 4840
 categories:
-  - Allgemein
+  - announcements
 date: 2014-12-20 17:49:16
 tags:
 ---

@@ -3,7 +3,7 @@ title: 'Softwerkskammer Workshop: Browserautomatisierung mit Selenium'
 url: 5020.html
 id: 5020
 categories:
-  - Termine
+  - events
 date: 2015-05-21 12:29:51
 tags:
 ---

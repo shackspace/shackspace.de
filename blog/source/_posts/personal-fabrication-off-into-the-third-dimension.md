@@ -3,7 +3,7 @@ title: 'Personal Fabrication: Off into the Third Dimension'
 url: 3303.html
 id: 3303
 categories:
-  - Allgemein
+  - announcements
 date: 2012-07-08 19:18:18
 tags:
 ---

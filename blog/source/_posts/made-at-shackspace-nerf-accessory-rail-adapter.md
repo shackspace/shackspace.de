@@ -3,7 +3,7 @@ title: 'Made at shackspace: Nerf Accessory Rail Adapter'
 url: 4664.html
 id: 4664
 categories:
-  - Allgemein
+  - announcements
 date: 2014-07-11 13:24:58
 tags:
 ---

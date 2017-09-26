@@ -3,8 +3,8 @@ title: 'Hackathon: International Space Apps Challenge'
 url: 3001.html
 id: 3001
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2012-03-28 23:00:40
 tags:
 ---

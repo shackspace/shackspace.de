@@ -3,7 +3,7 @@ title: Powering a Microcontroller w/ an Induction Hotplate
 url: 1834.html
 id: 1834
 categories:
-  - Allgemein
+  - announcements
 date: 2011-02-27 20:44:59
 tags:
 ---

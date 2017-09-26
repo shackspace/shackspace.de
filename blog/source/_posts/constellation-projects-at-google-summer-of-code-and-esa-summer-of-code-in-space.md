@@ -5,7 +5,7 @@ title: >-
 url: 4261.html
 id: 4261
 categories:
-  - Allgemein
+  - announcements
 date: 2013-08-02 09:26:08
 tags:
 ---

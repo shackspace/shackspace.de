@@ -3,7 +3,7 @@ title: shack e.V. bringt Flüchtlingsheim ans Netz
 url: 5040.html
 id: 5040
 categories:
-  - Allgemein
+  - announcements
 date: 2015-06-10 14:46:17
 tags:
 ---

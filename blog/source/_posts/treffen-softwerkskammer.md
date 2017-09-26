@@ -3,7 +3,7 @@ title: 'Treffen: Softwerkskammer'
 url: 4695.html
 id: 4695
 categories:
-  - Termine
+  - events
 date: 2014-08-13 15:38:32
 tags:
 ---

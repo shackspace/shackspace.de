@@ -3,7 +3,7 @@ title: Erstes Akademie BARCAMP MedienTrendsKommunikation
 url: 2988.html
 id: 2988
 categories:
-  - Allgemein
+  - announcements
 date: 2012-04-01 14:12:51
 tags:
 ---

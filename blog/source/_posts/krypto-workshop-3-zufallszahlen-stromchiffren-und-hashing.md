@@ -3,7 +3,7 @@ title: 'Krypto-Workshop #3: Zufallszahlen, Stromchiffren und Hashing'
 url: 3101.html
 id: 3101
 categories:
-  - Termine
+  - events
 date: 2012-05-10 14:22:17
 tags:
 ---

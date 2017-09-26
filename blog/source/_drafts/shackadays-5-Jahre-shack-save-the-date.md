@@ -3,7 +3,7 @@ title: 'shackadays: 5 Jahre shack, save the date!'
 url: 5201.html
 id: 5201
 categories:
-  - Allgemein
+  - announcements
 tags:
 ---
 

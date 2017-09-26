@@ -3,7 +3,7 @@ title: 'Workshop: Let''s Build a Compiler'
 url: 3884.html
 id: 3884
 categories:
-  - Termine
+  - events
 date: 2013-02-17 17:01:35
 tags:
 ---

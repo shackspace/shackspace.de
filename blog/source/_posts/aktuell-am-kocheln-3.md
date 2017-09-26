@@ -3,7 +3,7 @@ title: news - kw13/2010
 url: 721.html
 id: 721
 categories:
-  - Allgemein
+  - announcements
 date: 2010-03-25 14:45:51
 tags:
 ---

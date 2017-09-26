@@ -3,8 +3,8 @@ title: 'World Space Week: Vortrag zu Kommunikationssystemen in Satelliten'
 url: 2401.html
 id: 2401
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
   - Vortrag
 date: 2011-09-24 23:13:38
 tags:

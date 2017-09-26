@@ -3,8 +3,8 @@ title: 'Konzert: Jake Rathburn LIVE & Unplugged'
 url: 4301.html
 id: 4301
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2013-08-21 12:41:09
 tags:
 ---

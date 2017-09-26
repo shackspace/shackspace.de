@@ -3,8 +3,8 @@ title: 'Vorträge: ThunderTalks 0x04'
 url: 3078.html
 id: 3078
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2012-04-30 12:36:15
 tags:
 ---

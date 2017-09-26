@@ -3,8 +3,8 @@ title: 'Haskell Workshop #3: Chatserver, Datenstrukturen & Parserprogrammierung'
 url: 2764.html
 id: 2764
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2012-01-12 08:39:02
 tags:
 ---

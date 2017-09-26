@@ -3,7 +3,7 @@ title: 'Krypto-Workshop #7: Diffie-Hellman-Schlüsseltausch'
 url: 3461.html
 id: 3461
 categories:
-  - Termine
+  - events
 date: 2012-09-20 10:21:34
 tags:
 ---

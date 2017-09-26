@@ -3,7 +3,7 @@ title: 'GUUG Vortrag: Über das Sammeln von Großrechnern'
 url: 3203.html
 id: 3203
 categories:
-  - Termine
+  - events
 date: 2012-06-18 14:28:21
 tags:
 ---

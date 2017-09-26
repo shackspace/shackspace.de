@@ -3,7 +3,7 @@ title: 'Treffen & Vorträge: Erstes Stuttgarter Hardware Startups Meetup'
 url: 4708.html
 id: 4708
 categories:
-  - Termine
+  - events
 date: 2014-08-25 14:20:42
 tags:
 ---

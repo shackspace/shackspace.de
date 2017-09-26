@@ -3,8 +3,8 @@ title: 'Workshop: Let''s Build a Compiler #2'
 url: 3913.html
 id: 3913
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2013-03-04 08:44:08
 tags:
 ---

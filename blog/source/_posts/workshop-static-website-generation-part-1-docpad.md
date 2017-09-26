@@ -3,8 +3,8 @@ title: 'Workshop: Static Website Generation Part 1: DocPad'
 url: 3893.html
 id: 3893
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2013-02-26 15:10:37
 tags:
 ---

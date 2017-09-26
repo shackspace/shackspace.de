@@ -3,7 +3,7 @@ title: 'Event: Stuttgart 42 - Denn Stuttgart 21 ist nur die halbe Wahrheit'
 url: 1412.html
 id: 1412
 categories:
-  - Termine
+  - events
 date: 2010-09-30 10:56:22
 tags:
 ---

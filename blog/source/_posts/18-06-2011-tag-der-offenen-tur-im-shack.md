@@ -4,7 +4,7 @@ url: 2060.html
 id: 2060
 categories:
   - Aktuelle Meldungen
-  - Termine
+  - events
 date: 2011-05-10 19:44:56
 tags:
 ---

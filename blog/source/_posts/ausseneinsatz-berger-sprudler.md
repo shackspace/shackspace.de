@@ -3,7 +3,7 @@ title: 'Ausseneinsatz: Berger Sprudler'
 url: 1396.html
 id: 1396
 categories:
-  - Allgemein
+  - announcements
 date: 2010-09-21 13:15:12
 tags:
 ---

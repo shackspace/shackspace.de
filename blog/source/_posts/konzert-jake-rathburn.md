@@ -3,7 +3,7 @@ title: 'Konzert: Jake Rathburn '
 url: 4419.html
 id: 4419
 categories:
-  - Termine
+  - events
 date: 2013-12-22 22:04:59
 tags:
 ---

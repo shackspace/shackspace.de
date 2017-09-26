@@ -3,7 +3,7 @@ title: 'Java Workshop: Arithmetik und Datentypen'
 url: 3096.html
 id: 3096
 categories:
-  - Termine
+  - events
 date: 2012-05-07 14:35:41
 tags:
 ---

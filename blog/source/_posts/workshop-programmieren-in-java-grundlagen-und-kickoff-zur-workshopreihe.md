@@ -3,7 +3,7 @@ title: 'Workshop: Programmieren in Java - Grundlagen und Kickoff zur Workshoprei
 url: 3071.html
 id: 3071
 categories:
-  - Termine
+  - events
 date: 2012-04-25 09:00:37
 tags:
 ---

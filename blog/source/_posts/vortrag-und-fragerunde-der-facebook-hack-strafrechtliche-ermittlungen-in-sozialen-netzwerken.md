@@ -5,8 +5,8 @@ title: >-
 url: 3978.html
 id: 3978
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2013-04-03 12:44:58
 tags:
 ---

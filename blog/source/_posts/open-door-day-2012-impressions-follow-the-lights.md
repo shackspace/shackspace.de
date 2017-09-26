@@ -3,7 +3,7 @@ title: 'Open Door Day 2012 Impressions: Follow the Lights'
 url: 3467.html
 id: 3467
 categories:
-  - Allgemein
+  - announcements
 date: 2012-09-24 12:03:55
 tags:
 ---

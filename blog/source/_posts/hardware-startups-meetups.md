@@ -3,7 +3,7 @@ title: Hardware Startups Meetup
 url: 4955.html
 id: 4955
 categories:
-  - Termine
+  - events
 date: 2015-04-02 11:54:56
 tags:
 ---

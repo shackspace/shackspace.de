@@ -3,8 +3,8 @@ title: 'Workshop: SMD Löten - 3D LED Cube'
 url: 4700.html
 id: 4700
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2014-08-14 09:24:56
 tags:
 ---

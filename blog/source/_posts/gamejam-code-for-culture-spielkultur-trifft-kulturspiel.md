@@ -3,7 +3,7 @@ title: 'GameJam: Code for Culture – Spielkultur trifft Kulturspiel'
 url: 5604.html
 id: 5604
 categories:
-  - Termine
+  - events
 date: 2017-05-23 17:13:51
 tags:
 ---

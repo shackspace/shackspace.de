@@ -3,7 +3,7 @@ title: 'Hands-On: Reverse Engineering & RSA Kryptographie verstehen und brechen'
 url: 3045.html
 id: 3045
 categories:
-  - Termine
+  - events
 date: 2012-04-11 08:45:20
 tags:
 ---

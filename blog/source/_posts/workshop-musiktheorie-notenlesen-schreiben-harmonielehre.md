@@ -3,7 +3,7 @@ title: 'Workshop: Musiktheorie, Notenlesen/-schreiben & Harmonielehre'
 url: 3419.html
 id: 3419
 categories:
-  - Termine
+  - events
 date: 2012-09-06 08:40:53
 tags:
 ---

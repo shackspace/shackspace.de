@@ -3,7 +3,7 @@ title: 'shackspace '
 url: 4343.html
 id: 4343
 categories:
-  - Allgemein
+  - announcements
 date: 2013-09-02 14:09:01
 tags:
 ---

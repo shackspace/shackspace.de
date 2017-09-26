@@ -3,7 +3,7 @@ title: Krypto-Workshop
 url: 3087.html
 id: 3087
 categories:
-  - Termine
+  - events
 date: 2012-05-04 15:08:17
 tags:
 ---

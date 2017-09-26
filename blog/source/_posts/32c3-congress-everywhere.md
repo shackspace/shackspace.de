@@ -3,7 +3,7 @@ title: 32C3 Congress Everywhere
 url: 5307.html
 id: 5307
 categories:
-  - Termine
+  - events
 date: 2015-12-22 22:24:50
 tags:
 ---

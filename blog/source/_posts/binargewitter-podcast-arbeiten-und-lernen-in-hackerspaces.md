@@ -3,7 +3,7 @@ title: 'Binärgewitter Podcast: Arbeiten und Lernen in Hackerspaces'
 url: 2326.html
 id: 2326
 categories:
-  - Allgemein
+  - announcements
 date: 2011-08-24 11:47:57
 tags:
 ---

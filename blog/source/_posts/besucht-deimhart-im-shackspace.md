@@ -3,7 +3,7 @@ title: 'Besuch: DeimHart im shackspace'
 url: 1553.html
 id: 1553
 categories:
-  - Allgemein
+  - announcements
 date: 2010-12-06 10:16:44
 tags:
 ---

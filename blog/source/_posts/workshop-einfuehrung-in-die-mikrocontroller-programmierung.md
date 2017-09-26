@@ -3,8 +3,8 @@ title: 'Workshop: Einführung in die Mikrocontroller-Programmierung'
 url: 5125.html
 id: 5125
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2015-09-05 22:43:49
 tags:
 ---

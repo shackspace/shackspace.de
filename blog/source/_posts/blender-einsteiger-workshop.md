@@ -3,7 +3,7 @@ title: Blender Einsteiger Workshop
 url: 5028.html
 id: 5028
 categories:
-  - Termine
+  - events
 date: 2015-05-30 11:25:10
 tags:
 ---

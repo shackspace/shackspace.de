@@ -3,7 +3,7 @@ title: '[Tag der offenen Türe] Thundertalks #6'
 url: 4775.html
 id: 4775
 categories:
-  - Allgemein
+  - announcements
 date: 2014-09-26 18:03:55
 tags:
 ---

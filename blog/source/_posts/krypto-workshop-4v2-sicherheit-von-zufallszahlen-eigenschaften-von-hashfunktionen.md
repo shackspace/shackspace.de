@@ -5,8 +5,8 @@ title: >-
 url: 3117.html
 id: 3117
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2012-05-22 11:44:30
 tags:
 ---

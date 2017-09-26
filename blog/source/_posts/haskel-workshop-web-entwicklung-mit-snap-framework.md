@@ -3,7 +3,7 @@ title: 'Haskel-Workshop: Web-Entwicklung mit Snap-Framework'
 url: 3364.html
 id: 3364
 categories:
-  - Allgemein
+  - announcements
 date: 2012-08-17 08:38:06
 tags:
 ---

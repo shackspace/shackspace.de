@@ -5,7 +5,7 @@ title: >-
 url: 5346.html
 id: 5346
 categories:
-  - Allgemein
+  - announcements
 date: 2016-01-31 17:13:41
 tags:
 ---

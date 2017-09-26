@@ -3,7 +3,7 @@ title: 'OWASP Treffen & Vortrag: Doomed 4.0 - Unser Versagen als Sicherheitsexpe
 url: 5429.html
 id: 5429
 categories:
-  - Termine
+  - events
 date: 2016-09-05 13:37:03
 tags:
 ---

@@ -3,7 +3,7 @@ title: 2. Treffen der Softwerkskammer Stuttgart
 url: 4038.html
 id: 4038
 categories:
-  - Termine
+  - events
 date: 2013-05-06 10:34:05
 tags:
 ---

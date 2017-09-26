@@ -3,8 +3,8 @@ title: 'IOT für Einsteiger: SMD löten + ESP8266 prototyping hands-on workshop'
 url: 5558.html
 id: 5558
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2017-04-25 22:35:04
 tags:
 ---

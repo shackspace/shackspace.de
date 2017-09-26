@@ -3,7 +3,7 @@ title: 'Thundertalks 0x03: Traditionelle Berichterstattung'
 url: 2863.html
 id: 2863
 categories:
-  - Termine
+  - events
 date: 2012-02-21 08:38:38
 tags:
 ---

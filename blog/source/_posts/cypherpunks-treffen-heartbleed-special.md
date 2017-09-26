@@ -3,7 +3,7 @@ title: 'Cypherpunks Treffen: Heartbleed Special'
 url: 4583.html
 id: 4583
 categories:
-  - Termine
+  - events
 date: 2014-04-11 21:11:36
 tags:
 ---

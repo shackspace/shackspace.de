@@ -3,7 +3,7 @@ title: '#Matekalypse - Die Wahrheit'
 url: 2235.html
 id: 2235
 categories:
-  - Allgemein
+  - announcements
 date: 2011-07-16 11:45:15
 tags:
 ---

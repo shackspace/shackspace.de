@@ -3,7 +3,7 @@ title: 'Video: Die Sendung mit dem shack'
 url: 3038.html
 id: 3038
 categories:
-  - Allgemein
+  - announcements
 date: 2012-04-05 11:56:13
 tags:
 ---

@@ -4,8 +4,8 @@ url: 1520.html
 id: 1520
 categories:
   - Aktuelle Meldungen
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2010-11-10 10:21:10
 tags:
 ---

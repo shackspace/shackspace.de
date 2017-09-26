@@ -4,7 +4,7 @@ url: 1029.html
 id: 1029
 categories:
   - Aktuelle Meldungen
-  - Allgemein
+  - announcements
 date: 2010-06-15 13:16:50
 tags:
 ---

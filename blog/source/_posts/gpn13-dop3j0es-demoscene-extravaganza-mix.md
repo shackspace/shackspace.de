@@ -3,7 +3,7 @@ title: 'GPN13: @dop3j0e''s Demoscene Extravaganza Mix'
 url: 4161.html
 id: 4161
 categories:
-  - Allgemein
+  - announcements
 date: 2013-06-03 14:58:41
 tags:
 ---

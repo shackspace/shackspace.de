@@ -3,7 +3,7 @@ title: 'SIGNOM reports: Food-Hacking your own Chocolates results in Epic Nommage
 url: 2787.html
 id: 2787
 categories:
-  - Allgemein
+  - announcements
 tags:
 ---
 

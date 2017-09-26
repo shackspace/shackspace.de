@@ -3,7 +3,7 @@ title: 'Reunification Weekend in Review: So much win!'
 url: 2465.html
 id: 2465
 categories:
-  - Allgemein
+  - announcements
 date: 2011-10-04 15:51:25
 tags:
 ---

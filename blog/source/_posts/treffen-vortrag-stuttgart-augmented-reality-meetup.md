@@ -3,8 +3,8 @@ title: 'Treffen & Vortrag: Stuttgart Augmented Reality Meetup'
 url: 5007.html
 id: 5007
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2015-05-14 12:12:48
 tags:
 ---

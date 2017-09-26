@@ -3,7 +3,7 @@ title: 'Hackerspace Global Grid: Stuttgart Hackathon Weekends'
 url: 2745.html
 id: 2745
 categories:
-  - Termine
+  - events
 date: 2012-01-10 17:15:47
 tags:
 ---

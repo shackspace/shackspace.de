@@ -3,7 +3,7 @@ title: 'Krypto-Workshop #6: Hash-Funktionen implementieren'
 url: 3185.html
 id: 3185
 categories:
-  - Termine
+  - events
 date: 2012-06-18 12:00:46
 tags:
 ---

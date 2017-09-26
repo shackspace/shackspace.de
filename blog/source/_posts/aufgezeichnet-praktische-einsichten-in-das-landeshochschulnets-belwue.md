@@ -3,7 +3,7 @@ title: 'Aufgezeichnet: Praktische Einsichten in das Landeshochschulnets BelWü'
 url: 5069.html
 id: 5069
 categories:
-  - Allgemein
+  - announcements
 date: 2015-07-01 16:58:08
 tags:
 ---

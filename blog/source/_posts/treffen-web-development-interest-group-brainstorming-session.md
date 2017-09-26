@@ -3,7 +3,7 @@ title: 'Treffen: Web Development Interest Group Brainstorming Session'
 url: 2407.html
 id: 2407
 categories:
-  - Termine
+  - events
   - Treffen
 date: 2011-09-22 10:35:45
 tags:

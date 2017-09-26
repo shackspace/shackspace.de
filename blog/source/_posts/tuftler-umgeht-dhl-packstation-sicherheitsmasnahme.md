@@ -3,7 +3,7 @@ title: Tüftler umgeht DHL Packstation Sicherheitsmaßnahme
 url: 2219.html
 id: 2219
 categories:
-  - Allgemein
+  - announcements
 date: 2011-06-29 13:22:41
 tags:
 ---

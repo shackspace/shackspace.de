@@ -5,7 +5,7 @@ title: >-
 url: 2725.html
 id: 2725
 categories:
-  - Termine
+  - events
 date: 2012-01-06 19:00:14
 tags:
 ---

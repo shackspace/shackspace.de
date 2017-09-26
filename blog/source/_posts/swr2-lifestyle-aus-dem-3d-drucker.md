@@ -3,7 +3,7 @@ title: 'SWR2: Lifestyle aus dem 3D-Drucker'
 url: 4604.html
 id: 4604
 categories:
-  - Allgemein
+  - announcements
 date: 2014-04-24 14:01:32
 tags:
 ---

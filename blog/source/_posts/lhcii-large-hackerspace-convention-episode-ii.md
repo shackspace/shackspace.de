@@ -3,7 +3,7 @@ title: 'LHC/II: Large Hackerspace Convention Episode II'
 url: 2319.html
 id: 2319
 categories:
-  - Termine
+  - events
 date: 2011-08-17 09:51:51
 tags:
 ---

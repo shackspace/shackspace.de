@@ -3,7 +3,7 @@ title: 'Google I/O Extended: Agenda Veröffentlicht'
 url: 2028.html
 id: 2028
 categories:
-  - Termine
+  - events
 date: 2011-05-02 17:14:05
 tags:
 ---

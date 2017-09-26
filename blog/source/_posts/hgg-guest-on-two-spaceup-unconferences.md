@@ -3,7 +3,7 @@ title: HGG Guest on two SpaceUp UnConferences
 url: 3687.html
 id: 3687
 categories:
-  - Allgemein
+  - announcements
 date: 2012-12-24 14:54:12
 tags:
 ---

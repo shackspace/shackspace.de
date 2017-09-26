@@ -3,7 +3,7 @@ title: 'Project: Kleinlaut'
 url: 4403.html
 id: 4403
 categories:
-  - Allgemein
+  - announcements
 tags:
 ---
 

@@ -3,7 +3,7 @@ title: Toying w/ Mikrokopters
 url: 1719.html
 id: 1719
 categories:
-  - Allgemein
+  - announcements
 date: 2011-02-03 13:43:28
 tags:
 ---

@@ -3,7 +3,7 @@ title: Completely Unrelated - shack Trailer v2
 url: 3111.html
 id: 3111
 categories:
-  - Allgemein
+  - announcements
 date: 2012-05-21 08:44:49
 tags:
 ---

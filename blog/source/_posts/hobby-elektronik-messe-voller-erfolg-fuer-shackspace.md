@@ -3,7 +3,7 @@ title: Hobby & Elektronik Messe voller Erfolg für shackspace
 url: 4831.html
 id: 4831
 categories:
-  - Allgemein
+  - announcements
 date: 2014-11-23 20:18:18
 tags:
 ---

@@ -3,7 +3,7 @@ title: Python-Workshop 4.0 - Ansible-Spezial
 url: 5611.html
 id: 5611
 categories:
-  - Termine
+  - events
 date: 2017-05-23 20:41:31
 tags:
 ---

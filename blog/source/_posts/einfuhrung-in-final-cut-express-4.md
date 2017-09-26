@@ -3,8 +3,8 @@ title: 'Vortrag/Workshop: Einführung in Final Cut Express 4'
 url: 1931.html
 id: 1931
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2011-04-15 12:16:08
 tags:
 ---

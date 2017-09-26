@@ -3,7 +3,7 @@ title: 'Made at shackspace: shacklogger'
 url: 4853.html
 id: 4853
 categories:
-  - Allgemein
+  - announcements
 date: 2015-01-28 13:49:36
 tags:
 ---

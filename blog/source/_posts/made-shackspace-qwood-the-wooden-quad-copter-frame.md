@@ -3,7 +3,7 @@ title: 'Made at shackspace: qwood - the wooden quad-copter frame'
 url: 4652.html
 id: 4652
 categories:
-  - Allgemein
+  - announcements
 date: 2014-05-28 10:03:34
 tags:
 ---

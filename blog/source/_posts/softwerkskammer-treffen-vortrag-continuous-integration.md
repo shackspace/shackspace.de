@@ -3,7 +3,7 @@ title: 'Softwerkskammer Treffen & Vortrag: Continuous Integration'
 url: 5489.html
 id: 5489
 categories:
-  - Termine
+  - events
 date: 2017-02-08 12:45:07
 tags:
 ---

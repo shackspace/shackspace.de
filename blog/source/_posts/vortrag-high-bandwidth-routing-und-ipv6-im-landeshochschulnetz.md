@@ -3,8 +3,8 @@ title: 'Vortrag: High-Bandwidth Routing und IPv6 im Landeshochschulnetz'
 url: 4667.html
 id: 4667
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2014-07-07 14:34:36
 tags:
 ---

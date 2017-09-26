@@ -3,7 +3,7 @@ title: 3 kW e-Kickboard brings tears to your eyes
 url: 4437.html
 id: 4437
 categories:
-  - Allgemein
+  - announcements
 date: 2014-01-06 18:20:26
 tags:
 ---

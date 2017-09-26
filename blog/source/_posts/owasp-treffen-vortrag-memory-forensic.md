@@ -3,8 +3,8 @@ title: 'OWASP Treffen & Vortrag: Memory Forensic'
 url: 4596.html
 id: 4596
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2014-04-22 08:22:54
 tags:
 ---

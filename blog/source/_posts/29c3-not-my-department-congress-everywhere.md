@@ -3,7 +3,7 @@ title: 29C3 - NOT MY DEPARTMENT & Congress Everywhere
 url: 3606.html
 id: 3606
 categories:
-  - Termine
+  - events
 date: 2012-12-14 12:00:06
 tags:
 ---

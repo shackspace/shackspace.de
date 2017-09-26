@@ -3,7 +3,7 @@ title: 'Treffen: Softwerkskammer Stuttgart'
 url: 4156.html
 id: 4156
 categories:
-  - Termine
+  - events
 date: 2013-06-06 14:41:42
 tags:
 ---

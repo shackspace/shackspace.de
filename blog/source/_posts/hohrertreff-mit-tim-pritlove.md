@@ -3,7 +3,7 @@ title: Hörertreff mit Tim Pritlove
 url: 2920.html
 id: 2920
 categories:
-  - Termine
+  - events
 date: 2012-03-06 08:40:03
 tags:
 ---

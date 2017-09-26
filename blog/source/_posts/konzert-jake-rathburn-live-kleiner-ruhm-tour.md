@@ -3,8 +3,8 @@ title: 'Konzert: Jake Rathburn LIVE - KLEINER RUHM!!! Tour'
 url: 4905.html
 id: 4905
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2015-02-20 12:59:33
 tags:
 ---

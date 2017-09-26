@@ -3,7 +3,7 @@ title: 'Easterhegg 2014: Presale ist Live - Sichert euch eure Tickets'
 url: 4555.html
 id: 4555
 categories:
-  - Allgemein
+  - announcements
 date: 2014-02-26 15:38:24
 tags:
 ---

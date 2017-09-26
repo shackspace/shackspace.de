@@ -3,8 +3,8 @@ title: 'volkszaehler.org: Smartmeter in Eigenregie'
 url: 2511.html
 id: 2511
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2011-11-21 20:18:49
 tags:
 ---

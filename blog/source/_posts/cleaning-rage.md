@@ -3,7 +3,7 @@ title: Cleaning-Rage!
 url: 2351.html
 id: 2351
 categories:
-  - Termine
+  - events
 date: 2011-09-02 11:26:40
 tags:
 ---

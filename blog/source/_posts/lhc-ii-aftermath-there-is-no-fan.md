@@ -3,7 +3,7 @@ title: 'LHC II Aftermath: There is no fan!'
 url: 2343.html
 id: 2343
 categories:
-  - Allgemein
+  - announcements
 date: 2011-09-01 09:36:21
 tags:
 ---

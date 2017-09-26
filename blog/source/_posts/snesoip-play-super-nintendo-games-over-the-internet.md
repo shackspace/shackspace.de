@@ -3,7 +3,7 @@ title: 'SNESoIP: Play Super Nintendo Games Over the Internet'
 url: 4354.html
 id: 4354
 categories:
-  - Allgemein
+  - announcements
 date: 2013-09-12 20:14:36
 tags:
 ---

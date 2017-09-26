@@ -3,7 +3,7 @@ title: 'Tiny TP-Link goes to town, becomes DALI controller'
 url: 4099.html
 id: 4099
 categories:
-  - Allgemein
+  - announcements
 date: 2013-05-25 19:37:09
 tags:
 ---

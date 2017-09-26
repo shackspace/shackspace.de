@@ -3,7 +3,7 @@ title: shackspace.de Server Migration
 url: 3904.html
 id: 3904
 categories:
-  - Allgemein
+  - announcements
 date: 2013-03-02 14:05:39
 tags:
 ---

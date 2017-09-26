@@ -3,7 +3,7 @@ title: RepRap Prusa Mendel built in 24h
 url: 2778.html
 id: 2778
 categories:
-  - Allgemein
+  - announcements
 date: 2012-01-22 01:35:50
 tags:
 ---

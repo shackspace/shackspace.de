@@ -4,7 +4,7 @@ url: 275.html
 id: 275
 categories:
   - Archiv
-  - Termine
+  - events
   - Treffen
 date: 2009-12-04 12:36:25
 tags:

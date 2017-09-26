@@ -3,7 +3,7 @@ title: CCCS Stammtisch
 url: 2533.html
 id: 2533
 categories:
-  - Termine
+  - events
 date: 2011-11-03 21:32:48
 tags:
 ---

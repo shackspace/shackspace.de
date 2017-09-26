@@ -3,8 +3,8 @@ title: 'Workshop mit Mitch Altman: Löten lernen für blutige Anfänger'
 url: 4626.html
 id: 4626
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2014-05-03 14:39:33
 tags:
 ---

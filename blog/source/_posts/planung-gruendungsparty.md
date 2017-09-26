@@ -3,7 +3,7 @@ title: Planung Gruendungsparty
 tags:
   - Gruendung
   - Mitmachen
-  - Termine
+  - events
   - Treffen
 url: 428.html
 id: 428

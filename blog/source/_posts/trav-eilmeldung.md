@@ -3,7 +3,7 @@ title: TRAV EILMELDUNG
 url: 1420.html
 id: 1420
 categories:
-  - Allgemein
+  - announcements
 date: 2010-10-03 12:59:10
 tags:
 ---

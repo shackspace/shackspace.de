@@ -4,7 +4,7 @@ url: 2303.html
 id: 2303
 categories:
   - Aktuelle Meldungen
-  - Termine
+  - events
 date: 2011-08-08 14:46:22
 tags:
 ---

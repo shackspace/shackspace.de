@@ -3,7 +3,7 @@ title: shackspace's dojoe makes 3rd Place in Evoke Demoparty Wild Competition
 url: 3352.html
 id: 3352
 categories:
-  - Allgemein
+  - announcements
 date: 2012-08-14 21:51:22
 tags:
 ---

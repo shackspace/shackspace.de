@@ -3,7 +3,7 @@ title: 'GUUG-Vortrag: IPv6'
 url: 3330.html
 id: 3330
 categories:
-  - Termine
+  - events
 date: 2012-07-12 15:00:10
 tags:
 ---

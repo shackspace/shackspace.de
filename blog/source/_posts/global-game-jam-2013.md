@@ -3,7 +3,7 @@ title: Global Game Jam 2013
 url: 3707.html
 id: 3707
 categories:
-  - Termine
+  - events
 date: 2013-01-10 09:17:38
 tags:
 ---

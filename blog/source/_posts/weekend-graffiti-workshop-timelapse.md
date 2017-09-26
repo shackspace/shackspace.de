@@ -3,7 +3,7 @@ title: Weekend Graffiti Workshop Timelapse
 url: 2629.html
 id: 2629
 categories:
-  - Allgemein
+  - announcements
 date: 2011-11-29 21:57:45
 tags:
 ---

@@ -3,7 +3,7 @@ title: 'shackspace 2.0: hacker lounge area taking shape'
 url: 1867.html
 id: 1867
 categories:
-  - Allgemein
+  - announcements
 date: 2011-03-10 13:50:19
 tags:
 ---

@@ -3,7 +3,7 @@ title: The Noiseplug
 url: 2509.html
 id: 2509
 categories:
-  - Allgemein
+  - announcements
 date: 2011-11-01 15:44:28
 tags:
 ---

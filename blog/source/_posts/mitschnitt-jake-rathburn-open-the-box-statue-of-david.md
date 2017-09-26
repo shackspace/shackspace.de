@@ -3,7 +3,7 @@ title: 'Mitschnitt: Jake Rathburn - Open The Box / Statue Of David'
 url: 4024.html
 id: 4024
 categories:
-  - Allgemein
+  - announcements
 date: 2013-04-16 09:21:09
 tags:
 ---

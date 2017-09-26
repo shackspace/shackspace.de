@@ -3,8 +3,8 @@ title: 'Treffen: Open Source Ecology Stuttgart'
 url: 4207.html
 id: 4207
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2013-07-02 20:38:56
 tags:
 ---

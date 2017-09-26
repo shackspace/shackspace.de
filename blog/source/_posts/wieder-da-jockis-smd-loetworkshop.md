@@ -3,7 +3,7 @@ title: 'Wieder da: Jockis SMD-Lötworkshop'
 url: 4722.html
 id: 4722
 categories:
-  - Termine
+  - events
 date: 2014-08-28 17:25:07
 tags:
 ---

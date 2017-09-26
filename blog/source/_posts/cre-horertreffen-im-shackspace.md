@@ -4,8 +4,8 @@ url: 974.html
 id: 974
 categories:
   - Aktuelle Meldungen
-  - Allgemein
-  - Termine
+  - announcements
+  - events
   - Treffen
 date: 2010-05-25 09:02:37
 tags:

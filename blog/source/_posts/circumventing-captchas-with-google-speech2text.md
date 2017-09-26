@@ -3,7 +3,7 @@ title: Circumventing CAPTCHAs with Google speech2text
 url: 3765.html
 id: 3765
 categories:
-  - Allgemein
+  - announcements
 date: 2013-01-13 02:37:26
 tags:
 ---

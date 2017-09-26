@@ -3,7 +3,7 @@ title: 'Thundertalks 0x02: Zweite Runde!'
 url: 2743.html
 id: 2743
 categories:
-  - Termine
+  - events
 date: 2012-01-12 20:00:25
 tags:
 ---

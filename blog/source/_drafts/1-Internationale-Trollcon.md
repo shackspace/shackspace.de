@@ -3,7 +3,7 @@ title: 1. Internationale Trollcon
 url: 3477.html
 id: 3477
 categories:
-  - Allgemein
+  - announcements
 tags:
 ---
 

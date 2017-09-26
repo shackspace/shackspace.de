@@ -3,7 +3,7 @@ title: Dead Drops und Interview mit kessel.tv
 url: 1703.html
 id: 1703
 categories:
-  - Allgemein
+  - announcements
 date: 2011-01-24 14:40:29
 tags:
 ---

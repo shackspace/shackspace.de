@@ -3,7 +3,7 @@ title: 'Vortrag: Grundlagen der Netzwerktechnik'
 url: 3874.html
 id: 3874
 categories:
-  - Termine
+  - events
 date: 2013-02-15 12:22:49
 tags:
 ---

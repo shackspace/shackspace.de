@@ -3,7 +3,7 @@ title: 'Vortrag: Stratospheric Observatory for Infrared Astronomy (SOFIA)'
 url: 5238.html
 id: 5238
 categories:
-  - Termine
+  - events
 date: 2015-11-12 11:14:00
 tags:
 ---

@@ -6,7 +6,7 @@ url: 4978.html
 id: 4978
 categories:
   - Aktuelle Meldungen
-  - Allgemein
+  - announcements
   - Mitmachen
   - Projekte
 date: 2015-04-28 10:03:57

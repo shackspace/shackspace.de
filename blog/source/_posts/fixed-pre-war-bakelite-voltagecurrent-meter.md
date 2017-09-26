@@ -3,7 +3,7 @@ title: 'Fixed: Pre-War Bakelite Voltage/Current Meter'
 url: 5141.html
 id: 5141
 categories:
-  - Allgemein
+  - announcements
 date: 2015-09-13 14:10:08
 tags:
 ---

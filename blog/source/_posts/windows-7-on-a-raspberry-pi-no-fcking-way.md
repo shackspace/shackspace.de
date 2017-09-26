@@ -3,7 +3,7 @@ title: Windows 7 on a Raspberry Pi - No f*cking way!
 url: 3859.html
 id: 3859
 categories:
-  - Allgemein
+  - announcements
 date: 2013-02-14 23:06:43
 tags:
 ---

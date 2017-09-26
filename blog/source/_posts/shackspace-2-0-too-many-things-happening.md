@@ -3,7 +3,7 @@ title: 'shackspace 2.0: too many things happening'
 url: 1919.html
 id: 1919
 categories:
-  - Allgemein
+  - announcements
 date: 2011-04-09 00:10:48
 tags:
 ---

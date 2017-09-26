@@ -3,8 +3,8 @@ title: 'Workshop: node.js und Webentwicklung'
 url: 3534.html
 id: 3534
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2012-10-26 13:55:38
 tags:
 ---

@@ -3,7 +3,7 @@ title: 'Watch a PCB Being Made: Blinkenspiel'
 url: 2568.html
 id: 2568
 categories:
-  - Allgemein
+  - announcements
 date: 2011-11-14 21:54:05
 tags:
 ---

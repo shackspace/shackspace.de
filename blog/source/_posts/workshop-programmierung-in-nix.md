@@ -3,7 +3,7 @@ title: 'Workshop: Programmierung in Nix'
 url: 5112.html
 id: 5112
 categories:
-  - Termine
+  - events
 date: 2015-08-31 12:58:42
 tags:
 ---

@@ -3,8 +3,8 @@ title: 'Workshop: Chainmail'
 url: 4590.html
 id: 4590
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2014-04-17 19:19:08
 tags:
 ---

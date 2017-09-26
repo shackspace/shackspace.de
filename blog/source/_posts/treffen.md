@@ -6,7 +6,7 @@ url: 331.html
 id: 331
 categories:
   - Mitmachen
-  - Termine
+  - events
   - Treffen
 date: 2010-01-14 14:39:31
 ---

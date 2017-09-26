@@ -8,7 +8,7 @@ url: 5464.html
 id: 5464
 categories:
   - Mitmachen
-  - Termine
+  - events
   - Thundertalks
   - Treffen
   - Vortrag

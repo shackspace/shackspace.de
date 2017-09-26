@@ -3,7 +3,7 @@ title: shackspace Thundertalks!
 url: 2651.html
 id: 2651
 categories:
-  - Termine
+  - events
 date: 2011-12-11 16:00:36
 tags:
 ---

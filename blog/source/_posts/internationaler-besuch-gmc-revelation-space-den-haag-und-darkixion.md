@@ -3,7 +3,7 @@ title: 'Internationaler Besuch: gmc (Revelation Space, Den Haag) und darkixion'
 url: 1566.html
 id: 1566
 categories:
-  - Allgemein
+  - announcements
 date: 2010-12-09 10:20:00
 tags:
 ---

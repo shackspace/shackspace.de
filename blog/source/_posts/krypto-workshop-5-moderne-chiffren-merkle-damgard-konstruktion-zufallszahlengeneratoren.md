@@ -5,7 +5,7 @@ title: >-
 url: 3136.html
 id: 3136
 categories:
-  - Termine
+  - events
 date: 2012-05-31 18:23:29
 tags:
 ---

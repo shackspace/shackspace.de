@@ -3,7 +3,7 @@ title: 'Made at shackspace: Muscle-powered USB Charger'
 url: 4661.html
 id: 4661
 categories:
-  - Allgemein
+  - announcements
 date: 2014-07-07 13:15:50
 tags:
 ---

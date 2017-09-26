@@ -5,7 +5,7 @@ title: >-
 url: 5565.html
 id: 5565
 categories:
-  - Allgemein
+  - announcements
 date: 2017-05-08 22:33:10
 tags:
 ---

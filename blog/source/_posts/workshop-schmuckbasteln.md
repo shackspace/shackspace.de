@@ -3,7 +3,7 @@ title: 'Workshop: Schmuckbasteln'
 url: 4683.html
 id: 4683
 categories:
-  - Termine
+  - events
 date: 2014-07-17 18:47:42
 tags:
 ---

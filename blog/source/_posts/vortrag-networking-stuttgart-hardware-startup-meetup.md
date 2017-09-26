@@ -3,7 +3,7 @@ title: 'Vortrag & Networking: Stuttgart Hardware Startup Meetup'
 url: 4768.html
 id: 4768
 categories:
-  - Termine
+  - events
 date: 2014-09-24 17:48:54
 tags:
 ---

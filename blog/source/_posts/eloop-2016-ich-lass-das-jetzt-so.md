@@ -10,9 +10,9 @@ url: 5443.html
 id: 5443
 categories:
   - Aktuelle Meldungen
-  - Allgemein
+  - announcements
   - Mitmachen
-  - Termine
+  - events
   - Treffen
   - Vortrag
 date: 2016-11-10 17:02:51

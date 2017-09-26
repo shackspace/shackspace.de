@@ -3,7 +3,7 @@ title: 'SMD-Lötworkshop, Klappe die dritte'
 url: 3579.html
 id: 3579
 categories:
-  - Termine
+  - events
 date: 2012-11-27 08:00:15
 tags:
 ---

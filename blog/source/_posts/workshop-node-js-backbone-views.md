@@ -3,7 +3,7 @@ title: 'Workshop: node.js - Backbone-Views'
 url: 3545.html
 id: 3545
 categories:
-  - Termine
+  - events
 date: 2012-11-07 14:10:50
 tags:
 ---

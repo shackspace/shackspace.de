@@ -3,7 +3,7 @@ title: 'Workshop: Arbeiten mit Oszilloskop & Funktionsgenerator'
 url: 2361.html
 id: 2361
 categories:
-  - Termine
+  - events
 date: 2011-09-02 15:07:12
 tags:
 ---

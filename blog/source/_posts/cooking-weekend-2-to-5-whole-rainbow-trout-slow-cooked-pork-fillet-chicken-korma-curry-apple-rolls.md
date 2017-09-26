@@ -5,8 +5,8 @@ title: >-
 url: 1968.html
 id: 1968
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2011-04-27 13:57:41
 tags:
 ---

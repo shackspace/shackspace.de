@@ -3,7 +3,7 @@ title: Treffen des Microcontroller Forum Stuttgart
 url: 2387.html
 id: 2387
 categories:
-  - Termine
+  - events
   - Treffen
 date: 2011-09-13 15:17:58
 tags:

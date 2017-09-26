@@ -4,7 +4,7 @@ url: 1012.html
 id: 1012
 categories:
   - Aktuelle Meldungen
-  - Allgemein
+  - announcements
   - Treffen
 date: 2010-06-06 22:46:27
 tags:

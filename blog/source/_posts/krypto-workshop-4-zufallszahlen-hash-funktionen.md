@@ -3,7 +3,7 @@ title: 'Krypto-Workshop #4: Zufallszahlen & Hash-Funktionen'
 url: 3105.html
 id: 3105
 categories:
-  - Termine
+  - events
 date: 2012-05-18 08:22:02
 tags:
 ---

@@ -3,7 +3,7 @@ title: 'Global Game Jam Stuttgart: A Video Documentation'
 url: 3854.html
 id: 3854
 categories:
-  - Allgemein
+  - announcements
 date: 2013-02-01 09:53:55
 tags:
 ---

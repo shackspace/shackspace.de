@@ -3,7 +3,7 @@ title: NASA Space Apps Challenge Stuttgart 2016 - registration is open
 url: 5389.html
 id: 5389
 categories:
-  - Allgemein
+  - announcements
 date: 2016-03-26 17:57:09
 tags:
 ---

@@ -3,7 +3,7 @@ title: Python-Workshop 4.0 - April 2017
 url: 5520.html
 id: 5520
 categories:
-  - Termine
+  - events
   - Treffen
 date: 2017-03-14 21:39:15
 tags:

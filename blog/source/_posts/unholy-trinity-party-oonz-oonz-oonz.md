@@ -3,8 +3,8 @@ title: 'Unholy Trinity Party: Oonz Oonz Oonz'
 url: 2600.html
 id: 2600
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2011-11-28 08:11:44
 tags:
 ---

@@ -3,8 +3,8 @@ title: 'Cypherpunks: Einführung in GPG/PGP, Keysigning- & Kryptoparty'
 url: 4249.html
 id: 4249
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2013-07-16 13:47:03
 tags:
 ---

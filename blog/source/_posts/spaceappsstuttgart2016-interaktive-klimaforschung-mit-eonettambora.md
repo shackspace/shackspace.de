@@ -3,7 +3,7 @@ title: 'SpaceAppsStuttgart2016: Interaktive Klimaforschung mit eoNetTambora'
 url: 5420.html
 id: 5420
 categories:
-  - Allgemein
+  - announcements
 date: 2016-06-07 20:24:52
 tags:
 ---

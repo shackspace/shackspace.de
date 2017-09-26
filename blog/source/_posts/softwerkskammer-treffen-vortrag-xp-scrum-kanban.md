@@ -3,8 +3,8 @@ title: 'Softwerkskammer Treffen & Vortrag: XP, Scrum & Kanban'
 url: 5251.html
 id: 5251
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2015-11-22 19:40:29
 tags:
 ---

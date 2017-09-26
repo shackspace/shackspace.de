@@ -3,7 +3,7 @@ title: 'OWASP Treffen & Vortrag: Pragmatische Java-Web-Security'
 url: 4640.html
 id: 4640
 categories:
-  - Termine
+  - events
 date: 2014-05-20 09:53:48
 tags:
 ---

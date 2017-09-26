@@ -3,7 +3,7 @@ title: 'Workshop: User Interfaces mit React & Virtual DOM'
 url: 5373.html
 id: 5373
 categories:
-  - Termine
+  - events
 date: 2016-02-11 09:57:10
 tags:
 ---

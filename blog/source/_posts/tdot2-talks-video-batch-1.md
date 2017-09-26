@@ -3,7 +3,7 @@ title: 'TDOT2: Talks (Video Batch #1)'
 url: 2231.html
 id: 2231
 categories:
-  - Allgemein
+  - announcements
 date: 2011-07-10 16:03:19
 tags:
 ---

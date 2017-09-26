@@ -3,7 +3,7 @@ title: 'Things to do at a Hackerspace: Piano Tuning!'
 url: 3834.html
 id: 3834
 categories:
-  - Allgemein
+  - announcements
 date: 2013-01-23 10:15:02
 tags:
 ---

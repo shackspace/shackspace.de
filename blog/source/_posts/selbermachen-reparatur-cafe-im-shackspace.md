@@ -3,8 +3,8 @@ title: 'Selbermachen: Reparatur-Cafe im shackspace'
 url: 4085.html
 id: 4085
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2013-05-15 18:22:52
 tags:
 ---

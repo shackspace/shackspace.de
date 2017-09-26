@@ -3,7 +3,7 @@ title: Chart.Zart - shack in Zahlen
 url: 1064.html
 id: 1064
 categories:
-  - Termine
+  - events
 date: 2010-01-01 19:12:25
 tags:
 ---

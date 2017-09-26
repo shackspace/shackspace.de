@@ -3,7 +3,7 @@ title: shackspace unterstützt 27. Stuttgarter Filmwinter
 url: 4486.html
 id: 4486
 categories:
-  - Allgemein
+  - announcements
 date: 2014-01-15 09:28:44
 tags:
 ---

@@ -3,7 +3,7 @@ title: shackspace lebt vom Mitmachen
 url: 4332.html
 id: 4332
 categories:
-  - Allgemein
+  - announcements
 date: 2013-08-31 13:37:09
 tags:
 ---

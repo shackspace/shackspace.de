@@ -3,7 +3,7 @@ title: 'Freifunk Treffen: Flash in den Mai'
 url: 4972.html
 id: 4972
 categories:
-  - Termine
+  - events
 date: 2015-04-26 15:42:05
 tags:
 ---

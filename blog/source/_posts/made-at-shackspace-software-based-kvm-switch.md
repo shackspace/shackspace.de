@@ -3,7 +3,7 @@ title: 'Made at shackspace: Software-based KVM Switch'
 url: 4856.html
 id: 4856
 categories:
-  - Allgemein
+  - announcements
 date: 2015-01-29 12:00:42
 tags:
 ---

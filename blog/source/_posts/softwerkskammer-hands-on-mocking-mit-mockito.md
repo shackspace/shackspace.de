@@ -3,7 +3,7 @@ title: 'Softwerkskammer Hands-On: Mocking mit Mockito'
 url: 5411.html
 id: 5411
 categories:
-  - Termine
+  - events
 date: 2016-05-18 16:09:59
 tags:
 ---

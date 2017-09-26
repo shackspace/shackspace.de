@@ -3,9 +3,9 @@ title: NASA Space Apps Challenge Stuttgart 2017
 url: 5538.html
 id: 5538
 categories:
-  - Allgemein
+  - announcements
   - Mitmachen
-  - Termine
+  - events
   - Treffen
   - Vortrag
 date: 2017-04-05 20:19:37

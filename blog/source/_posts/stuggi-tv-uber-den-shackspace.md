@@ -3,7 +3,7 @@ title: Stuggi.tv über den shackspace
 url: 3553.html
 id: 3553
 categories:
-  - Allgemein
+  - announcements
 date: 2012-11-07 22:40:58
 tags:
 ---

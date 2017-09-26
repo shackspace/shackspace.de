@@ -3,7 +3,7 @@ title: 'Hands on: Mäxchen - The Coding Game'
 url: 4758.html
 id: 4758
 categories:
-  - Termine
+  - events
 date: 2014-09-17 09:22:42
 tags:
 ---

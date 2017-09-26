@@ -3,7 +3,7 @@ title: 'Easterhegg 2014: Call for Papers'
 url: 4469.html
 id: 4469
 categories:
-  - Allgemein
+  - announcements
 date: 2014-01-14 16:05:10
 tags:
 ---

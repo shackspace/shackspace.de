@@ -4,7 +4,7 @@ url: 4376.html
 id: 4376
 categories:
   - Aktuelle Meldungen
-  - Allgemein
+  - announcements
   - Projekte
 date: 2013-09-13 12:00:53
 tags:

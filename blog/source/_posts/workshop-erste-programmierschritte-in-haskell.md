@@ -3,7 +3,7 @@ title: 'Workshop: Erste Programmierschritte in Haskell'
 url: 2653.html
 id: 2653
 categories:
-  - Termine
+  - events
 date: 2011-12-06 20:23:30
 tags:
 ---

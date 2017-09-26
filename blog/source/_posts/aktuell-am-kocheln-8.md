@@ -3,7 +3,7 @@ title: news - kw 20/2010
 url: 917.html
 id: 917
 categories:
-  - Allgemein
+  - announcements
 date: 2010-05-10 23:09:19
 tags:
 ---

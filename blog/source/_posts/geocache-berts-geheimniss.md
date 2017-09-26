@@ -3,7 +3,7 @@ title: 'Geocache: Berts Geheimnis'
 url: 1796.html
 id: 1796
 categories:
-  - Allgemein
+  - announcements
 date: 2011-02-20 00:17:33
 tags:
 ---

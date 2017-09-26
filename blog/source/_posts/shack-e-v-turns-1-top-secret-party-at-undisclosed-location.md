@@ -3,7 +3,7 @@ title: shack e.V. turns 1 - top secret party at undisclosed location
 url: 1791.html
 id: 1791
 categories:
-  - Allgemein
+  - announcements
 date: 2011-02-19 22:42:52
 tags:
 ---

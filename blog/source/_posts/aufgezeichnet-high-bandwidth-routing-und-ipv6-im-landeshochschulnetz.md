@@ -3,7 +3,7 @@ title: 'Aufgezeichnet: Selfnet e.V.'
 url: 4897.html
 id: 4897
 categories:
-  - Allgemein
+  - announcements
 date: 2015-02-12 12:12:26
 tags:
 ---

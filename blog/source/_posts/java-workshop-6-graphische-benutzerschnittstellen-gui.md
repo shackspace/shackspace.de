@@ -3,7 +3,7 @@ title: 'Java Workshop #6: Graphische Benutzerschnittstellen (GUI)'
 url: 3177.html
 id: 3177
 categories:
-  - Termine
+  - events
 date: 2012-06-12 14:28:52
 tags:
 ---

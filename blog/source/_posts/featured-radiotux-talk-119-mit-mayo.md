@@ -3,7 +3,7 @@ title: 'Featured: RadioTux Talk #119 ..mit Mayo'
 url: 1692.html
 id: 1692
 categories:
-  - Allgemein
+  - announcements
 date: 2011-01-14 10:11:54
 tags:
 ---

@@ -3,7 +3,7 @@ title: 'Treffen: Freifunk Stuttgart'
 url: 4764.html
 id: 4764
 categories:
-  - Termine
+  - events
 date: 2014-09-22 16:17:30
 tags:
 ---

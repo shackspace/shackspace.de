@@ -3,7 +3,7 @@ title: 'Hackerspaces: angekommen in der breiten (englischen) Öffentlichkeit'
 url: 4318.html
 id: 4318
 categories:
-  - Allgemein
+  - announcements
 date: 2013-08-30 08:58:55
 tags:
 ---

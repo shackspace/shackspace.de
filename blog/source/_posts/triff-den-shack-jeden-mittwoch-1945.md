@@ -3,8 +3,8 @@ title: Plenum
 url: 644.html
 id: 644
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2010-03-29 15:08:31
 tags:
 ---

@@ -3,7 +3,7 @@ title: We've got a Lounge!
 url: 2054.html
 id: 2054
 categories:
-  - Allgemein
+  - announcements
 date: 2011-05-08 23:52:09
 tags:
 ---

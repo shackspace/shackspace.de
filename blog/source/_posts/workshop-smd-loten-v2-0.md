@@ -3,7 +3,7 @@ title: 'Workshop: SMD-Löten v2.0'
 url: 2784.html
 id: 2784
 categories:
-  - Termine
+  - events
 date: 2012-02-15 22:00:23
 tags:
 ---

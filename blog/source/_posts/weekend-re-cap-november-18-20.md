@@ -3,7 +3,7 @@ title: 'Weekend Re-cap: November 18-20'
 url: 2591.html
 id: 2591
 categories:
-  - Allgemein
+  - announcements
 date: 2011-11-21 20:47:27
 tags:
 ---

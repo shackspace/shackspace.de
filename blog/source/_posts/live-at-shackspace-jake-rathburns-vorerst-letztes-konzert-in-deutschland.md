@@ -3,7 +3,7 @@ title: 'Live at shackspace: Jake Rathburns vorerst letztes Konzert in Deutschlan
 url: 3955.html
 id: 3955
 categories:
-  - Termine
+  - events
 date: 2013-03-25 11:12:01
 tags:
 ---

@@ -3,7 +3,7 @@ title: Treffen der Linux User Group Stuttgart (LUGS)
 url: 2695.html
 id: 2695
 categories:
-  - Termine
+  - events
 date: 2011-12-17 11:45:55
 tags:
 ---

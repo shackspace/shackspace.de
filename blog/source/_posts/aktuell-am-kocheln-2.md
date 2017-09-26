@@ -3,7 +3,7 @@ title: news - kw11/2010
 url: 667.html
 id: 667
 categories:
-  - Allgemein
+  - announcements
 date: 2010-03-18 08:40:00
 tags:
 ---

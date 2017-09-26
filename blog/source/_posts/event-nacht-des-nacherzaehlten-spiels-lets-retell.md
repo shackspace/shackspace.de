@@ -3,7 +3,7 @@ title: 'Event: Nacht des Nacherzählten Spiels "Let''s Retell!"'
 url: 4689.html
 id: 4689
 categories:
-  - Termine
+  - events
 date: 2014-08-04 11:04:23
 tags:
 ---

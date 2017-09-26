@@ -5,7 +5,7 @@ title: >-
 url: 5407.html
 id: 5407
 categories:
-  - Allgemein
+  - announcements
 date: 2016-05-08 16:05:37
 tags:
 ---

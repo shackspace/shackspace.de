@@ -3,7 +3,7 @@ title: 'Treffen & Workshop: Behavior Driven Development mit Cucumber'
 url: 4925.html
 id: 4925
 categories:
-  - Termine
+  - events
 date: 2015-03-03 16:18:11
 tags:
 ---

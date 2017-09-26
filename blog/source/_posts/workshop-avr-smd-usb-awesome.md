@@ -3,7 +3,7 @@ title: 'Workshop: AVR + SMD + USB = Awesome!'
 url: 2524.html
 id: 2524
 categories:
-  - Termine
+  - events
 date: 2011-11-02 23:23:21
 tags:
 ---

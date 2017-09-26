@@ -3,8 +3,8 @@ title: 'Repair-Cafe 2: Wegwerfen war Gestern'
 url: 4361.html
 id: 4361
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2013-09-15 12:42:35
 tags:
 ---

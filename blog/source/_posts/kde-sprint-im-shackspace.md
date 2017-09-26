@@ -4,8 +4,8 @@ url: 1225.html
 id: 1225
 categories:
   - Aktuelle Meldungen
-  - Allgemein
-  - Termine
+  - announcements
+  - events
   - Treffen
 date: 2010-08-26 22:06:35
 tags:

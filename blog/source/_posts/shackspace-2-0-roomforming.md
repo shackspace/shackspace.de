@@ -3,7 +3,7 @@ title: 'shackspace 2.0: Roomforming'
 url: 1863.html
 id: 1863
 categories:
-  - Allgemein
+  - announcements
 date: 2011-03-10 13:31:16
 tags:
 ---

@@ -3,7 +3,7 @@ title: shackspace zeigt Flagge
 url: 1428.html
 id: 1428
 categories:
-  - Allgemein
+  - announcements
 date: 2010-10-04 11:17:10
 tags:
 ---

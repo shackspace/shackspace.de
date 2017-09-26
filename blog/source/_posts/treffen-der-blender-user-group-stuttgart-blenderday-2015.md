@@ -3,7 +3,7 @@ title: 'Treffen der Blender User Group Stuttgart: Blenderday 2015'
 url: 4870.html
 id: 4870
 categories:
-  - Termine
+  - events
 date: 2015-02-02 11:21:25
 tags:
 ---

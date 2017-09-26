@@ -3,7 +3,7 @@ title: Chart.Zart - Der shackspace in Zahlen
 url: 1035.html
 id: 1035
 categories:
-  - Allgemein
+  - announcements
 date: 2010-06-20 18:22:18
 tags:
 ---

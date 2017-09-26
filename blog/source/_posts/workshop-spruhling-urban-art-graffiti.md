@@ -3,8 +3,8 @@ title: 'Workshop: Sprühling Urban Art Graffiti'
 url: 2890.html
 id: 2890
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2012-03-03 13:33:22
 tags:
 ---

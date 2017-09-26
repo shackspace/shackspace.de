@@ -3,8 +3,8 @@ title: Tag der offenen Tür - PfingstSonntag 23.05.2010
 url: 830.html
 id: 830
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2010-05-09 08:18:08
 tags:
 ---

@@ -3,8 +3,8 @@ title: 'Java Workshop #3: Klassen- und Methodensyntax'
 url: 3120.html
 id: 3120
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2012-05-22 11:50:41
 tags:
 ---

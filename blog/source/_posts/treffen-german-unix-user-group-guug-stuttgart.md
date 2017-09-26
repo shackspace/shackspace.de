@@ -3,7 +3,7 @@ title: 'Treffen: German Unix User Group (GUUG) Stuttgart'
 url: 2913.html
 id: 2913
 categories:
-  - Termine
+  - events
 date: 2012-03-04 15:32:03
 tags:
 ---

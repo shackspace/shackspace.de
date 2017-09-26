@@ -3,7 +3,7 @@ title: 'Treffen: AR & VR Meetup'
 url: 5059.html
 id: 5059
 categories:
-  - Termine
+  - events
 date: 2015-06-29 16:55:43
 tags:
 ---

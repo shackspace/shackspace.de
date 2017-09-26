@@ -3,8 +3,8 @@ title: 'Event: Google I/O Extended 13'
 url: 4011.html
 id: 4011
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2013-04-24 12:00:33
 tags:
 ---

@@ -3,7 +3,7 @@ title: hgg und Constellation zu Gast bei der CCCS Vortragsreihe
 url: 3627.html
 id: 3627
 categories:
-  - Allgemein
+  - announcements
 date: 2012-12-13 11:57:00
 tags:
 ---

@@ -3,8 +3,8 @@ title: Amateurfunk Lerngruppe
 url: 1806.html
 id: 1806
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2011-02-22 11:48:55
 tags:
 ---

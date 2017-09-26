@@ -3,8 +3,8 @@ title: 'shack-a-days: Wir feiern 5 Jahre shackspace!'
 url: 5204.html
 id: 5204
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2015-11-04 13:00:58
 tags:
 ---

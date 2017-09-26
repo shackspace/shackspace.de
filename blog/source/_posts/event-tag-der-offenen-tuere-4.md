@@ -3,7 +3,7 @@ title: 'Event: Tag der offenen Türe #4'
 url: 4747.html
 id: 4747
 categories:
-  - Termine
+  - events
 date: 2014-09-05 16:45:08
 tags:
 ---

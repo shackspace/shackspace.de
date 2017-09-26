@@ -3,8 +3,8 @@ title: 'Pfingsten vorüber & weiter geht''s in die nächste Woche! '
 url: 969.html
 id: 969
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2010-05-25 15:25:31
 tags:
 ---

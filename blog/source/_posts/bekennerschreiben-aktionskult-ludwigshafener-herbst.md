@@ -3,7 +3,7 @@ title: Bekennerschreiben Aktionskult Ludwigshafener Herbst
 url: 3151.html
 id: 3151
 categories:
-  - Allgemein
+  - announcements
 date: 2012-06-15 19:32:52
 tags:
 ---

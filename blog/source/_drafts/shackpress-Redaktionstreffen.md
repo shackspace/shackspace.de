@@ -3,7 +3,7 @@ title: shackpress Redaktionstreffen
 url: 3597.html
 id: 3597
 categories:
-  - Allgemein
+  - announcements
 tags:
 ---
 

@@ -3,7 +3,7 @@ title: 'OWASP Treffen & Vortrag: Burp Suite - Teil 1: Der Intruder'
 url: 5494.html
 id: 5494
 categories:
-  - Termine
+  - events
 date: 2017-02-20 16:46:17
 tags:
 ---

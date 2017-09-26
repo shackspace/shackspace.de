@@ -3,7 +3,7 @@ title: Deine Stimme für den shack e.V. - Deadline Dienstag 12 Uhr Mittag
 url: 5067.html
 id: 5067
 categories:
-  - Allgemein
+  - announcements
 date: 2015-06-29 22:43:07
 tags:
 ---

@@ -3,7 +3,7 @@ title: Unterstützt shack e.V. bei der Anschaffung eines Lasercutters
 url: 5031.html
 id: 5031
 categories:
-  - Allgemein
+  - announcements
 date: 2015-06-03 14:32:03
 tags:
 ---

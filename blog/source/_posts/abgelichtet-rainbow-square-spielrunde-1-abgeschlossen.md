@@ -3,7 +3,7 @@ title: 'Abgelichtet: RAINBOW SQUARE Spielrunde #1 abgeschlossen'
 url: 1709.html
 id: 1709
 categories:
-  - Allgemein
+  - announcements
 date: 2011-02-01 13:03:15
 tags:
 ---

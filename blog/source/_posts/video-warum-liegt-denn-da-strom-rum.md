@@ -3,7 +3,7 @@ title: 'Video: Warum liegt denn da Strom rum?'
 url: 2475.html
 id: 2475
 categories:
-  - Allgemein
+  - announcements
 date: 2011-10-08 10:42:34
 tags:
 ---

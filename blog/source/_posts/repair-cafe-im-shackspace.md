@@ -3,7 +3,7 @@ title: Repair-Cafe im shackspace
 url: 4422.html
 id: 4422
 categories:
-  - Termine
+  - events
 date: 2013-12-24 12:00:25
 tags:
 ---

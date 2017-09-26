@@ -3,7 +3,7 @@ title: 'Hands-On: RepairCafe #4'
 url: 4570.html
 id: 4570
 categories:
-  - Termine
+  - events
 date: 2014-03-24 10:32:21
 tags:
 ---

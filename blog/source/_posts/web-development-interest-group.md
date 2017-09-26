@@ -3,7 +3,7 @@ title: Web Development Interest Group
 url: 2547.html
 id: 2547
 categories:
-  - Termine
+  - events
 date: 2011-11-08 20:38:01
 tags:
 ---

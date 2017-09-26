@@ -3,7 +3,7 @@ title: '27c3 Peace Mission: Mittwoch'
 url: 1619.html
 id: 1619
 categories:
-  - Allgemein
+  - announcements
 date: 2010-12-29 22:00:59
 tags:
 ---

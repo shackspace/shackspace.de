@@ -3,7 +3,7 @@ title: 'shackspace 2.0: the server room'
 url: 1855.html
 id: 1855
 categories:
-  - Allgemein
+  - announcements
 date: 2011-03-07 15:49:10
 tags:
 ---

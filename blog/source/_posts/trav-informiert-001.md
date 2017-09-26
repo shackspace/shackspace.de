@@ -3,7 +3,7 @@ title: TRAV informiert 001
 url: 1242.html
 id: 1242
 categories:
-  - Allgemein
+  - announcements
 date: 2010-08-21 21:31:15
 tags:
 ---

@@ -3,7 +3,7 @@ title: The Sound of shackspace
 url: 3458.html
 id: 3458
 categories:
-  - Allgemein
+  - announcements
 date: 2012-09-17 11:56:12
 tags:
 ---

@@ -3,8 +3,8 @@ title: Thundertalks 0x06 - Kurzvorträge am Laufenden Band
 url: 3946.html
 id: 3946
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2013-03-17 18:13:58
 tags:
 ---

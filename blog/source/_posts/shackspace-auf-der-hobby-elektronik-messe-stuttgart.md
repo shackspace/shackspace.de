@@ -3,7 +3,7 @@ title: shackspace auf der Hobby & Elektronik Messe Stuttgart
 url: 1536.html
 id: 1536
 categories:
-  - Allgemein
+  - announcements
 date: 2010-11-15 14:57:17
 tags:
 ---

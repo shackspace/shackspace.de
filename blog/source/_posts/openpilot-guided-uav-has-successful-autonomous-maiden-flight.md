@@ -4,7 +4,7 @@ url: 2659.html
 id: 2659
 comments: false
 categories:
-  - Allgemein
+  - announcements
 date: 2011-12-06 20:46:16
 tags:
 ---

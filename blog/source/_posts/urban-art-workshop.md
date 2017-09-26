@@ -3,8 +3,8 @@ title: Urban Art Workshop
 url: 2557.html
 id: 2557
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2011-11-10 21:26:36
 tags:
 ---

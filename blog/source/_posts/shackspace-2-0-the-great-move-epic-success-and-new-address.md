@@ -3,7 +3,7 @@ title: 'shackspace 2.0: The Great Move - Epic Success and new Address'
 url: 1905.html
 id: 1905
 categories:
-  - Allgemein
+  - announcements
 date: 2011-03-28 10:35:32
 tags:
 ---

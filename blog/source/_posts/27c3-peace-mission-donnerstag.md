@@ -3,7 +3,7 @@ title: '27c3 Peace Mission: Donnerstag'
 url: 1621.html
 id: 1621
 categories:
-  - Allgemein
+  - announcements
 date: 2010-12-30 22:00:30
 tags:
 ---

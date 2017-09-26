@@ -3,7 +3,7 @@ title: 'Softwerkskammer Treffen & Diskussion: Statische Codeanalyse'
 url: 4842.html
 id: 4842
 categories:
-  - Termine
+  - events
 date: 2015-01-20 17:52:18
 tags:
 ---

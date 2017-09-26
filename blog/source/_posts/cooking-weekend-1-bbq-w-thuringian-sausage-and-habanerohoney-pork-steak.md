@@ -3,7 +3,7 @@ title: 'Cooking Weekend #1: BBQ w/ Thuringian Sausage and Habanero/Honey Pork St
 url: 1943.html
 id: 1943
 categories:
-  - Allgemein
+  - announcements
 date: 2011-04-24 22:32:45
 tags:
 ---

@@ -3,7 +3,7 @@ title: 'Workshop: Programmieren mit Python'
 url: 3558.html
 id: 3558
 categories:
-  - Termine
+  - events
 date: 2012-11-15 14:00:03
 tags:
 ---

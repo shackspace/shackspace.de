@@ -3,7 +3,7 @@ title: 'Anreise via U Eckhartshaldenweg (U5, U6, U7)'
 url: 1454.html
 id: 1454
 categories:
-  - Allgemein
+  - announcements
 date: 2010-01-02 11:12:40
 tags:
 ---

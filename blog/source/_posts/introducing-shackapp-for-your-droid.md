@@ -3,7 +3,7 @@ title: 'Introducing: shackApp for your Droid!'
 url: 2635.html
 id: 2635
 categories:
-  - Allgemein
+  - announcements
 date: 2011-11-30 18:00:18
 tags:
 ---

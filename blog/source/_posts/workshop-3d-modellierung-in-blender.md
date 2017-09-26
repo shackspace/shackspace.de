@@ -3,8 +3,8 @@ title: 'Workshop: 3D-Modellierung in Blender'
 url: 3368.html
 id: 3368
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2012-08-24 09:36:38
 tags:
 ---

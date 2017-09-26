@@ -3,8 +3,8 @@ title: 'Workshop: git für Einsteiger und Fortgeschrittene'
 url: 4732.html
 id: 4732
 categories:
-  - Allgemein
-  - Termine
+  - announcements
+  - events
 date: 2014-09-01 14:49:56
 tags:
 ---

@@ -3,7 +3,7 @@ title: Google I/O Extended at shackspace
 url: 1897.html
 id: 1897
 categories:
-  - Allgemein
+  - announcements
 date: 2011-03-28 10:36:29
 tags:
 ---

@@ -3,7 +3,7 @@ title: Hackergarten Stuttgart - 5. April
 url: 5523.html
 id: 5523
 categories:
-  - Termine
+  - events
 date: 2017-03-20 21:34:43
 tags:
 ---
