@@ -149,11 +149,12 @@ ready(function () {
 	transition()
 	const hero = document.querySelector('.hero')
 	const navbar = document.querySelector('nav.primary')
-	navbar.classList.add('hidden')
 	window.addEventListener('scroll', function(event) {
 		const dim = hero.getBoundingClientRect()
 		if (dim.bottom < 0)
 			navbar.classList.remove('hidden')
+		else
+			navbar.classList.add('hidden')
 	})
 	setDoorStatus()
 	loadLogImages()

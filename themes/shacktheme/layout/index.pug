@@ -1,12 +1,23 @@
 extends _base
-
+block navigation
+	nav.primary.hidden
+		a.logo(href="/"): img.logo(src='/img/logo-white-bg-no-tagline.svg', alt='shackspace')
+		.links
+			a(href=url_for('/announcements')) Announcements
+			a(href=url_for('/events')) Events
+			a(href="#") Projects
+			a(href="https://wiki.shackspace.de") Wiki
+			a(href="#") Location
 block content
 	.hero
+		#status
+			| the space is
 		img.logo(src='/img/logo-dark-bg.svg', alt='shackspace')
 		#activites-slider
 			h2 a place to
 			#activities
 				.text
+		
 		nav.links
 			a(href=url_for('/announcements')) Announcements
 			a(href=url_for('/events')) Upcoming Events
@@ -14,7 +25,7 @@ block content
 			a(href="https://wiki.shackspace.de") Wiki
 			a(href="#") Location
 	.intro
-		h3 Was können wir eigentlich?
+		h3 Ein Platz zu dingsen
 		h1 DINGE!
 		#log-container-wrapper
 			#log-container
@@ -22,6 +33,5 @@ block content
 		h3 Komm einfach vorbei!
 		h1 Wir beissen nicht.
 	
-	#status
-		| the space is
+	
 	script(src="js/frontpage.js")

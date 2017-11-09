@@ -17,14 +17,15 @@ html
 			block site_title
 				= config.title
 	body
-		nav.primary
-			a.logo(href="/"): img.logo(src='/img/logo-white-bg-no-tagline.svg', alt='shackspace')
-			.links
-				a(href=url_for('/announcements')) Announcements
-				a(href=url_for('/events')) Events
-				a(href="#") Projects
-				a(href="https://wiki.shackspace.de") Wiki
-				a(href="#") Location
+		block navigation
+			nav.primary
+				a.logo(href="/"): img.logo(src='/img/logo-white-bg-no-tagline.svg', alt='shackspace')
+				.links
+					a(href=url_for('/announcements')) Announcements
+					a(href=url_for('/events')) Events
+					a(href="#") Projects
+					a(href="https://wiki.shackspace.de") Wiki
+					a(href="#") Location
 		block content
 		//- script(src="/js/vendor.js")
 		//- script(src="/js/script.js")
