@@ -10,11 +10,11 @@ let unique = 0
 function jsonP (url) {
 	const name = "_jsonp_" + unique++
 	url += "&callback=" + name
-	
+
 	const script = document.createElement('script')
 	script.type = 'text/javascript'
 	script.src = url
-	
+
 	return new Promise((resolve, reject) => {
 		window[name] = function (data) {
 			resolve(data)
@@ -86,20 +86,25 @@ const SPACE_ACTIVITIES = [
 
 let shuffledActivities = []
 const transition = function () {
-	const container = document.querySelector('#activities')
-	container.children[0].classList.add('transition-out')
-	const newActivity = document.createElement('div')
-	
+	const container = document.querySelector('#activities > .text')
+
 	if (shuffledActivities.length === 0) {
 		shuffledActivities = SPACE_ACTIVITIES.slice()
 		shuffle(shuffledActivities)
 	}
-	newActivity.textContent = shuffledActivities.pop()
-	container.appendChild(newActivity)
-	setTimeout(function () {
-		container.removeChild(container.children[0])
-		transition()
-	}, 2000)
+	const text = shuffledActivities.pop()
+	container.textContent = ''
+	let progressText = ''
+
+	const type = function () {
+		if (progressText === text) {
+			return setTimeout(transition, 2000)
+		}
+		progressText = text.substring(0, progressText.length + 1)
+		container.textContent = progressText
+		setTimeout(type, 80)
+	}
+	type()
 }
 
 
@@ -144,11 +149,12 @@ ready(function () {
 	transition()
 	const hero = document.querySelector('.hero')
 	const navbar = document.querySelector('nav.primary')
-	navbar.classList.add('hidden')
 	window.addEventListener('scroll', function(event) {
 		const dim = hero.getBoundingClientRect()
 		if (dim.bottom < 0)
 			navbar.classList.remove('hidden')
+		else
+			navbar.classList.add('hidden')
 	})
 	setDoorStatus()
 	loadLogImages()

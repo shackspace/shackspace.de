@@ -419,15 +419,13 @@ nav.primary {
   border-bottom: 4px solid #00be00;
   background-color: #fff;
   z-index: 100;
-}
-nav.primary:not(.hidden) {
   transition: transform ease 0.3s;
 }
 nav.primary.hidden {
   transform: translateY(-62px);
 }
-nav.primary .logo a:hover {
-  text-decoration: none;
+nav.primary a:hover {
+  border-bottom: none;
 }
 nav.primary img {
   height: 46px;
@@ -444,7 +442,6 @@ nav.primary .links a {
   background-color: #263238;
   display: flex;
   flex-direction: column;
-  padding-top: 32px;
   align-items: center;
 }
 .hero img {
@@ -463,7 +460,7 @@ nav.primary .links a {
   text-decoration: none;
   transition: all .3s ease;
   border-bottom: 1px solid transparent;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 500;
   font-family: 'Quicksand';
   margin: 0 32px;
@@ -494,21 +491,28 @@ nav.primary .links a {
   position: relative;
   border-bottom: 2px solid #008500;
 }
-#activities div {
-  width: 160px;
+#activities .text {
+  width: 100%;
   height: 36px;
   line-height: 36px;
   font-size: 24px;
-  text-align: center;
   color: rgba(0,0,0,0.54);
-  transition: transform ease 0.5s;
-  position: absolute;
   background-color: #263238;
   color: #fff;
+  overflow: hidden;
+  text-align: center;
+  margin: 0 auto;
+  letter-spacing: 0.05em;
 }
-#activities .transition-out {
-  z-index: 2;
-  transform: translateX(180px);
+#activities .text::after {
+  content: '';
+  display: inline-block;
+  width: 2px;
+  height: 26px;
+  position: absolute;
+  top: 4px;
+  background-color: #ff9800;
+  animation: blink-caret 0.75s step-end infinite;
 }
 .intro {
   display: flex;
@@ -552,9 +556,12 @@ nav.primary .links a {
 .posts article img {
   max-width: 500px;
 }
+body > article.post {
+  margin: 62px auto;
+  padding: 16px;
+  max-width: 900px;
+}
 #status {
-  position: fixed;
-  bottom: 0;
   width: 100%;
   height: 64px;
   background-color: #263238;
@@ -563,7 +570,7 @@ nav.primary .links a {
   font-size: 24px;
   color: #fff;
   font-weight: 300;
-  border-top: 4px solid #ffc107;
+  border-top: 8px solid #ffc107;
 }
 #status::after {
   font-weight: 500;
@@ -571,16 +578,60 @@ nav.primary .links a {
   color: #ffc107;
 }
 #status.open {
-  border-top: 4px solid #00be00;
+  border-top: 8px solid #00be00;
 }
 #status.open::after {
   content: ' open';
   color: #00be00;
 }
 #status.closed {
-  border-top: 4px solid #f44336;
+  border-top: 8px solid #f44336;
 }
 #status.closed::after {
   content: ' closed';
   color: #f44336;
+}
+body > .posts {
+  margin-top: 86px;
+}
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  margin: 16px 0;
+}
+.pagination > * {
+  padding: 0 4px;
+}
+@-moz-keyframes blink-caret {
+  from, to {
+    background-color: transparent;
+  }
+  50% {
+    background-color: #ff9800;
+  }
+}
+@-webkit-keyframes blink-caret {
+  from, to {
+    background-color: transparent;
+  }
+  50% {
+    background-color: #ff9800;
+  }
+}
+@-o-keyframes blink-caret {
+  from, to {
+    background-color: transparent;
+  }
+  50% {
+    background-color: #ff9800;
+  }
+}
+@keyframes blink-caret {
+  from, to {
+    background-color: transparent;
+  }
+  50% {
+    background-color: #ff9800;
+  }
 }
