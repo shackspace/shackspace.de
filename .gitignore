@@ -1,4 +1,8 @@
 .DS_Store
-node_modules
-public
-.publish
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+source/_posts/events
