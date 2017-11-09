@@ -1,0 +1,13 @@
+extends _base
+
+prepend site_title
+	| #{page.title} &mdash;&nbsp;
+
+block content
+	article.post.event
+		.event-info
+			| #{full_date(page.event_start)} - #{full_date(page.event_end)}
+		a.event-link(href=page.event_link) to registration
+		h2.post__title= page.title
+
+		.post__body!= page.content

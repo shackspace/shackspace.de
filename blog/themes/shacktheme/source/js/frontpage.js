@@ -87,9 +87,6 @@ const SPACE_ACTIVITIES = [
 let shuffledActivities = []
 const transition = function () {
 	const container = document.querySelector('#activities > .text')
-	// container.children[0].classList.add('transition-out')
-	// container.removeChild(container.children[0])
-	const newActivity = document.createElement('div')
 
 	if (shuffledActivities.length === 0) {
 		shuffledActivities = SPACE_ACTIVITIES.slice()

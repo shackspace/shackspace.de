@@ -1,0 +1,8 @@
+extends _base
+
+block content
+	for event in site.categories.findOne({name: 'events'}).posts.data
+		
+		p= Object.keys(event)
+
+	include _partial/post/list_pagination.pug

@@ -25,6 +25,7 @@
     "hexo-renderer-marked": "^0.2.10",
     "hexo-renderer-pug": "0.0.5",
     "hexo-server": "^0.2.0",
+    "moment": "^2.19.1",
     "nib": "^1.1.2",
     "request": "^2.81.0",
     "rupture": "^0.6.2",
