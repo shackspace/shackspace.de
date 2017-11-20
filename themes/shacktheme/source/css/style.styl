@@ -5,6 +5,7 @@ base()
 typography()
 
 $navbar-height = 62px
+$footer-height = 64px
 
 nav.primary
 	height: $navbar-height
@@ -36,6 +37,17 @@ nav.primary
 		a
 			margin-right: 32px
 			font-family: 'Quicksand'
+
+footer
+	height: $footer-height
+	background-color: $clr-blue-grey-900
+	display: flex
+	justify-content: center
+	align-items: center
+
+	a
+		color: $clr-primary-text-dark
+
 .hero
 	background-color: $clr-blue-grey-900
 	display: flex
@@ -43,6 +55,8 @@ nav.primary
 	align-items: center
 
 	img
+		max-width: 90vw
+		max-height: 40vh
 		margin: 64px
 
 	nav.links
@@ -99,11 +113,14 @@ nav.primary
 	flex-direction: column
 	align-items: center
 	justify-content: center
-	min-height: 400px
-	padding: 64px 0 0 0
+	padding: 64px 0
 	&:nth-child(even)
 		background-color: $clr-blue-grey-800
 		color: $clr-primary-text-dark
+
+	p
+		font-size: 20px
+		max-width: 720px
 $thumbsize = 177px
 #log-container-wrapper
 	padding-top: 64px
