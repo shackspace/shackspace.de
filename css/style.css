@@ -438,6 +438,16 @@ nav.primary .links a {
   margin-right: 32px;
   font-family: 'Quicksand';
 }
+footer {
+  height: 64px;
+  background-color: #263238;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+footer a {
+  color: #fff;
+}
 .hero {
   background-color: #263238;
   display: flex;
@@ -445,6 +455,8 @@ nav.primary .links a {
   align-items: center;
 }
 .hero img {
+  max-width: 90vw;
+  max-height: 40vh;
   margin: 64px;
 }
 .hero nav.links {
@@ -519,12 +531,15 @@ nav.primary .links a {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  min-height: 400px;
-  padding: 64px 0 0 0;
+  padding: 64px 0;
 }
 .intro:nth-child(even) {
   background-color: #37474f;
   color: #fff;
+}
+.intro p {
+  font-size: 20px;
+  max-width: 720px;
 }
 #log-container-wrapper {
   padding-top: 64px;
